@@ -27,7 +27,7 @@ warnings.filterwarnings("ignore")
 pd.set_option("display.max_colwidth", 180)
 
 # Optional Hugging Face token. You can also leave it empty and rely on `huggingface-cli login`.
-TOKEN = "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"
+TOKEN = "..."
 
 # =========================
 # Defaults

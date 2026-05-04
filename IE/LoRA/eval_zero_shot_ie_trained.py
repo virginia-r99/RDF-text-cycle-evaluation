@@ -25,7 +25,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 warnings.filterwarnings("ignore")
 pd.set_option("display.max_colwidth", 180)
 
-TOKEN = "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"
+TOKEN = "..."
 
 # =========================
 # Defaults
