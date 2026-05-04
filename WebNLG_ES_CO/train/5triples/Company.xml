@@ -1,0 +1,2032 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_American</otriple>
+        <otriple>United_States | ethnicGroup | African-American</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_American</mtriple>
+        <mtriple>United_States | ethnicGroup | African-American</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        <striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Blanco_americano</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroamericano</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        <ctriple>AmeriGas | DataDeFundació | 1959-01-01</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | Blanc_americà</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | Afroamericà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | Industria | Industria_enerxética</gtriple>
+        <gtriple>AmeriGas | DataDeFundación | 1959-01-01</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Blanco_americano</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericano</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | Industria | Energia_industria</btriple>
+        <btriple>AmeriGas | Fundazio-data | 1959-01-01</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Zuri_amerikarra</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afroamerikarra.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas, a United States company in the energy industry, was founded on 1959-01-01. Two different ethnic groups in the United States are White American and African-American.</lex>
+      <lex lang="en" lid="Id2">AmeriGas is an American energy company that was founded on January 1, 1959. Two ethnic groups in the United States are White and African Americans.</lex>
+      <lex lang="en" lid="Id3">AmeriGas in the Energy Industry was founded on 01-01-1959. AmeriGas works in the United States. White American and African American are ethnic groups in the U.S.</lex>
+      <lex lang="es" lid="Id1">AmeriGas, empresa estadounidense del sector energético, se fundó el 1 de enero de 1959. Dos grupos étnicos diferentes en Estados Unidos son los estadounidenses de raza blanca y los Afroamericanos.</lex>
+      <lex lang="es" lid="Id2">AmeriGas es una empresa energética estadounidense fundada el 1 de enero de 1959. En Estados Unidos hay dos grupos étnicos: los blancos y los Afroamericanos.</lex>
+      <lex lang="es" lid="Id3">AmeriGas, del sector de la energía, se fundó el 1 de enero de 1959. AmeriGas trabaja en Estados Unidos. AmeriGas blanco y AmeriGas africano son grupos étnicos de Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas, una empresa nord-americana de la indústria de l'energia, va ser fundada l'1 de gener de 1959. Dos grups ètnics diferents als Estats Units són els blancs americans i els afroamericans.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas és una companyia energètica nord-americana fundada l'1 de gener de 1959. Dos grups ètnics als Estats Units són els blancs i els afroamericans.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas in the Energy Industry va ser fundada el 01-01-1959. AmeriGas treballa als Estats Units. Els americans blancs i els afroamericans són grups ètnics als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas, Ameriketako Estatu Batuetako energia industriako enpresa bat da, 1959ko urtarrilaren 1ean sortua. Estatu Batuetan bi talde etniko desberdin daude: amerikar zuriak eta afroamerikarrak.</lex>
+      <lex lang="eu" lid="Id2">AmeriGas energia-konpainia estatubatuarra da eta 1959ko urtarrilaren 1ean sortu zen. AEBetako bi talde etniko daude: zuriak eta afroamerikarrak.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas energia industrian 1959ko urtarrilaren 1ean sortu zen. AmeriGas-ek Estatu Batuetan lan egiten du. Amerikar zuriak eta afroamerikarrak AEBetako talde etnikoak dira.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas, unha compañía estadounidense da industria da enerxía, foi fundada o 01- 01- 1959. Hai dous grupos étnicos diferentes nos Estados Unidos: os americanos brancos e os afroamericanos.</lex>
+      <lex lang="gl" lid="Id2">AmeriGas é unha empresa enerxética estadounidense fundada o 1 de xaneiro de 1959. Dous grupos étnicos nos Estados Unidos son os brancos e os afroamericanos.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas na industria da enerxía foi fundada o 01-01-1959. AmeriGas traballa nos Estados Unidos. Os americanos brancos e afroamericanos son grupos étnicos nos Estados Unidos.</lex>
+      </entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        <otriple>United_States | foundingDate | 1776-07-04</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        <mtriple>United_States | foundingDate | 1776-07-04</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple>
+        <striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | FechaDeFundación | 04-07-1776</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | TotalDeL'Àrea | 9833516.63_(kilòmetres_quadrats)</ctriple>
+        <ctriple>AmeriGas | DataDeFundació | 1959-01-01</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | DataDeFundació | 1776-07-04</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | Cidade | Rei_de_Prusia,_Pensilvania</gtriple>
+        <gtriple>Estados_Unidos | ÁreaTotal | 9833516.63_(kilómetros_cadrados)</gtriple>
+        <gtriple>AmeriGas | DataDeFundación | 1959-01-01</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | DataDeFundación | 1776-07-04</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | Hiria | Prusiako_erregea,_Pensilvania</btriple>
+        <btriple>Estatu_Batuak | AreaGuztira | 9833516.63_(kilometro_karratutan)</btriple>
+        <btriple>AmeriGas | Fundazio-data | 1959-01-01</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | Fundazio-data | 1776-07-04</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas, founded on January 1, 1959 is located in the city of King of Prussia, Pennsylvania. Its home country is the United States, which was founded on 07-04-1776 with a total area of 9833516.63 (square kilometres).</lex>
+      <lex lang="en" lid="Id2">AmeriGas was founded on January 01, 1959 and is located in King of Prussia, Pennsylvania in the United States. The United States (founded on July 04, 1776) has the total area of 9,833,516.63 square kilometers.</lex>
+      <lex lang="en" lid="Id3">Located in King of Prussia, Pennsylvania, AmeriGas was founded on 01-01-1959. As a company working in the United States, AmeriGas serves a nation founded on July 4, 1776 that covers a total area of 9833516.63 square kilometres.</lex>
+      <lex lang="es" lid="Id1">AmeriGas, fundada el 1 de enero de 1959, tiene su sede en la ciudad de King of Prussia, Pensilvania. Su país de origen es Estados Unidos, fundado el 7 de abril de 1776, con una superficie total de 9833516,63 (kilómetros cuadrados).</lex>
+      <lex lang="es" lid="Id2">AmeriGas se fundó el 1 de enero de 1959 y tiene su sede en King of Prussia, Pensilvania (Estados Unidos). Estados Unidos (fundado el 004-07-1776) tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id3">Ubicada en King of Prussia, Pensilvania, AmeriGas fue fundada el 1 de enero de 1959. Como empresa que trabaja en Estados Unidos, AmeriGas presta servicio a una nación fundada el 4 de julio de 1776 que abarca una superficie total de 9833516,63 kilómetros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas, fundada l'1 de gener de 1959, es troba a la ciutat de King of Prussia, Pennsilvània. El seu país d'origen és els Estats Units, que es va fundar el 7 d'abril de 1776 amb una superfície total de 9833516.63 (quilòmetres quadrats).</lex>
+      <lex lang="ca" lid="Id2">AmeriGas va ser fundada l' 1 de gener de 1959 i es troba a King of Prussia, Pennsilvània als Estats Units. Els Estats Units (fundats el 4 de juliol de 1776) tenen una àrea total de 9. 833. 516, 63 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id3">Situada a King of Prussia, Pennsilvània, AmeriGas va ser fundada el 01- 01- 1959. Com a empresa que treballa als Estats Units, AmeriGas serveix a una nació fundada el 4 de juliol de 1776 que cobreix una àrea total de 9833516, 63 quilòmetres quadrats.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas, 1959ko urtarrilaren 1ean sortua, King of Prussia-n (Pennsylvania) dago. Bere jaioterria Estatu Batuak dira, eta 1776ko apirilaren 7an sortu zen, guztira 9833516,63 kilometro koadroko azaleran.</lex>
+      <lex lang="eu" lid="Id2">AmeriGas 1959ko urtarrilaren 1ean sortu zen eta King of Prussia-n dago, Pennsylvanian, Ameriketako Estatu Batuetan. Ameriketako Estatu Batuak (1776ko uztailaren 4an sortua) 9.833.516,63 kilometro karratuko azalera du.</lex>
+      <lex lang="eu" lid="Id3">King of Prussia, Pennsylvanian kokatuta, AmeriGas 1959ko urtarrilaren 1ean sortu zen. Ameriketako Estatu Batuetan lan egiten duen konpainia gisa, AmeriGas 1776ko uztailaren 4an sortutako nazio bat zerbitzatzen du, guztira 9833516,63 kilometro karratuko azalera duena.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas, fundada o 1 de xaneiro de 1959, está situada na cidade de King of Prussia, Pensilvania. O seu país de orixe son os Estados Unidos, que foron fundados o 07- 04- 1776 cunha área total de 9833516, 63 (quilómetros cadrados).</lex>
+      <lex lang="gl" lid="Id2">AmeriGas foi fundada o 01 de xaneiro de 1959 e está situada en King of Prussia, Pensilvania nos Estados Unidos. Os Estados Unidos (fundados o 04 de xullo de 1776) teñen unha área total de 9. 833. 516, 63 quilómetros cadrados.</lex>
+      <lex lang="gl" lid="Id3">Situada en King of Prussia, Pensilvania, AmeriGas foi fundada o 01-01-1959. Como unha empresa que traballa nos Estados Unidos, AmeriGas serve a unha nación fundada o 4 de xullo de 1776 que cobre unha superficie total de 9833516.63 quilómetros cadrados.</lex>
+      </entry>
+    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        <otriple>AmeriGas | country | United_States</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>AmeriGas | IngresosDeExplotación | 380700000</striple>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | RegióServida | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>AmeriGas | IngressosOperatius | 380700000</ctriple>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | RexiónServida | Estados_Unidos</gtriple>
+        <gtriple>AmeriGas | Cidade | Rei_de_Prusia,_Pensilvania</gtriple>
+        <gtriple>AmeriGas | IngresosDeFuncionamento | 380700000</gtriple>
+        <gtriple>AmeriGas | Industria | Industria_enerxética</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | ZerbitzatutakoEskualdea | Estatu_Batuak</btriple>
+        <btriple>AmeriGas | Hiria | Prusiako_erregea,_Pensilvania</btriple>
+        <btriple>AmeriGas | FuntzionamenduarenIrabaziak | 380700000</btriple>
+        <btriple>AmeriGas | Industria | Energia_industria</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas energy company is based at King of Prussia, PA and serves all areas of the US. AmeriGas' operating income is 380,700,000.</lex>
+      <lex lang="en" lid="Id2">AmeriGas, a United States company in the energy industry, is located in King of Prussia, Pennsylvania. AmeriGas serves the United States and has an operating income of $380,700,000.</lex>
+      <lex lang="en" lid="Id3">AmeriGas is located in King of Prussia, Pennsylvania. Operating in the energy industry it works and services the United States, with and operating in of $380,700,000.</lex>
+      <lex lang="es" lid="Id1">La empresa energética AmeriGas tiene su sede en King of Prussia, Pensilvania, y presta servicio a todas las zonas de Estados Unidos. Los ingresos de explotación de AmeriGas ascienden a 380.700.000.</lex>
+      <lex lang="es" lid="Id2">AmeriGas, empresa estadounidense del sector energético, tiene su sede en King of Prussia, Pensilvania. AmeriGas presta sus servicios en Estados Unidos y tiene unos ingresos de explotación de 380.700.000 dólares.</lex>
+      <lex lang="es" lid="Id3">AmeriGas tiene su sede en King of Prussia, Pensilvania. Opera en el sector de la energía y presta servicios en Estados Unidos, con un volumen de negocio de 380.700.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">L'empresa energètica AmeriGas té la seva seu a King of Prussia, Pennsilvània i serveix totes les àrees dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas, una empresa nord-americana del sector energètic, té la seu a King of Prussia, Pennsilvània. AmeriGas treballa als Estats Units i té uns ingressos d'explotació de 380.700.000 dòlars.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas es troba a King of Prussia, Pennsilvània. operant en la indústria energètica treballa i serveix als Estats Units, amb i operant en 380.700.000 dòlars.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas energia-konpainia King of Prussian (Pennsylvania) dago eta AEBetako eremu guztietan eskaintzen ditu zerbitzuak. AmeriGas-en diru-sarrera operatiboak 380.700.000 dira.</lex>
+      <lex lang="eu" lid="Id2">King of Prussia Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. King of Prussia konderrian kokatua dago, Pennsylvania estatuan. Ameriketako Estatu Batuetako erroldak esleitutako leku bat da.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas King of Prussiako (Pennsylvania) enpresa bat da. Energiaren industrian lan egiten du eta Estatu Batuei eskaintzen die zerbitzua. 380.700.000 dolarreko fakturazioa du.</lex>
+      <lex lang="gl" lid="Id1">A compañía de enerxía AmeriGas ten a súa sede en King of Prussia, PA e serve a todas as áreas dos EUA. Os ingresos operativos de AmeriGas son de 380.700.000.</lex>
+      <lex lang="gl" lid="Id2">AmeriGas, unha empresa estadounidense do sector enerxético, ten a súa sede en King of Prussia, Pensilvania. AmeriGas presta servizo nos Estados Unidos e ten uns ingresos de explotación de 380 700 000 dólares.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas está situada en King of Prussia, Pensilvania. Operando na industria enerxética traballa e presta servizos aos Estados Unidos, con e operando en 380.700.000 dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        <otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        <mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>AmeriGas | IngresosDeExplotación | 380700000</striple>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        <striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | RegióServida | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>AmeriGas | IngressosOperatius | 380700000</ctriple>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        <ctriple>AmeriGas | NombreD'Empleats | 8500</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | RexiónServida | Estados_Unidos</gtriple>
+        <gtriple>AmeriGas | Cidade | Rei_de_Prusia,_Pensilvania</gtriple>
+        <gtriple>AmeriGas | IngresosDeFuncionamento | 380700000</gtriple>
+        <gtriple>AmeriGas | Industria | Industria_enerxética</gtriple>
+        <gtriple>AmeriGas | NúmeroDeEmpregados | 8500</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | ZerbitzatutakoEskualdea | Estatu_Batuak</btriple>
+        <btriple>AmeriGas | Hiria | Prusiako_erregea,_Pensilvania</btriple>
+        <btriple>AmeriGas | FuntzionamenduarenIrabaziak | 380700000</btriple>
+        <btriple>AmeriGas | Industria | Energia_industria</btriple>
+        <btriple>AmeriGas | LangileKopurua | 8500</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas has 8500 employees serving the United States from their location in King of Prussia, Pennsylvania. AmeriGas has an operating income of 380700000 and is classified as belonging to the energy industry.</lex>
+      <lex lang="en" lid="Id2">AmeriGas, located in King of Prussia, Pennsylvania, provides its services in the United States. It has an operating income of $380,700,000 in the energy industry, supporting 8,500 employees.</lex>
+      <lex lang="en" lid="Id3">AmeriGas is a energy industry that 8,500 people work at that is located in the city of King of Prussia, Pennsylvania that serves all regions of the United States, as they operate an income earned of 389700000.</lex>
+      <lex lang="es" lid="Id1">AmeriGas cuenta con 8500 empleados que prestan servicio en Estados Unidos desde su sede de King of Prussia, Pensilvania. AmeriGas tiene unos ingresos de explotación de 380700000 y está clasificada como perteneciente a la industria energética.</lex>
+      <lex lang="es" lid="Id2">AmeriGas, con sede en King of Prussia (Pensilvania), presta sus servicios en Estados Unidos. Tiene unos ingresos de explotación de 380.700.000 dólares en el sector de la energía y mantiene a 8.500 empleados.</lex>
+      <lex lang="es" lid="Id3">AmeriGas es una industria energética en la que trabajan 8.500 personas que se encuentra en la ciudad de King of Prussia, Pennsylvania que sirve a todas las regiones de los Estados Unidos, ya que operan un ingreso ganado de 389700000.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas té 8.500 empleats que serveixen als Estats Units des de la seva ubicació a King of Prussia, Pennsilvània. AmeriGas té uns ingressos operatius de 3.807 milions i està classificada com a pertanyent a la indústria energètica.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas, situada a King of Prussia, Pennsilvània, ofereix els seus serveis als Estats Units. té uns ingressos operatius de 380.700.000 dòlars en la indústria de l'energia, donant suport a 8.500 empleats.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas és una indústria energètica en la qual treballen 8.500 persones i que es troba a la ciutat de King of Prussia, Pennsilvània, que serveix a totes les regions dels Estats Units, ja que opera amb uns ingressos de 3.897 milions de dòlars.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas-ek 8.500 langile ditu Estatu Batuetan, King of Prussia-n, Pennsylvanian. AmeriGas-ek 3.807.000.000 dolarreko diru-sarrerak ditu eta energia-industriaren barruan sailkatzen da.</lex>
+      <lex lang="eu" lid="Id2">AmeriGas-ek, King of Prussiako (Pennsylvania) enpresak, Estatu Batuetan eskaintzen ditu zerbitzuak. Energia-industriako 380.700.000 dolarreko diru-sarrerak ditu eta 8.500 langile ditu.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas 8.500 langile dituen energia industria bat da, King of Prussia hirian kokatua, Pensilvanian, Estatu Batuetako eskualde guztiei zerbitzua ematen diena, 389700000 diru-sarrera irabazten baitute.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas ten 8500 empregados que serven aos Estados Unidos desde a súa localización en King of Prussia, Pensilvania. AmeriGas ten un ingreso operativo de 380700000 e está clasificado como pertencente á industria enerxética.</lex>
+      <lex lang="gl" lid="Id2">AmeriGas, situada en King of Prussia, Pensilvania, presta os seus servizos nos Estados Unidos. Ten un ingreso operativo de 380. 700. 000 dólares na industria enerxética, apoiando a 8. 500 empregados.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas é unha industria enerxética na que traballan 8.500 persoas que está situada na cidade de King of Prussia, Pensilvania que serve a todas as rexións dos Estados Unidos, xa que operan un ingreso obtido de 3.897 millóns de dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id5" shape="(X (X) (X (X) (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+        <striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | RegióServida | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | TotalDeL'Àrea | 9833516.63_(kilòmetres_quadrats)</ctriple>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | RexiónServida | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | ÁreaTotal | 9833516.63_(kilómetros_cadrados)</gtriple>
+        <gtriple>AmeriGas | Industria | Industria_enerxética</gtriple>
+        <gtriple>Estados_Unidos | Capital | Washington,_D.C.</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | ZerbitzatutakoEskualdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | AreaGuztira | 9833516.63_(kilometro_karratutan)</btriple>
+        <btriple>AmeriGas | Industria | Energia_industria</btriple>
+        <btriple>Estatu_Batuak | Kapitala | Washington_D.C.</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas operates and provides energy industry services in the United States, a country covering 9833516.63 square kilometers in total area with Washington, D.C. as its capital city.</lex>
+      <lex lang="en" lid="Id2">AmeriGas, an energy industry company, serves all regions of the United States, its home country, which has a total area of 9833516.63 (square kilometres) and its capital is Washington, D.C.</lex>
+      <lex lang="en" lid="Id3">AmeriGas classified in the Energy Industry works and serves the United States whose capital is Washington, D.C. and has a total area of 9,833,516.63 square kilometers.</lex>
+      <lex lang="es" lid="Id1">AmeriGas opera y presta servicios a la industria energética en Estados Unidos, un país con una superficie total de 9833516,63 kilómetros cuadrados y cuya capital es Washington, D.C.</lex>
+      <lex lang="es" lid="Id2">AmeriGas, empresa del sector energético, presta servicio a todas las regiones de Estados Unidos, su país de origen, que tiene una superficie total de 9833516,63 (kilómetros cuadrados) y su capital es Washington, D.C.</lex>
+      <lex lang="es" lid="Id3">AmeriGas, clasificada en la Industria Energética, trabaja y presta servicio en Estados Unidos, cuya capital es Washington D.C. y tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas opera i proporciona serveis de la indústria energètica als Estats Units, un país que cobreix 9833516,63 quilòmetres quadrats en àrea total amb Washington, D.C. com a capital.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas, una empresa de la indústria energètica, serveix a totes les regions dels Estats Units, el seu país d'origen, que té una superfície total de 9833516.63 (kilòmetres quadrats) i la seva capital és Washington, D.C.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas classificat en la Indústria de l'Energia treballa i serveix als Estats Units, la capital del qual és Washington, D.C. i té una superfície total de 9.833.516,63 quilòmetres quadrats.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas-ek Estatu Batuetako energia industriaren zerbitzuak kudeatzen eta eskaintzen ditu, Washington DC hiriburua duen 9833516.63 kilometro koadroko azalera duen herrialdea.</lex>
+      <lex lang="eu" lid="Id2">AmeriGas, energia industriako enpresa batek, Estatu Batuetako eskualde guztiak zerbitzatzen ditu, bere jaioterria, 9833516.63 kilometro koadroko azalera du eta bere hiriburua Washington, D.C. da.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas Energia Industrian sailkatuta dago eta Washington D.C. hiriburua duen Estatu Batuak zerbitzatzen ditu eta 9.833.516,63 kilometro koadroko azalera du.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas opera e proporciona servizos da industria enerxética nos Estados Unidos, un país que cobre 9833516,63 quilómetros cadrados en área total con Washington, D.C. como a súa capital.</lex>
+      <lex lang="gl" lid="Id2">AmeriGas, unha empresa da industria enerxética, atende a todas as rexións dos Estados Unidos, o seu país de orixe, que ten unha superficie total de 9833516.63 (kilómetros cadrados) e a súa capital é Washington, D.C.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas clasificado na Industria de Enerxía traballa e serve aos Estados Unidos cuxa capital é Washington, D.C. e ten unha superficie total de 9.833.516,63 quilómetros cadrados.</lex>
+      </entry>
+    <entry category="Company" eid="Id6" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_American</otriple>
+        <otriple>United_States | ethnicGroup | Native_American</otriple>
+        <otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_American</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_American</mtriple>
+        <mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Asiático_americano</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Nativos_americanos</striple>
+        <striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+        <striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | RegióServida | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | Asiàtic_americà</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | Natiu_americà</ctriple>
+        <ctriple>AmeriGas | NombreD'Empleats | 8500</ctriple>
+        <ctriple>AmeriGas | DataDeFundació | 1959-01-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | RexiónServida | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Asiático_americano</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Nativo_americano</gtriple>
+        <gtriple>AmeriGas | NúmeroDeEmpregados | 8500</gtriple>
+        <gtriple>AmeriGas | DataDeFundación | 1959-01-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | ZerbitzatutakoEskualdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Asiar_amerikarra</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Amerikar_amerindiarra</btriple>
+        <btriple>AmeriGas | LangileKopurua | 8500</btriple>
+        <btriple>AmeriGas | Fundazio-data | 1959-01-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas was founded on January 1, 1959 to serve all regions of the United States with its 8,500 employees. Native American and Asian-American are two different ethnic groups in the United States.</lex>
+      <lex lang="en" lid="Id2">AmeriGas, a United States service provider founded on 01-01-1959 with 8,500 employees, includes Native- and Asian-Americans in its employee roster.</lex>
+      <lex lang="en" lid="Id3">AmeriGas was founded on Jan. 1, 1959 and serves the US with 8500 employees. Two ethnic groups found in the US are Native Americans and Asian Americans.</lex>
+      <lex lang="es" lid="Id1">AmeriGas se fundó el 1 de enero de 1959 para dar servicio a todas las regiones de Estados Unidos con sus 8.500 empleados. Los nativos americanos y los asiático-americanos son dos grupos étnicos diferentes en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">AmeriGas, empresa de servicios estadounidense fundada el 1 de enero de 1959 con 8.500 empleados, cuenta entre su plantilla con nativos americanos y asiáticos.</lex>
+      <lex lang="es" lid="Id3">AmeriGas se fundó el 1 de enero de 1959 y trabaja en EE.UU. con 8.500 empleados. Dos grupos étnicos presentes en EE.UU. son los nativos americanos y los asiáticos americanos.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas va ser fundada l'1 de gener de 1959 per donar servei a totes les regions dels Estats Units amb els seus 8.500 empleats.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas, un proveïdor de serveis dels Estats Units fundat el 01-01-1959 amb 8.500 empleats, inclou natius americans i asiàtics en la seva llista d'empleats.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas va ser fundada l'1 de gener de 1959 i dóna servei als Estats Units amb 8.500 empleats. Dos grups ètnics que es troben als Estats Units són els nadius americans i els asiàtics americans.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas 1959ko urtarrilaren 1ean sortu zen Ameriketako Estatu Batuetako eskualde guztiak zerbitzatzeko, bere 8.500 langileekin. Ameriketako Estatu Batuetako indiarrak eta asiar-amerikarrak bi talde etniko desberdin dira.</lex>
+      <lex lang="eu" lid="Id2">AmeriGas-ek, 1959ko urtarrilaren 1ean sortutako eta 8.500 langile dituen Estatu Batuetako zerbitzu-hornitzaileak, bertako eta Asiako amerikarrak ditu langile-zerrendan.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas 1959ko urtarrilaren 1ean sortu zen eta 8.500 langile ditu Estatu Batuetan. Estatu Batuetan bi talde etniko daude: amerindiarrak eta asiar amerikarrak.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas fundouse o 1 de xaneiro de 1959 para servir a todas as rexións dos Estados Unidos cos seus 8. 500 empregados. Os nativos americanos e os asiáticos americanos son dous grupos étnicos diferentes nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">AmeriGas, un provedor de servizos dos Estados Unidos fundado o 01-01-1959 con 8.500 empregados, inclúe nativos americanos e asiáticos na súa lista de empregados.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas fundouse o 1 de xaneiro de 1959 e serve aos Estados Unidos con 8500 empregados. Dous grupos étnicos que se atopan nos Estados Unidos son os nativos americanos e os asiáticos americanos.</lex>
+      </entry>
+    <entry category="Company" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+        <otriple>Insular_Government_of_the_Philippine_Islands | foundingYear | 1901-01-01</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        <otriple>Chinabank | location | Philippines</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+        <mtriple>Insular_Government_of_the_Philippine_Islands | foundingDate | 1901-07-01</mtriple>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+        <mtriple>Chinabank | location | Philippines</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+        <striple>Gobierno_Insular_de_las_Islas_Filipinas | FechaDeFundación | 01-07-1901</striple>
+        <striple>Chinabank | LugarDeCimentación | Manila</striple>
+        <striple>Chinabank | Ubicación | Filipinas</striple>
+        <striple>Filipinas | IdiomaOficial | inglés_filipino</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | LlocDeFundació | Govern_Insular_de_les_illes_Filipines</ctriple>
+        <ctriple>Govern_Insular_de_les_illes_Filipines | DataDeFundació | 1901-07-01</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Manila</ctriple>
+        <ctriple>Chinabank | Ubicació | Filipines</ctriple>
+        <ctriple>Filipines | LlenguaOficial | anglès_filipí</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | LugarDeFundación | Goberno_Insular_das_Illas_Filipinas</gtriple>
+        <gtriple>Goberno_Insular_das_Illas_Filipinas | DataDeFundación | 1901-07-01</gtriple>
+        <gtriple>Chinabank | LugarDeFundación | Manila</gtriple>
+        <gtriple>Chinabank | Localización | Filipinas</gtriple>
+        <gtriple>Filipinas | LinguaOficial | inglés_filipino</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | FundazioarenLekua. | Filipinetako_uharteetako_gobernua</btriple>
+        <btriple>Filipinetako_uharteetako_gobernua | Fundazio-data | 1901-07-01</btriple>
+        <btriple>Chinabank | FundazioarenLekua. | Manila</btriple>
+        <btriple>Chinabank | Lokalizazioa | Filipinak</btriple>
+        <btriple>Filipinak | HizkuntzaOfiziala | Filipinetako_ingelesa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank was founded in Manila in the Insular Government of the Philippine Islands (established on July 01, 1901). It is located in the Philippines where Philippine English is the official language.</lex>
+      <lex lang="en" lid="Id2">Chinabank was founded in Manila, in the Insular Government of the Philippine Islands which was founded on July 01, 1901. Chinabank is located in the Philippines, where Philippine English is the official language of the country.</lex>
+      <lex lang="en" lid="Id3">Chinabank was founded Manila, in the Insular Government of the Philippine Islands that was established on July 01, 1901. It is located in the Philippines where the official language is Philippine English.</lex>
+      <lex lang="es" lid="Id1">Chinabank se fundó en Manila en el Gobierno Insular de las Islas Filipinas (establecido el 1 de julio de 1901). Está situado en Filipinas, donde el inglés filipino es el idioma oficial.</lex>
+      <lex lang="es" lid="Id2">Chinabank se fundó en Manila, en el Gobierno Insular de las Islas Filipinas, que fue fundado el 1 de julio de 1901. Chinabank se encuentra en Filipinas, donde el inglés filipino es el idioma oficial del país.</lex>
+      <lex lang="es" lid="Id3">Chinabank fue fundada Manila, en el Gobierno Insular de las Islas Filipinas que se estableció el 01 de julio 1901. Se encuentra en Filipinas, donde el idioma oficial es el inglés filipino.</lex>
+      <lex lang="ca" lid="Id1">El Chinabank va ser fundat a Manila en el Govern Insular de les Illes Filipines (establert l'1 de juliol de 1901). Es troba a les Filipines on l'anglès filipí és l'idioma oficial.</lex>
+      <lex lang="ca" lid="Id2">El Chinabank es va fundar a Manila, al Govern Insular de les Illes Filipines, que es va fundar l'1 de juliol de 1901. El Chinabank està situat a les Filipines, on l'anglès filipí és la llengua oficial del país.</lex>
+      <lex lang="ca" lid="Id3">El Chinabank va ser fundat a Manila, al Govern Insular de les Illes Filipines que es va establir l'1 de juliol de 1901. Es troba a les Filipines on l'idioma oficial és l'anglès filipí.</lex>
+      <lex lang="eu" lid="Id1">Chinabank Manila-n sortu zen Filipinetako Uharteetako Gobernu Insularrean (1901ko uztailaren 1ean sortu zen). Filipinetan dago, Filipinetako ingelesa hizkuntza ofiziala baita.</lex>
+      <lex lang="eu" lid="Id2">Chinabank 1901eko uztailaren 1ean sortu zen, Manilan, Filipinetako Uharteetako Gobernu Intsularrean. Chinabank Filipinetan dago eta bertako hizkuntza ofiziala filipinar ingelesa da.</lex>
+      <lex lang="eu" lid="Id3">Chinabank 1901eko uztailaren 1ean sortu zen, Manilan, Filipinetako Uharteetako Gobernu Intsularrean. Filipinetan dago, eta bertako hizkuntza ofiziala filipinar ingelesa da.</lex>
+      <lex lang="gl" lid="Id1">Chinabank foi fundado en Manila no Goberno Insular das Illas Filipinas (establecido o 01 de xullo de 1901). Está situado nas Filipinas onde o inglés filipino é a lingua oficial.</lex>
+      <lex lang="gl" lid="Id2">Chinabank foi fundado en Manila, no Goberno Insular das Illas Filipinas que foi fundado o 01 de xullo de 1901. Chinabank está situado nas Filipinas, onde o inglés filipino é a lingua oficial do país.</lex>
+      <lex lang="gl" lid="Id3">Chinabank foi fundado en Manila, no Goberno Insular das Illas Filipinas que foi establecido o 01 de xullo de 1901. Está situado nas Filipinas onde a lingua oficial é o inglés filipino.</lex>
+      </entry>
+    <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | service | Banking</mtriple>
+        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+        <striple>Chinabank | Servicio | Banca</striple>
+        <striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        <striple>Chinabank | LugarDeCimentación | Manila</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | DataDeFundació | 1920-08-16</ctriple>
+        <ctriple>Chinabank | Servei | Serveis_bancaris</ctriple>
+        <ctriple>Chinabank | NombreD'Empleats | 5594</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Manila</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | DataDeFundación | 1920-08-16</gtriple>
+        <gtriple>Chinabank | Servizo | Servizos_bancarios</gtriple>
+        <gtriple>Chinabank | NúmeroDeEmpregados | 5594</gtriple>
+        <gtriple>Chinabank | IngresosNetos | 15100000000</gtriple>
+        <gtriple>Chinabank | LugarDeFundación | Manila</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | Fundazio-data | 1920-08-16</btriple>
+        <btriple>Chinabank | Zerbitzua | Bankua</btriple>
+        <btriple>Chinabank | LangileKopurua | 5594</btriple>
+        <btriple>Chinabank | Diru-sarreraGarbia | 15100000000</btriple>
+        <btriple>Chinabank | FundazioarenLekua. | Manila</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank, founded in Manila on 08-16-1920, offers banking services. Chinabank has a net income of 15,100,000,000 and employs 5594 people.</lex>
+      <lex lang="en" lid="Id2">Chinabank, a banking company founded in Manila on 8-16-1920, has a current net income of 15100000000 and employs 5594 people.</lex>
+      <lex lang="en" lid="Id3">Chinabank, founded in Manila on 16 August 1920, employs 5594 workers to provide banking services to its customers. Chinabank has net income of 15,100,000,000.</lex>
+      <lex lang="es" lid="Id1">Chinabank, fundado en Manila el 16 de agosto de 1920, ofrece servicios Bancarios. Chinabank tiene unos ingresos netos de 15.100.000.000 y emplea a 5.594 personas.</lex>
+      <lex lang="es" lid="Id2">Chinabank, empresa Bancaria fundada en Manila el 16 de agosto de 1920, tiene unos ingresos netos actuales de 15100000000 y emplea a 5594 personas.</lex>
+      <lex lang="es" lid="Id3">Chinabank, fundado en Manila el 16 de agosto de 1920, emplea a 5.594 trabajadores para prestar servicios Bancarios a sus clientes. Chinabank tiene unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id1">El Chinabank, fundat a Manila el 16 d'agost de 1920, ofereix serveis bancaris. El Chinabank té uns ingressos nets de 15.100.000.000 i dóna feina a 5.594 persones.</lex>
+      <lex lang="ca" lid="Id2">Chinabank, una empresa bancària fundada a Manila el 16 d'agost de 1920, té uns ingressos nets actuals de 151.000.000.000 i dóna feina a 5.594 persones.</lex>
+      <lex lang="ca" lid="Id3">Chinabank, fundat a Manila el 16 d'agost de 1920, dóna feina a 5.594 treballadors per proporcionar serveis bancaris als seus clients. Chinabank té uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="eu" lid="Id1">Chinabank, Manilan 1920ko abuztuaren 16an sortua, banku-zerbitzuak eskaintzen ditu. Chinabankek 15.100.000.000 euroko diru-sarrera garbiak ditu eta 5.594 langile ditu.</lex>
+      <lex lang="eu" lid="Id2">Chinabank-ek, Manilan 1920ko abuztuaren 16an sortutako banku-enpresak, 15100000000 euroko diru-sarrera garbia du eta 5594 langile ditu.</lex>
+      <lex lang="eu" lid="Id3">Manilan 1920ko abuztuaren 16an sortutako Chinabank-ek 5.594 langile ditu bezeroei banku-zerbitzuak eskaintzeko. Chinabank-en diru-sarrera garbia 15.100.000.000koa da.</lex>
+      <lex lang="gl" lid="Id1">Chinabank, fundado en Manila o 16-08-1920, ofrece servizos bancarios. Chinabank ten un ingreso neto de 15.100.000.000 e emprega a 5.594 persoas.</lex>
+      <lex lang="gl" lid="Id2">Chinabank, unha empresa bancaria fundada en Manila o 16 de agosto de 1920, ten uns ingresos netos actuais de 15100000000 e emprega a 5594 persoas.</lex>
+      <lex lang="gl" lid="Id3">O Chinabank, fundado en Manila o 16 de agosto de 1920, emprega a 5594 traballadores para prestar servizos bancarios aos seus clientes. O Chinabank ten uns ingresos netos de 15100000000.</lex>
+      </entry>
+    <entry category="Company" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | service | Banking</mtriple>
+        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+        <striple>Chinabank | Servicio | Banca</striple>
+        <striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        <striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | DataDeFundació | 1920-08-16</ctriple>
+        <ctriple>Chinabank | Servei | Serveis_bancaris</ctriple>
+        <ctriple>Chinabank | NombreD'Empleats | 5594</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        <ctriple>Chinabank | NombreDeLocalitzacions | 295</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | DataDeFundación | 1920-08-16</gtriple>
+        <gtriple>Chinabank | Servizo | Servizos_bancarios</gtriple>
+        <gtriple>Chinabank | NúmeroDeEmpregados | 5594</gtriple>
+        <gtriple>Chinabank | IngresosNetos | 15100000000</gtriple>
+        <gtriple>Chinabank | NúmeroDeLocalizacións | 295</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | Fundazio-data | 1920-08-16</btriple>
+        <btriple>Chinabank | Zerbitzua | Bankua</btriple>
+        <btriple>Chinabank | LangileKopurua | 5594</btriple>
+        <btriple>Chinabank | Diru-sarreraGarbia | 15100000000</btriple>
+        <btriple>Chinabank | KokapenKopurua | 295</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank is a banking service which was founded on 1920-08-16. It employs 5594 workers, distributed through 295 branches, and has a current net income of 15100000000.</lex>
+      <lex lang="en" lid="Id2">Chinabank, founded on the 16th of August, 1920, offers banking service to customers. The company has 5,594 employees, 295 banking centres, and its net income is 15,100,000,000.</lex>
+      <lex lang="en" lid="Id3">Chinabank, a banking service founded on 08-16-1920, has a net income of 15,100,000,000. Chinabank has 5594 employees at its 295 locations.</lex>
+      <lex lang="es" lid="Id1">Chinabank es un servicio Bancario fundado en 16 de agosto de 1920. Emplea a 5594 trabajadores, distribuidos en 295 sucursales, y tiene unos ingresos netos actuales de 15100000000.</lex>
+      <lex lang="es" lid="Id2">Chinabank, fundado el 16 de agosto de 1920, ofrece servicios Bancarios a sus clientes. Cuenta con 5.594 empleados, 295 centros Bancarios y sus ingresos netos ascienden a 15.100.000.000.</lex>
+      <lex lang="es" lid="Id3">Chinabank, un servicio Bancario fundado el 16 de agosto de 1920, tiene unos ingresos netos de 15.100.000.000. Chinabank cuenta con 5.594 empleados en sus 295 sedes.</lex>
+      <lex lang="ca" lid="Id1">Chinabank és un servei bancari que va ser fundat el 1920-08-16. Emplega 5594 treballadors, distribuïts a través de 295 sucursals i té un ingrés net actual de 15100000000.</lex>
+      <lex lang="ca" lid="Id2">Chinabank, fundada el 16 d'agost de 1920, ofereix serveis bancaris als clients. L'empresa té 5.594 empleats, 295 centres bancaris, i els seus ingressos nets són de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id3">Chinabank, un servei bancari fundat el 16 d'agost de 1920, té uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="eu" lid="Id1">Chinabank 1920-08-16n sortu zen banku zerbitzu bat da. 5594 langile ditu, 295 adarretan banatuta, eta 15100000000 diru-sarrera garbia du.</lex>
+      <lex lang="eu" lid="Id2">Chinabank, 1920ko abuztuaren 16an sortua, banku-zerbitzua eskaintzen die bezeroei.Enpresak 5.594 langile ditu, 295 banku-zentro, eta bere diru-sarrera garbia 15.100.000.000 da.</lex>
+      <lex lang="eu" lid="Id3">Chinabank, 1920ko abuztuaren 16an sortutako banku-zerbitzua, 15.100.000.000 euroko diru-sarrera garbia du. Chinabankek 5.594 langile ditu bere 295 egoitzetan.</lex>
+      <lex lang="gl" lid="Id1">Chinabank é un servizo bancario que foi fundado o 16- 08- 1920. Emprega 5594 traballadores, distribuídos en 295 sucursais, e ten un ingreso neto actual de 15100000000.</lex>
+      <lex lang="gl" lid="Id2">Chinabank, fundada o 16 de agosto de 1920, ofrece servizos bancarios aos clientes. A empresa ten 5.594 empregados, 295 centros bancarios e os seus ingresos netos son de 15.100.000.000.</lex>
+      <lex lang="gl" lid="Id3">Chinabank, un servizo bancario fundado o 16-08-1920, ten un ingreso neto de 15.100.000.000. Chinabank ten 5.594 empregados nas súas 295 oficinas.</lex>
+      </entry>
+    <entry category="Company" eid="Id10" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | location | Philippines</otriple>
+        <otriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</otriple>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | location | Philippines</mtriple>
+        <mtriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</mtriple>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | Ubicación | Filipinas</striple>
+        <striple>Filipinas | Lema | Maka-Diyos,_Maka-Tao,_Makakalikasan_en_Makabansa</striple>
+        <striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+        <striple>Chinabank | LugarDeCimentación | Manila</striple>
+        <striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | Ubicació | Filipines</ctriple>
+        <ctriple>Filipines | Lema | Maka-Diyos,_Maka-Tao,_Makakalikasan_at_Makabansa</ctriple>
+        <ctriple>Chinabank | DataDeFundació | 1920-08-16</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Manila</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Govern_Insular_de_les_illes_Filipines</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | Localización | Filipinas</gtriple>
+        <gtriple>Filipinas | Lema | Maka-Diyos,_Maka-Tao,_Makakalikasan_at_Makabansa</gtriple>
+        <gtriple>Chinabank | DataDeFundación | 1920-08-16</gtriple>
+        <gtriple>Chinabank | LugarDeFundación | Manila</gtriple>
+        <gtriple>Chinabank | LugarDeFundación | Goberno_Insular_das_Illas_Filipinas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | Lokalizazioa | Filipinak</btriple>
+        <btriple>Filipinak | Goiburua: | Maka-Diyos,_Maka-Tao,_Makakalikasan_eta_Makabansa</btriple>
+        <btriple>Chinabank | Fundazio-data | 1920-08-16</btriple>
+        <btriple>Chinabank | FundazioarenLekua. | Manila</btriple>
+        <btriple>Chinabank | FundazioarenLekua. | Filipinetako_uharteetako_gobernua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank was founded in the Insular Government of the Philippine Islands, in Manila on August 16, 1920. It is located in the Philippines where the country's motto is Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex>
+      <lex lang="en" lid="Id2">Chinabank is located in the Philippines and was founded in the Insular Government of the Philippine Islands in Manila on the 16th of August, 1920. Philippine's motto is "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="en" lid="Id3">Chinabank was founded on 1920-08-16 in Manila, at the Insular Government of the Philippine Islands. Chinabank is located in the Philippines, where they have the motto "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="es" lid="Id1">Chinabank se fundó en el Gobierno Insular de las Islas Filipinas, en Manila, el 16 de agosto de 1920. Se encuentra en Filipinas, donde el lema del país es Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex>
+      <lex lang="es" lid="Id2">Chinabank está situado en Filipinas y fue fundado en el Gobierno Insular de las Islas Filipinas en Manila el 16 de agosto de 1920. El lema de Filipinas es "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="es" lid="Id3">Chinabank se fundó el 16 de agosto de 1920 en Manila, en el Gobierno Insular de las Islas Filipinas. Chinabank se encuentra en Filipinas, donde tienen el lema "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="ca" lid="Id1">Chinabank va ser fundada al Govern Insular de les Illes Filipines, a Manila el 16 d'agost de 1920. Es troba a les Filipines on el lema del país és Maka-Diyos, Maka-Tao, Makakalikasan a Makabansa.</lex>
+      <lex lang="ca" lid="Id2">Chinabank està situat a les Filipines i va ser fundat al Govern Insular de les Illes Filipines a Manila el 16 d'agost de 1920. El lema de Philippine és "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="ca" lid="Id3">Chinabank va ser fundat el 16 d'agost de 1920 a Manila, al Govern Insular de les Illes Filipines. Chinabank està situat a les Filipines, on tenen el lema "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+      <lex lang="eu" lid="Id1">Chinabank 1920ko abuztuaren 16an sortu zen, Filipinetako uharteetako gobernu insularrean, Manilan. Filipinetan dago, eta herrialdearen leloa Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa da.</lex>
+      <lex lang="eu" lid="Id2">Chinabank Filipinetan dago eta 1920ko abuztuaren 16an sortu zen Filipinetako Uharteetako Gobernu Intsularrean, Manilan. Filipinen goiburua “Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa” da.</lex>
+      <lex lang="eu" lid="Id3">Chinabank 1920-08-16an sortu zen Manilan, Filipinetako Uharteetako Gobernu Intsularrean. Chinabank Filipinetan dago eta “Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa” du goiburu.</lex>
+      <lex lang="gl" lid="Id1">Chinabank foi fundado no Goberno Insular das Illas Filipinas, en Manila o 16 de agosto de 1920. Está situado nas Filipinas onde o lema do país é Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex>
+      <lex lang="gl" lid="Id2">Chinabank está situada nas Filipinas e foi fundada no Goberno Insular das Illas Filipinas en Manila o 16 de agosto de 1920. O lema de Filipinas é "Maka-Diyos, Maka-Tao, Makakalikasan en Makabansa".</lex>
+      <lex lang="gl" lid="Id3">Chinabank foi fundado o 16- 08- 1920 en Manila, no Goberno Insular das Illas Filipinas. Chinabank está situado nas Filipinas, onde teñen o lema "Maka- Diyos, Maka- Tao, Makakalikasan at Makabansa".</lex>
+      </entry>
+    <entry category="Company" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        <otriple>Chinabank | type | Public_company</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | service | Banking</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+        <mtriple>Chinabank | type | Public_company</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | Servicio | Banca</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        <striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+        <striple>Chinabank | LugarDeCimentación | Manila</striple>
+        <striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | Servei | Serveis_bancaris</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        <ctriple>Chinabank | NombreDeLocalitzacions | 295</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Manila</ctriple>
+        <ctriple>Chinabank | Tipus | empresa_cotitzada</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | Servizo | Servizos_bancarios</gtriple>
+        <gtriple>Chinabank | IngresosNetos | 15100000000</gtriple>
+        <gtriple>Chinabank | NúmeroDeLocalizacións | 295</gtriple>
+        <gtriple>Chinabank | LugarDeFundación | Manila</gtriple>
+        <gtriple>Chinabank | Tipo | Empresa_pública</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | Zerbitzua | Bankua</btriple>
+        <btriple>Chinabank | Diru-sarreraGarbia | 15100000000</btriple>
+        <btriple>Chinabank | KokapenKopurua | 295</btriple>
+        <btriple>Chinabank | FundazioarenLekua. | Manila</btriple>
+        <btriple>Chinabank | MotarenArabera | Enpresa_publikoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank was first founded in Manila and now has 295 different locations. They are a publicly traded company that offers banking services and has a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id2">Chinabank, a banking services company with a net income of 15,100,000,000 and 295 banking center locations, is publicly traded. The company was founded in Manila.</lex>
+      <lex lang="en" lid="Id3">Chinabank is a banking service founded in Manila with 295 branches. Chinabank is a public company whose current net income has been 15,100,000,000.</lex>
+      <lex lang="es" lid="Id1">Chinabank se fundó en Manila y ahora cuenta con 295 sucursales. Es una empresa que cotiza en bolsa, ofrece servicios Bancarios y tiene unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="es" lid="Id2">Chinabank, una empresa de servicios Bancarios con unos ingresos netos de 15.100.000.000 y 295 centros Bancarios, cotiza en bolsa. La empresa se fundó en Manila.</lex>
+      <lex lang="es" lid="Id3">Chinabank es un servicio Bancario fundado en Manila con 295 sucursales. Chinabank es una empresa pública cuyos ingresos netos actuales han sido de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id1">Chinabank es va fundar a Manila i ara té 295 oficines diferents, és una companyia pública que ofereix serveis bancaris i té uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id2">Chinabank, una empresa de serveis bancaris amb uns ingressos nets de 15.100.000.000 i 295 centres bancaris, cotitza en borsa i va ser fundada a Manila.</lex>
+      <lex lang="ca" lid="Id3">Chinabank és un servei bancari fundat a Manila amb 295 sucursals. Chinabank és una empresa pública amb un benefici net actual de 15.100.000.000.</lex>
+      <lex lang="eu" lid="Id1">Chinabank Manilan sortu zen lehen aldiz eta 295 kokapen ditu orain. Banku-zerbitzuak eskaintzen dituen eta 15.100.000.000 euroko diru-sarrera garbia duen konpainia bat da.</lex>
+      <lex lang="eu" lid="Id2">Chinabank, 15.100.000.000 dolarreko diru-sarrera garbia eta 295 banku-zentro dituen banku-zerbitzuen enpresa publikoa da, Manilan sortua.</lex>
+      <lex lang="eu" lid="Id3">Chinabank Manilan sortutako banku-zerbitzu bat da eta 295 sukurtsal ditu. Chinabank sozietate publiko bat da eta 15.100.000.000 euroko diru-sarrera garbia du gaur egun.</lex>
+      <lex lang="gl" lid="Id1">Chinabank fundouse por primeira vez en Manila e agora ten 295 localizacións diferentes. É unha empresa cotizada en bolsa que ofrece servizos bancarios e ten uns ingresos netos de 15 100 000 000.</lex>
+      <lex lang="gl" lid="Id2">Chinabank, unha empresa de servizos bancarios con ingresos netos de 15 100 000 000 e 295 centros bancarios, cotiza en bolsa. A empresa fundouse en Manila.</lex>
+      <lex lang="gl" lid="Id3">Chinabank é un servizo bancario fundado en Manila con 295 sucursais. Chinabank é unha empresa pública cuxos ingresos netos actuais ascenden a 15 100 000 000.</lex>
+      </entry>
+    <entry category="Company" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+        <otriple>GMA_New_Media | type | Media_company</otriple>
+        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+        <otriple>GMA_New_Media | subsidiary | Digify,_Inc.</otriple>
+        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+        <mtriple>GMA_New_Media | type | Media_company</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Digify,_Inc.</mtriple>
+        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple>
+        <striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+        <striple>GMA_Nuevos_Medios | Filial | Digify,_Inc.</striple>
+        <striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | DataDeFundació | 2000-01-01</ctriple>
+        <ctriple>GMA_New_Media | Tipus | empresa_de_comunicació</ctriple>
+        <ctriple>GMA_New_Media | Subsidiària | Portal_d'entreteniment_de_Filipines</ctriple>
+        <ctriple>GMA_New_Media | Subsidiària | Digify,_Inc.</ctriple>
+        <ctriple>GMA_New_Media | EmpresaMatriu | GMA_Network_(empresa)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | DataDeFundación | 2000-01-01</gtriple>
+        <gtriple>GMA_New_Media | Tipo | Empresa_de_medios</gtriple>
+        <gtriple>GMA_New_Media | Subsidiaria | Portal_de_entretemento_filipino</gtriple>
+        <gtriple>GMA_New_Media | Subsidiaria | Digify,_Inc.</gtriple>
+        <gtriple>GMA_New_Media | EmpresaMatriz | GMA_Network_(empresa)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Fundazio-data | 2000-01-01</btriple>
+        <btriple>GMA_New_Media | MotarenArabera | Komunikazio-enpresa</btriple>
+        <btriple>GMA_New_Media | Subsidiary | Filipinetako_Entretenimenduaren_Ataria</btriple>
+        <btriple>GMA_New_Media | Subsidiary | Digify,_Inc.</btriple>
+        <btriple>GMA_New_Media | EnpresaNagusia | GMA_Network_(enpresa)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">GMA New Media, Inc. is a media company that was founded on 01/01/2000 as a subsidiary of the GMA Network. GMA New Media has two subsidiaries of its own in Philippine Entertainment Portal, Inc and Digify Inc.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is a media company that was founded on 01-01-2000. It has Philippine Entertainment Portal and Digify Inc as subsidiary, and it also has the parent company that is GMA Network.</lex>
+      <lex lang="en" lid="Id3">GMA New Media (parent company GMA Network) is a media company founded on January 01, 2000. Philippine Entertainment Portal and Digify, Inc. are both subsidiaries of this company.</lex>
+      <lex lang="es" lid="Id1">GMA New Media, Inc. es una empresa de medios de comunicación fundada el 1 de enero de 2000 como filial de GMA Network. GMA New Media tiene dos filiales propias: Philippine Entertainment Portal, Inc. y Digify Inc.</lex>
+      <lex lang="es" lid="Id2">GMA New Media es una empresa de medios de comunicación fundada el 1 de enero de 2000. Sus filiales son Philippine Entertainment Portal y Digify Inc, y su empresa matriz es GMA Network.</lex>
+      <lex lang="es" lid="Id3">GMA New Media (empresa matriz GMA Network) es una empresa de medios de comunicación fundada el 1 de enero de 2000. Philippine Entertainment Portal y Digify, Inc. son filiales de esta empresa.</lex>
+      <lex lang="ca" lid="Id1">GMA New Media, Inc. és una companyia de mitjans de comunicació que va ser fundada el 01/01/2000 com una subsidiària de la xarxa GMA. GMA New Media té dues subsidiàries pròpies a Philippine Entertainment Portal, Inc i Digify Inc.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media és una empresa de mitjans de comunicació fundada el 01-01-2000. té Philippine Entertainment Portal i Digify Inc com a filials, i també té la companyia mare que és GMA Network.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media (empresa mare GMA Network) és una companyia de mitjans fundada l'1 de gener de 2000. Philippine Entertainment Portal i Digify, Inc. són filials d'aquesta companyia.</lex>
+      <lex lang="eu" lid="Id1">GMA New Media, Inc. 2000ko urtarrilaren 1ean sortu zen GMA Network-en filial gisa. GMA New Media-k bere bi filial ditu, Philippine Entertainment Portal, Inc. eta Digify Inc.</lex>
+      <lex lang="eu" lid="Id2">GMA New Media 2000ko urtarrilaren 1ean sortutako hedabide-konpainia bat da. Filialak ditu Philippine Entertainment Portal eta Digify Inc-ekin, eta GMA Network-en enpresa nagusia ere bada.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media (GMA Network konpainia nagusia) 2000ko urtarrilaren 1ean sortutako hedabide konpainia da. Philippine Entertainment Portal eta Digify, Inc. konpainia honen filialak dira.</lex>
+      <lex lang="gl" lid="Id1">GMA New Media, Inc. é unha compañía de medios que foi fundada o 01/ 01/ 2000 como unha subsidiaria da rede GMA. GMA New Media ten dúas subsidiarias propias en Philippine Entertainment Portal, Inc e Digify Inc.</lex>
+      <lex lang="gl" lid="Id2">GMA New Media é unha empresa de medios fundada o 01- 01- 2000. Ten Philippine Entertainment Portal e Digify Inc como subsidiarias, e tamén ten a empresa matriz que é GMA Network.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media (empresa matriz de GMA Network) é unha empresa de medios fundada o 1 de xaneiro de 2000. Philippine Entertainment Portal e Digify, Inc. son filiais desta empresa.</lex>
+      </entry>
+    <entry category="Company" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
+        <otriple>GMA_New_Media | industry | Entertainment</otriple>
+        <otriple>GMA_New_Media | type | Media_company</otriple>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+        <otriple>GMA_New_Media | product | Online_Game</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+        <mtriple>GMA_New_Media | type | Media_company</mtriple>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+        <mtriple>GMA_New_Media | product | Online_Game</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple>
+        <striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+        <striple>GMA_Nuevos_Medios | Producto | Juego_en_línea</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Indústria | mitjà_de_comunicació_de_massa</ctriple>
+        <ctriple>GMA_New_Media | Indústria | entreteniment</ctriple>
+        <ctriple>GMA_New_Media | Tipus | empresa_de_comunicació</ctriple>
+        <ctriple>GMA_New_Media | Producte | World_Wide_Web</ctriple>
+        <ctriple>GMA_New_Media | Producte | videojoc_en_línia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Industria | Medios_de_comunicación</gtriple>
+        <gtriple>GMA_New_Media | Industria | Entretemento</gtriple>
+        <gtriple>GMA_New_Media | Tipo | Empresa_de_medios</gtriple>
+        <gtriple>GMA_New_Media | Produto | World_Wide_Web</gtriple>
+        <gtriple>GMA_New_Media | Produto | Xogo_en_liña</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Industria | Komunikabide_masiboa</btriple>
+        <btriple>GMA_New_Media | Industria | Entretenimendua</btriple>
+        <btriple>GMA_New_Media | MotarenArabera | Komunikazio-enpresa</btriple>
+        <btriple>GMA_New_Media | Produktua | Web_orokorra</btriple>
+        <btriple>GMA_New_Media | Produktua | Online_jokoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">GMA New Media is a mass media company company in the entertainment industry. The company produces web sites and online games.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is a media company in the mass media and entertainment industry that produces online games and offers services for the World Wide Web.</lex>
+      <lex lang="en" lid="Id3">GMA New Media, Inc. is media company operating in the mass media industry, which produces web services. It offers applications in the entertainment industry, and its main product is online games.</lex>
+      <lex lang="es" lid="Id1">GMA New Media es una empresa de medios de comunicación de masas del sector del entretenimiento. La empresa produce sitios web y juegos en línea.</lex>
+      <lex lang="es" lid="Id2">GMA New Media es una empresa del sector de los medios de comunicación y el entretenimiento que produce juegos en línea y ofrece servicios para la World Wide Web.</lex>
+      <lex lang="es" lid="Id3">GMA New Media, Inc. es una empresa de medios de comunicación que opera en el sector de los medios de comunicación de masas y produce servicios web. Ofrece aplicaciones en la industria del entretenimiento, y su principal producto son los juegos en línea.</lex>
+      <lex lang="ca" lid="Id1">GMA New Media és una empresa de mitjans de comunicació en la indústria de l' entreteniment. L' empresa produeix llocs web i jocs en línia.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media és una empresa de mitjans de comunicació en la indústria de mitjans de comunicació i entreteniment que produeix jocs en línia i ofereix serveis per a la World Wide Web.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media, Inc. és una empresa de mitjans de comunicació que opera en la indústria dels mitjans de comunicació de masses, que produeix serveis web. Ofereix aplicacions en la indústria de l'entreteniment, i el seu producte principal són els jocs en línia.</lex>
+      <lex lang="eu" lid="Id1">GMA New Media entretenimendu industriako hedabide enpresa bat da. Enpresak webguneak eta online jokoak ekoizten ditu.</lex>
+      <lex lang="eu" lid="Id2">GMA New Media komunikabide eta entretenimendu industriako komunikabide enpresa bat da, online jokoak ekoizten dituena eta World Wide Weberako zerbitzuak eskaintzen dituena.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media, Inc. hedabideen industrian lan egiten duen enpresa bat da, web zerbitzuak ekoizten dituena. Entretenimendu industrian aplikazioak eskaintzen ditu, eta bere produktu nagusia online jokoak dira.</lex>
+      <lex lang="gl" lid="Id1">GMA New Media é unha empresa de medios de comunicación da industria do entretemento. A empresa produce sitios web e xogos en liña.</lex>
+      <lex lang="gl" lid="Id2">GMA New Media é unha compañía de medios da industria de medios de comunicación e entretemento que produce xogos en liña e ofrece servizos para a World Wide Web.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media, Inc. é unha empresa de medios de comunicación que opera na industria dos medios de comunicación de masas, que produce servizos web. Ofrece aplicacións na industria do entretemento, e o seu produto principal son os xogos en liña.</lex>
+      </entry>
+    <entry category="Company" eid="Id14" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+        <otriple>GMA_New_Media | location | Philippines</otriple>
+        <otriple>GMA_New_Media | industry | Entertainment</otriple>
+        <otriple>GMA_New_Media | type | Media_company</otriple>
+        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+        <mtriple>GMA_New_Media | location | Philippines</mtriple>
+        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+        <mtriple>GMA_New_Media | type | Media_company</mtriple>
+        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+        <striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+        <striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple>
+        <striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Ubicació | Centre_de_la_xarxa_GMA</ctriple>
+        <ctriple>GMA_New_Media | Ubicació | Filipines</ctriple>
+        <ctriple>GMA_New_Media | Indústria | entreteniment</ctriple>
+        <ctriple>GMA_New_Media | Tipus | empresa_de_comunicació</ctriple>
+        <ctriple>GMA_New_Media | EmpresaMatriu | GMA_Network_(empresa)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Localización | Centro_de_rede_GMA</gtriple>
+        <gtriple>GMA_New_Media | Localización | Filipinas</gtriple>
+        <gtriple>GMA_New_Media | Industria | Entretemento</gtriple>
+        <gtriple>GMA_New_Media | Tipo | Empresa_de_medios</gtriple>
+        <gtriple>GMA_New_Media | EmpresaMatriz | GMA_Network_(empresa)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Lokalizazioa | GMA_sareko_zentroa</btriple>
+        <btriple>GMA_New_Media | Lokalizazioa | Filipinak</btriple>
+        <btriple>GMA_New_Media | Industria | Entretenimendua</btriple>
+        <btriple>GMA_New_Media | MotarenArabera | Komunikazio-enpresa</btriple>
+        <btriple>GMA_New_Media | EnpresaNagusia | GMA_Network_(enpresa)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">GMA New Media is a media company in the entertainment industry and is located inside GMA Network Center in the Philippines. Its parent company is the GMA Network.</lex>
+      <lex lang="en" lid="Id2">As a subsidiary of the GMA Network Center, GMA New Media is also located in the Philippines. As a media company, GMA New Media offers applications related to the entertainment industry.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is a media company in the entertainment industry, with headquarters in the GMA Network Center in the Philippines. The company's parent company is GMA Network.</lex>
+      <lex lang="es" lid="Id1">GMA New Media es una empresa de medios de comunicación del sector del entretenimiento y está ubicada en el GMA Network Center de Filipinas. Su empresa matriz es GMA Network.</lex>
+      <lex lang="es" lid="Id2">Como filial de GMA Network Center, GMA New Media también está ubicada en Filipinas. Como empresa de medios de comunicación, GMA New Media ofrece aplicaciones relacionadas con la industria del entretenimiento.</lex>
+      <lex lang="es" lid="Id3">GMA New Media es una empresa de medios de comunicación del sector del entretenimiento, con sede en el GMA Network Center de Filipinas. La empresa matriz es GMA Network.</lex>
+      <lex lang="ca" lid="Id1">GMA New Media és una companyia de mitjans de comunicació de la indústria de l'entreteniment i es troba dins del GMA Network Center a les Filipines. La seva companyia mare és la GMA Network.</lex>
+      <lex lang="ca" lid="Id2">Com a filial del GMA Network Center, GMA New Media també es troba a les Filipines. Com a empresa de mitjans, GMA New Media ofereix aplicacions relacionades amb la indústria de l' entreteniment.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media és una companyia de mitjans de comunicació de la indústria de l'entreteniment, amb seu al GMA Network Center a les Filipines. La companyia mare de l'empresa és GMA Network.</lex>
+      <lex lang="eu" lid="Id1">GMA New Media entretenimendu-industriako hedabide-konpainia bat da, eta Filipinetako GMA Network Centerren dago. GMA Network da haren enpresa nagusia.</lex>
+      <lex lang="eu" lid="Id2">GMA Network Center-en filial gisa, GMA New Media Filipinetan ere kokatuta dago. Komunikazio-enpresa gisa, GMA New Media-k entretenimendu-industriarekin zerikusia duten aplikazioak eskaintzen ditu.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media entretenimendu industriako komunikabide enpresa bat da, Filipinetako GMA Network Centerren egoitza nagusia duena.</lex>
+      <lex lang="gl" lid="Id1">GMA New Media é unha compañía de medios de comunicación da industria do entretemento e está situada dentro do GMA Network Center nas Filipinas. A súa compañía matriz é a GMA Network.</lex>
+      <lex lang="gl" lid="Id2">Como filial de GMA Network Center, GMA New Media tamén ten a súa sede nas Filipinas. Como empresa de medios, GMA New Media ofrece aplicacións relacionadas coa industria do entretemento.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media é unha compañía de medios de comunicación da industria do entretemento, con sede no GMA Network Center nas Filipinas. A compañía matriz da compañía é GMA Network.</lex>
+      </entry>
+    <entry category="Company" eid="Id15" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+        <otriple>GMA_New_Media | location | Philippines</otriple>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+        <otriple>GMA_New_Media | product | Online_Game</otriple>
+        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+        <mtriple>GMA_New_Media | location | Philippines</mtriple>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+        <mtriple>GMA_New_Media | product | Online_Game</mtriple>
+        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+        <striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+        <striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+        <striple>GMA_Nuevos_Medios | Producto | Juego_en_línea</striple>
+        <striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Ubicació | Centre_de_la_xarxa_GMA</ctriple>
+        <ctriple>GMA_New_Media | Ubicació | Filipines</ctriple>
+        <ctriple>GMA_New_Media | Producte | World_Wide_Web</ctriple>
+        <ctriple>GMA_New_Media | Producte | videojoc_en_línia</ctriple>
+        <ctriple>GMA_New_Media | EmpresaMatriu | GMA_Network_(empresa)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Localización | Centro_de_rede_GMA</gtriple>
+        <gtriple>GMA_New_Media | Localización | Filipinas</gtriple>
+        <gtriple>GMA_New_Media | Produto | World_Wide_Web</gtriple>
+        <gtriple>GMA_New_Media | Produto | Xogo_en_liña</gtriple>
+        <gtriple>GMA_New_Media | EmpresaMatriz | GMA_Network_(empresa)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Lokalizazioa | GMA_sareko_zentroa</btriple>
+        <btriple>GMA_New_Media | Lokalizazioa | Filipinak</btriple>
+        <btriple>GMA_New_Media | Produktua | Web_orokorra</btriple>
+        <btriple>GMA_New_Media | Produktua | Online_jokoa</btriple>
+        <btriple>GMA_New_Media | EnpresaNagusia | GMA_Network_(enpresa)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">GMA Network is the parent company of GMA New Media, which is headquartered in the GMA Network Center in the Philippines. GMA New Media produces online games and offers World Wide Web services.</lex>
+      <lex lang="en" lid="Id2">GMA New Media, Inc. is a subsidiary of GMA Network and is located in the GMA Network Center in the Philippines. The company produces web services and its main product is online games.</lex>
+      <lex lang="en" lid="Id3">GMA New Media, located inside GMA Network Centre in the Philippines, makes both web sites and online games. GMA Network is its parent company.</lex>
+      <lex lang="es" lid="Id1">GMA Network es la empresa matriz de GMA New Media, que tiene su sede en el GMA Network Center de Filipinas. GMA New Media produce juegos en línea y ofrece servicios de World Wide Web.</lex>
+      <lex lang="es" lid="Id2">GMA New Media, Inc. es una filial de GMA Network y tiene su sede en el GMA Network Center de Filipinas. La empresa produce servicios web y su principal producto son los juegos en línea.</lex>
+      <lex lang="es" lid="Id3">GMA New Media, situada en el GMA Network Centre de Filipinas, crea sitios web y juegos en línea. GMA Network es su empresa matriz.</lex>
+      <lex lang="ca" lid="Id1">GMA Network és la companyia mare de GMA New Media, que té la seu al GMA Network Center a les Filipines. GMA New Media produeix jocs en línia i ofereix serveis de World Wide Web.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media, Inc. és una subsidiària de GMA Network i està ubicada al GMA Network Center a les Filipines. L'empresa produeix serveis web i el seu producte principal són els jocs en línia.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media, ubicada dins del GMA Network Centre a les Filipines, fa tant llocs web com jocs en línia. GMA Network és la seva empresa mare.</lex>
+      <lex lang="eu" lid="Id1">GMA Network GMA New Media-ren enpresa nagusia da, eta Filipinetako GMA Network Center-en du egoitza. GMA New Media-k lineako jokoak ekoizten ditu eta World Wide Web zerbitzuak eskaintzen ditu.</lex>
+      <lex lang="eu" lid="Id2">GMA New Media, Inc. GMA Network-en filiala da eta Filipinetako GMA Network Center-en dago. Enpresak web zerbitzuak ekoizten ditu eta bere produktu nagusia online jokoak dira.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media, Filipinetako GMA Network Centren kokatua, webguneak eta online jokoak egiten ditu. GMA Network da bere enpresa ama.</lex>
+      <lex lang="gl" lid="Id1">GMA Network é a empresa matriz de GMA New Media, que ten a súa sede no GMA Network Center nas Filipinas. GMA New Media produce xogos en liña e ofrece servizos de World Wide Web.</lex>
+      <lex lang="gl" lid="Id2">GMA New Media, Inc. é unha subsidiaria de GMA Network e está situada no GMA Network Center nas Filipinas. A compañía produce servizos web e o seu produto principal son os xogos en liña.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media, situada dentro do GMA Network Centre nas Filipinas, fai tanto sitios web como xogos en liña. GMA Network é a súa empresa matriz.</lex>
+      </entry>
+    <entry category="Company" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+        <otriple>GMA_New_Media | type | Media_company</otriple>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+        <otriple>GMA_New_Media | subsidiary | Digify,_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+        <mtriple>GMA_New_Media | type | Media_company</mtriple>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Digify,_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+        <striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+        <striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+        <striple>GMA_Nuevos_Medios | Filial | Digify,_Inc.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Producte | Aplicacions_mòbils</ctriple>
+        <ctriple>GMA_New_Media | Tipus | empresa_de_comunicació</ctriple>
+        <ctriple>GMA_New_Media | Producte | World_Wide_Web</ctriple>
+        <ctriple>GMA_New_Media | Subsidiària | Portal_d'entreteniment_de_Filipines</ctriple>
+        <ctriple>GMA_New_Media | Subsidiària | Digify,_Inc.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Produto | Aplicacións_móbiles</gtriple>
+        <gtriple>GMA_New_Media | Tipo | Empresa_de_medios</gtriple>
+        <gtriple>GMA_New_Media | Produto | World_Wide_Web</gtriple>
+        <gtriple>GMA_New_Media | Subsidiaria | Portal_de_entretemento_filipino</gtriple>
+        <gtriple>GMA_New_Media | Subsidiaria | Digify,_Inc.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Produktua | Aplikazio_mugikorrak</btriple>
+        <btriple>GMA_New_Media | MotarenArabera | Komunikazio-enpresa</btriple>
+        <btriple>GMA_New_Media | Produktua | Web_orokorra</btriple>
+        <btriple>GMA_New_Media | Subsidiary | Filipinetako_Entretenimenduaren_Ataria</btriple>
+        <btriple>GMA_New_Media | Subsidiary | Digify,_Inc.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The media company GMA New Media, a mobile applications maker offering World Wide Web related services, has Philippine Entertainment Portal and Digify, Inc. as subsidiaries.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is a media company that creates mobile apps and web services. Two subsidiaries of GMA New Media are Digify, Inc. and Philippine Entertainment Portal, Inc.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is a company that offers mobile apps &amp; websites. Philippine Entertainment Portal and Digify are subsidiaries of GMA.</lex>
+      <lex lang="es" lid="Id1">La empresa de medios de comunicación GMA New Media, fabricante de aplicaciones móviles que ofrece servicios relacionados con la World Wide Web, tiene como filiales Philippine Entertainment Portal y Digify, Inc.</lex>
+      <lex lang="es" lid="Id2">GMA New Media es una empresa de medios de comunicación que crea aplicaciones móviles y servicios web. Dos filiales de GMA New Media son Digify, Inc. y Philippine Entertainment Portal, Inc.</lex>
+      <lex lang="es" lid="Id3">GMA New Media es una empresa que ofrece aplicaciones móviles y sitios web. Philippine Entertainment Portal y Digify son filiales de GMA.</lex>
+      <lex lang="ca" lid="Id1">La companyia de mitjans GMA New Media, un fabricant d'aplicacions mòbils que ofereix serveis relacionats amb la World Wide Web, té Philippine Entertainment Portal i Digify, Inc. com a filials.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media és una empresa de mitjans que crea aplicacions mòbils i serveis web. Dues filials de GMA New Media són Digify, Inc. i Philippine Entertainment Portal, Inc.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media és una empresa que ofereix aplicacions mòbils i llocs web. Philippine Entertainment Portal i Digify són filials de GMA.</lex>
+      <lex lang="eu" lid="Id1">GMA New Media hedabide-konpainiak, World Wide Web-arekin erlazionatutako zerbitzuak eskaintzen dituen aplikazio mugikorren fabrikatzaileak, filial hauek ditu: Philippine Entertainment Portal eta Digify, Inc.</lex>
+      <lex lang="eu" lid="Id2">GMA New Media hedabide-konpainia bat da, eta mugikorretarako aplikazioak eta web-zerbitzuak sortzen ditu. GMA New Media-ren bi filial dira Digify, Inc. eta Philippine Entertainment Portal, Inc.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media aplikazio mugikorrak eta webguneak eskaintzen dituen enpresa da. Philippine Entertainment Portal eta Digify GMAren filialak dira.</lex>
+      <lex lang="gl" lid="Id1">A empresa de medios GMA New Media, un fabricante de aplicacións móbiles que ofrece servizos relacionados coa World Wide Web, ten como filiais Philippine Entertainment Portal e Digify, Inc.</lex>
+      <lex lang="gl" lid="Id2">GMA New Media é unha empresa de medios que crea aplicacións móbiles e servizos web. Dúas filiais de GMA New Media son Digify, Inc. e Philippine Entertainment Portal, Inc.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media é unha compañía que ofrece aplicacións móbiles e sitios web. Philippine Entertainment Portal e Digify son subsidiarias de GMA.</lex>
+      </entry>
+    <entry category="Company" eid="Id17" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        <otriple>Brazil | areaTotal | 8514840000000.0</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        <mtriple>Brazil | areaTotal | 8514837.14  (square kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Ubicación | São_Paulo</striple>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        <striple>Brasil | ÁreaTotal | 8514837,14_(kilómetros_cuadrados)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Ubicació | São_Paulo</ctriple>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        <ctriple>Brasil | TotalDeL'Àrea | 8514837,14_(kilòmetres_quadrats)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Localización | São_Paulo</gtriple>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        <gtriple>Brasil | ÁreaTotal | 8514837.14_(quilómetros_cadrados)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | Lokalizazioa | Sao_Paulo</btriple>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        <btriple>Brasil | AreaGuztira | 8514837.14_(kilometro_karratutan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas company is a type of S.A (corporation) founded on January 1, 2001 in São Paulo, Brazil. The total area of Brazil is 8514837.14 square kilometres.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, a type of S.A. corporation located in São Paulo, Brazil, was founded on 2001-01-01. The total area of Brazil is 8,514,837.14 square kilometres.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas (founded January 1, 2001) is an S.A. corporation which is located within Brazil's 8514837.14 square kilometres in the city of Sao Paulo.</lex>
+      <lex lang="es" lid="Id1">La empresa Hypermarcas es un tipo de S.A (sociedad anónima) fundada el 1 de enero de 2001 en São Paulo, Brasil. La superficie total de Brasil es de 8514837,14 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas, una sociedad anónima de tipo S.A. situada en São Paulo, Brasil, fue fundada el 1 de enero de 2001. La superficie total de Brasil es de 8.514.837,14 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas (fundada el 1 de enero de 2001) es una sociedad anónima con sede en la ciudad Brasileña de Sao Paulo, de 8514837,14 kilómetros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">La companyia Hypermarcas és un tipus de S.A (corporació) fundada l'1 de gener de 2001 a São Paulo, Brasil. La superfície total del Brasil és de 8.514.837,14 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas, un tipus de corporació SA situada a São Paulo, Brasil, va ser fundada el 2001-01-01. La superfície total del Brasil és de 8.514.837,14 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas (fundada l'1 de gener de 2001) és una corporació S.A. que es troba dins dels 8514837,14 quilòmetres quadrats del Brasil a la ciutat de Sao Paulo.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas enpresa 2001eko urtarrilaren 1ean sortu zen, S.A (korporazio) gisa, Brasilen (8514837,14 kilometro karratutan).</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas, Brasilgo S.A. korporazio mota bat, 2001-01-01ean sortu zen. Brasilen azalera osoa 8.514.837,14 kilometro karratutan dago.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas (2001eko urtarrilaren 1ean sortu zen) SA korporazio bat da, Brasilen 8514837,14 kilometro koadroko São Paulo hirian kokatua.</lex>
+      <lex lang="gl" lid="Id1">A empresa Hypermarcas é un tipo de S. A. (corporación) fundada o 1 de xaneiro de 2001 en São Paulo, Brasil. A área total do Brasil é de 8514837, 14 quilómetros cadrados.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas, un tipo de corporación S. A. situada en São Paulo, Brasil, foi fundada o 01- 01- 2001. A área total do Brasil é de 8. 514. 837, 14 quilómetros cadrados.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas (fundada o 1 de xaneiro de 2001) é unha corporación S.A. que está situada nos 8514837,14 quilómetros cadrados de Brasil na cidade de Sao Paulo.</lex>
+      </entry>
+    <entry category="Company" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | revenue | 1.8E9</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Ingresos | 1800000000</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | IngresosNetos | 108600000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Ingressos | 1800000000</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | IngressosNets | 108600000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Receitas | 1800000000</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        <gtriple>Hypermarcas | IngresosNetos | 108600000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | Diru-sarrerak | 1800000000</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        <btriple>Hipermarkak | Diru-sarreraGarbia | 108600000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas, whose key person is the CEO, was found on January 1, 2001, and produces pharmaceutical drugs to generate revenue of $1,800,000,000 and net income of $108,600,000.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, a drug maker led by their key CEO, was founded on 2001-01-01. Hypermarcas makes $1,800,000,000 a year and their net income is $108,600,000.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, a company managed by their CEO that produces drugs, was founded on January 1, 2001. Hypermarcas earns $1,800,000,000 per year and has a net income of $108,600,000.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas, cuya persona clave es el Director General, se fundó el 1 de enero de 2001 y produce medicamentos farmacéuticos para generar unos ingresos de 1.800.000.000 $ y unos beneficios netos de 108.600.000 $.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas, un fabricante de medicamentos dirigido por su CEO clave, se fundó el 1 de enero de 2001. Hypermarcas gana 1.800 millones de dólares al año y sus ingresos netos ascienden a 108.600.000 dólares.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas, una empresa dirigida por su director general que produce medicamentos, se fundó el 1 de enero de 2001. Hypermarcas gana 1.800.000.000 de dólares al año y tiene unos ingresos netos de 108.600.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, la persona clau del qual és el CEO, va ser fundada el 1 de gener de 2001, i produeix medicaments farmacèutics per generar ingressos de 1.800.000.000 de dòlars i ingressos nets de 108.600.000 de dòlars.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas, un fabricant de medicaments liderat pel seu director executiu, es va fundar l'1 de gener de 2001. Hypermarcas factura 1.800.000.000 de dòlars l'any i el seu ingrés net és de 108.600.000 dòlars.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas, una empresa dirigida pel seu CEO que produeix fàrmacs, va ser fundada el 1 de gener de 2001. Hypermarcas guanya 1.800.000.000 de dòlars a l'any i té un ingrés net de 108.600.000 de dòlars.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas, enpresaren zuzendari exekutiboa, 2001eko urtarrilaren 1ean sortu zen, eta botika farmazeutikoak ekoizten ditu 1.800.000.000 dolarreko diru-sarrerak lortzeko eta 108.600.000 dolarreko irabazi garbia.</lex>
+      <lex lang="eu" lid="Id2">2001eko urtarrilaren 1ean sortu zen Hypermarcas, bere zuzendari nagusiak zuzentzen duen botika fabrikatzaile bat, Hypermarcasek 1.800.000.000 dolar irabazten ditu urtean eta bere diru-sarrera garbia 108.600.000 dolar da.</lex>
+      <lex lang="eu" lid="Id3">2001eko urtarrilaren 1ean sortu zen Hypermarcas, beren zuzendari nagusiak zuzentzen duen drogak ekoizten dituen enpresa, urtean 1.800.000.000 dolar irabazten dituena eta 108.600.000 dolarreko diru-sarrera garbia duena.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas, cuxa persoa clave é o CEO, foi fundada o 1 de xaneiro de 2001, e produce medicamentos farmacéuticos para xerar ingresos de $1,800,000,000 e ingresos netos de $108,600,000.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas, un fabricante de medicamentos liderado polo seu director executivo, fundouse o 1 de xaneiro de 2001. Hypermarcas factura 1800 millóns de dólares ao ano e o seu beneficio neto é de 108600000 dólares.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas, unha empresa xestionada polo seu director executivo que produce medicamentos, fundouse o 1 de xaneiro de 2001. Hypermarcas gaña 1800 millóns de dólares ao ano e ten uns ingresos netos de 108 600 000 dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        <striple>Hipermarcas | Filial | Mantecorp</striple>
+        <striple>Hipermarcas | IngresosNetos | 108600000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        <ctriple>Hypermarcas | Subsidiària | Mantecorp</ctriple>
+        <ctriple>Hypermarcas | IngressosNets | 108600000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        <gtriple>Hypermarcas | Subsidiaria | Mantecorp</gtriple>
+        <gtriple>Hypermarcas | IngresosNetos | 108600000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        <btriple>Hipermarkak | Subsidiary | Mantecorp</btriple>
+        <btriple>Hipermarkak | Diru-sarreraGarbia | 108600000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas, founded on January 1, 2001, is located in Brazil and has a net income of 108,600,000. The company is a type of S.A. and has a subsidiary called Mantecorp.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, located in Brazil is a type of S.A. corporation that contains a subsidiary called Mantecorp. It was founded in 2001-01-01 and has a net income of 108,600,000.</lex>
+      <lex lang="en" lid="Id3">Mantecorp is a subsidiary of Hypermarcas. Hypermarcas is an S.A. corporation located in Brazil which was founded on January 1, 2001 and had a net income of $108,600,000.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas, fundada el 1 de enero de 2001, está ubicada en Brasil y tiene unos ingresos netos de 108.600.000. La empresa es un tipo de S.A. y tiene una filial llamada Mantecorp.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas, situada en Brasil, es un tipo de sociedad anónima que contiene una filial llamada Mantecorp. Fue fundada en 1 de enero de 2001 y tiene unos ingresos netos de 108.600.000.</lex>
+      <lex lang="es" lid="Id3">Mantecorp es una filial de Hypermarcas. Hypermarcas es una sociedad anónima ubicada en Brasil que se fundó el 1 de enero de 2001 y tuvo unos ingresos netos de 108.600.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, fundada l'1 de gener de 2001, està situada al Brasil i té uns ingressos nets de 108.600.000. L'empresa és un tipus de S.A. i té una subsidiària anomenada Mantecorp.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas, situada a Brasil, és un tipus de corporació SA que conté una filial anomenada Mantecorp. Va ser fundada el 2001-01-01 i té un ingrés net de 108.600.000.</lex>
+      <lex lang="ca" lid="Id3">Mantecorp és una subsidiària d'Hypermarcas. Hypermarcas és una corporació S.A. situada al Brasil que va ser fundada l'1 de gener de 2001 i tenia uns ingressos nets de 108.600.000 dòlars.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas, 2001eko urtarrilaren 1ean sortua, Brasilen dago eta 108.600.000 euroko diru-sarrera garbia du. Enpresa S.A. motakoa da eta Mantecorp izeneko filiala dauka.</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas, Brasilen kokatua, S.A. korporazio mota bat da, Mantecorp izeneko filial bat duena. 2001-01-01ean sortu zen eta 108.600.000 euroko irabazi garbia du.</lex>
+      <lex lang="eu" lid="Id3">Mantecorp Hypermarcas-en alaba da. Hypermarcas Brasilgo S.A. korporazio bat da, 2001eko urtarrilaren 1ean sortu zena eta 108.600.000 dolarreko diru-sarrera garbia izan zuena.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas, fundada o 1 de xaneiro de 2001, está situada en Brasil e ten uns ingresos netos de 108 600 000. A empresa é un tipo de S.A. e ten unha filial chamada Mantecorp.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas, situada no Brasil, é un tipo de corporación S. A. que contén unha subsidiaria chamada Mantecorp. Foi fundada o 01- 01- 2001 e ten uns ingresos netos de 108. 600. 000.</lex>
+      <lex lang="gl" lid="Id3">Mantecorp é unha subsidiaria de Hypermarcas. Hypermarcas é unha corporación S. A. situada no Brasil que foi fundada o 1 de xaneiro de 2001 e tiña un ingreso neto de 108. 600. 000 dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        <gtriple>Hypermarcas | Industria | Produtos_farmacéuticos</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        <btriple>Hipermarkak | Industria | Farmazia</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Founded January 01, 2001 and headed by its CEO, Hypermarcas is a giant in Brazil's pharmaceutical industry. Currently, it specializes in making drugs.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is a Brazilian pharmaceutical drug company founded on January 1, 2001. The company is headed by the CEO.</lex>
+      <lex lang="en" lid="Id3">A CEO manages the drug producing pharmaceutical company located in Brazil, Hypermarcas, which was founded on January 1, 2001.</lex>
+      <lex lang="es" lid="Id1">Fundada el 1 de enero de 2001 y dirigida por su CEO, Hypermarcas es un gigante de la industria farmacéutica Brasileña. Actualmente, está especializada en la fabricación de medicamentos.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas es una empresa farmacéutica Brasileña fundada el 1 de enero de 2001. La empresa está dirigida por el CEO.</lex>
+      <lex lang="es" lid="Id3">Un director general dirige la empresa farmacéutica productora de medicamentos ubicada en Brasil, Hypermarcas, fundada el 1 de enero de 2001.</lex>
+      <lex lang="ca" lid="Id1">Fundada l'1 de gener de 2001 i encapçalada pel seu CEO, Hypermarcas és un gegant de la indústria farmacèutica brasilera que actualment s'especialitza en la fabricació de medicaments.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas és una companyia farmacèutica brasilera fundada l'1 de gener de 2001. l'empresa està encapçalada pel CEO.</lex>
+      <lex lang="ca" lid="Id3">Un CEO gestiona l'empresa farmacèutica productora de fàrmacs situada al Brasil, Hypermarcas, que va ser fundada l'1 de gener de 2001.</lex>
+      <lex lang="eu" lid="Id1">2001eko urtarrilaren 1ean sortua eta bere zuzendari nagusiak zuzendua, Hypermarcas Brasilgo industria farmazeutikoko erraldoi bat da. Gaur egun, sendagaiak ekoizten espezializatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas 2001eko urtarrilaren 1ean sortutako farmazeutikoen konpainia brasildarra da.</lex>
+      <lex lang="eu" lid="Id3">Zuzendari exekutibo batek Brasilean dagoen botikak ekoizten dituen farmazeutikoen enpresa zuzentzen du, Hypermarcas, 2001eko urtarrilaren 1ean sortu zena.</lex>
+      <lex lang="gl" lid="Id1">Fundada o 01 de xaneiro de 2001 e dirixida polo seu CEO, Hypermarcas é un xigante da industria farmacéutica brasileira.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas é unha compañía farmacéutica brasileira fundada o 1 de xaneiro de 2001. A compañía está dirixida polo CEO.</lex>
+      <lex lang="gl" lid="Id3">Un director executivo dirixe a compañía farmacéutica de produción de medicamentos con sede en Brasil, Hypermarcas, que foi fundada o 1 de xaneiro de 2001.</lex>
+      </entry>
+    <entry category="Company" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | Filial | Mantecorp</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | Subsidiària | Mantecorp</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        <gtriple>Hypermarcas | Industria | Produtos_farmacéuticos</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        <gtriple>Hypermarcas | Subsidiaria | Mantecorp</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        <btriple>Hipermarkak | Industria | Farmazia</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        <btriple>Hipermarkak | Subsidiary | Mantecorp</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas, a pharmaceutical company located in Brazil, is managed by their CEO and has a subsidiary called Mantecorp. Hypermarcas' main product is drugs.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is a drug maker located in Brazil. The pharmaceutical company is run by its CEO and also has a subsidiary called Mantecorp.</lex>
+      <lex lang="en" lid="Id3">The CEO is the key person of Mantecorp, a subsidiary of Hypermarcas, a pharmaceutical company located in Brazil.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas, una empresa farmacéutica situada en Brasil, está dirigida por su director general y tiene una filial llamada Mantecorp. El principal producto de Hypermarcas son los medicamentos.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas es un fabricante de medicamentos situado en Brasil. La empresa farmacéutica está dirigida por su director general y también tiene una filial llamada Mantecorp.</lex>
+      <lex lang="es" lid="Id3">El CEO es la persona clave de Mantecorp, filial de Hypermarcas, empresa farmacéutica ubicada en Brasil.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, una empresa farmacèutica situada a Brasil, és dirigida pel seu CEO i té una filial anomenada Mantecorp.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas és un fabricant de medicaments situat al Brasil. L'empresa farmacèutica és dirigida pel seu CEO i també té una subsidiària anomenada Mantecorp.</lex>
+      <lex lang="ca" lid="Id3">El CEO és la persona clau de Mantecorp, una filial de Hypermarcas, una empresa farmacèutica situada a Brasil.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas, Brasilen kokatuta dagoen enpresa farmazeutikoa, bere zuzendari nagusiak kudeatzen du eta Mantecorp izeneko filial bat du.</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas Brasilgo farmazia-enpresa bat da. Enpresa farmazeutikoa bere zuzendari nagusiak zuzentzen du, eta Mantecorp izeneko filial bat ere badu.</lex>
+      <lex lang="eu" lid="Id3">Mantecorp-eko zuzendari nagusia da, Brasilen kokatutako Hypermarcas farmazia-konpainiaren filiala.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas, unha compañía farmacéutica situada no Brasil, é xestionada polo seu CEO e ten unha subsidiaria chamada Mantecorp. O principal produto de Hypermarcas son os medicamentos.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas é un fabricante de medicamentos con sede en Brasil. A empresa farmacéutica está dirixida polo seu director executivo e tamén ten unha filial chamada Mantecorp.</lex>
+      <lex lang="gl" lid="Id3">O CEO é a persoa clave de Mantecorp, unha filial de Hypermarcas, unha compañía farmacéutica con sede en Brasil.</lex>
+      </entry>
+    <entry category="Company" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        <striple>Hipermarcas | Filial | Mantecorp</striple>
+        <striple>Hipermarcas | IngresosNetos | 108600000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        <ctriple>Hypermarcas | Subsidiària | Mantecorp</ctriple>
+        <ctriple>Hypermarcas | IngressosNets | 108600000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        <gtriple>Hypermarcas | Subsidiaria | Mantecorp</gtriple>
+        <gtriple>Hypermarcas | IngresosNetos | 108600000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        <btriple>Hipermarkak | Subsidiary | Mantecorp</btriple>
+        <btriple>Hipermarkak | Diru-sarreraGarbia | 108600000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Founded January 1, 2001, Mantecorp subsidiary Hypermarcas is a pharmaceutical drug company which is a S.A. corporation with a net income of $108600000.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas makes drugs and was founded on 2001-01-01 and is a S.A. corporation with a subsidiary named Mantecorp and net income of $108,600,000.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, founded on January 1, 2001, is a type of S.A. corporation with drugs as its main product. The company has a subsidiary called Mantecorp and has a net income of 108,600,000.</lex>
+      <lex lang="es" lid="Id1">Fundada el 1 de enero de 2001, Hypermarcas, filial de Mantecorp, es una empresa farmacéutica constituida como sociedad anónima con unos ingresos netos de $108600000.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas fabrica medicamentos, fue fundada el 1 de enero de 2001 y es una sociedad anónima con una filial llamada Mantecorp y unos ingresos netos de 108.600.000 dólares.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas, fundada el 1 de enero de 2001, es un tipo de sociedad anónima con los medicamentos como principal producto. La empresa tiene una filial llamada Mantecorp y cuenta con unos ingresos netos de 108.600.000.</lex>
+      <lex lang="ca" lid="Id1">Fundada l'1 de gener de 2001, la filial de Mantecorp Hypermarcas és una empresa farmacèutica que és una corporació S.A. amb uns ingressos nets de 108.600.000 dòlars.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas fabrica drogues i va ser fundada el 2001-01-01 i és una corporació S.A. amb una subsidiària anomenada Mantecorp i uns ingressos nets de 108.600.000 $.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas, fundada l'1 de gener de 2001, és un tipus de corporació S.A. amb drogues com a producte principal. L'empresa té una subsidiària anomenada Mantecorp i té uns ingressos nets de 108.600.000.</lex>
+      <lex lang="eu" lid="Id1">2001eko urtarrilaren 1ean sortu zen, Mantecorpen alaba Hypermarcas farmazeutikoen enpresa bat da, S.A. korporazio bat da, 108600000 dolarreko diru-sarrera garbia duena.</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas botikak egiten ditu eta 2001-01-01ean sortu zen. S.A. korporazio bat da, Mantecorp izeneko filiala du eta 108.600.000 dolarreko diru-sarrera garbia.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas, 2001eko urtarrilaren 1ean sortua, S.A. korporazio mota bat da eta drogak ditu produktu nagusi gisa. Enpresak Mantecorp izeneko filiala dauka eta 108.600.000 euroko diru-sarrera garbia du.</lex>
+      <lex lang="gl" lid="Id1">Fundada o 1 de xaneiro de 2001, a subsidiaria de Mantecorp Hypermarcas é unha empresa farmacéutica que é unha corporación S.A. cun ingreso neto de 108600000 dólares.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas fabrica medicamentos e foi fundada o 01-01-2001 e é unha corporación S.A. cunha subsidiaria chamada Mantecorp e ingresos netos de 108.600.000 dólares.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas, fundada o 1 de xaneiro de 2001, é un tipo de sociedade anónima con medicamentos como o seu principal produto. A empresa ten unha filial chamada Mantecorp e ten uns ingresos netos de 108 600 000.</lex>
+      </entry>
+    <entry category="Company" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        <otriple>Hypermarcas | product | Healthcare</otriple>
+        <otriple>Hypermarcas | product | Cosmetics</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        <mtriple>Hypermarcas | product | Healthcare</mtriple>
+        <mtriple>Hypermarcas | product | Cosmetics</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        <striple>Hipermarcas | Producto | Sanidad</striple>
+        <striple>Hipermarcas | Producto | cosméticos</striple>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        <ctriple>Hypermarcas | Producte | Atenció_sanitària</ctriple>
+        <ctriple>Hypermarcas | Producte | cosmètica</ctriple>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        <gtriple>Hypermarcas | Produto | Atención_sanitaria</gtriple>
+        <gtriple>Hypermarcas | Produto | Cosméticos</gtriple>
+        <gtriple>Hypermarcas | Industria | Produtos_farmacéuticos</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        <btriple>Hipermarkak | Produktua | Osasuna</btriple>
+        <btriple>Hipermarkak | Produktua | Kosmetikoak</btriple>
+        <btriple>Hipermarkak | Industria | Farmazia</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas is an S.A corporation in the pharmaceutical company, it makes healthcare products and sells cosmetics, its key person is the CEO.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, a pharmaceutical company that manufactures healthcare and cosmetics products, is a type of S.A. corporation. They are managed by their CEO.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is managed by a CEO that is in the pharmaceuticals industry that sells healthcare products and produces cosmetics within this type of S.A. corporation.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas es una sociedad anónima del sector farmacéutico, fabrica productos sanitarios y vende cosméticos, su persona clave es el director general.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas, empresa farmacéutica que fabrica productos sanitarios y cosméticos, es un tipo de sociedad anónima. Están dirigidas por su Consejero Delegado.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas está dirigida por un CEO que pertenece a la industria farmacéutica que vende productos sanitarios y produce cosméticos dentro de este tipo de sociedades anónimas.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas és una corporació S.A en l'empresa farmacèutica, fabrica productes sanitaris i ven cosmètics, la seva persona clau és el CEO.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas, una empresa farmacèutica que fabrica productes sanitaris i cosmètics, és un tipus de corporació S.A. L'administra el seu director executiu.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas és gestionat per un CEO que està en la indústria farmacèutica que ven productes sanitaris i produeix cosmètics dins d'aquest tipus de corporació S.A.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas enpresa farmazeutikoa da. Osasun produktuak egiten ditu eta kosmetikoak saltzen ditu.</lex>
+      <lex lang="eu" lid="Id2">Hypermarcas, osasun- eta kosmetika-produktuak fabrikatzen dituen farmazia-konpainia, S.A. korporazio-mota bat da. Zuzendari nagusiak kudeatzen ditu.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas farmazia-industriako zuzendari exekutibo batek kudeatzen du, eta osasun-produktuak saltzen eta kosmetikoak ekoizten ditu S.A. korporazio-mota horren barruan.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas é unha corporación S.A. na empresa farmacéutica, fai produtos sanitarios e vende cosméticos, a súa persoa clave é o CEO.</lex>
+      <lex lang="gl" lid="Id2">Hypermarcas, unha empresa farmacéutica que fabrica produtos de saúde e cosméticos, é unha especie de sociedade anónima. Está dirixida polo seu CEO.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas está xestionada por un CEO que está na industria farmacéutica que vende produtos sanitarios e produce cosméticos dentro deste tipo de corporación S.A.</lex>
+      </entry>
+    <entry category="Company" eid="Id24" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Trane | foundingYear | 2007-01-01</otriple>
+        <otriple>Trane | industry | Building_materials</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Swords,_Dublin | isPartOf | Leinster</otriple>
+        <otriple>Swords,_Dublin | isPartOf | Dublin_(European_Parliament_constituency)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | industry | Building_materials</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Swords,_Dublin | isPartOf | Leinster</mtriple>
+        <mtriple>Swords,_Dublin | isPartOf | Dublin_(European_Parliament_constituency)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | Industria | Materiales_de_construcción</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Swords,_Dublín | FormaParteDe | Leinster</striple>
+        <striple>Swords,_Dublín | FormaParteDe | Dublín_(circunscripción_del_Parlamento_Europeo)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | Indústria | Materials_de_construcció</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Espades,_Dublín | ÉsPartDe | Leinster</ctriple>
+        <ctriple>Espades,_Dublín | ÉsPartDe | Dublín_(districte_electoral_del_Parlament_Europeu)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | Industria | Materiais_de_construción</gtriple>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Espadas,_Dublín | ÉParteDe | Leinster</gtriple>
+        <gtriple>Espadas,_Dublín | ÉParteDe | Dublín_(electorado_do_Parlamento_Europeo)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | Industria | Eraikuntzako_materialak</btriple>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Ezpatak,_Dublin | HonenZatiDa | Leinster</btriple>
+        <btriple>Ezpatak,_Dublin | HonenZatiDa | Dublin_(Europako_Parlamentuko_hauteskunde-barrutia)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Trane company (founded on January 01, 1913) is in the building materials industry. It is located in Swords, Dublin which is a part of Leinster and belongs to the Dublin constituency of the European Parliament.</lex>
+      <lex lang="en" lid="Id2">Trane (founded 01-01-1913) is in the building materials industry. It’s located in Swords, Dublin, part of Leinster and the Dublin European Parliament constituency.</lex>
+      <lex lang="en" lid="Id3">Trane, a building materials company, was founded January 1 1913 in Swords, Dublin, located in Leinster. Swords is also a part of the Dublin European Parliamentary.</lex>
+      <lex lang="es" lid="Id1">La empresa Trane (fundada el 1 de enero de 1913) pertenece al sector de los materiales de construcción. Tiene su sede en Swords, Dublín, que forma parte de Leinster y pertenece a la circunscripción de Dublín del Parlamento Europeo.</lex>
+      <lex lang="es" lid="Id2">Trane (fundada el 1 de enero de 1913) pertenece al sector de los materiales de construcción. Está situada en Swords, Dublín, parte de Leinster y de la circunscripción del Parlamento Europeo de Dublín.</lex>
+      <lex lang="es" lid="Id3">Trane, empresa de materiales de construcción, fue fundada el 1 de enero de 1913 en Swords, Dublín, situada en Leinster. Swords también forma parte del Parlamento Europeo de Dublín.</lex>
+      <lex lang="ca" lid="Id1">L'empresa Trane (fundada l'1 de gener de 1913) es dedica a la indústria de materials de construcció. Està situada a Swords, Dublín, que forma part de Leinster i pertany a la circumscripció de Dublín del Parlament Europeu.</lex>
+      <lex lang="ca" lid="Id2">Trane (fundada el 1 de gener de 1913) és una empresa de la indústria de materials de construcció, situada a Swords, Dublín, part de Leinster i la circunscripció del Parlament Europeu de Dublín.</lex>
+      <lex lang="ca" lid="Id3">Trane, una empresa de materials de construcció, va ser fundada l'1 de gener de 1913 a Swords, Dublín, situada a Leinster. Swords també forma part del Parlament Europeu de Dublín.</lex>
+      <lex lang="eu" lid="Id1">Trane enpresa (1913ko urtarrilaren 1ean sortua) eraikuntzako materialen industrian aritzen da. Swords-en dago, Dublinen, Leinster-eko zati bat dena eta Dublingo Europako Parlamentuko hauteskunde-barrutiaren parte dena.</lex>
+      <lex lang="eu" lid="Id2">Trane (1913ko urtarrilaren 1ean sortua) eraikuntzako materialen industrian aritzen da. Dublingo Swords-en dago, Leinster-en eta Dublingo Europako Parlamentuko hauteskunde-barrutiaren zati batean.</lex>
+      <lex lang="eu" lid="Id3">Trane, eraikuntzako materialen enpresa bat, 1913ko urtarrilaren 1ean sortu zen Swords-en (Dublin), Leinster-en. Swords-ek Dublin-eko Europako Parlamentua ere hartzen du barnean.</lex>
+      <lex lang="gl" lid="Id1">A empresa Trane (fundada o 1 de xaneiro de 1913) está na industria de materiais de construción.</lex>
+      <lex lang="gl" lid="Id2">Trane (fundada o 1 de xaneiro de 1913) encóntrase no sector dos materiais de construción. Está situada en Swords, Dublín, que forma parte de Leinster e da circunscrición do Parlamento Europeo de Dublín.</lex>
+      <lex lang="gl" lid="Id3">Trane, unha empresa de materiais de construción, foi fundada o 1 de xaneiro de 1913 en Swords, Dublín, situada en Leinster. Swords é tamén parte do Parlamento Europeo de Dublín.</lex>
+      </entry>
+    <entry category="Company" eid="Id25" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | foundingYear | 2007-01-01</otriple>
+        <otriple>Trane | location | Ireland</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+        <otriple>Trane | industry | Building_materials</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | location | Ireland</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+        <mtriple>Trane | industry | Building_materials</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | Ubicación | isla_de_Irlanda</striple>
+        <striple>Trane | NúmeroDeEmpleados | 29000</striple>
+        <striple>Trane | Producto | HVAC</striple>
+        <striple>Trane | Industria | Materiales_de_construcción</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | Ubicació | Irlanda</ctriple>
+        <ctriple>Trane | NombreD'Empleats | 29000</ctriple>
+        <ctriple>Trane | Producte | HVAC</ctriple>
+        <ctriple>Trane | Indústria | Materials_de_construcció</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | Localización | Irlanda</gtriple>
+        <gtriple>Trane | NúmeroDeEmpregados | 29000</gtriple>
+        <gtriple>Trane | Produto | Climatización_e_aire_acondicionado</gtriple>
+        <gtriple>Trane | Industria | Materiais_de_construción</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | Lokalizazioa | Irlanda</btriple>
+        <btriple>Trane | LangileKopurua | 29000</btriple>
+        <btriple>Trane | Produktua | Aire_girotua</btriple>
+        <btriple>Trane | Industria | Eraikuntzako_materialak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane is a company in Ireland founded on 1913-01-01 which employees 29,000 people to build HVAC building materials.</lex>
+      <lex lang="en" lid="Id2">Trane, founded on 01-01-1913, is located in Ireland, it has 29000 employees. Trane manufactures HVAC in the building material industry.</lex>
+      <lex lang="en" lid="Id3">The Trane company (founded on January 01, 1913) is located in Ireland and has 29,000 employees. This company is in the building materials industry with HVAC being one of its products.</lex>
+      <lex lang="es" lid="Id1">Trane es una empresa irlandesa fundada en 1 de enero de 1913 que emplea a 29.000 personas en la fabricación de materiales de construcción HVAC.</lex>
+      <lex lang="es" lid="Id2">Trane, fundada el 1 de enero de 1913, tiene su sede en Irlanda, cuenta con 29000 empleados. Trane fabrica HVAC en la industria de materiales de construcción.</lex>
+      <lex lang="es" lid="Id3">La empresa Trane (fundada el 1 de enero de 1913) tiene su sede en Irlanda y cuenta con 29.000 empleados. Esta empresa se dedica al sector de los materiales de construcción, siendo la HVAC uno de sus productos.</lex>
+      <lex lang="ca" lid="Id1">Trane és una empresa a Irlanda fundada el 1913 que emplea 29.000 persones per construir materials de construcció HVAC.</lex>
+      <lex lang="ca" lid="Id2">Trane, fundada el 01-01-1913, està situada a Irlanda, té 29000 empleats. Trane fabrica HVAC en la indústria de materials de construcció.</lex>
+      <lex lang="ca" lid="Id3">L'empresa Trane (fundada l'1 de gener de 1913) està situada a Irlanda i té 29.000 empleats. Aquesta empresa està en la indústria de materials de construcció amb HVAC com un dels seus productes.</lex>
+      <lex lang="eu" lid="Id1">Trane 1913-01-01n sortutako Irlandako enpresa bat da, 29.000 langile dituena HVAC eraikuntza materialak eraikitzeko.</lex>
+      <lex lang="eu" lid="Id2">Trane, 1913ko urtarrilaren 1ean sortua, Irlandan dago eta 29.000 langile ditu. Eraikuntzako materialen industrian egiten du lan Trane-k.</lex>
+      <lex lang="eu" lid="Id3">Trane enpresa (1913ko urtarrilaren 1ean sortua) Irlandan dago eta 29.000 langile ditu. Enpresa eraikuntzako materialen industrian dago eta HVAC da bere produktuetako bat.</lex>
+      <lex lang="gl" lid="Id1">Trane é unha empresa irlandesa fundada o 1 de xaneiro de 1913 que emprega a 29.000 persoas para construír materiais de construción HVAC.</lex>
+      <lex lang="gl" lid="Id2">Trane, fundada o 01- 01- 1913, está situada en Irlanda, ten 29000 empregados. Trane fabrica HVAC na industria de materiais de construción.</lex>
+      <lex lang="gl" lid="Id3">A empresa Trane (fundada o 1 de xaneiro de 1913) está situada en Irlanda e ten 29 000 empregados. Esta empresa encóntrase no sector dos materiais de construción e a climatización é un dos seus produtos.</lex>
+      </entry>
+    <entry category="Company" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Trane | location | Ireland</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+        <otriple>Ireland | location | Europe</otriple>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | industry | Building_materials</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | location | Ireland</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+        <mtriple>Ireland | location | Europe</mtriple>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | industry | Building_materials</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ubicación | isla_de_Irlanda</striple>
+        <striple>Trane | Producto | HVAC</striple>
+        <striple>isla_de_Irlanda | Ubicación | Europa</striple>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Industria | Materiales_de_construcción</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ubicació | Irlanda</ctriple>
+        <ctriple>Trane | Producte | HVAC</ctriple>
+        <ctriple>Irlanda | Ubicació | Europa</ctriple>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Indústria | Materials_de_construcció</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Localización | Irlanda</gtriple>
+        <gtriple>Trane | Produto | Climatización_e_aire_acondicionado</gtriple>
+        <gtriple>Irlanda | Localización | Europaworld__continents._kgm</gtriple>
+        <gtriple>Trane | Produto | Sistema_de_xestión_de_edificios</gtriple>
+        <gtriple>Trane | Industria | Materiais_de_construción</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Lokalizazioa | Irlanda</btriple>
+        <btriple>Trane | Produktua | Aire_girotua</btriple>
+        <btriple>Irlanda | Lokalizazioa | Europa</btriple>
+        <btriple>Trane | Produktua | Eraikinen_kudeaketa_sistema</btriple>
+        <btriple>Trane | Industria | Eraikuntzako_materialak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane is located in Ireland, a country in Europe. The company focuses both on building management systems, ex. HVAC, and building materials.</lex>
+      <lex lang="en" lid="Id2">The Trane industry is building materials, and the company makes building management systems. Trane is located in Europe or more specifically, Ireland, and manufactures HVAC equipment.</lex>
+      <lex lang="en" lid="Id3">Trane, manufacturer of building management systems and HVAC, is in the building materials industry. The company is located in Ireland, Europe.</lex>
+      <lex lang="es" lid="Id1">Trane tiene su sede en Irlanda, un país de Europa. La empresa se dedica tanto a los sistemas de gestión de edificios (por ejemplo, HVAC) como a los materiales de construcción.</lex>
+      <lex lang="es" lid="Id2">El sector de Trane es el de los materiales de construcción, y la empresa fabrica sistemas de gestión de edificios. Trane tiene su sede en Europa o, más concretamente, en Irlanda, y fabrica equipos de HVAC.</lex>
+      <lex lang="es" lid="Id3">Trane, fabricante de sistemas de gestión de edificios y HVAC, pertenece al sector de materiales de construcción. La empresa tiene su sede en Irlanda, Europa.</lex>
+      <lex lang="ca" lid="Id1">Trane està ubicada a Irlanda, un país d' Europa. L' empresa es centra tant en sistemes de gestió d' edificis, per exemple, HVAC, com en materials de construcció.</lex>
+      <lex lang="ca" lid="Id2">La indústria de Trane són els materials de construcció, i l'empresa fabrica sistemes de gestió d'edificis. Trane està ubicada a Europa o més específicament, Irlanda, i fabrica equips HVAC.</lex>
+      <lex lang="ca" lid="Id3">Trane, fabricant de sistemes de gestió d'edificis i HVAC, es troba en la indústria de materials de construcció. L'empresa es troba a Irlanda, Europa.</lex>
+      <lex lang="eu" lid="Id1">Trane Irlandan dago, Europako herrialde batean. Enpresa eraikinen kudeaketa sistemetan, adibidez, HVAC eta eraikuntza materialetan jartzen du arreta.</lex>
+      <lex lang="eu" lid="Id2">Trane-ren industria eraikuntzako materialak dira, eta enpresak eraikinen kudeaketa sistemak egiten ditu. Trane Europan dago, edo zehatzago, Irlandan, eta HVAC ekipamenduak ekoizten ditu.</lex>
+      <lex lang="eu" lid="Id3">Trane, eraikinen kudeaketa sistemak eta HVAC fabrikatzailea, eraikuntza materialen industrian dago. Enpresa Irlandan dago, Europan.</lex>
+      <lex lang="gl" lid="Id1">Trane está situada en Irlanda, un país de Europa. A empresa céntrase tanto nos sistemas de xestión de edificios, por exemplo, HVAC, como nos materiais de construción.</lex>
+      <lex lang="gl" lid="Id2">A industria de Trane dedícase aos materiais de construción e a empresa fabrica sistemas de xestión de edificios. Trane está situada en Europa, concretamente en Irlanda, e fabrica equipos de climatización.</lex>
+      <lex lang="gl" lid="Id3">Trane, fabricante de sistemas de xestión de edificios e HVAC, está na industria de materiais de construción. A compañía está situada en Irlanda, Europa.</lex>
+      </entry>
+    <entry category="Company" eid="Id27" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | foundingYear | 2007-01-01</otriple>
+        <otriple>Trane | location | Ireland</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | location | Ireland</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | Ubicación | isla_de_Irlanda</striple>
+        <striple>Trane | NúmeroDeEmpleados | 29000</striple>
+        <striple>Trane | Producto | HVAC</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | Ubicació | Irlanda</ctriple>
+        <ctriple>Trane | NombreD'Empleats | 29000</ctriple>
+        <ctriple>Trane | Producte | HVAC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | Localización | Irlanda</gtriple>
+        <gtriple>Trane | NúmeroDeEmpregados | 29000</gtriple>
+        <gtriple>Trane | Produto | Climatización_e_aire_acondicionado</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | Lokalizazioa | Irlanda</btriple>
+        <btriple>Trane | LangileKopurua | 29000</btriple>
+        <btriple>Trane | Produktua | Aire_girotua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane was founded on 01-01-1913 in Swords, Dublin, Ireland. It manufactures HVAC, with 29,000 employees.</lex>
+      <lex lang="en" lid="Id2">Trane, an HVAC company located in Swords, Dublin in Ireland, was founded on 1913-01-01. Trane has 29,000 employees.</lex>
+      <lex lang="en" lid="Id3">The Trane company (founded on January 01, 1913) is located in Swords, Dublin in Ireland. It has 29,000 employees and one of its products is HVAC.</lex>
+      <lex lang="es" lid="Id1">Trane fue fundada el 1 de enero de 1913 en Swords, Dublín, Irlanda. Fabrica sistemas de HVAC, y cuenta con 29.000 empleados.</lex>
+      <lex lang="es" lid="Id2">Trane, una empresa de HVAC ubicada en Swords, Dublín en Irlanda, fue fundada el 1 de enero de 1913. Trane cuenta con 29.000 empleados.</lex>
+      <lex lang="es" lid="Id3">La empresa Trane (fundada el 1 de enero de 1913) tiene su sede en Swords, Dublín, en Irlanda. Cuenta con 29.000 empleados y uno de sus productos es la HVAC.</lex>
+      <lex lang="ca" lid="Id1">Trane va ser fundada el 01-01-1913 a Swords, Dublín, Irlanda. Fabrica HVAC, amb 29.000 empleats.</lex>
+      <lex lang="ca" lid="Id2">Trane, una empresa de climatització situada a Swords, Dublín, Irlanda, va ser fundada l'1 de gener de 1913.</lex>
+      <lex lang="ca" lid="Id3">La companyia Trane (fundada l'1 de gener de 1913) està situada a Swords, Dublín a Irlanda. Té 29.000 empleats i un dels seus productes és HVAC.</lex>
+      <lex lang="eu" lid="Id1">Trane 1913ko urtarrilaren 1ean sortu zen Swords-en, Dublinen, Irlandan. HVAC fabrikatzen du, 29.000 langilerekin.</lex>
+      <lex lang="eu" lid="Id2">Irlandako Dublingo Swords-en dagoen Trane HVAC enpresa 1913-01-01ean sortu zen. Tranek 29.000 langile ditu.</lex>
+      <lex lang="eu" lid="Id3">Trane enpresa (1913ko urtarrilaren 1ean sortua) Swords-en dago, Dublinen, Irlandan. 29.000 langile ditu eta bere produktuetako bat HVAC da.</lex>
+      <lex lang="gl" lid="Id1">Trane foi fundada o 01-01-1913 en Swords, Dublín, Irlanda. Fabrica HVAC, con 29.000 empregados.</lex>
+      <lex lang="gl" lid="Id2">Trane, unha compañía de HVAC situada en Swords, Dublín en Irlanda, foi fundada o 1- 01- 1913. Trane ten 29. 000 empregados.</lex>
+      <lex lang="gl" lid="Id3">A compañía Trane (fundada o 1 de xaneiro de 1913) está situada en Swords, Dublín, Irlanda. Ten 29.000 empregados e un dos seus produtos é HVAC.</lex>
+      </entry>
+    <entry category="Company" eid="Id28" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+        <otriple>Trane | type | Subsidiary</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | IngresosNetos | 556300000</striple>
+        <striple>Trane | Tipo | filial</striple>
+        <striple>Trane | IngresosDeExplotación | 875400000</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | IngressosNets | 556300000</ctriple>
+        <ctriple>Trane | Tipus | Subsidiària</ctriple>
+        <ctriple>Trane | IngressosOperatius | 875400000</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | IngresosNetos | 556300000</gtriple>
+        <gtriple>Trane | Tipo | Subsidiaria</gtriple>
+        <gtriple>Trane | IngresosDeFuncionamento | 875400000</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | LugarDeFundación | La_Crosse,_Wisconsin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Diru-sarreraGarbia | 556300000</btriple>
+        <btriple>Trane | MotarenArabera | Subsidiarioa</btriple>
+        <btriple>Trane | FuntzionamenduarenIrabaziak | 875400000</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | FundazioarenLekua. | La_Crosse,_Wisconsin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane, founded in La Crosse, Wisconsin on 1913-01-01, is a subsidiary company. They have a net income of about $556 million and an operating income of $875.4 million USD.</lex>
+      <lex lang="en" lid="Id2">The Trane company was founded on January 01, 1913 in La Crosse, Wisconsin. It is a subsidiary company with an operating income of $875.400 million USD and a net income of $556.300 million USD.</lex>
+      <lex lang="en" lid="Id3">Trane is a subsidiary company that was founded on January 1, 1913 in La Crosse, Wisconsin. Trane has an operating income of $875.400,000 with a net income of $556,300,000.</lex>
+      <lex lang="es" lid="Id1">Trane, fundada en La Crosse, Wisconsin, el 1 de enero de 1913, es una empresa filial. Tienen unos ingresos netos de unos 556 millones de dólares y unos ingresos de explotación de 875,4 millones de dólares.</lex>
+      <lex lang="es" lid="Id2">La empresa Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin. Es una empresa filial con unos ingresos de explotación de 875,400 millones de USD y unos ingresos netos de 556,300 millones de USD.</lex>
+      <lex lang="es" lid="Id3">Trane es una filial fundada el 1 de enero de 1913 en La Crosse, Wisconsin. Trane tiene unos ingresos de explotación de 875.400.000 dólares con unos ingresos netos de 556.300.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">Trane, fundada a La Crosse, Wisconsin l'1 de gener de 1913, és una companyia subsidiària que té uns ingressos nets d'uns 556 milions de dòlars i uns ingressos operatius de 875,4 milions de dòlars.</lex>
+      <lex lang="ca" lid="Id2">La companyia Trane va ser fundada l'1 de gener de 1913 a La Crosse, Wisconsin. És una companyia subsidiària amb uns ingressos operatius de 875.400 milions de dòlars i uns ingressos nets de 556.300 milions de dòlars.</lex>
+      <lex lang="ca" lid="Id3">Trane és una companyia subsidiària que va ser fundada l'1 de gener de 1913 a La Crosse, Wisconsin. Trane té uns ingressos operatius de 875.400.000 dòlars amb uns ingressos nets de 556.300.000 dòlars.</lex>
+      <lex lang="eu" lid="Id1">Trane, 1913ko urtarrilaren 1ean La Crossen (Wisconsin) sortua, filiala da. 556 milioi dolarreko diru-sarrera garbia eta 875,4 milioi dolarreko diru-sarrera operatiboa ditu.</lex>
+      <lex lang="eu" lid="Id2">Trane enpresa 1913ko urtarrilaren 1ean sortu zen La Crosse-n, Wisconsin-en, eta 875.400 milioi dolarreko diru-sarrera operatiboak eta 556.300 milioi dolarreko diru-sarrera garbiak dituen enpresa subsidiarioa da.</lex>
+      <lex lang="eu" lid="Id3">Trane 1913ko urtarrilaren 1ean sortu zen, La Crossen (Wisconsin), eta 875.400.000 dolarreko diru-sarrera operatiboa eta 556.300.000 dolarreko diru-sarrera garbia ditu.</lex>
+      <lex lang="gl" lid="Id1">Trane, fundada en La Crosse, Wisconsin o 1 de xaneiro de 1913, é unha compañía subsidiaria que ten uns ingresos netos de 556 millóns de dólares e uns ingresos operativos de 875,4 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id2">A compañía Trane fundouse o 1 de xaneiro de 1913 en La Crosse, Wisconsin. É unha compañía subsidiaria cun ingreso operativo de 875. 400 millóns de dólares e un ingreso neto de 556. 300 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id3">Trane é unha compañía subsidiaria que foi fundada o 1 de xaneiro de 1913 en La Crosse, Wisconsin. Trane ten un ingreso operativo de 875. 400. 000 $ cun ingreso neto de 556. 300. 000 $.</lex>
+      </entry>
+    <entry category="Company" eid="Id29" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | IngresosNetos | 556300000</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | IngressosNets | 556300000</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Produto | Sistema_de_xestión_de_edificios</gtriple>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | IngresosNetos | 556300000</gtriple>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Produktua | Eraikinen_kudeaketa_sistema</btriple>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | Diru-sarreraGarbia | 556300000</btriple>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Trane company (founded on January 01, 1913) is located in Swords, Dublin and makes building management systems. The company has a net income of $556.300 million USD and has the revenue of $10.264 billion USD.</lex>
+      <lex lang="en" lid="Id2">Trane, a manufacturer of building management systems, has revenue of $10,264,000,000, with a net income of $556,300,000. The company was founded on January 1, 1913 and is located in Swords, Dublin.</lex>
+      <lex lang="en" lid="Id3">With a revenue of $10,264,000,000 plus $556 net income Trane, a Swords, Dublin based building management system company, was founded on 1913-01-01.</lex>
+      <lex lang="es" lid="Id1">La empresa Trane (fundada el 1 de enero de 1913) tiene su sede en Swords, Dublín, y fabrica sistemas de gestión de edificios. La empresa tiene unos ingresos netos de 556.300 millones de USD y unos ingresos de 10.264 millones de USD.</lex>
+      <lex lang="es" lid="Id2">Trane, fabricante de sistemas de gestión de edificios, tiene unos ingresos de 10.264.000.000 dólares, con un beneficio neto de 556.300.000 dólares. La empresa se fundó el 1 de enero de 1913 y tiene su sede en Swords, Dublín.</lex>
+      <lex lang="es" lid="Id3">Con unos ingresos de 10.264.000.000 $ más 556 $ de ingresos netos, Trane, una empresa de sistemas de gestión de edificios con sede en Swords, Dublín, fue fundada el 1 de enero de 1913.</lex>
+      <lex lang="ca" lid="Id1">L'empresa Trane (fundada l'1 de gener de 1913) està situada a Swords, Dublín i fabrica sistemes de gestió d'edificis. L'empresa té uns ingressos nets de 556.300 milions de dòlars i té uns ingressos de 10.264 milions de dòlars.</lex>
+      <lex lang="ca" lid="Id2">Trane, un fabricant de sistemes de gestió d'edificis, té uns ingressos de 10.264.000.000 dòlars, amb uns ingressos nets de 556.300.000 dòlars. L'empresa es va fundar l'1 de gener de 1913 i es troba a Swords, Dublín.</lex>
+      <lex lang="ca" lid="Id3">Amb un ingressos de $ 10.264.000.000 més $ 556 d'ingressos nets, Trane, una empresa de sistemes de gestió d'edificis amb seu a Swords, Dublín, va ser fundada el 1913-01-01.</lex>
+      <lex lang="eu" lid="Id1">Trane enpresa (1913ko urtarrilaren 1ean sortua) Swords-en dago, Dublinen, eta eraikinen kudeaketa sistemak egiten ditu. Enpresak 556.300 milioi dolarreko irabazi garbia du eta 10.264 milioi dolarreko irabaziak ditu.</lex>
+      <lex lang="eu" lid="Id2">Trane-k, eraikinen kudeaketa-sistemen fabrikatzaileak, 10.264.000.000 dolarreko diru-sarrerak ditu, eta 556.300.000 dolarreko diru-sarrera garbia. Enpresa 1913ko urtarrilaren 1ean sortu zen eta Swords-en dago, Dublinen.</lex>
+      <lex lang="eu" lid="Id3">10.264.000.000 dolarreko diru-sarrerekin eta 556 dolarreko diru-sarrera garbiarekin, Trane, Swords, Dublingo eraikinen kudeaketa sistemen enpresa, 1913-01-01ean sortu zen.</lex>
+      <lex lang="gl" lid="Id1">A compañía Trane (fundada o 1 de xaneiro de 1913) está situada en Swords, Dublín e fabrica sistemas de xestión de edificios. A compañía ten un ingreso neto de 556. 300 millóns de dólares e ten uns ingresos de 10. 264 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id2">Trane, un fabricante de sistemas de xestión de edificios, ten uns ingresos de 10.264 millóns de dólares e uns ingresos netos de 556,3 millóns de dólares. A empresa fundouse o 1 de xaneiro de 1913 e ten a súa sede en Swords, Dublín.</lex>
+      <lex lang="gl" lid="Id3">Cuns ingresos de 10.264.000.000 dólares máis 556 dólares de ingresos netos, Trane, unha empresa de sistemas de xestión de edificios con sede en Swords, Dublín, fundouse o 1 de xaneiro de 1913.</lex>
+      </entry>
+    <entry category="Company" eid="Id30" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | IngresosNetos | 556300000</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | IngresosDeExplotación | 875400000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | IngressosNets | 556300000</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | IngressosOperatius | 875400000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Produto | Sistema_de_xestión_de_edificios</gtriple>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | IngresosNetos | 556300000</gtriple>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Trane | IngresosDeFuncionamento | 875400000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Produktua | Eraikinen_kudeaketa_sistema</btriple>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | Diru-sarreraGarbia | 556300000</btriple>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Trane | FuntzionamenduarenIrabaziak | 875400000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane, located in Swords, Dublin, manufactures building management systems with an operating income of $875,400,000. Its revenue is $10,264,000,000 and it has a net income of $556,300,000.</lex>
+      <lex lang="en" lid="Id2">Trane, located in Swords, Dublin boasts a revenue of 1,026,400,00,000, net income of $556,300,000 and an operating income of $875,400,000 from making building management systems.</lex>
+      <lex lang="en" lid="Id3">Trane is located in Swords, Dublin, and produces building management systems. It has a revenue of 10,264,000,000, as well as a net income of about 556 million and finally an operating income of 875.4 million USD.</lex>
+      <lex lang="es" lid="Id1">Trane, con sede en Swords (Dublín), fabrica sistemas de gestión de edificios con unos ingresos de explotación de 875.400.000 dólares. Sus ingresos ascienden a 10.264.000.000 de dólares y tiene unos ingresos netos de 556.300.000 dólares.</lex>
+      <lex lang="es" lid="Id2">Trane, con sede en Swords, Dublín, cuenta con unos ingresos de 1.026.400.00.000, unos ingresos netos de 556.300.000 y unos ingresos de explotación de 875.400.000 por la fabricación de sistemas de gestión de edificios.</lex>
+      <lex lang="es" lid="Id3">Trane tiene su sede en Swords (Dublín) y fabrica sistemas de gestión de edificios. Tiene unos ingresos de 10.264.000.000, así como unos ingresos netos de unos 556 millones y, por último, unos ingresos de explotación de 875,4 millones de USD.</lex>
+      <lex lang="ca" lid="Id1">Trane, situada a Swords, Dublín, fabrica sistemes de gestió d'edificis amb uns ingressos operatius de 875.400.000 $. Els seus ingressos són de 10.264.000.000 $ i té uns ingressos nets de 556.300.000 $.</lex>
+      <lex lang="ca" lid="Id2">Trane, situada a Swords, Dublín, té uns ingressos de 1.026.400.000.000, uns ingressos nets de 556.300.000 $ i uns ingressos operatius de 875.400.000 $ de la fabricació de sistemes de gestió d'edificis.</lex>
+      <lex lang="ca" lid="Id3">Trane està situada a Swords, Dublín, i produeix sistemes de gestió d'edificis. Té un ingressos de 10.264.000.000, així com un ingress net d'uns 556 milions i finalment un ingressos operatius de 875,4 milions de dòlars.</lex>
+      <lex lang="eu" lid="Id1">Trane-k, Dublingo Swords-en kokatua, eraikinen kudeaketa-sistemak egiten ditu eta 875.400.000 dolarreko diru-sarrerak ditu. Bere diru-sarrerak 10.264.000.000 dolarrekoak dira eta 556.300.000 dolarreko diru-sarrera garbia dauka.</lex>
+      <lex lang="eu" lid="Id2">Trane, Swords, Dublinen kokatua, 1.026.400.000 dolarreko diru-sarrerak ditu, 556.300.000 dolarreko diru-sarrera garbiak eta 875.400.000 dolarreko diru-sarrera operatiboak eraikinen kudeaketa sistemak egiteagatik.</lex>
+      <lex lang="eu" lid="Id3">Trane Swords-en dago, Dublinen, eta eraikinen kudeaketa sistemak ekoizten ditu. 10.264.000.000 dolarreko diru-sarrerak ditu, baita 556 milioi dolarreko diru-sarrera garbiak eta 875,4 milioi dolarreko diru-sarrera operatiboak ere.</lex>
+      <lex lang="gl" lid="Id1">Trane, situada en Swords, Dublín, fabrica sistemas de xestión de edificios con ingresos operativos de 875 400 000 dólares. Os seus ingresos son de 10 264 000 000 dólares e ten un ingreso neto de 556 300 000 dólares.</lex>
+      <lex lang="gl" lid="Id2">Trane, situada en Swords, Dublín, ten uns ingresos de 1.026.400.000.000, uns ingresos netos de 556.300.000 dólares e uns ingresos operativos de 875.400.000 dólares pola fabricación de sistemas de xestión de edificios.</lex>
+      <lex lang="gl" lid="Id3">Trane está situada en Swords, Dublín, e produce sistemas de xestión de edificios. Ten uns ingresos de 10. 264. 000. 000, así como uns ingresos netos duns 556 millóns e finalmente uns ingresos operativos de 875, 4 millóns de dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | Producto | HVAC</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | Producte | HVAC</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Produto | Sistema_de_xestión_de_edificios</gtriple>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | Produto | Climatización_e_aire_acondicionado</gtriple>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Trane | LugarDeFundación | La_Crosse,_Wisconsin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Produktua | Eraikinen_kudeaketa_sistema</btriple>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | Produktua | Aire_girotua</btriple>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Trane | FundazioarenLekua. | La_Crosse,_Wisconsin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane, an HVAC company located in Swords, Dublin, manufactures building management systems. Trane was founded in La Crosse, Wisconsin and has $10,264,000,000 in revenue.</lex>
+      <lex lang="en" lid="Id2">Trane, a company that manufactures building management systems and HVAC components, has a revenue of 10264000000. The company was founded in La Crosse, Wisconsin, and is located in Swords, Dublin.</lex>
+      <lex lang="en" lid="Id3">Trane is a company that produces building management systems and HVAC. It is located in Swords, Dublin and has a revenue of $10,264,000,000. The foundation place of Trane was La Crosse, Wisconsin.</lex>
+      <lex lang="es" lid="Id1">Trane, una empresa de HVAC ubicada en Swords, Dublín, fabrica sistemas de gestión de edificios. Trane se fundó en La Crosse, Wisconsin, y tiene unos ingresos de 10.264.000.000 $.</lex>
+      <lex lang="es" lid="Id2">Trane, empresa que fabrica sistemas de gestión de edificios y componentes de HVAC, tiene unos ingresos de 10264000000. La empresa se fundó en La Crosse (Wisconsin) y tiene su sede en Swords (Dublín).</lex>
+      <lex lang="es" lid="Id3">Trane es una empresa que fabrica sistemas de gestión de edificios y HVAC. Tiene su sede en Swords, Dublín, y sus ingresos ascienden a 10.264.000.000 de dólares. El lugar de fundación de Trane fue La Crosse, Wisconsin.</lex>
+      <lex lang="ca" lid="Id1">Trane, una empresa d'HVAC situada a Swords, Dublín, fabrica sistemes de gestió d'edificis. Trane va ser fundada a La Crosse, Wisconsin i té 10.264.000.000 de dòlars en ingressos.</lex>
+      <lex lang="ca" lid="Id2">Trane, una companyia que fabrica sistemes de gestió d' edificis i components HVAC, té uns ingressos de 10264000000. La companyia va ser fundada a La Crosse, Wisconsin, i està situada a Swords, Dublín.</lex>
+      <lex lang="ca" lid="Id3">Trane és una empresa que produeix sistemes de gestió d'edificis i HVAC. Està situada a Swords, Dublín i té un ingrés de 10.264.000.000 $. El lloc de fundació de Trane va ser La Crosse, Wisconsin.</lex>
+      <lex lang="eu" lid="Id1">Trane-k, Dublingo Swords-en kokatutako HVAC enpresak, eraikinen kudeaketa-sistemak egiten ditu. Trane-k La Crosse-n (Wisconsin) du egoitza eta 10.264 milioi dolarreko diru-sarrerak ditu.</lex>
+      <lex lang="eu" lid="Id2">Trane-k, eraikinen kudeaketa-sistemak eta HVAC osagaiak fabrikatzen dituen enpresak, 10264000000 euroko diru-sarrerak ditu. Enpresa La Crossen (Wisconsin) sortu zen eta Swords-en (Dublin) dago.</lex>
+      <lex lang="eu" lid="Id3">Trane eraikinen kudeaketa sistemak eta aire girotua ekoizten dituen enpresa bat da. Swords-en dago, Dublin-en eta 10.264.000.000 dolarreko irabaziak ditu. Trane-ren fundazio lekua La Crosse izan zen, Wisconsin-en.</lex>
+      <lex lang="gl" lid="Id1">Trane, unha empresa de HVAC situada en Swords, Dublín, fabrica sistemas de xestión de edificios. Trane fundouse en La Crosse, Wisconsin e ten uns ingresos de 10.264 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id2">Trane, unha empresa que fabrica sistemas de xestión de edificios e compoñentes de HVAC, ten uns ingresos de 10264 millóns de dólares. A empresa fundouse en La Crosse, Wisconsin, e ten a súa sede en Swords, Dublín.</lex>
+      <lex lang="gl" lid="Id3">Trane é unha compañía que produce sistemas de xestión de edificios e HVAC. Está situada en Swords, Dublín e ten uns ingresos de 10. 264. 000. 000 dólares. O lugar de fundación de Trane foi La Crosse, Wisconsin.</lex>
+      </entry>
+    <entry category="Company" eid="Id32" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | type | Subsidiary</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Tipo | filial</striple>
+        <striple>Trane | IngresosDeExplotación | 875400000</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Tipus | Subsidiària</ctriple>
+        <ctriple>Trane | IngressosOperatius | 875400000</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Produto | Sistema_de_xestión_de_edificios</gtriple>
+        <gtriple>Trane | Tipo | Subsidiaria</gtriple>
+        <gtriple>Trane | IngresosDeFuncionamento | 875400000</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | LugarDeFundación | La_Crosse,_Wisconsin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Produktua | Eraikinen_kudeaketa_sistema</btriple>
+        <btriple>Trane | MotarenArabera | Subsidiarioa</btriple>
+        <btriple>Trane | FuntzionamenduarenIrabaziak | 875400000</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | FundazioarenLekua. | La_Crosse,_Wisconsin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane, a manufacturer of building management systems, is a subsidiary company with an operating income of $875,400,000. Trane was founded on January 1, 1913 in La Crosse, Wisconsin.</lex>
+      <lex lang="en" lid="Id2">Trane was founded January 1st, 1913 in La Crosse, Wisconsin. It is a subsidiary producing building management systems with an operating income of $875,400,000.</lex>
+      <lex lang="en" lid="Id3">Trane, founded in La Crosse Wisconsin, on 01-01-1913, is a subsidiary company that makes building management systems. Trane's operating income is currently $875,400,000.</lex>
+      <lex lang="es" lid="Id1">Trane, fabricante de sistemas de gestión de edificios, es una filial con unos ingresos de explotación de 875.400.000 dólares. Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin.</lex>
+      <lex lang="es" lid="Id2">Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin. Es una filial productora de sistemas de gestión de edificios con unos ingresos de explotación de 875.400.000 dólares.</lex>
+      <lex lang="es" lid="Id3">Trane, fundada en La Crosse, Wisconsin, el 1 de enero de 1913, es una filial que fabrica sistemas de gestión de edificios. Los ingresos de explotación de Trane ascienden actualmente a 875.400.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">Trane, un fabricant de sistemes de gestió d'edificis, és una companyia subsidiària amb uns ingressos operatius de 875.400.000 $. Trane va ser fundada l'1 de gener de 1913 a La Crosse, Wisconsin.</lex>
+      <lex lang="ca" lid="Id2">Trane va ser fundada l'1 de gener de 1913 a La Crosse, Wisconsin. És una subsidiària que produeix sistemes de gestió d'edificis amb uns ingressos operatius de 875.400.000 dòlars.</lex>
+      <lex lang="ca" lid="Id3">Trane, fundada a La Crosse Wisconsin, el 01-01-1913, és una companyia subsidiària que fabrica sistemes de gestió d'edificis.</lex>
+      <lex lang="eu" lid="Id1">Trane, eraikinen kudeaketa sistemen fabrikatzailea, 875.400.000 dolarreko operazio-errenta duen konpainia alaba bat da.</lex>
+      <lex lang="eu" lid="Id2">Trane 1913ko urtarrilaren 1ean sortu zen La Crosse-n, Wisconsin-en, eraikinen kudeaketa sistemak ekoizten dituen filiala da, 875.400.000 dolarreko diru-sarrera operatiboekin.</lex>
+      <lex lang="eu" lid="Id3">Trane, 1913ko urtarrilaren 1ean La Crosse Wisconsinen sortua, eraikinen kudeaketa sistemak egiten dituen enpresa subsidiarioa da. Trane-ren diru-sarrera operatiboak gaur egun 875.400.000 dolarrekoak dira.</lex>
+      <lex lang="gl" lid="Id1">Trane, un fabricante de sistemas de xestión de edificios, é unha empresa subsidiaria con ingresos operativos de 875 400 000 dólares. Trane fundouse o 1 de xaneiro de 1913 en La Crosse, Wisconsin.</lex>
+      <lex lang="gl" lid="Id2">Trane fundouse o 1 de xaneiro de 1913 en La Crosse, Wisconsin. É unha filial que produce sistemas de xestión de edificios cun ingreso operativo de 875 400 000 dólares.</lex>
+      <lex lang="gl" lid="Id3">Trane, fundada en La Crosse Wisconsin, o 01-01-1913, é unha compañía subsidiaria que fabrica sistemas de xestión de edificios.</lex>
+      </entry>
+    <entry category="Company" eid="Id33" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Swords,_Dublin | areaUrban | 11.35</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Swords,_Dublin | areaUrban | 11.35</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | IngresosNetos | 556300000</striple>
+        <striple>Trane | NúmeroDeEmpleados | 29000</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Swords,_Dublín | ZonaUrbana | 11.35</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | IngressosNets | 556300000</ctriple>
+        <ctriple>Trane | NombreD'Empleats | 29000</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Espades,_Dublín | ÀreaUrban | 11.35</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | IngresosNetos | 556300000</gtriple>
+        <gtriple>Trane | NúmeroDeEmpregados | 29000</gtriple>
+        <gtriple>Trane | Localización | Espadas,_Dublín</gtriple>
+        <gtriple>Espadas,_Dublín | ÁreaUrbana | 11.35</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | Diru-sarreraGarbia | 556300000</btriple>
+        <btriple>Trane | LangileKopurua | 29000</btriple>
+        <btriple>Trane | Lokalizazioa | Ezpatak,_Dublin</btriple>
+        <btriple>Ezpatak,_Dublin | HiriEremua | 11.35</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Trane company employs 29,000 people, has a net income of $556.300 million USD and revenue of $10.264 billion USD. The company is located in Swords, Dublin which has an urban area of 11.35 square kilometers.</lex>
+      <lex lang="en" lid="Id2">The Trane company has 29,000 employees and is located in Swords, Dublin; which has an urban area of 11.35 square kilometers. The company has a net income of $556.300 million USD and a revenue of $10.264 billion USD.</lex>
+      <lex lang="en" lid="Id3">Trane, located in Swords, Dublin (urban area 11.35), employs 29,000 people. Trane earned net income of $556,300,000 from revenue of $10,264,000,000.</lex>
+      <lex lang="es" lid="Id1">La empresa Trane emplea a 29.000 personas, tiene unos ingresos netos de 556,300 millones de USD y unos ingresos de 10.264 millones de USD. La empresa tiene su sede en Swords, Dublín, que tiene una superficie urbana de 11,35 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id2">La empresa Trane cuenta con 29.000 empleados y tiene su sede en Swords, Dublín; que tiene una superficie urbana de 11,35 kilómetros cuadrados. La empresa tiene unos ingresos netos de 556.300 millones de dólares y unos ingresos de 10.264 millones de dólares.</lex>
+      <lex lang="es" lid="Id3">Trane, con sede en Swords, Dublín (área urbana 11,35), emplea a 29.000 personas. Trane obtuvo un beneficio neto de 556.300.000 dólares con unos ingresos de 10.264.000.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">La companyia Trane dóna feina a 29.000 persones, té uns ingressos nets de 556.300 milions de dòlars i uns ingressos de 10.264 milions de dòlars. La companyia està ubicada a Swords, Dublín, que té una àrea urbana d'11,35 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id2">L'empresa Trane té 29.000 empleats i està situada a Swords, Dublín; que té una àrea urbana d'11,35 quilòmetres quadrats. L'empresa té uns ingressos nets de 556.300 milions de dòlars i uns ingressos de 10.264 milions de dòlars.</lex>
+      <lex lang="ca" lid="Id3">Trane, situada a Swords, Dublín (àrea urbana 11.35), dóna feina a 29.000 persones.</lex>
+      <lex lang="eu" lid="Id1">Trane enpresak 29.000 langile ditu, 556.300 milioi dolarreko diru-sarrera garbia eta 10.264 milioi dolarreko diru-sarrerak ditu.Enpresa Swords-en dago, Dublinen, 11,35 kilometro karratuko hiri-eremu batekin.</lex>
+      <lex lang="eu" lid="Id2">Trane enpresak 29.000 langile ditu eta Swords-en dago, Dublinen; 11,35 kilometro karratuko hiri eremua du.Enpresak 556.300 milioi dolarreko diru-sarrera garbia du eta 10.264 milioi dolarreko diru-sarrerak.</lex>
+      <lex lang="eu" lid="Id3">Tranek 29.000 langile ditu eta 556.300.000 dolarreko diru-sarrera garbia lortu zuen 10.264.000.000 dolarreko diru-sarreretatik.</lex>
+      <lex lang="gl" lid="Id1">A compañía Trane emprega a 29.000 persoas, ten un ingreso neto de 556.300 millóns de dólares e ingresos de 10.264 millóns de dólares. A compañía está situada en Swords, Dublín, que ten unha área urbana de 11,35 quilómetros cadrados.</lex>
+      <lex lang="gl" lid="Id2">A compañía Trane ten 29. 000 empregados e está situada en Swords, Dublín; que ten unha área urbana de 11, 35 quilómetros cadrados. A compañía ten un ingreso neto de 556. 300 millóns de dólares e uns ingresos de 10. 264 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id3">Trane, situada en Swords, Dublín (área urbana 11.35), emprega a 29.000 persoas. Trane obtivo ingresos netos de 556.300.000 dólares de ingresos de 10.264.000.000 dólares.</lex>
+      </entry>
+    <entry category="Company" eid="Id34" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | type | Subsidiary</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | Tipo | filial</striple>
+        <striple>Trane | IngresosDeExplotación | 875400000</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | Tipus | Subsidiària</ctriple>
+        <ctriple>Trane | IngressosOperatius | 875400000</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | Tipo | Subsidiaria</gtriple>
+        <gtriple>Trane | IngresosDeFuncionamento | 875400000</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | LugarDeFundación | La_Crosse,_Wisconsin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | MotarenArabera | Subsidiarioa</btriple>
+        <btriple>Trane | FuntzionamenduarenIrabaziak | 875400000</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | FundazioarenLekua. | La_Crosse,_Wisconsin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Trane, a subsidiary company with a revenue of $10,264,000,000 and an operating income of $875,400,000, was founded in La Crosse, Wisconsin. The company was founded on January first, 1913.</lex>
+      <lex lang="en" lid="Id2">Trane was founded on 1913-01-01 in La Crosse, Wisconsin, and is a subsidiary with revenue of $10,264,000,000 and operating income of $875,400,000.</lex>
+      <lex lang="en" lid="Id3">The Trane company was founded in La Crosse, Wisconsin on January 01, 1913. It is a subsidiary company with an operating income of $875.400 million USD and has $10.264 billion USD in revenues.</lex>
+      <lex lang="es" lid="Id1">Trane, empresa filial con unos ingresos de 10.264.000.000 de dólares y unos ingresos de explotación de 875.400.000 dólares, fue fundada en La Crosse, Wisconsin. La empresa se fundó el 1 de enero de 1913.</lex>
+      <lex lang="es" lid="Id2">Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin, y es una filial con unos ingresos de 10.264.000.000 $ y unos ingresos de explotación de 875.400.000 $.</lex>
+      <lex lang="es" lid="Id3">La empresa Trane se fundó en La Crosse, Wisconsin, el 1 de enero de 1913. Es una empresa subsidiaria con unos ingresos de explotación de 875.400 millones de USD y unos ingresos de 10.264 millones de USD.</lex>
+      <lex lang="ca" lid="Id1">Trane, una companyia subsidiària amb uns ingressos de 10.264.000.000 $ i uns ingressos operatius de 875.400.000 $, es va fundar a La Crosse, Wisconsin. La companyia va ser fundada l'1 de gener de 1913.</lex>
+      <lex lang="ca" lid="Id2">Trane va ser fundada el 1913 a La Crosse, Wisconsin, i és una filial amb ingressos de $ 10.264.000.000 i ingressos operatius de $ 875.400.000.</lex>
+      <lex lang="ca" lid="Id3">La companyia Trane va ser fundada a La Crosse, Wisconsin l'1 de gener de 1913. És una companyia subsidiària amb uns ingressos operatius de 875.400 milions de dòlars i té uns ingressos de 10.264 milions de dòlars.</lex>
+      <lex lang="eu" lid="Id1">Trane, 10.264.000.000 dolarreko diru-sarrerak eta 875.400.000 dolarreko diru-sarrera operatiboak dituen enpresa subsidiarioa, La Crosse-n (Wisconsin) sortu zen, 1913ko urtarrilaren 1ean.</lex>
+      <lex lang="eu" lid="Id2">Trane 1913-01-01ean sortu zen La Crossen (Wisconsin), eta 10.264.000.000 dolarreko diru-sarrerak eta 875.400.000 dolarreko diru-sarrera operatiboak dituen filiala da.</lex>
+      <lex lang="eu" lid="Id3">Trane enpresa 1913ko urtarrilaren 1ean sortu zen La Crosse-n, Wisconsin-en, eta 875.400 milioi dolarreko diru-sarrerak eta 10.264 milioi dolarreko diru-sarrerak ditu.</lex>
+      <lex lang="gl" lid="Id1">Trane, unha empresa subsidiaria con ingresos de 10 264 000 000 dólares e ingresos operativos de 875 400 000 dólares, fundouse en La Crosse, Wisconsin. A empresa fundouse o 1 de xaneiro de 1913.</lex>
+      <lex lang="gl" lid="Id2">Trane fundouse o 1 de xaneiro de 1913 en La Crosse, Wisconsin, e é unha subsidiaria con ingresos de 10.264.000.000 dólares e ingresos operativos de 875.400.000 dólares.</lex>
+      <lex lang="gl" lid="Id3">A compañía Trane foi fundada en La Crosse, Wisconsin o 1 de xaneiro de 1913. É unha compañía subsidiaria cun ingreso operativo de 875. 400 millóns de dólares e ten 10. 264 millóns de dólares en ingresos.</lex>
+      </entry>
+    </entries>
+  </benchmark>

@@ -1,0 +1,16 @@
+{
+  "experiment_name": "IE-multilingual-all-languages",
+  "status": "ok_trained",
+  "output_dir": "runs_ie_qwen/Qwen__Qwen3-4B-Instruct-2507__ie_multilingual_all_langs",
+  "final_adapter_dir": "runs_ie_qwen/Qwen__Qwen3-4B-Instruct-2507__ie_multilingual_all_langs/final_adapter",
+  "eval_loss": 0.04350532218813896,
+  "n_train_total": 66055,
+  "n_dev_total": 9225,
+  "target_langs": [
+    "en",
+    "es",
+    "ca",
+    "gl",
+    "eu"
+  ]
+}

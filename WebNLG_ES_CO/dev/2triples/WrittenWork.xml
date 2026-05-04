@@ -1,0 +1,1084 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1634:_La_crisis_bávara | PrecedidoPor | Gaceta_de_Grantville_III</striple>
+        <striple>1634:_La_crisis_bávara | Autor | Virginia_DeMarce_y_Eric_Flint</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>1634:_La_crisi_de_Baviera | PreceditPer | Grantville_Gazette_III</ctriple>
+        <ctriple>1634:_La_crisi_de_Baviera | Autor | Virginia_DeMarce_i_Eric_Flint</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1634:_A_crise_bávara | PrecedidoPor | Grantville_Gazette_III</gtriple>
+        <gtriple>1634:_A_crise_bávara | Autor | Virginia_DeMarce_e_Eric_Flint</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1634:_Bavariako_krisia | AurretikBy | Grantville_Gazette_III</btriple>
+        <btriple>1634:_Bavariako_krisia | Egilea | Virginia_DeMarce_eta_Eric_Flint</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette III.</lex>
+      <lex lang="en" lid="Id2">1634: the Bavarian Crisis, authored by Virginia DeMarce and Eric Flint, was preceded by Grantville Gazette III.</lex>
+      <lex lang="es" lid="Id1">1634: La crisis bávara está escrito por Virginia DeMarce y Eric Flint y fue precedido por Grantville Gazette III.</lex>
+      <lex lang="es" lid="Id2">1634: la crisis bávara, escrito por Virginia DeMarce y Eric Flint, fue precedido por Grantville Gazette III.</lex>
+      <lex lang="ca" lid="Id1">1634: The Bavarian Crisis és escrita per Virginia DeMarce i Eric Flint i va ser precedida per Grantville Gazette III.</lex>
+      <lex lang="ca" lid="Id2">1634: la Crisi de Baviera, escrita per Virginia DeMarce i Eric Flint, va ser precedida per Grantville Gazette III.</lex>
+      <lex lang="eu" lid="Id1">1634: The Bavarian Crisis Virginia DeMarce eta Eric Flint-ek idatzi zuten eta Grantville Gazette III-ren aurrekoa izan zen.</lex>
+      <lex lang="eu" lid="Id2">1634: Bavariako Krisia, Virginia DeMarce eta Eric Flintek idatzia, Grantville Gazette III.ak aurreratu zuen.</lex>
+      <lex lang="gl" lid="Id1">1634: The Bavarian Crisis é escrita por Virginia DeMarce e Eric Flint e foi precedida por Grantville Gazette III.</lex>
+      <lex lang="gl" lid="Id2">1634: a crise bávara, escrita por Virginia DeMarce e Eric Flint, foi precedida por Grantville Gazette III.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1634:_Rebelión_de_los_Carneros | Autor | Eric_Flint</striple>
+        <striple>1634:_Rebelión_de_los_Carneros | TipoDeMedio | Libro_electrónico</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>1634:_La_rebel·lió_de_Ram | Autor | Eric_Flint</ctriple>
+        <ctriple>1634:_La_rebel·lió_de_Ram | TipusDeMitjans | Llibre_electrònic</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1634:_A_rebelión_de_Ram | Autor | Eric_Flint</gtriple>
+        <gtriple>1634:_A_rebelión_de_Ram | TipoDeMedios | Libro_electrónico</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1634:_Otsoen_matxinada | Egilea | Eric_Flint_izan_zen.</btriple>
+        <btriple>1634:_Otsoen_matxinada | EuskarriMota | Liburu_elektronikoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Eric Flint is the author of '1634: The Ram Rebellion' which can be found as an E book.</lex>
+      <lex lang="en" lid="Id2">1634: The Ram Rebellion available as an E-Book is written by Eric Flint.</lex>
+      <lex lang="es" lid="Id1">Eric Flint es el autor de "1634: La rebelión de los carneros", que puede encontrarse como Libro electrónico.</lex>
+      <lex lang="es" lid="Id2">1634: La Rebelión de los Carneros, disponible como E-Book, está escrito por Eric Flint.</lex>
+      <lex lang="ca" lid="Id1">Eric Flint és l'autor de '1634: The Ram Rebellion' que es pot trobar com un llibre electrònic.</lex>
+      <lex lang="ca" lid="Id2">1634: The Ram Rebellion disponible com a E-Book està escrit per Eric Flint.</lex>
+      <lex lang="eu" lid="Id1">Eric Flint 1634: The Ram Rebellion liburuaren egilea da, E liburu gisa aurki daitekeena.</lex>
+      <lex lang="eu" lid="Id2">1634: The Ram Rebellion liburu elektroniko gisa eskuragarri dago Eric Flint-ek idatzia.</lex>
+      <lex lang="gl" lid="Id1">Eric Flint é o autor de '1634: The Ram Rebellion' que se pode atopar como un libro electrónico.</lex>
+      <lex lang="gl" lid="Id2">1634: The Ram Rebellion dispoñible como libro electrónico escrito por Eric Flint.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1634:_Rebelión_de_los_Carneros | Autor | Eric_Flint</striple>
+        <striple>1634:_Rebelión_de_los_Carneros | TipoDeMedio | cartoné</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>1634:_La_rebel·lió_de_Ram | Autor | Eric_Flint</ctriple>
+        <ctriple>1634:_La_rebel·lió_de_Ram | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1634:_A_rebelión_de_Ram | Autor | Eric_Flint</gtriple>
+        <gtriple>1634:_A_rebelión_de_Ram | TipoDeMedios | Capa_dura</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1634:_Otsoen_matxinada | Egilea | Eric_Flint_izan_zen.</btriple>
+        <btriple>1634:_Otsoen_matxinada | EuskarriMota | Azala_gogorra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1634: The Ram Rebellion was written by Eric Flint and can be found in hardcover.</lex>
+      <lex lang="en" lid="Id2">The book titled 1634: The Ram Rebellion is a hardcover book by Eric Flint.</lex>
+      <lex lang="en" lid="Id3">1634: The Ram Rebellion, available in hardcover was written by Eric Flint.</lex>
+      <lex lang="es" lid="Id1">1634: La rebelión de los carneros fue escrito por Eric Flint y puede encontrarse en cartoné.</lex>
+      <lex lang="es" lid="Id2">El libro titulado 1634: La rebelión de los carneros es un libro cartoné de Eric Flint.</lex>
+      <lex lang="es" lid="Id3">1634: La rebelión de los carneros, disponible en cartoné, fue escrito por Eric Flint.</lex>
+      <lex lang="ca" lid="Id1">1634: The Ram Rebellion va ser escrita per Eric Flint i es pot trobar en tapa dura.</lex>
+      <lex lang="ca" lid="Id2">El llibre titulat 1634: The Ram Rebellion és un llibre de tapa dura d'Eric Flint.</lex>
+      <lex lang="ca" lid="Id3">1634: The Ram Rebellion, disponible en tapa dura, va ser escrit per Eric Flint.</lex>
+      <lex lang="eu" lid="Id1">1634: The Ram Rebellion Eric Flint-ek idatzi zuen eta azaleko liburu bat da.</lex>
+      <lex lang="eu" lid="Id2">1634: The Ram Rebellion liburua Eric Flint-en azal gogorreko liburu bat da.</lex>
+      <lex lang="eu" lid="Id3">1634: The Ram Rebellion, Eric Flint-ek idatzitako liburua.</lex>
+      <lex lang="gl" lid="Id1">1634: The Ram Rebellion foi escrito por Eric Flint e pódese atopar en tapa dura.</lex>
+      <lex lang="gl" lid="Id2">O libro titulado 1634: The Ram Rebellion é un libro de tapa dura de Eric Flint.</lex>
+      <lex lang="gl" lid="Id3">1634: The Ram Rebellion, dispoñible en tapa dura foi escrito por Eric Flint.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | codenCode | "ATISET"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ACM_Transactions_on_Information_Systems | Abreviatura | ACM_Trans._Inf._Syst.</striple>
+        <striple>ACM_Transactions_on_Information_Systems | CódigoCoden | ATISET</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>ACM_Transaccions_en_Sistemes_d'Informació | Abreviació | ACM_Trans._Inf._Syst.</ctriple>
+        <ctriple>ACM_Transaccions_en_Sistemes_d'Informació | CodenCode | ATISETConstellation_name_(optional)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>ACM_Transaccións_en_Sistemas_de_Información | Abreviatura | ACM_Trans._Inf._Syst.</gtriple>
+        <gtriple>ACM_Transaccións_en_Sistemas_de_Información | CodenCódigo | ATISETConstellation_name_(optional)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>ACM_Transakzioak_informazio-sistemetan | Laburdura | ACM_Trans._Inf._Syst.</btriple>
+        <btriple>ACM_Transakzioak_informazio-sistemetan | CodenCode | ATISET</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">ACM Transactions on Information Systems with the CODEN ATISET is abbreviated as ACM Trans. Inf. Syst.</lex>
+      <lex lang="en" lid="Id2">ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the CODEN code "ATISET".</lex>
+      <lex lang="es" lid="Id1">ACM Transacciones sobre Sistemas de Información, con el CODEN ATISET, se abrevia como ACM Trans. Inf. Syst.</lex>
+      <lex lang="es" lid="Id2">ACM Transacciones sobre Sistemas de Información (abreviado ACM Trans. Inf. Syst.) tiene el código CODEN "ATISET".</lex>
+      <lex lang="ca" lid="Id1">ACM Transactions on Information Systems with the CODEN ATISET és abreujat com ACM Trans. Inf. Syst.</lex>
+      <lex lang="ca" lid="Id2">ACM Transactions on Information Systems (abreujat ACM Trans. Inf. Syst.) té el codi CODEN "ATISET".</lex>
+      <lex lang="eu" lid="Id1">ACM Transactions on Information Systems with the CODEN ATISET ACM Trans. Inf. Syst. bezala laburtzen da.</lex>
+      <lex lang="eu" lid="Id2">ACM Transactions on Information Systems (ACM Trans. Inf. Syst. laburtuta) aldizkariak "ATISET" CODEN kodea dauka.</lex>
+      <lex lang="gl" lid="Id1">ACM Transactions on Information Systems with the CODEN ATISET é abreviado como ACM Trans. Inf. Syst.</lex>
+      <lex lang="gl" lid="Id2">ACM Transactions on Information Systems (abreviado ACM Trans. Inf. Syst.) ten o código CODEN "ATISET".</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDS_(revista) | País | Reino_Unido</striple>
+        <striple>Reino_Unido | Líder | Isabel_II_del_Reino_Unido</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AIDS_(journal) | País | Regne_Unit</ctriple>
+        <ctriple>Regne_Unit | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Diario_(en_castelán) | País | Reino_Unido</gtriple>
+        <gtriple>Reino_Unido | Líder | Elizabeth_II</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AIDS_(aldizkaria) | Herrialdea | Erresuma_Batua</btriple>
+        <btriple>Erresuma_Batua | Buruzagia. | Elizabeth_II</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AIDS journal is from the United Kingdom whose leader is Elizabeth II.</lex>
+      <lex lang="en" lid="Id2">The AIDS journal was published in the United Kingdom whose leader is Elizabeth II.</lex>
+      <lex lang="en" lid="Id3">The AIDS journal was published in the United Kingdom, where the leader is Elizabeth II.</lex>
+      <lex lang="es" lid="Id1">La revista AIDS es del Reino Unido, cuya líder es Isabel II.</lex>
+      <lex lang="es" lid="Id2">La revista AIDS se publicó en el Reino Unido, cuya líder es Isabel II.</lex>
+      <lex lang="es" lid="Id3">La revista AIDS se publicó en el Reino Unido, donde la líder es Isabel II.</lex>
+      <lex lang="ca" lid="Id1">El diari de SIDA és del Regne Unit el líder del qual és Elizabeth II.</lex>
+      <lex lang="ca" lid="Id2">La revista SIDA es va publicar al Regne Unit, el líder del qual és Elisabet II.</lex>
+      <lex lang="ca" lid="Id3">La revista SIDA es va publicar al Regne Unit, on el líder és Elisabet II.</lex>
+      <lex lang="eu" lid="Id1">Erresuma Batuko aldizkari bat da. Elizabeth II.a da liderra.</lex>
+      <lex lang="eu" lid="Id2">HIESaren aldizkari bat argitaratu zen Erresuma Batuan, zeinaren liderra Elizabeth II.a den.</lex>
+      <lex lang="eu" lid="Id3">HIESaren aldizkari bat argitaratu zen Erresuma Batuan, non Elizabeth II.a liderra den.</lex>
+      <lex lang="gl" lid="Id1">A revista SIDA é do Reino Unido cuxa líder é Isabel II.</lex>
+      <lex lang="gl" lid="Id2">A revista AIDS foi publicada no Reino Unido cuxa líder é Isabel II.</lex>
+      <lex lang="gl" lid="Id3">A revista AIDS foi publicada no Reino Unido, onde a líder é Isabel II.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | isbnNumber | "0-7653-0633-6"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Una_fortaleza_de_hielo_gris | Autor | J._V._Jones</striple>
+        <striple>Una_fortaleza_de_hielo_gris | NúmeroIsbn | 0-7653-0633-6</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_fortalesa_de_gel_gris | Autor | J._V._Jones</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | NúmeroIsbn | 0-7653-0633-6</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Unha_fortaleza_de_xeo_gris | Autor | J._V._Jones</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | NúmeroDeIsbn | 0-7653-0633-6</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Izotz_grisaren_gotorleku_bat | Egilea | J._V._Jones</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | IsbnZenbakia | 0-7653-0633-6</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and has the ISBN number 0-7653-0633-6.</lex>
+      <lex lang="en" lid="Id2">J.V. Jones authored A Fortress of Grey Ice, which has the ISBN number 0-7653-0633-6.</lex>
+      <lex lang="en" lid="Id3">J. V. Jones is the author of "A Fortress of Grey Ice," ISBN number 0-7653-0633-6.</lex>
+      <lex lang="es" lid="Id1">Una fortaleza de hielo gris fue escrito por J. V. Jones y tiene el número ISBN 0-7653-0633-6.</lex>
+      <lex lang="es" lid="Id2">J.V. Jones es el autor de Una fortaleza de hielo gris, cuyo número de ISBN es 0-7653-0633-6.</lex>
+      <lex lang="es" lid="Id3">J. V. Jones es el autor de "Una fortaleza de hielo gris", ISBN número 0-7653-0633-6.</lex>
+      <lex lang="ca" lid="Id1">A Fortress of Grey Ice va ser escrita per J. V. Jones i té el número ISBN 0-7653-0633-6.</lex>
+      <lex lang="ca" lid="Id2">J.V. Jones va escriure A Fortress of Grey Ice, que té el número ISBN 0-7653-0633-6.</lex>
+      <lex lang="ca" lid="Id3">J. V. Jones és l'autor de "A Fortress of Grey Ice", ISBN 0-7653-0633-6.</lex>
+      <lex lang="eu" lid="Id1">A Fortress of Grey Ice J. V. Jones-ek idatzi zuen eta ISBN 0-7653-0633-6 zenbakia dauka.</lex>
+      <lex lang="eu" lid="Id2">J. V. Jonesek A Fortress of Grey Ice idatzi zuen, ISBN 0-7653-0633-6 zenbakia duena.</lex>
+      <lex lang="eu" lid="Id3">J. V. Jones "A Fortress of Grey Ice" liburuaren egilea da, ISBN zenbakia 0-7653-0633-6.</lex>
+      <lex lang="gl" lid="Id1">A Fortress of Grey Ice foi escrita por J. V. Jones e ten o número ISBN 0-7653-0633-6.</lex>
+      <lex lang="gl" lid="Id2">J.V. Jones é autor de A Fortress of Grey Ice, que ten o número ISBN 0-7653-0633-6.</lex>
+      <lex lang="gl" lid="Id3">J. V. Jones é o autor de "A Fortress of Grey Ice", ISBN 0-7653-0633-6.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+        <mtriple>A_Glastonbury_Romance | isbnNumber | "0-7156-3648-0"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_romance_de_Glastonbury | TipoDeMedio | Print</striple>
+        <striple>Un_romance_de_Glastonbury | NúmeroIsbn | 0-7156-3648-0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_romanç_de_Glastonbury | TipusDeMitjans | estampa</ctriple>
+        <ctriple>Un_romanç_de_Glastonbury | NúmeroIsbn | 0-7156-3648-0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_Romance_de_Glastonbury | TipoDeMedios | Imprimir</gtriple>
+        <gtriple>Un_Romance_de_Glastonbury | NúmeroDeIsbn | 0-7156-3648-0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | EuskarriMota | Inprimatu</btriple>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | IsbnZenbakia | 0-7156-3648-0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Glastonbury Romance has the ISBN number 0-7156-3648-0 and is in print.</lex>
+      <lex lang="en" lid="Id2">A Glastonbury Romance with ISBN 0-7156-3648-0 is available in print.</lex>
+      <lex lang="en" lid="Id3">The ISBN number of the currently in print book, "A Glastonbury Romance," is 0-7156-3648-0.</lex>
+      <lex lang="es" lid="Id1">Un romance en Glastonbury tiene el número ISBN 0-7156-3648-0 y está en imprenta.</lex>
+      <lex lang="es" lid="Id2">Un romance en Glastonbury con ISBN 0-7156-3648-0 está disponible en versión impresa.</lex>
+      <lex lang="es" lid="Id3">El número ISBN del libro actualmente en imprenta, "Un romance en Glastonbury", es 0-7156-3648-0.</lex>
+      <lex lang="ca" lid="Id1">A Glastonbury Romance té el número ISBN 0-7156-3648-0 i està imprès.</lex>
+      <lex lang="ca" lid="Id2">A Glastonbury Romance amb ISBN 0-7156-3648-0 està disponible en impressió.</lex>
+      <lex lang="ca" lid="Id3">El número ISBN del llibre actualment imprès, "A Glastonbury Romance", és 0-7156-3648-0.</lex>
+      <lex lang="eu" lid="Id1">A Glastonbury Romance-k 0-7156-3648-0 ISBN zenbakia du eta inprimatua dago.</lex>
+      <lex lang="eu" lid="Id2">A Glastonbury Romance ISBN 0-7156-3648-0arekin inprimatua dago.</lex>
+      <lex lang="eu" lid="Id3">Gaur egun inprimatuta dagoen A Glastonbury Romance liburuaren ISBN zenbakia 0-7156-3648-0 da.</lex>
+      <lex lang="gl" lid="Id1">A Glastonbury Romance ten o número ISBN 0-7156-3648-0 e está impreso.</lex>
+      <lex lang="gl" lid="Id2">A Glastonbury Romance con ISBN 0-7156-3648-0 está dispoñible en impresión.</lex>
+      <lex lang="gl" lid="Id3">O número ISBN do libro actualmente impreso, "A Glastonbury Romance", é 0-7156-3648-0.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | Hardcover</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | Hardcover</mtriple>
+        <mtriple>A_Glastonbury_Romance | isbnNumber | "0-7156-3648-0"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_romance_de_Glastonbury | TipoDeMedio | cartoné</striple>
+        <striple>Un_romance_de_Glastonbury | NúmeroIsbn | 0-7156-3648-0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_romanç_de_Glastonbury | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        <ctriple>Un_romanç_de_Glastonbury | NúmeroIsbn | 0-7156-3648-0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_Romance_de_Glastonbury | TipoDeMedios | Capa_dura</gtriple>
+        <gtriple>Un_Romance_de_Glastonbury | NúmeroDeIsbn | 0-7156-3648-0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | EuskarriMota | Azala_gogorra</btriple>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | IsbnZenbakia | 0-7156-3648-0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Glastonbury Romance identified by ISBN 0-7156-3648-0 was published in hardcover.</lex>
+      <lex lang="en" lid="Id2">"A Glastonbury Romance " can be found in hardcover with the ISBN number 0-7156-3648-0.</lex>
+      <lex lang="en" lid="Id3">A hardcover copy of A Glastonbury Romance is available with the ISBN number 0-7156-3648-0.</lex>
+      <lex lang="es" lid="Id1">Un romance en Glastonbury identificado con el ISBN 0-7156-3648-0 fue publicado en cartoné.</lex>
+      <lex lang="es" lid="Id2">"Un romance en Glastonbury" puede encontrarse en cartoné con el número ISBN 0-7156-3648-0.</lex>
+      <lex lang="es" lid="Id3">Está disponible un ejemplar en cartoné de Un romance en Glastonbury con el número ISBN 0-7156-3648-0.</lex>
+      <lex lang="ca" lid="Id1">A Glastonbury Romance identificat amb ISBN 0-7156-3648-0 va ser publicat en tapa dura.</lex>
+      <lex lang="ca" lid="Id2">"A Glastonbury Romance" es pot trobar en tapa dura amb el número ISBN 0-7156-3648-0.</lex>
+      <lex lang="ca" lid="Id3">Una còpia de tapa dura d'A Glastonbury Romance està disponible amb el número ISBN 0-7156-3648-0.</lex>
+      <lex lang="eu" lid="Id1">Glastonbury Romance, ISBN 0-7156-3648-0 zenbakiarekin identifikatua, azalean argitaratu zen.</lex>
+      <lex lang="eu" lid="Id2">"A Glastonbury Romance" liburua ISBN 0-7156-3648-0 zenbakiarekin eskuragarri dago.</lex>
+      <lex lang="eu" lid="Id3">A Glastonbury Romance-en kopia gogorra eskuragarri dago ISBN 0-7156-3648-0 zenbakiarekin.</lex>
+      <lex lang="gl" lid="Id1">Un Glastonbury Romance identificado por ISBN 0-7156-3648-0 foi publicado en tapa dura.</lex>
+      <lex lang="gl" lid="Id2">"A Glastonbury Romance" pódese atopar en tapa dura co número ISBN 0-7156-3648-0.</lex>
+      <lex lang="gl" lid="Id3">Unha copia de tapa dura de A Glastonbury Romance está dispoñible co número ISBN 0-7156-3648-0.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_romance_de_Glastonbury | NúmeroDePáginas | 1174</striple>
+        <striple>Un_romance_de_Glastonbury | TipoDeMedio | Print</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_romanç_de_Glastonbury | NombreDePàgines | 1174</ctriple>
+        <ctriple>Un_romanç_de_Glastonbury | TipusDeMitjans | estampa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_Romance_de_Glastonbury | NúmeroDePáxinas | 1174</gtriple>
+        <gtriple>Un_Romance_de_Glastonbury | TipoDeMedios | Imprimir</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | OrrialdeKopurua | 1174</btriple>
+        <btriple>Glastonburyko_maitasun_istorio_bat. | EuskarriMota | Inprimatu</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Glastonbury Romance has 1174 pages and is available in print.</lex>
+      <lex lang="en" lid="Id2">A Glastonbury Romance, currently in print, has 1174 pages.</lex>
+      <lex lang="en" lid="Id3">A Glastonbury Romance, 1174 pages, is available in print.</lex>
+      <lex lang="es" lid="Id1">Un romance en Glastonbury tiene 1174 páginas y está disponible en versión impresa.</lex>
+      <lex lang="es" lid="Id2">Un romance en Glastonbury, actualmente en imprenta, tiene 1174 páginas.</lex>
+      <lex lang="es" lid="Id3">Un romance en Glastonbury, 1174 páginas, está disponible en versión impresa.</lex>
+      <lex lang="ca" lid="Id1">A Glastonbury Romance té 1174 pàgines i està disponible en impressió.</lex>
+      <lex lang="ca" lid="Id2">A Glastonbury Romance, actualment en impressió, té 1.174 pàgines.</lex>
+      <lex lang="ca" lid="Id3">A Glastonbury Romance, 1174 pàgines, està disponible en impressió.</lex>
+      <lex lang="eu" lid="Id1">A Glastonbury Romance 1174 orrialde ditu eta inprimatua dago.</lex>
+      <lex lang="eu" lid="Id2">Glastonburyko Erromantzea, gaur egun inprimatzen ari dena, 1.174 orrialde ditu.</lex>
+      <lex lang="eu" lid="Id3">A Glastonbury Romance, 1174 orrialde, eskuragarri dago inprimatuta.</lex>
+      <lex lang="gl" lid="Id1">A Glastonbury Romance ten 1174 páxinas e está dispoñible en impresión.</lex>
+      <lex lang="gl" lid="Id2">A Glastonbury Romance, actualmente en impresión, ten 1174 páxinas.</lex>
+      <lex lang="gl" lid="Id3">A Glastonbury Romance, 1174 páxinas, está dispoñible en formato impreso.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | oclcNumber | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | isbnNumber | "0-670-03380-4"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_largo_camino | NúmeroOclc | 57392246</striple>
+        <striple>Un_largo_camino | NúmeroIsbn | 0-670-03380-4</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_llarg_llarg_camí | NúmeroOclc | 57392246</ctriple>
+        <ctriple>Un_llarg_llarg_camí | NúmeroIsbn | 0-670-03380-4</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_longo_longo_camiño | NúmeroOclc | 57392246</gtriple>
+        <gtriple>Un_longo_longo_camiño | NúmeroDeIsbn | 0-670-03380-4</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bide_luzea. | OCLCZenbakia | 57392246</btriple>
+        <btriple>Bide_luzea. | IsbnZenbakia | 0-670-03380-4</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The ISBN number of A Long Long Way is 0-670-03380-4, and its OCLC number is 57392246.</lex>
+      <lex lang="en" lid="Id2">The OCLC number of A Long Long Way is 57392246 and the ISBN number is 0-670-03380-4.</lex>
+      <lex lang="en" lid="Id3">The ISBN number of A Long Long Way is 0-670-03380-4; the OCLC number is 57392246.</lex>
+      <lex lang="es" lid="Id1">El número ISBN de Un largo largo camino es 0-670-03380-4, y su número OCLC es 57392246.</lex>
+      <lex lang="es" lid="Id2">El número OCLC de Un largo largo camino es 57392246 y el número ISBN es 0-670-03380-4.</lex>
+      <lex lang="es" lid="Id3">El número ISBN de Un largo largo camino es 0-670-03380-4; el número OCLC es 57392246.</lex>
+      <lex lang="ca" lid="Id1">El número ISBN d'A Long Long Way és 0-670-03380-4, i el seu número OCLC és 57392246.</lex>
+      <lex lang="ca" lid="Id2">El número OCLC d'A Long Long Way és 57392246 i el número ISBN és 0-670-03380-4.</lex>
+      <lex lang="ca" lid="Id3">El número ISBN d'A Long Long Way és 0-670-03380-4; el número OCLC és 57392246.</lex>
+      <lex lang="eu" lid="Id1">A Long Long Way-ren ISBN zenbakia 0-670-03380-4 da, eta bere OCLC zenbakia 57392246 da.</lex>
+      <lex lang="eu" lid="Id2">A Long Long Way-en OCLC zenbakia 57392246 da eta ISBN zenbakia 0-670-03380-4.</lex>
+      <lex lang="eu" lid="Id3">A Long Long Way-ren ISBN zenbakia 0-670-03380-4 da; OCLC zenbakia 57392246 da.</lex>
+      <lex lang="gl" lid="Id1">O número ISBN de A Long Long Way é 0-670-03380-4, e o seu número OCLC é 57392246.</lex>
+      <lex lang="gl" lid="Id2">O número OCLC de A Long Long Way é 57392246 e o número ISBN é 0-670-03380-4.</lex>
+      <lex lang="gl" lid="Id3">O número ISBN de A Long Long Way é 0-670-03380-4; o número OCLC é 57392246.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_bailarín_de_carácter_leal | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_ballarina_de_caràcter_lleial | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A_Loyal_Character_Dancer | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Asiáticos_americanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A_Loyal_Character_Dancer | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Asiar_amerikarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id2">A Loyal Character Dancer is published in the United States, which includes among its ethnic groups Asian Americans.</lex>
+      <lex lang="en" lid="Id3">A Loyal Character Dancer is published in the United States, where many Asian Americans live.</lex>
+      <lex lang="es" lid="Id1">Un bailarín de carácter leal se publica en Estados Unidos, donde los asiático-americanos son uno de los grupos étnicos.</lex>
+      <lex lang="es" lid="Id2">Un bailarín de carácter leal se publica en Estados Unidos, país que incluye entre sus grupos étnicos a los asiático-americanos.</lex>
+      <lex lang="es" lid="Id3">Un bailarín de carácter leal se publica en Estados Unidos, donde viven muchos asiático-americanos.</lex>
+      <lex lang="ca" lid="Id1">A Loyal Character Dancer es publica als Estats Units on els asiàtics americans són un dels grups ètnics.</lex>
+      <lex lang="ca" lid="Id2">A Loyal Character Dancer es publica als Estats Units, que inclou entre els seus grups ètnics asiàtics americans.</lex>
+      <lex lang="ca" lid="Id3">A Loyal Character Dancer es publica als Estats Units, on viuen molts asiàtics americans.</lex>
+      <lex lang="eu" lid="Id1">A Loyal Character Dancer Ameriketako Estatu Batuetan argitaratzen da, non asiar amerikarrak talde etnikoetako bat diren.</lex>
+      <lex lang="eu" lid="Id2">A Loyal Character Dancer Ameriketako Estatu Batuetan argitaratzen da, eta bertako talde etnikoen artean daude Asiako amerikarrak.</lex>
+      <lex lang="eu" lid="Id3">A Loyal Character Dancer Ameriketako Estatu Batuetako erroldak esleitutako leku bat da.</lex>
+      <lex lang="gl" lid="Id1">A Loyal Character Dancer é publicado nos Estados Unidos onde os asiáticos americanos son un dos grupos étnicos.</lex>
+      <lex lang="gl" lid="Id2">A Loyal Character Dancer é publicado nos Estados Unidos, que inclúe entre os seus grupos étnicos os asiáticos americanos.</lex>
+      <lex lang="gl" lid="Id3">A Loyal Character Dancer publicouse nos Estados Unidos, onde viven moitos asiáticos americanos.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_bailarín_de_carácter_leal | Editor | Soho_Press</striple>
+        <striple>Soho_Press | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_ballarina_de_caràcter_lleial | Editor | Soho_Press</ctriple>
+        <ctriple>Soho_Press | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A_Loyal_Character_Dancer | Editor | Soho_Press</gtriple>
+        <gtriple>Soho_Press | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A_Loyal_Character_Dancer | Argitaratzailea | Soho_Press</btriple>
+        <btriple>Soho_Press | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Loyal Character Dancer is published by Soho Press which is located in the United States.</lex>
+      <lex lang="en" lid="Id2">A Loyal Character Dancer was published by Soho Press, based in the United States.</lex>
+      <lex lang="en" lid="Id3">A Loyal Character Dancer was published by Soho Press in the United States.</lex>
+      <lex lang="es" lid="Id1">Un bailarín de carácter leal está publicado por Soho Press, que se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Un bailarín de carácter leal fue publicado por Soho Press, con sede en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">Un bailarín de carácter leal fue publicado por Soho Press en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">A Loyal Character Dancer és publicat per Soho Press, que es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">A Loyal Character Dancer va ser publicat per Soho Press, amb seu als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">A Loyal Character Dancer va ser publicat per Soho Press als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">A Loyal Character Dancer Soho Press-ek argitaratzen du, Estatu Batuetan kokatuta dagoena.</lex>
+      <lex lang="eu" lid="Id2">A Loyal Character Dancer Estatu Batuetako Soho Press-ek argitaratu zuen.</lex>
+      <lex lang="eu" lid="Id3">A Loyal Character Dancer Soho Press-ek argitaratu zuen Estatu Batuetan.</lex>
+      <lex lang="gl" lid="Id1">A Loyal Character Dancer é publicada por Soho Press, que está situada nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">A Loyal Character Dancer foi publicado por Soho Press, con sede nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">A Loyal Character Dancer foi publicado por Soho Press nos Estados Unidos.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | oclc | "318875313"</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | oclcNumber | 318875313</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_mago_de_Marte | Autor | Diane_Duane</striple>
+        <striple>Un_mago_de_Marte | NúmeroOclc | 318875313</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_mag_de_Mart | Autor | Diane_Duane</ctriple>
+        <ctriple>Un_mag_de_Mart | NúmeroOclc | 318875313</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_mago_de_Marte | Autor | Diane_Duane</gtriple>
+        <gtriple>Un_mago_de_Marte | NúmeroOclc | 318875313</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Marteko_aztia | Egilea | Diane_Duane</btriple>
+        <btriple>Marteko_aztia | OCLCZenbakia | 318875313</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Wizard of Mars was written by Diane Duane with on OCLC number 318875313.</lex>
+      <lex lang="en" lid="Id2">Diane Duane wrote A Wizard of Mars which has the OCLC number of 318875313.</lex>
+      <lex lang="es" lid="Id1">Un mago de Marte fue escrito por Diane Duane con el número de OCLC 318875313.</lex>
+      <lex lang="es" lid="Id2">Diane Duane escribió Un mago de Marte, cuyo número de OCLC es 318875313.</lex>
+      <lex lang="ca" lid="Id1">A Wizard of Mars va ser escrit per Diane Duane amb el número OCLC 318875313.</lex>
+      <lex lang="ca" lid="Id2">Diane Duane va escriure A Wizard of Mars que té el número OCLC de 318875313.</lex>
+      <lex lang="eu" lid="Id1">Diane Duanek idatzi zuen A Wizard of Mars, eta OCLCren zenbakia 318875313 da.</lex>
+      <lex lang="eu" lid="Id2">Diane Duanek A Wizard of Mars idatzi zuen, eta OCLCren zenbakia 318875313 da.</lex>
+      <lex lang="gl" lid="Id1">A Wizard of Mars foi escrito por Diane Duane co número OCLC 318875313.</lex>
+      <lex lang="gl" lid="Id2">Diane Duane escribiu A Wizard of Mars que ten o número OCLC de 318875313.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+        <mtriple>A_Wizard_of_Mars | isbnNumber | "978-0-15-204770-2"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_mago_de_Marte | TipoDeMedio | cartoné</striple>
+        <striple>Un_mago_de_Marte | NúmeroIsbn | 978-0-15-204770-2</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_mag_de_Mart | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        <ctriple>Un_mag_de_Mart | NúmeroIsbn | 978-0-15-204770-2</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_mago_de_Marte | TipoDeMedios | Capa_dura</gtriple>
+        <gtriple>Un_mago_de_Marte | NúmeroDeIsbn | 978-0-15-204770-2</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Marteko_aztia | EuskarriMota | Azala_gogorra</btriple>
+        <btriple>Marteko_aztia | IsbnZenbakia | 978-0-15-204770-2</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Wizard of Mars is published in Hardcover and has the ISBN number 978-0-15-204770-2.</lex>
+      <lex lang="en" lid="Id2">A Wizard of Mars was published in hardback and has the ISBN number 978-0-15-204770-2.</lex>
+      <lex lang="en" lid="Id3">A Wizard of Mars has the ISBN number 978-0-15-204770-2 and was published in hardback.</lex>
+      <lex lang="es" lid="Id1">Un mago de Marte se publica en cartoné y tiene el número de ISBN 978-0-15-204770-2.</lex>
+      <lex lang="es" lid="Id2">Un mago de Marte se publicó en cartoné y tiene el número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="es" lid="Id3">Un mago de Marte tiene el número ISBN 978-0-15-204770-2 y fue publicado en cartoné.</lex>
+      <lex lang="ca" lid="Id1">A Wizard of Mars es publica en tapa dura i té el número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="ca" lid="Id2">A Wizard of Mars va ser publicat en tapa dura i té el número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="ca" lid="Id3">A Wizard of Mars té el número ISBN 978-0-15-204770-2 i va ser publicat en tapa dura.</lex>
+      <lex lang="eu" lid="Id1">A Wizard of Mars hardcover aldizkarian argitaratzen da eta 978-0-15-204770-2 ISBN zenbakia du.</lex>
+      <lex lang="eu" lid="Id2">A Wizard of Mars liburua azal gogorrean argitaratu zen eta ISBN 978-0-15-204770-2 zenbakia dauka.</lex>
+      <lex lang="eu" lid="Id3">A Wizard of Mars 978-0-15-204770-2 ISBN zenbakia du eta edizio gogorrean argitaratu zen.</lex>
+      <lex lang="gl" lid="Id1">A Wizard of Mars é publicado en tapa dura e ten o número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="gl" lid="Id2">A Wizard of Mars foi publicado en tapa dura e ten o número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="gl" lid="Id3">A Wizard of Mars ten o número ISBN 978-0-15-204770-2 e foi publicado en tapa dura.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | numberOfPages | "560"</mtriple>
+        <mtriple>A_Wizard_of_Mars | isbnNumber | "978-0-15-204770-2"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_mago_de_Marte | NúmeroDePáginas | 560</striple>
+        <striple>Un_mago_de_Marte | NúmeroIsbn | 978-0-15-204770-2</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_mag_de_Mart | NombreDePàgines | 560</ctriple>
+        <ctriple>Un_mag_de_Mart | NúmeroIsbn | 978-0-15-204770-2</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_mago_de_Marte | NúmeroDePáxinas | 560</gtriple>
+        <gtriple>Un_mago_de_Marte | NúmeroDeIsbn | 978-0-15-204770-2</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Marteko_aztia | OrrialdeKopurua | 560</btriple>
+        <btriple>Marteko_aztia | IsbnZenbakia | 978-0-15-204770-2</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Wizard of Mars is 560 pages long and has the ISBN number 978-0-15-204770-2.</lex>
+      <lex lang="en" lid="Id2">A Wizard of Mars has 560 pages and the ISBN number 978-0-15-204770-2.</lex>
+      <lex lang="en" lid="Id3">A Wizard of Mars with ISBN number "978-0-15-204770-2 contains 560 pages.</lex>
+      <lex lang="es" lid="Id1">Un mago de Marte tiene 560 páginas de largo y el número de ISBN 978-0-15-204770-2.</lex>
+      <lex lang="es" lid="Id2">Un mago de Marte tiene 560 páginas y el número de ISBN 978-0-15-204770-2.</lex>
+      <lex lang="es" lid="Id3">Un mago de Marte, con número ISBN "978-0-15-204770-2, contiene 560 páginas.</lex>
+      <lex lang="ca" lid="Id1">A Wizard of Mars té 560 pàgines i té el número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="ca" lid="Id2">A Wizard of Mars té 560 pàgines i el número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="ca" lid="Id3">A Wizard of Mars amb número ISBN "978-0-15-204770-2 conté 560 pàgines.</lex>
+      <lex lang="eu" lid="Id1">A Wizard of Mars-ek 560 orrialde ditu eta ISBN 978-0-15-204770-2 zenbakia.</lex>
+      <lex lang="eu" lid="Id2">A Wizard of Mars-ek 560 orrialde ditu eta ISBN zenbakia 978-0-15-204770-2 da.</lex>
+      <lex lang="eu" lid="Id3">"978-0-15-204770-2" ISBN zenbakia duen "A Wizard of Mars" liburuak 560 orrialde ditu.</lex>
+      <lex lang="gl" lid="Id1">A Wizard of Mars ten 560 páxinas e ten o número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="gl" lid="Id2">A Wizard of Mars ten 560 páxinas e o número ISBN 978-0-15-204770-2.</lex>
+      <lex lang="gl" lid="Id3">A Wizard of Mars con número ISBN "978-0-15-204770-2" contén 560 páxinas.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Above_the_Veil | country | Australians</otriple>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | country | Australians</otriple>
+        <otriple>Above_the_Veil | previousWork | Aenir</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | country | Australians</mtriple>
+        <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Por_encima_del_velo | País | australianos</striple>
+        <striple>Por_encima_del_velo | PrecedidoPor | Aenir</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Al_damunt_del_vel | País | australians</ctriple>
+        <ctriple>Al_damunt_del_vel | PreceditPer | Aenir</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Por_riba_do_velo | País | Australianos</gtriple>
+        <gtriple>Por_riba_do_velo | PrecedidoPor | Aenir</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Veil-aren_gainean | Herrialdea | Australiarrak</btriple>
+        <btriple>Veil-aren_gainean | AurretikBy | Aenir</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aenir and its sequel Above the Veil are examples of Australian literature.</lex>
+      <lex lang="en" lid="Id2">Above the Veil, preceded by Aenir, is from the country of Australia.</lex>
+      <lex lang="es" lid="Id1">Aenir y su secuela Por encima del velo son ejemplos de literatura australiana.</lex>
+      <lex lang="es" lid="Id2">Por encima del velo, precedida por Aenir, procede de Australia.</lex>
+      <lex lang="ca" lid="Id1">Aenir i la seva seqüela Above the Veil són exemples de literatura australiana.</lex>
+      <lex lang="ca" lid="Id2">Above the Veil, precedit per Aenir, és del país d'Austràlia.</lex>
+      <lex lang="eu" lid="Id1">Aenir eta haren jarraipena, Above the Veil, Australiako literaturaren adibideak dira.</lex>
+      <lex lang="eu" lid="Id2">Above the Veil, Aenir-en aurretik, Australiako herrialdetik dator.</lex>
+      <lex lang="gl" lid="Id1">Aenir e a súa secuela Above the Veil son exemplos de literatura australiana.</lex>
+      <lex lang="gl" lid="Id2">Above the Veil, precedido por Aenir, é do país de Australia.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Above_the_Veil | language | English_language</otriple>
+        <otriple>Aenir | followedBy | Above_the_Veil</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aenir | subsequentWork | Above_the_Veil</otriple>
+        <otriple>Above_the_Veil | language | English_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | language | English_language</mtriple>
+        <mtriple>Aenir | followedBy | Above_the_Veil</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Por_encima_del_velo | Idioma | inglés</striple>
+        <striple>Aenir | SeguidoDe | Por_encima_del_velo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Al_damunt_del_vel | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Aenir | SeguitPer | Al_damunt_del_vel</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Por_riba_do_velo | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Aenir | SeguidoPor | Por_riba_do_velo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Veil-aren_gainean | Hizkuntza | Ingelesa</btriple>
+        <btriple>Aenir | Jarraituta | Veil-aren_gainean</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Above the Veil followed the book Aenir and is written in English.</lex>
+      <lex lang="en" lid="Id2">The book Aenir was followed up by Above the Veil, which is written in English.</lex>
+      <lex lang="en" lid="Id3">The novel Aenir was followed by Above the Veil written in English.</lex>
+      <lex lang="es" lid="Id1">Por encima del velo siguió al libro Aenir y está escrito en inglés.</lex>
+      <lex lang="es" lid="Id2">Al libro Aenir le siguió Por encima del velo, escrito en inglés.</lex>
+      <lex lang="es" lid="Id3">A la novela Aenir siguió Por encima del velo, escrita en inglés.</lex>
+      <lex lang="ca" lid="Id1">Above the Veil va seguir el llibre Aenir i està escrit en anglès.</lex>
+      <lex lang="ca" lid="Id2">El llibre Aenir va ser seguit per Above the Veil, que està escrit en anglès.</lex>
+      <lex lang="ca" lid="Id3">La novel·la Aenir va ser seguida per Above the Veil escrita en anglès.</lex>
+      <lex lang="eu" lid="Id1">Aenir liburua ingelesez dago idatzia.</lex>
+      <lex lang="eu" lid="Id2">Aenir liburuari Above the Veil jarraitu zion, ingelesez idatzia.</lex>
+      <lex lang="eu" lid="Id3">Aenir eleberria ingelesez idatzitako Above the Veil eleberriak jarraitu zuen.</lex>
+      <lex lang="gl" lid="Id1">Above the Veil seguiu ao libro Aenir e está escrito en inglés.</lex>
+      <lex lang="gl" lid="Id2">O libro Aenir foi seguido por Above the Veil, que está escrito en inglés.</lex>
+      <lex lang="gl" lid="Id3">A novela Aenir foi seguida por Above the Veil escrita en inglés.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Above_the_Veil | previousWork | Aenir</otriple>
+        <otriple>Aenir | precededBy | Castle_(novel)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        <otriple>Aenir | previousWork | Castle_(novel)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
+        <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Por_encima_del_velo | PrecedidoPor | Aenir</striple>
+        <striple>Aenir | PrecedidoPor | Castillo_(novela)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Al_damunt_del_vel | PreceditPer | Aenir</ctriple>
+        <ctriple>Aenir | PreceditPer | Castle_(novel·la)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Por_riba_do_velo | PrecedidoPor | Aenir</gtriple>
+        <gtriple>Aenir | PrecedidoPor | Castelo_(novela)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Veil-aren_gainean | AurretikBy | Aenir</btriple>
+        <btriple>Aenir | AurretikBy | Castle_(eleberria)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Above the Veil is the sequel to Aenir, which was written after Castle.</lex>
+      <lex lang="en" lid="Id2">Above the Veil is the sequel to Aenir, which was preceded by the novel Castle.</lex>
+      <lex lang="en" lid="Id3">Above the Veil was preceded by Aenir which was preceded by the novel Castle.</lex>
+      <lex lang="es" lid="Id1">Por encima del velo es la continuación de Aenir, que se escribió después de Castillo.</lex>
+      <lex lang="es" lid="Id2">Por encima del velo es la secuela de Aenir, a la que precedió la novela Castillo.</lex>
+      <lex lang="es" lid="Id3">Por encima del velo fue precedida por Aenir, que a su vez fue precedida por la novela Castillo.</lex>
+      <lex lang="ca" lid="Id1">Above the Veil és la seqüela d'Aenir, que va ser escrita després de Castle.</lex>
+      <lex lang="ca" lid="Id2">Above the Veil és la seqüela d'Aenir, que va ser precedida per la novel·la Castle.</lex>
+      <lex lang="ca" lid="Id3">Above the Veil va ser precedit per Aenir, que va ser precedit per la novel·la Castle.</lex>
+      <lex lang="eu" lid="Id1">Aenirren jarraipena da, Castleren ondoren idatzia izan zena.</lex>
+      <lex lang="eu" lid="Id2">Above the Veil Aenir-en jarraipena da, eta aurretik Castle eleberria izan zuen.</lex>
+      <lex lang="eu" lid="Id3">Above the Veil-en aurretik Aenir zegoen, eta Aenir-en aurretik Castle eleberria.</lex>
+      <lex lang="gl" lid="Id1">Above the Veil é a secuela de Aenir, que foi escrita despois de Castle.</lex>
+      <lex lang="gl" lid="Id2">Above the Veil é a secuela de Aenir, que foi precedida pola novela Castle.</lex>
+      <lex lang="gl" lid="Id3">Above the Veil foi precedida por Aenir, que foi precedida pola novela Castle.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media</otriple>
+        <otriple>Springer_Science+Business_Media | founder | Julius_Springer</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media</mtriple>
+        <mtriple>Springer_Science+Business_Media | founder | Julius_Springer</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Acta_Mathematica_Hungarica | Editor | Springer_Science+Business_Media</striple>
+        <striple>Springer_Science+Business_Media | Fundador | Julius_Springer</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Acta_Mathematica_Hungarica | Editor | Springer_Science+Business_Media</ctriple>
+        <ctriple>Springer_Science+Business_Media | Fundador | Julius_Springer</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Acta_Mathematica_Hungarica | Editor | Springer_Science+Business_Media</gtriple>
+        <gtriple>Springer_Science+Business_Media | Fundador | Julius_Springer</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acta_Mathematica_Hungarica | Argitaratzailea | Springer_Science+Business_Media</btriple>
+        <btriple>Springer_Science+Business_Media | Sortzailea | Julius_Springer</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Acta Mathematica Hungarica is the publisher of Springer Science+Business Media, founded by Julius Springer.</lex>
+      <lex lang="en" lid="Id2">Springer Science and Business Media, founded by Julius Springer, publishes Acta Mathematica Hungarica.</lex>
+      <lex lang="en" lid="Id3">Springer Science+Business Media founded by Julius Springer is the publisher of Acta Mathematica Hungarica.</lex>
+      <lex lang="es" lid="Id1">Acta Mathematica Hungarica es la editorial de Springer Media Ciencia+Negocios, fundada por Julius Springer.</lex>
+      <lex lang="es" lid="Id2">Springer Media Ciencia+Negocios, fundada por Julius Springer, publica Acta Mathematica Hungarica.</lex>
+      <lex lang="es" lid="Id3">Springer Media Ciencia+Negocios, fundada por Julius Springer, es la editorial de Acta Mathematica Hungarica.</lex>
+      <lex lang="ca" lid="Id1">Acta Mathematica Hungarica és l'editorial de Springer Science+Business Media, fundada per Julius Springer.</lex>
+      <lex lang="ca" lid="Id2">Springer Science and Business Media, fundada per Julius Springer, publica Acta Mathematica Hungarica.</lex>
+      <lex lang="ca" lid="Id3">Springer Science+Business Media fundada per Julius Springer és l'editor d'Acta Mathematica Hungarica.</lex>
+      <lex lang="eu" lid="Id1">Acta Mathematica Hungarica Springer Science + Business Media argitaletxea da, Julius Springerrek sortu zuena.</lex>
+      <lex lang="eu" lid="Id2">Springer Science and Business Media, Julius Springerrek sortua, Acta Mathematica Hungarica argitaratzen du.</lex>
+      <lex lang="eu" lid="Id3">Springer Science+Business Media, Julius Springer-ek sortutakoa, Acta Mathematica Hungarica argitaratzailea da.</lex>
+      <lex lang="gl" lid="Id1">Acta Mathematica Hungarica é a editora de Springer Science+Business Media, fundada por Julius Springer.</lex>
+      <lex lang="gl" lid="Id2">Springer Science and Business Media, fundada por Julius Springer, publica Acta Mathematica Hungarica.</lex>
+      <lex lang="gl" lid="Id3">Springer Science+Business Media, fundada por Julius Springer, é a editora de Acta Mathematica Hungarica.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | coden | "ASCQAG"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | coden | "ASCQAG"@en</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        <otriple>Administrative_Science_Quarterly | coden | "ASCQAG"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | coden | "ASCQAG"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | codenCode | "ASCQAG"</mtriple>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Administration_Science_Quarterly | CódigoCoden | ASCQAG</striple>
+        <striple>Administration_Science_Quarterly | Abreviatura | Admin._Sci._Q.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ciències_administratives_trimestralment | CodenCode | ASCQAGConstellation_name_(optional)</ctriple>
+        <ctriple>Ciències_administratives_trimestralment | Abreviació | Administració._Ciència._Q.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ciencias_administrativas_trimestral | CodenCódigo | ASCQAGConstellation_name_(optional)</gtriple>
+        <gtriple>Ciencias_administrativas_trimestral | Abreviatura | Administración._Ciencia._Q.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(Gaztelaniaz)_Administrazio_Zientziak | CodenCode | ASCQAG</btriple>
+        <btriple>(Gaztelaniaz)_Administrazio_Zientziak | Laburdura | Administrazio_zientifikoa.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Administrative Science Quarterly has a Coden code of "ASCQAG" and the abbreviation of Admin. Sci. Q.</lex>
+      <lex lang="en" lid="Id2">Administrative Science Quarterly, abbreviated Admin. Sci. Q., has a Coden code of "ASCQAG".</lex>
+      <lex lang="en" lid="Id3">The code for Administrative Science Quarterly (abbreviated as Admin. Sci. Q.) is ASCQAG.</lex>
+      <lex lang="es" lid="Id1">Ciencia Administrativa Trimestral tiene un código Coden de "ASCQAG" y la abreviatura de Admin. Sci. Q.</lex>
+      <lex lang="es" lid="Id2">Ciencia Administrativa Trimestral, abreviado Admin. Sci. Q., tiene el código Coden "ASCQAG".</lex>
+      <lex lang="es" lid="Id3">El código de la revista Ciencia Administrativa Trimestral (abreviada Admin. Sci. Q.) es ASCQAG.</lex>
+      <lex lang="ca" lid="Id1">L'Administrative Science Quarterly té un codi Coden de "ASCQAG" i l'abreviatura de Admin. Sci. Q.</lex>
+      <lex lang="ca" lid="Id2">Administrative Science Quarterly, abreujat Admin. Sci. Q., té un codi Coden de "ASCQAG".</lex>
+      <lex lang="ca" lid="Id3">El codi per a l'Administrative Science Quarterly (abreujat com Admin. Sci. Q.) és ASCQAG.</lex>
+      <lex lang="eu" lid="Id1">Administrazio Zientzien Hiruhilekoak "ASCQAG" kodea du eta "Admin. Sci. Q." laburdura.</lex>
+      <lex lang="eu" lid="Id2">Administrative Science Quarterly, Admin. Sci. Q. laburtua, ASCQAG kodea du.</lex>
+      <lex lang="eu" lid="Id3">Administrazio Zientzien Hiruhilekoaren kodea (Admin. Sci. Q bezala laburtua) ASCQAG da.</lex>
+      <lex lang="gl" lid="Id1">The Administrative Science Quarterly ten un código Coden de "ASCQAG" e a abreviatura de Admin. Sci. Q.</lex>
+      <lex lang="gl" lid="Id2">Administrative Science Quarterly, abreviado Admin. Sci. Q., ten un código Coden de "ASCQAG".</lex>
+      <lex lang="gl" lid="Id3">O código para Administrative Science Quarterly (abreviado como Admin. Sci. Q.) é ASCQAG.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_Public_and_Land-grant_Universities</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Administration_Science_Quarterly | Editor | Universidad_Cornell</striple>
+        <striple>Universidad_Cornell | Afiliación | Association_of_Public_and_Land-grant_Universities</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ciències_administratives_trimestralment | Editor | Universitat_Cornell</ctriple>
+        <ctriple>Universitat_Cornell | Afiliació | Association_of_Public_and_Land-grant_Universities</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ciencias_administrativas_trimestral | Editor | Universidade_de_Cornell</gtriple>
+        <gtriple>Universidade_de_Cornell | Afiliación | Asociación_de_Universidades_Públicas_e_Land-grant</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(Gaztelaniaz)_Administrazio_Zientziak | Argitaratzailea | Cornell_Unibertsitatea</btriple>
+        <btriple>Cornell_Unibertsitatea | Afiliazioa | Unibertsitate_Publikoen_eta_Lurrak_Emandako_Unibertsitateen_Elkartea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Cornell University is affiliated with the Association of Public and Land-grant Universities and published Administrative Science Quarterly.</lex>
+      <lex lang="en" lid="Id2">Cornell University, affiliated with the Association of Public and Land-grant Universities, is publisher of Administrative Science Quarterly.</lex>
+      <lex lang="en" lid="Id3">Cornell University, affiliated with the Association of Public and Land-grant Universities, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex lang="es" lid="Id1">La Universidad de Cornell está afiliada a la Asociación de universidades públicas y con concesión de tierras y publica Ciencia Administrativa Trimestral.</lex>
+      <lex lang="es" lid="Id2">La Universidad de Cornell, afiliada a la Asociación de universidades públicas y con concesión de tierras, publica Ciencia Administrativa Trimestral.</lex>
+      <lex lang="es" lid="Id3">La Universidad de Cornell, afiliada a la Asociación de universidades públicas y con concesión de tierras, es la editora de Ciencia Administrativa Trimestral.</lex>
+      <lex lang="ca" lid="Id1">La Universitat Cornell està afiliada a l'Associació d'Universitats Públiques i Land-grant i publica Administrative Science Quarterly.</lex>
+      <lex lang="ca" lid="Id2">La Universitat de Cornell, afiliada a l'Associació d'Universitats Públiques i de Subvenció de Terrenys, és l'editora d'Administrative Science Quarterly.</lex>
+      <lex lang="ca" lid="Id3">La Universitat Cornell, afiliada a l'Associació d'Universitats Públiques i Land-grant, és l'editor de l'Administrative Science Quarterly.</lex>
+      <lex lang="eu" lid="Id1">Cornell Unibertsitatea Elkarte Publiko eta Lur-laguntzako Unibertsitateen kide da eta Administrative Science Quarterly aldizkaria argitaratzen du.</lex>
+      <lex lang="eu" lid="Id2">Cornell Unibertsitatea, Unibertsitate Publikoen eta Lur-emaitza Unibertsitateen Elkartearekin afiliatua, Administrazio Zientzia Hiruhilekoaren argitaratzailea da.</lex>
+      <lex lang="eu" lid="Id3">Cornell Unibertsitatea, Unibertsitate Publikoen eta Lurrak Emandako Unibertsitateen Elkartearekin afiliatua, Administrazio Zientziaren Hiruhilekoaren argitaratzailea da.</lex>
+      <lex lang="gl" lid="Id1">A Universidade de Cornell está afiliada á Asociación de Universidades Públicas e Land-grant e publica Administrative Science Quarterly.</lex>
+      <lex lang="gl" lid="Id2">A Universidade de Cornell, afiliada á Asociación de Universidades Públicas e Land-grant, é a editora de Administrative Science Quarterly.</lex>
+      <lex lang="gl" lid="Id3">A Universidade de Cornell, afiliada á Asociación de Universidades Públicas e Land-grant, é a editora do Administrative Science Quarterly.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aenir | author | Garth_Nix</otriple>
+        <otriple>Aenir | isbn | "0-439-17684-0"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aenir | author | Garth_Nix</mtriple>
+        <mtriple>Aenir | isbnNumber | "0-439-17684-0"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aenir | Autor | Garth_Nix</striple>
+        <striple>Aenir | NúmeroIsbn | 0-439-17684-0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aenir | Autor | Garth_Nix</ctriple>
+        <ctriple>Aenir | NúmeroIsbn | 0-439-17684-0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aenir | Autor | Garth_Nix</gtriple>
+        <gtriple>Aenir | NúmeroDeIsbn | 0-439-17684-0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aenir | Egilea | Garth_Nix</btriple>
+        <btriple>Aenir | IsbnZenbakia | 0-439-17684-0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Written by Garth Nix, Aenir, has the ISBN number of "0-439-17684-0.</lex>
+      <lex lang="en" lid="Id2">Aenir was written by Garth Nix and has the ISBN number of 0-439-17684-0.</lex>
+      <lex lang="en" lid="Id3">Aenir was written by Garth Nix and has the ISBN number 0-439-17684-0.</lex>
+      <lex lang="es" lid="Id1">Escrito por Garth Nix, Aenir tiene el número de ISBN "0-439-17684-0.</lex>
+      <lex lang="es" lid="Id2">Aenir fue escrito por Garth Nix y tiene el número de ISBN 0-439-17684-0.</lex>
+      <lex lang="es" lid="Id3">Aenir fue escrito por Garth Nix y tiene el número ISBN 0-439-17684-0.</lex>
+      <lex lang="ca" lid="Id1">Escrit per Garth Nix, Aenir, té el número ISBN de "0-439-17684-0.</lex>
+      <lex lang="ca" lid="Id2">Aenir va ser escrit per Garth Nix i té el número ISBN 0-439-17684-0.</lex>
+      <lex lang="ca" lid="Id3">Aenir va ser escrit per Garth Nix i té el número ISBN 0-439-17684-0.</lex>
+      <lex lang="eu" lid="Id1">Garth Nix-ek idatzia, Aenir, 0-439-17684-0 ISBN zenbakia du.</lex>
+      <lex lang="eu" lid="Id2">Aenir Garth Nix-ek idatzi zuen eta ISBN 0-439-17684-0 zenbakia du.</lex>
+      <lex lang="eu" lid="Id3">Aenir Garth Nix-ek idatzi zuen eta ISBN 0-439-17684-0 zenbakia dauka.</lex>
+      <lex lang="gl" lid="Id1">Escrito por Garth Nix, Aenir, ten o número ISBN de "0-439-17684-0.</lex>
+      <lex lang="gl" lid="Id2">Aenir foi escrito por Garth Nix e ten o número ISBN 0-439-17684-0.</lex>
+      <lex lang="gl" lid="Id3">Aenir foi escrito por Garth Nix e ten o número ISBN 0-439-17684-0.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | isbnNumber | "0-439-92550-9"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | TipoDeMedio | cartoné</striple>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | NúmeroIsbn | 0-439-92550-9</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | NúmeroIsbn | 0-439-92550-9</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | TipoDeMedios | Capa_dura</gtriple>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | NúmeroDeIsbn | 0-439-92550-9</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | EuskarriMota | Azala_gogorra</btriple>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | IsbnZenbakia | 0-439-92550-9</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alcatraz Versus the Evil Librarians is published in Hardcover and has the ISBN number 0-439-92550-9.</lex>
+      <lex lang="en" lid="Id2">The hardcover edition of, "Alcatraz Versus the Evil Librarians", has ISBN number 0-439-92550-9.</lex>
+      <lex lang="es" lid="Id1">Alcatraz contra los bibliotecarios malvados Librarians se publica en cartoné y tiene el número ISBN 0-439-92550-9.</lex>
+      <lex lang="es" lid="Id2">La edición en cartoné de "Alcatraz contra los bibliotecarios malvados" lleva el número ISBN 0-439-92550-9.</lex>
+      <lex lang="ca" lid="Id1">Alcatraz Versus the Evil Librarians es publica en tapa dura i té el número ISBN 0-439-92550-9.</lex>
+      <lex lang="ca" lid="Id2">L'edició de tapa dura de "Alcatraz Versus the Evil Librarians", té el número ISBN 0-439-92550-9.</lex>
+      <lex lang="eu" lid="Id1">Alcatraz Versus the Evil Librarians liburua azal gogorrean argitaratu zen eta ISBN 0-439-92550-9 zenbakia du.</lex>
+      <lex lang="eu" lid="Id2">"Alcatraz Versus the Evil Librarians" liburuaren azaleko edizio gogorrak 0-439-92550-9 ISBN zenbakia du.</lex>
+      <lex lang="gl" lid="Id1">Alcatraz Versus the Evil Librarians é publicado en tapa dura e ten o número ISBN 0-439-92550-9.</lex>
+      <lex lang="gl" lid="Id2">A edición de capa dura de "Alcatraz Versus the Evil Librarians" ten o número ISBN 0-439-92550-9.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | isbnNumber | "0-439-92550-9"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | NúmeroDePáginas | 320</striple>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | NúmeroIsbn | 0-439-92550-9</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | NombreDePàgines | 320</ctriple>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | NúmeroIsbn | 0-439-92550-9</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | NúmeroDePáxinas | 320</gtriple>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | NúmeroDeIsbn | 0-439-92550-9</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | OrrialdeKopurua | 320</btriple>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | IsbnZenbakia | 0-439-92550-9</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alcatraz Versus the Evil Librarians, which is identified by ISBN 0-439-92550-9, has 320 pages.</lex>
+      <lex lang="en" lid="Id2">Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9 and is 320 pages long.</lex>
+      <lex lang="en" lid="Id3">The ISBN number of the 320-page long Alcatraz Versus the Evil Librarians is 0-439-92550-9.</lex>
+      <lex lang="es" lid="Id1">Alcatraz contra los bibliotecarios malvados, identificado con el ISBN 0-439-92550-9, tiene 320 páginas.</lex>
+      <lex lang="es" lid="Id2">Alcatraz contra los bibliotecarios malvados tiene el número ISBN 0-439-92550-9 y consta de 320 páginas.</lex>
+      <lex lang="es" lid="Id3">El número ISBN del libro de 320 páginas Alcatraz contra los bibliotecarios malvados es 0-439-92550-9.</lex>
+      <lex lang="ca" lid="Id1">Alcatraz Versus the Evil Librarians, que s'identifica amb ISBN 0-439-92550-9, té 320 pàgines.</lex>
+      <lex lang="ca" lid="Id2">Alcatraz Versus the Evil Librarians té el número ISBN 0-439-92550-9 i té 320 pàgines.</lex>
+      <lex lang="ca" lid="Id3">El número ISBN del llarg Alcatraz Versus the Evil Librarians de 320 pàgines és 0-439-92550-9.</lex>
+      <lex lang="eu" lid="Id1">Alcatraz Versus the Evil Librarians, ISBN 0-439-92550-9 zenbakiarekin identifikatua, 320 orrialde ditu.</lex>
+      <lex lang="eu" lid="Id2">Alcatraz Versus the Evil Librarians-ek 0-439-92550-9 ISBN zenbakia dauka eta 320 orrialde ditu.</lex>
+      <lex lang="eu" lid="Id3">320 orrialdeko Alcatraz Versus the Evil Librarians liburuaren ISBN zenbakia 0-439-92550-9 da.</lex>
+      <lex lang="gl" lid="Id1">Alcatraz Versus the Evil Librarians, que se identifica co ISBN 0-439-92550-9, ten 320 páxinas.</lex>
+      <lex lang="gl" lid="Id2">Alcatraz Versus the Evil Librarians ten o número ISBN 0-439-92550-9 e ten 320 páxinas.</lex>
+      <lex lang="gl" lid="Id3">O número de ISBN de 320 páxinas de Alcatraz Versus the Evil Librarians é 0-439-92550-9.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>HIV | family | Orthoretrovirinae</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | family | Orthoretrovirinae</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>virus_de_la_inmunodeficiencia_humana | Familia | Orthoretrovirinae</striple>
+        <striple>AIDS_(revista) | DisciplinaAcadémica | virus_de_la_inmunodeficiencia_humana</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>virus_de_la_immunodeficiència_humana | Família | Orthoretrovirinae</ctriple>
+        <ctriple>AIDS_(journal) | DisciplinaAcadèmica | virus_de_la_immunodeficiència_humana</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>VIH | Familia | Orthoretrovirinae</gtriple>
+        <gtriple>Diario_(en_castelán) | DisciplinaAcadémica | VIH</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>HIESaren_aurkako_tratamendua | Familia | Orthoretrovirinae</btriple>
+        <btriple>AIDS_(aldizkaria) | DiziplinaAkademikoa | HIESaren_aurkako_tratamendua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AIDS (journal) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae.</lex>
+      <lex lang="en" lid="Id2">The AIDS (journal) is of the academic discipline of HIV, a disease part of the Orthoretrovirinae family.</lex>
+      <lex lang="en" lid="Id3">AIDS (journal) comes under the academic discipline HIV which is part of the family of orthoretrovirinae.</lex>
+      <lex lang="es" lid="Id1">La AIDS (revista) pertenece a la disciplina académica VIH, que pertenece a la familia Orthoretrovirinae.</lex>
+      <lex lang="es" lid="Id2">La AIDS (revista) es de la disciplina académica del VIH, una enfermedad que forma parte de la familia Orthoretrovirinae.</lex>
+      <lex lang="es" lid="Id3">La AIDS (revista) pertenece a la disciplina académica VIH, que forma parte de la familia de los ortoretrovirinae.</lex>
+      <lex lang="ca" lid="Id1">El SIDA (revista) es troba sota la disciplina acadèmica VIH que pertany a la família Orthoretrovirinae.</lex>
+      <lex lang="ca" lid="Id2">The AIDS (journal) és de la disciplina acadèmica del VIH, una malaltia que forma part de la família Orthoretrovirinae.</lex>
+      <lex lang="ca" lid="Id3">L'AIDS (revista) es troba sota la disciplina acadèmica VIH, que forma part de la família dels orthoretrovirinae.</lex>
+      <lex lang="eu" lid="Id1">HIV diziplina akademikoaren barruan dago, eta Orthoretrovirinae familiakoa da.</lex>
+      <lex lang="eu" lid="Id2">HIESaren diziplina akademikoa da, Orthoretrovirinae familiako gaixotasun bat.</lex>
+      <lex lang="eu" lid="Id3">HIESa HIESaren diziplina akademikoaren barruan dago, orthoretrovirinae familiaren parte dena.</lex>
+      <lex lang="gl" lid="Id1">A SIDA (revista) cae baixo a disciplina académica VIH que pertence á familia Orthoretrovirinae.</lex>
+      <lex lang="gl" lid="Id2">A revista AIDS dedícase á disciplina académica do VIH, unha enfermidade que pertence á familia Orthoretrovirinae.</lex>
+      <lex lang="gl" lid="Id3">A SIDA (revista) cae baixo a disciplina académica VIH, que forma parte da familia de orthoretrovirinae.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Una_fortaleza_de_hielo_gris | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Fortress of Grey Ice is from the United States where the language is English.</lex>
+      <lex lang="en" lid="Id2">A Fortress of Grey Ice is from the United States, which has English as one of its languages.</lex>
+      <lex lang="es" lid="Id1">Una Fortaleza de Hielo Gris procede de Estados Unidos, donde el idioma es el inglés.</lex>
+      <lex lang="es" lid="Id2">Una Fortaleza de Hielo Gris es de Estados Unidos, que tiene el inglés como una de sus lenguas.</lex>
+      <lex lang="ca" lid="Id1">A Fortress of Grey Ice és dels Estats Units on la llengua és l'anglès.</lex>
+      <lex lang="ca" lid="Id2">A Fortress of Grey Ice és dels Estats Units, que té l'anglès com una de les seves llengües.</lex>
+      <lex lang="eu" lid="Id1">A Fortress of Grey Ice Ameriketako Estatu Batuetakoa da eta ingelesez mintzatzen da.</lex>
+      <lex lang="eu" lid="Id2">A Fortress of Grey Ice Ameriketako Estatu Batuetakoa da, eta ingelesa da bere hizkuntzetako bat.</lex>
+      <lex lang="gl" lid="Id1">A Fortress of Grey Ice é dos Estados Unidos, onde o idioma é o inglés.</lex>
+      <lex lang="gl" lid="Id2">A Fortress of Grey Ice é dos Estados Unidos, que ten o inglés como unha das súas linguas.</lex>
+      </entry>
+    </entries>
+  </benchmark>

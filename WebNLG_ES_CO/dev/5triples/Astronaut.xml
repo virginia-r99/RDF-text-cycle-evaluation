@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id1" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | nationality | United_States</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | nationality | United_States</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | Misión | Apolo_12</striple>
+        <striple>Alan_L._Bean | Nacionalidad | Estados_Unidos</striple>
+        <striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        <striple>Alan_L._Bean | Ocupación | piloto_de_pruebas</striple>
+        <striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | Missió | Apollo_12</ctriple>
+        <ctriple>Alan_Bean | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Apollo_12 | Operador | Nasa</ctriple>
+        <ctriple>Alan_Bean | Ocupació | pilot_de_proves</ctriple>
+        <ctriple>Alan_Bean | LlocDeNaixement | Wheeler,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | Misión | Apollo_12</gtriple>
+        <gtriple>Alan_Bean | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Apollo_12 | Operador | NASA</gtriple>
+        <gtriple>Alan_Bean | Ocupación | Piloto_de_proba</gtriple>
+        <gtriple>Alan_Bean | LugarDeNacemento | Wheeler,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Misioa | Apollo_12</btriple>
+        <btriple>Alan_Bean | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Apollo_12 | Operadore | NASA</btriple>
+        <btriple>Alan_Bean | Okupazioa | Proba_pilotua</btriple>
+        <btriple>Alan_Bean | JaiotzeLekua | Wheeler,_Texaskoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was an American born in Wheeler, Texas. He served as a test pilot and became a crew member of Apollo 12, which was operated by NASA.</lex>
+      <lex lang="en" lid="Id2">Apollo 12 was operated by NASA and its crew members included American national Alan Bean. He was born in Wheeler, Texas and served as a test pilot.</lex>
+      <lex lang="en" lid="Id3">Alan Bean, a US national, was born in Wheeler, Texas. He served as a test pilot before becoming part of the NASA operated Apollo 12 mission as a crew member.</lex>
+      <lex lang="es" lid="Id1">Alan Bean fue un estadounidense nacido en Wheeler, Texas. Fue piloto de pruebas y miembro de la tripulación del Apolo 12, operado por la NASA.</lex>
+      <lex lang="es" lid="Id2">El Apolo 12 fue operado por la NASA y entre sus tripulantes se encontraba el estadounidense Alan Bean. Nació en Wheeler (Texas) y trabajó como piloto de pruebas.</lex>
+      <lex lang="es" lid="Id3">Alan Bean, de nacionalidad estadounidense, nació en Wheeler (Texas). Sirvió como piloto de pruebas antes de formar parte de la misión Apolo 12, operada por la NASA, como miembro de la tripulación.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va ser un americà nascut a Wheeler, Texas. Va servir com a pilot de proves i va esdevenir membre de la tripulació de l' Apollo 12, que va ser operat per la NASA.</lex>
+      <lex lang="ca" lid="Id2">L' Apollo 12 va ser operat per la NASA i els membres de la seva tripulació incloïen el nacional americà Alan Bean. Va néixer a Wheeler, Texas i va servir com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean, un ciutadà nord-americà, va néixer a Wheeler, Texas. Va servir com a pilot de proves abans de formar part de la missió Apollo 12 operada per la NASA com a membre de la tripulació.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean (Wheeler, Texas, Ameriketako Estatu Batuak, 1942ko urtarrilaren 12a) estatubatuar astronauta bat izan zen, Apollo 12 espazio-misioan parte hartu zuena.</lex>
+      <lex lang="eu" lid="Id2">Apollo 12-a NASA-k gidatu zuen eta tripulazioko kideetako bat Alan Bean estatubatuarra izan zen. Wheeler-en jaio zen, Texasen, eta proba-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean, AEBetako herritarra, Wheelerren jaio zen, Texasen. Proba-pilotua izan zen, eta, ondoren, tripulazioko kide gisa parte hartu zuen NASAk gidatutako Apollo 12 misioan.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean foi un americano nado en Wheeler, Texas. Serviu como piloto de probas e converteuse nun membro da tripulación do Apollo 12, que foi operado pola NASA.</lex>
+      <lex lang="gl" lid="Id2">O Apollo 12 foi operado pola NASA e os seus membros da tripulación incluían o estadounidense Alan Bean. Naceu en Wheeler, Texas e serviu como piloto de probas.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean, un cidadán estadounidense, naceu en Wheeler, Texas. Serviu como piloto de probas antes de formar parte da misión Apollo 12 operada pola NASA como membro da tripulación.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | deathDate | "1998-07-21"^^xsd:date</otriple>
+        <otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | deathDate | "1998-07-21"</mtriple>
+        <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+        <striple>Alan_Bartlett_Shepard | FechaDeDefunción | 21-07-1998</striple>
+        <striple>Alan_Bartlett_Shepard | FechaDeNacimiento | 18-11-1923</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</ctriple>
+        <ctriple>Alan_Shepard | LlocDeLaMort | Califòrnia</ctriple>
+        <ctriple>Alan_Shepard | LlocDeNaixement | Nou_Hampshire</ctriple>
+        <ctriple>Alan_Shepard | DataDeMort | 1998-07-21</ctriple>
+        <ctriple>Alan_Shepard | DataDeNaixement | 1923-11-18</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</gtriple>
+        <gtriple>Alan_Shepard | LugarDaMorte | California</gtriple>
+        <gtriple>Alan_Shepard | LugarDeNacemento | New_Hampshireusa._kgm</gtriple>
+        <gtriple>Alan_Shepard | DataDeMorte | 1998-07-21</gtriple>
+        <gtriple>Alan_Shepard | DataDeNacemento | 1923-11-18</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | AlmaMater | Euskal-Erria,_1957.</btriple>
+        <btriple>Alan_Shepard | HeriotzarenLekua | Californiausa._kgm</btriple>
+        <btriple>Alan_Shepard | JaiotzeLekua | New_Hampshire</btriple>
+        <btriple>Alan_Shepard | HeriotzaData | 1998-07-21</btriple>
+        <btriple>Alan_Shepard | JaiotzeData | 1923-11-18</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard, born in New Hampshire on November 18, 1923, graduated from NWC in 1957 with an M.A. He died in California on July 21, 1998.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard was born in New Hampshire on the 18th of November, 1923. He graduated from NWC in 1957 with an M.A. On the 21st of July, 1998, he passed away in California.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was born on the 18th of November, 1923 in New Hampshire and passed away on the 21st of July, 1998 in California. He graduated with an M.A. from NWC in 1957.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard, nacido en New Hampshire el 18 de noviembre de 1923, se licenció en 1957 por la NWC. Murió en California el 21 de julio de 1998.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard nació en New Hampshire el 18 de noviembre de 1923. El 21 de julio de 1998 falleció en California.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard nació el 18 de noviembre de 1923 en New Hampshire y falleció el 21 de julio de 1998 en California. Obtuvo un máster por la NWC en 1957.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard, nascut a New Hampshire el 18 de novembre de 1923, es va graduar a NWC el 1957 amb una màster. Va morir a Califòrnia el 21 de juliol de 1998.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va néixer a New Hampshire el 18 de novembre de 1923. Es va graduar a NWC el 1957 amb una màster. El 21 de juliol de 1998, va morir a Califòrnia.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va néixer el 18 de novembre de 1923 a New Hampshire i va morir el 21 de juliol de 1998 a Califòrnia. Es va graduar amb un M.A. de NWC el 1957.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard, New Hampshiren jaioa, 1923ko azaroaren 18an, 1957an graduatu zen NWCn MA batekin. 1998ko uztailaren 21ean hil zen Kalifornian.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard New Hampshire-n jaio zen 1923ko azaroaren 18an. NWC-n graduatu zen 1957an, eta 1998ko uztailaren 21ean hil zen Kalifornian.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard 1923ko azaroaren 18an jaio zen New Hampshire-n eta 1998ko uztailaren 21ean hil zen Kalifornian. 1957an graduatu zen NWC-n.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard, nado en New Hampshire o 18 de novembro de 1923, graduouse na NWC en 1957 cun M.A. Morreu en California o 21 de xullo de 1998.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard naceu en New Hampshire o 18 de novembro de 1923. Graduouse na NWC en 1957 cun M.A. O 21 de xullo de 1998 faleceu en California.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard naceu o 18 de novembro de 1923 en New Hampshire e faleceu o 21 de xullo de 1998 en California. Graduouse cun M.A. de NWC en 1957.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alan_Shepard | status | "Deceased"@en</otriple>
+        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | status | "Deceased"</mtriple>
+        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Estado | Fallecido</striple>
+        <striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+        <striple>Alan_Bartlett_Shepard | Ocupación | piloto_de_pruebas</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Estatut | Defunció</ctriple>
+        <ctriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</ctriple>
+        <ctriple>Alan_Shepard | LlocDeLaMort | Califòrnia</ctriple>
+        <ctriple>Alan_Shepard | Ocupació | pilot_de_proves</ctriple>
+        <ctriple>Alan_Shepard | LlocDeNaixement | Nou_Hampshire</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Estado | Falecido</gtriple>
+        <gtriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</gtriple>
+        <gtriple>Alan_Shepard | LugarDaMorte | California</gtriple>
+        <gtriple>Alan_Shepard | Ocupación | Piloto_de_proba</gtriple>
+        <gtriple>Alan_Shepard | LugarDeNacemento | New_Hampshireusa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Egoera | Hildakoa</btriple>
+        <btriple>Alan_Shepard | AlmaMater | Euskal-Erria,_1957.</btriple>
+        <btriple>Alan_Shepard | HeriotzarenLekua | Californiausa._kgm</btriple>
+        <btriple>Alan_Shepard | Okupazioa | Proba_pilotua</btriple>
+        <btriple>Alan_Shepard | JaiotzeLekua | New_Hampshire</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard, born in New Hampshire, has died in California. After graduating from NWC, MA in 1957 he served as a test pilot.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard has died in California. He was born in New Hampshire and went to school at NWC, graduating with an MA in 1957, He served as a test pilot.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard has died in California. He was born in New Hampshire and graduated from NWC MA in 1957. He served as a test pilot.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard, nacido en New Hampshire, ha fallecido en California. Tras licenciarse en 1957 en el NWC de Massachusetts, trabajó como piloto de pruebas.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard ha fallecido en California. Nació en New Hampshire y estudió en el NWC, donde se licenció en 1957. Fue piloto de pruebas.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard ha fallecido en California. Nació en New Hampshire y se licenció en 1957 por la NWC MA. Fue piloto de pruebas.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard, nascut a New Hampshire, ha mort a Califòrnia. Després de graduar-se a NWC, MA el 1957, va servir com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id2">L'Alan Shepard ha mort a Califòrnia. Va néixer a New Hampshire i va anar a l'escola a NWC, on es va graduar amb un màster el 1957. Va treballar com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard ha mort a Califòrnia. Va néixer a New Hampshire i es va graduar de NWC MA el 1957. Va servir com a pilot de proves.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard, New Hampshire-n jaioa, Kalifornian hil zen. NWC-n graduatu ondoren, 1957an, proba-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard Kalifornian hil zen. New Hampshire-n jaio zen eta NWC-n ikasi zuen; 1957an graduatu zen eta proba-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard Kalifornian hil zen. New Hampshire-n jaio zen eta NWC MA-n graduatu zen 1957an. Proba-pilotua izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard, nacido en New Hampshire, morreu en California. Despois de graduarse na NWC, MA en 1957, serviu como piloto de probas.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard morreu en California. Naceu en New Hampshire e estudou na NWC, graduándose cunha maestría en 1957. Serviu como piloto de probas.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard morreu en California. Naceu en New Hampshire e graduouse na NWC MA en 1957. Serviu como piloto de probas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+        <otriple>Alan_Shepard | status | "Deceased"@en</otriple>
+        <otriple>Alan_Shepard | selection | 1959</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Apollo_14 | operator | NASA</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+        <mtriple>Alan_Shepard | status | "Deceased"</mtriple>
+        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Apollo_14 | operator | NASA</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Misión | Apolo_14</striple>
+        <striple>Alan_Bartlett_Shepard | Estado | Fallecido</striple>
+        <striple>Alan_Bartlett_Shepard | SeleccionadoPorLaNasa | 1959</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+        <striple>Apolo_14 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Missió | Apollo_14</ctriple>
+        <ctriple>Alan_Shepard | Estatut | Defunció</ctriple>
+        <ctriple>Alan_Shepard | SeleccionatPerLaNasa | 1959</ctriple>
+        <ctriple>Alan_Shepard | LlocDeNaixement | Nou_Hampshire</ctriple>
+        <ctriple>Apollo_14 | Operador | Nasa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Misión | Apollo_14</gtriple>
+        <gtriple>Alan_Shepard | Estado | Falecido</gtriple>
+        <gtriple>Alan_Shepard | SeleccionadoPolaNasa | 1959</gtriple>
+        <gtriple>Alan_Shepard | LugarDeNacemento | New_Hampshireusa._kgm</gtriple>
+        <gtriple>Apollo_14 | Operador | NASA</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Misioa | Apollo_14</btriple>
+        <btriple>Alan_Shepard | Egoera | Hildakoa</btriple>
+        <btriple>Alan_Shepard | Nasa-kHautatua | 1959</btriple>
+        <btriple>Alan_Shepard | JaiotzeLekua | New_Hampshire</btriple>
+        <btriple>Apollo_14 | Operadore | NASA</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The late Alan Shepard was born in New Hampshire, and chosen by NASA in 1959 as a crew member of Apollo 14.</lex>
+      <lex lang="en" lid="Id2">The late Alan Shepard was born in New Hampshire. He was selected by NASA in 1959 and served as a crew member of NASA operated Apollo 14.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was originally from New Hampshire and joined NASA in 1959 where he became a member of the Apollo 14 crew. Mr Shepard passed away.</lex>
+      <lex lang="es" lid="Id1">El fallecido Alan Shepard nació en New Hampshire y fue elegido por la NASA en 1959 como miembro de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id2">El difunto Alan Shepard nació en New Hampshire. Fue seleccionado por la NASA en 1959 y formó parte de la tripulación del Apolo 14, operado por la NASA.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard era originario de New Hampshire y se incorporó a la NASA en 1959, donde formó parte de la tripulación del Apolo 14. El Sr. Shepard falleció.</lex>
+      <lex lang="ca" lid="Id1">El difunt Alan Shepard va néixer a New Hampshire, i va ser escollit per la NASA el 1959 com a membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id2">El difunt Alan Shepard va néixer a New Hampshire. Va ser seleccionat per la NASA el 1959 i va servir com a membre de la tripulació de l' Apollo 14 operat per la NASA.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard era originari de New Hampshire i es va unir a la NASA el 1959 on es va convertir en membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard New Hampshiren jaio zen eta NASAk 1959an aukeratu zuen Apollo 14ren tripulazioko kide izateko.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard New Hampshiren jaio zen eta 1959an NASAk hautatu zuen Apollo 14 misioan parte hartzeko.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard New Hampshirekoa zen jatorriz, eta 1959an NASAn sartu zen; Apollo 14ko tripulazioko kide bihurtu zen. Shepard jauna hil egin zen.</lex>
+      <lex lang="gl" lid="Id1">O falecido Alan Shepard naceu en New Hampshire, e foi elixido pola NASA en 1959 como membro da tripulación do Apollo 14.</lex>
+      <lex lang="gl" lid="Id2">O falecido Alan Shepard naceu en New Hampshire. Foi seleccionado pola NASA en 1959 e serviu como membro da tripulación do Apollo 14 operado pola NASA.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard era orixinario de New Hampshire e uniuse á NASA en 1959 onde se converteu en membro da tripulación do Apollo 14.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_12 | PilotoDeReserva | Alfred_Worden</striple>
+        <striple>Alan_L._Bean | Misión | Apolo_12</striple>
+        <striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        <striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+        <striple>Apolo_12 | Comandante | David_Scott</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_12 | BackupPilot | Alfred_Worden</ctriple>
+        <ctriple>Alan_Bean | Missió | Apollo_12</ctriple>
+        <ctriple>Apollo_12 | Operador | Nasa</ctriple>
+        <ctriple>Alan_Bean | TempsAL'espai | "100305.0"(minuts)</ctriple>
+        <ctriple>Apollo_12 | Comandant | David_Randolph_Scott</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_12 | BackupPilot | Alfred_Worden</gtriple>
+        <gtriple>Alan_Bean | Misión | Apollo_12</gtriple>
+        <gtriple>Apollo_12 | Operador | NASA</gtriple>
+        <gtriple>Alan_Bean | TempoNoEspazo | "100305.0"_(minutos)</gtriple>
+        <gtriple>Apollo_12 | Comandante | David_Scott</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_12 | BackupPilot | Alfred_Worden-ekin_hitz_egin_dut.</btriple>
+        <btriple>Alan_Bean | Misioa | Apollo_12</btriple>
+        <btriple>Apollo_12 | Operadore | NASA</btriple>
+        <btriple>Alan_Bean | DenboraEspazioan | "100305._0"_(minutuak)</btriple>
+        <btriple>Apollo_12 | Komandantea. | David_Scott</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean (born in Wheeler, Texas) was a crew member of Apollo 12 operated by NASA and was in space 100305 minutes. Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot.</lex>
+      <lex lang="en" lid="Id2">Alfred Worden was a backup pilot on the NASA operated Apollo 12 on which David Scott the commander and Alan Bean, who spent a total of 100305 minutes in space, was a crewman.</lex>
+      <lex lang="es" lid="Id1">Alan Bean (nacido en Wheeler, Texas) fue miembro de la tripulación del Apolo 12 operado por la NASA y estuvo en el espacio 100305 minutos. El Apolo 12 estaba comandado por David Scott y Alfred Worden era piloto de reserva.</lex>
+      <lex lang="es" lid="Id2">Alfred Worden fue piloto de reserva en el Apolo 12, operado por la NASA, en el que David Scott era el comandante y Alan Bean, que pasó un total de 100305 minutos en el espacio, era tripulante.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean (nascut a Wheeler, Texas) va ser un membre de la tripulació de l' Apollo 12 operat per la NASA i va estar a l' espai 100305 minuts. L' Apollo 12 va ser comandat per David Scott i Alfred Worden va ser un pilot de reserva.</lex>
+      <lex lang="ca" lid="Id2">Alfred Worden va ser un pilot de reserva en l'Apollo 12 operat per la NASA en el qual David Scott el comandant i Alan Bean, que va passar un total de 100305 minuts a l'espai, va ser un tripulant.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean (Wheeler-en jaio zen, Texasen) NASA-k gidatutako Apollo 12-ko tripulazioko kidea izan zen eta 100.305 minutu eman zituen espazioan. Apollo 12-ko komandantea David Scott izan zen eta Alfred Worden ordezko pilotua.</lex>
+      <lex lang="eu" lid="Id2">Alfred Worden ordezko pilotua izan zen NASAk gidatutako Apollo 12 espazio-ontzian, eta David Scott komandantea eta Alan Bean, espazioan guztira 100305 minutu eman zituena, eskifaiako kide izan ziren.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean (nacido en Wheeler, Texas) foi un membro da tripulación do Apollo 12 operado pola NASA e estivo no espazo 100305 minutos. O Apollo 12 estaba comandado por David Scott e Alfred Worden era o piloto de reserva.</lex>
+      <lex lang="gl" lid="Id2">Alfred Worden foi un piloto de reserva no Apollo 12 operado pola NASA no que David Scott o comandante e Alan Bean, que pasou un total de 100305 minutos no espazo, foi un tripulante.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos) | Superior | Medalla_de_Oro_del_Departamento_de_Comercio</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+        <striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+        <striple>Alan_Bartlett_Shepard | FechaDeNacimiento | 18-11-1923</striple>
+        <striple>Alan_Bartlett_Shepard | Premio | Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Medalla_de_servei_distingit_(Marina_dels_Estats_Units) | MésAlt | Medalla_d'or_del_Departament_de_Comerç</ctriple>
+        <ctriple>Alan_Shepard | LlocDeLaMort | Califòrnia</ctriple>
+        <ctriple>Alan_Shepard | LlocDeNaixement | Nou_Hampshire</ctriple>
+        <ctriple>Alan_Shepard | DataDeNaixement | 1923-11-18</ctriple>
+        <ctriple>Alan_Shepard | Premi | Medalla_de_servei_distingit_(Marina_dels_Estats_Units)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Medalla_de_Servizo_Distinguido_(Armada_dos_Estados_Unidos) | MáisAlto | Medalla_de_Ouro_do_Departamento_de_Comercio</gtriple>
+        <gtriple>Alan_Shepard | LugarDaMorte | California</gtriple>
+        <gtriple>Alan_Shepard | LugarDeNacemento | New_Hampshireusa._kgm</gtriple>
+        <gtriple>Alan_Shepard | DataDeNacemento | 1923-11-18</gtriple>
+        <gtriple>Alan_Shepard | Premio | Medalla_de_Servizo_Distinguido_(Armada_dos_Estados_Unidos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ameriketako_Estatu_Batuetako_Itsas_Armada_(Ingelesez) | Altuagoa | Merkataritza_Departamentuaren_Urrezko_Domina</btriple>
+        <btriple>Alan_Shepard | HeriotzarenLekua | Californiausa._kgm</btriple>
+        <btriple>Alan_Shepard | JaiotzeLekua | New_Hampshire</btriple>
+        <btriple>Alan_Shepard | JaiotzeData | 1923-11-18</btriple>
+        <btriple>Alan_Shepard | Saria | Ameriketako_Estatu_Batuetako_Itsas_Armada_(Ingelesez)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard (born November 18th, 1923, New Hampshire) was awarded the United States Navy Distinguished Service Medal which is higher than the department of commerce gold medal has died in California.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard was born on 18 November 1923 in New Hampshire. He was awarded the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal, by the US Navy. He died in California.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was born in New Hampshire on 18 November 1923. Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard (nacido el 18 de noviembre de 1923 en New Hampshire), condecorado con la Medalla al Servicio Distinguido de la Marina de los Estados Unidos, superior a la medalla de oro del Departamento de Comercio, ha fallecido en California.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard nació el 18 de noviembre de 1923 en New Hampshire. La Marina estadounidense le concedió la Medalla al Servicio Distinguido, superior a la Medalla de Oro del Departamento de Comercio. Falleció en California.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard nació en New Hampshire el 18 de noviembre de 1923. Antes de su muerte en California, la Marina estadounidense le había concedido la Medalla al Servicio Distinguido, un galardón superior a la Medalla de Oro del Departamento de Comercio.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard (nascut el 18 de novembre de 1923, New Hampshire) va ser guardonat amb la Medalla de Servei Distinguit de la Marina dels Estats Units que és més alta que la medalla d'or del Departament de Comerç ha mort a Califòrnia.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va néixer el 18 de novembre de 1923 a New Hampshire. Va ser guardonat amb la Distinguished Service Medal, que és més alta que la Medalla d' Or del Departament de Comerç, per la Marina dels EUA. Va morir a Califòrnia.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va néixer a New Hampshire el 18 de novembre de 1923. Abans de la seva mort a Califòrnia havia estat guardonat amb la Medalla al Servei Distinguit de la Marina dels Estats Units, un premi superior a la Medalla d' Or del Departament de Comerç.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard (1923ko azaroaren 18an jaio zen, New Hampshire-n) Estatu Batuetako Itsas Armadako Zerbitzu Ohoretsuaren Domina jaso zuen, merkataritza-departamentuaren urrezko domina baino handiagoa. Kalifornian hil zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard 1923ko azaroaren 18an jaio zen New Hampshire-n. AEBetako Itsas Armadak Zerbitzu Ohoretsuaren Domina eman zion, Merkataritza Departamentuaren Urrezko Domina baino handiagoa. Kalifornian hil zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard New Hampshiren jaio zen 1923ko azaroaren 18an.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard (nacido o 18 de novembro de 1923, New Hampshire) foi galardoado coa Medalla de Servizo Distinguido da Marina dos Estados Unidos que é máis alta que a medalla de ouro do Departamento de Comercio morreu en California.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard naceu o 18 de novembro de 1923 en New Hampshire. Recibiu a Medalla ao Servizo Distinguido, que é máis alta que a Medalla de Ouro do Departamento de Comercio, da Armada dos EUA. Morreu en California.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard naceu en New Hampshire o 18 de novembro de 1923. Antes da súa morte en California recibiu a Medalla ao Servizo Distinguido da Armada dos EUA, unha condecoración máis alta que a Medalla de Ouro do Departamento de Comercio.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id7" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+        <otriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</otriple>
+        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+        <striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+        <striple>Universidad_de_Texas_en_Austin | CompetirEn | Big_12_Conference</striple>
+        <striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+        <striple>Universidad_de_Texas_en_Austin | Presidente | Gregory_L._Fenves</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | AlmaMater | Universitat_de_Texas_a_Austin</ctriple>
+        <ctriple>Elliot_See | LlocDeNaixement | Dallas</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | CompetirIn | Big_12_Conference</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | Afiliació | Sistema_Universitari_de_Texas</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | President | Gregory_L._Fenves</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | AlmaMater | Universidade_de_Texas_en_Austin</gtriple>
+        <gtriple>Elliot_See | LugarDeNacemento | Dallas</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | CompetirIn | Big_12_Conference</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | Afiliación | Sistema_da_Universidade_de_Texas</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | Presidente | Gregory_L._Fenves</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | AlmaMater | Texasko_Unibertsitatea,_Austinen</btriple>
+        <btriple>Elliot_See | JaiotzeLekua | Dallas</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | LehiatuIn | Big_12_Konferentzia</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Afiliazioa | Texasko_Unibertsitatearen_Sistema</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Lehendakaria. | Gregory_L._Fenves</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was born in Dallas and later attended the University of Texas at Austin. The University of Texas at Austin is affiliated with University of Texas System and is competing in the Big 12 Conference. Nowadays, Gregory L. Fenves is the President of the University.</lex>
+      <lex lang="en" lid="Id2">Elliot See was born in Dallas and attended the University of Texas at Austin which is affiliated with the University of Texas System and competed in the Big 12 Conference in Austin. Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
+      <lex lang="en" lid="Id3">Elliot See was born in Dallas and was a student at University of Texas at Austin. This University, whose president is Gregory L. Fenves, is affiliated with the University of Texas System. The University of Texas at Austin competes in the Big 12 Conference.</lex>
+      <lex lang="es" lid="Id1">Elliot See nació en Dallas y posteriormente estudió en la Universidad de Texas en Austin. La Universidad de Texas en Austin está afiliada al University of Texas System y compite en la Big 12 Conference. Actualmente, Gregory L. Fenves es el Presidente de la Universidad.</lex>
+      <lex lang="es" lid="Id2">Elliot See nació en Dallas y estudió en la Universidad de Texas en Austin, afiliada al sistema de la Universidad de Texas, donde compitió en la Big 12 Conference. Gregory L. Fenves es el Presidente designado de la Universidad de Texas en Austin.</lex>
+      <lex lang="es" lid="Id3">Elliot See nació en Dallas y estudió en la Universidad de Texas en Austin. Esta universidad, cuyo presidente es Gregory L. Fenves, está afiliada al Sistema Universitario de Texas. La Universidad de Texas en Austin compite en la Big 12 Conference.</lex>
+      <lex lang="ca" lid="Id1">Elliot See va néixer a Dallas i més tard va assistir a la Universitat de Texas a Austin. La Universitat de Texas a Austin està afiliada al sistema de la Universitat de Texas i competeix en la Big 12 Conference. Actualment, Gregory L. Fenves és el president de la Universitat.</lex>
+      <lex lang="ca" lid="Id2">Elliot See va néixer a Dallas i va assistir a la Universitat de Texas a Austin, que està afiliada al Sistema de la Universitat de Texas, i va competir a la Conferència Big 12 a Austin. Gregory L. Fenves és el president designat de la Universitat de Texas a Austin.</lex>
+      <lex lang="ca" lid="Id3">Elliot See va néixer a Dallas i va ser estudiant a la Universitat de Texas a Austin. Aquesta universitat, el president de la qual és Gregory L. Fenves, està afiliada al sistema de la Universitat de Texas. La Universitat de Texas a Austin competeix a la Big 12 Conference.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Dallasen jaio zen eta, ondoren, Austin-eko Texas Unibertsitatean ikasi zuen. Austin-eko Texas Unibertsitatea Texas-eko Unibertsitatearen sistemako kidea da eta Big 12 Konferentzian lehiatzen da. Gaur egun, Gregory L. Fenves da unibertsitateko presidentea.</lex>
+      <lex lang="eu" lid="Id2">Elliot See Dallasen jaio zen eta Austin-eko Texas Unibertsitatean ikasi zuen, Texas-eko Unibertsitatearen sistemako kidea da eta Big 12 Konferentzian lehiatu zen Austin-en. Gregory L. Fenves da Austin-eko Texas Unibertsitatearen presidente izendatua.</lex>
+      <lex lang="eu" lid="Id3">Elliot See Dallasen jaio zen eta Texasko Unibertsitatean, Austinen, ikasi zuen. Unibertsitate hau, Gregory L. Fenves presidentea duena, Texasko Unibertsitatearen Sistemarekin lotuta dago. Texasko Unibertsitatea, Austinen, 12 Handien Konferentzian lehiatzen da.</lex>
+      <lex lang="gl" lid="Id1">Elliot See naceu en Dallas e máis tarde estudou na Universidade de Texas en Austin. A Universidade de Texas en Austin está afiliada co Sistema da Universidade de Texas e compite na Conferencia Big 12. Hoxe en día, Gregory L. Fenves é o presidente da Universidade.</lex>
+      <lex lang="gl" lid="Id2">Elliot See naceu en Dallas e estudou na Universidade de Texas en Austin, que está afiliada ao Sistema Universitario de Texas, e competiu na Conferencia Big 12 en Austin. Gregory L. Fenves é o presidente designado da Universidade de Texas en Austin.</lex>
+      <lex lang="gl" lid="Id3">Elliot See naceu en Dallas e estudou na Universidade de Texas en Austin. Esta universidade, cuxo presidente é Gregory L. Fenves, está afiliada ao Sistema Universitario de Texas. A Universidade de Texas en Austin compite na Conferencia Big 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>Elliot_See | status | "Deceased"@en</otriple>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | deathDate | "1966-02-28"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>Elliot_See | status | "Deceased"</mtriple>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+        <striple>Elliot_See | Estado | Fallecido</striple>
+        <striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+        <striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+        <striple>Elliot_See | FechaDeDefunción | 28-02-1966</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | AlmaMater | Universitat_de_Texas_a_Austin</ctriple>
+        <ctriple>Elliot_See | Estatut | Defunció</ctriple>
+        <ctriple>Elliot_See | LlocDeLaMort | Saint_Louis</ctriple>
+        <ctriple>Elliot_See | LlocDeNaixement | Dallas</ctriple>
+        <ctriple>Elliot_See | DataDeMort | 1966-02-28</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | AlmaMater | Universidade_de_Texas_en_Austin</gtriple>
+        <gtriple>Elliot_See | Estado | Falecido</gtriple>
+        <gtriple>Elliot_See | LugarDaMorte | San_Luís</gtriple>
+        <gtriple>Elliot_See | LugarDeNacemento | Dallas</gtriple>
+        <gtriple>Elliot_See | DataDeMorte | 1966-02-28</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | AlmaMater | Texasko_Unibertsitatea,_Austinen</btriple>
+        <btriple>Elliot_See | Egoera | Hildakoa</btriple>
+        <btriple>Elliot_See | HeriotzarenLekua | St._Louis</btriple>
+        <btriple>Elliot_See | JaiotzeLekua | Dallas</btriple>
+        <btriple>Elliot_See | HeriotzaData | 1966-02-28</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See, a graduate of the University of Texas at Austin, passed away on 28th February 1966 in St. Louis. He was born in Dallas.</lex>
+      <lex lang="en" lid="Id2">Elliot See was born in Dallas and attended the University of Texas at Austin. He died in St Louis on 28 February 1966.</lex>
+      <lex lang="en" lid="Id3">Elliot See, who was born on the 28th February 1966 in Dallas, has died in St Louis. He will be remembered as a great student at University of Texas at Austin.</lex>
+      <lex lang="es" lid="Id1">Elliot See, licenciado por la Universidad de Texas en Austin, falleció el 28 de febrero de 1966 en San Luis. Había nacido en Dallas.</lex>
+      <lex lang="es" lid="Id2">Elliot See nació en Dallas y estudió en la Universidad de Texas en Austin. Murió en San Luis el 28 de febrero de 1966.</lex>
+      <lex lang="es" lid="Id3">Elliot See, nacido el 28 de febrero de 1966 en Dallas, ha fallecido en San Luis. Será recordado como un gran estudiante de la Universidad de Texas en Austin.</lex>
+      <lex lang="ca" lid="Id1">Elliot See, graduat de la Universitat de Texas a Austin, va morir el 28 de febrer de 1966 a St. Louis, va néixer a Dallas.</lex>
+      <lex lang="ca" lid="Id2">Elliot See va néixer a Dallas i va estudiar a la Universitat de Texas a Austin. Va morir a Saint Louis el 28 de febrer de 1966.</lex>
+      <lex lang="ca" lid="Id3">Elliot See, que va néixer el 28 de febrer de 1966 a Dallas, va morir a St. Louis. Serà recordat com un gran estudiant de la Universitat de Texas a Austin.</lex>
+      <lex lang="eu" lid="Id1">Elliot See, Texaseko Unibertsitatean graduatua, 1966ko otsailaren 28an hil zen St. Louisen. Dallasen jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Elliot See Dallasen jaio zen eta Austin-eko Texas Unibertsitatean ikasi zuen. St Louis-en hil zen 1966ko otsailaren 28an.</lex>
+      <lex lang="eu" lid="Id3">Elliot See 1966ko otsailaren 28an jaio zen Dallasen, eta St Louis-en hil zen. Texasko Unibertsitateko ikasle bikaina izan zen.</lex>
+      <lex lang="gl" lid="Id1">Elliot See, graduado na Universidade de Texas en Austin, faleceu o 28 de febreiro de 1966 en St. Louis. Naceu en Dallas.</lex>
+      <lex lang="gl" lid="Id2">Elliot See naceu en Dallas e estudou na Universidade de Texas en Austin. Morreu en St Louis o 28 de febreiro de 1966.</lex>
+      <lex lang="gl" lid="Id3">Elliot See, que naceu o 28 de febreiro de 1966 en Dallas, morreu en St. Louis. Será lembrado como un gran estudante da Universidade de Texas en Austin.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
+        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+        <striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+        <striple>Dallas | TipoDePiezas | Listado_de_condados_de_Texas</striple>
+        <striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+        <striple>Universidad_de_Texas_en_Austin | CompetirEn | Big_12_Conference</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | AlmaMater | Universitat_de_Texas_a_Austin</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | Afiliació | Sistema_Universitari_de_Texas</ctriple>
+        <ctriple>Dallas | TipusDePart | Llista_de_comtats_de_Texas</ctriple>
+        <ctriple>Elliot_See | LlocDeNaixement | Dallas</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | CompetirIn | Big_12_Conference</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | AlmaMater | Universidade_de_Texas_en_Austin</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | Afiliación | Sistema_da_Universidade_de_Texas</gtriple>
+        <gtriple>Dallas | TipoDePezas | Lista_de_condados_de_Texas</gtriple>
+        <gtriple>Elliot_See | LugarDeNacemento | Dallas</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | CompetirIn | Big_12_Conference</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | AlmaMater | Texasko_Unibertsitatea,_Austinen</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Afiliazioa | Texasko_Unibertsitatearen_Sistema</btriple>
+        <btriple>Dallas | PartesMota | Texasko_konderrien_zerrenda</btriple>
+        <btriple>Elliot_See | JaiotzeLekua | Dallas</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | LehiatuIn | Big_12_Konferentzia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was born in Dallas, which is a county in Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas system. The University of Texas at Austin will be part of the Big 12 Conference competition.</lex>
+      <lex lang="en" lid="Id2">Elliot See was born in Dallas county, Texas and attended the University of Texas at Austin (affiliated to the University of Texas system) which competed in the Big 12 conference.</lex>
+      <lex lang="en" lid="Id3">Elliot See, who was born in Dallas county, Texas, attended the University of Texas at Austin (affiliated to the University of Texas system) which will compete in the big 12 conference.</lex>
+      <lex lang="es" lid="Id1">Elliot See nació en Dallas, un condado de Texas. Estudió en la Universidad de Texas en Austin, afiliada al sistema de la Universidad de Texas. La Universidad de Texas en Austin forma parte de la competición de la Conferencia Big 12.</lex>
+      <lex lang="es" lid="Id2">Elliot See nació en el condado de Dallas (Texas) y estudió en la Universidad de Texas en Austin (afiliada al sistema de la Universidad de Texas), que competía en la conferencia Big 12.</lex>
+      <lex lang="es" lid="Id3">Elliot See, nacido en el condado de Dallas (Texas), estudió en la Universidad de Texas en Austin (afiliada al sistema de la Universidad de Texas), que competirá en la gran conferencia de los 12.</lex>
+      <lex lang="ca" lid="Id1">Elliot See va néixer a Dallas, que és un comtat de Texas. Va estudiar a la Universitat de Texas a Austin, que està afiliada al sistema de la Universitat de Texas. La Universitat de Texas a Austin formarà part de la competició de la Big 12 Conference.</lex>
+      <lex lang="ca" lid="Id2">Elliot See va néixer al comtat de Dallas, Texas i va assistir a la Universitat de Texas a Austin (afiliada al sistema de la Universitat de Texas) que va competir en la conferència Big 12.</lex>
+      <lex lang="ca" lid="Id3">Elliot See, que va néixer al comtat de Dallas, Texas, va assistir a la Universitat de Texas a Austin (afiliada al sistema de la Universitat de Texas) que competirà en la conferència Big 12.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Dallasen jaio zen, Texasko konderri batean. Texasko Unibertsitatean ikasi zuen Austinen, Texasko Unibertsitatearen sistemari atxikita dagoena. Texasko Unibertsitateak Austinen Big 12 Conference lehiaketan parte hartuko du.</lex>
+      <lex lang="eu" lid="Id2">Elliot See Dallas konderrian jaio zen, Texasen, eta Texasko Unibertsitatean ikasi zuen Austinen (Texaseko Unibertsitatearen sistemako kidea), Big 12 konferentzian lehiatzen zuena.</lex>
+      <lex lang="eu" lid="Id3">Elliot See, Dallas konderrian jaioa, Texasen, Austineko Texaseko Unibertsitatean ikasi zuen (Texaseko Unibertsitateko sisteman afiliatua), Big 12 konferentzian lehiatuko dena.</lex>
+      <lex lang="gl" lid="Id1">Elliot See naceu en Dallas, que é un condado de Texas. Asistiu á Universidade de Texas en Austin, que está afiliada ao sistema da Universidade de Texas. A Universidade de Texas en Austin formará parte da competición Big 12 Conference.</lex>
+      <lex lang="gl" lid="Id2">Elliot See naceu no condado de Dallas, Texas e asistiu á Universidade de Texas en Austin (afiliada ao sistema da Universidade de Texas) que competiu na conferencia Big 12.</lex>
+      <lex lang="gl" lid="Id3">Elliot See, que naceu no condado de Dallas, Texas, asistiu á Universidade de Texas en Austin (afiliada ao sistema da Universidade de Texas) que competirá na conferencia Big 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>Elliot_See | status | "Deceased"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>Elliot_See | status | "Deceased"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+        <striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+        <striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+        <striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+        <striple>Elliot_See | Estado | Fallecido</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | AlmaMater | Universitat_de_Texas_a_Austin</ctriple>
+        <ctriple>Universitat_de_Texas_a_Austin | Afiliació | Sistema_Universitari_de_Texas</ctriple>
+        <ctriple>Elliot_See | LlocDeNaixement | Dallas</ctriple>
+        <ctriple>Elliot_See | LlocDeLaMort | Saint_Louis</ctriple>
+        <ctriple>Elliot_See | Estatut | Defunció</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | AlmaMater | Universidade_de_Texas_en_Austin</gtriple>
+        <gtriple>Universidade_de_Texas_en_Austin | Afiliación | Sistema_da_Universidade_de_Texas</gtriple>
+        <gtriple>Elliot_See | LugarDeNacemento | Dallas</gtriple>
+        <gtriple>Elliot_See | LugarDaMorte | San_Luís</gtriple>
+        <gtriple>Elliot_See | Estado | Falecido</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | AlmaMater | Texasko_Unibertsitatea,_Austinen</btriple>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Afiliazioa | Texasko_Unibertsitatearen_Sistema</btriple>
+        <btriple>Elliot_See | JaiotzeLekua | Dallas</btriple>
+        <btriple>Elliot_See | HeriotzarenLekua | St._Louis</btriple>
+        <btriple>Elliot_See | Egoera | Hildakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was born in Dallas and studied at the University of Texas in Austin (which is affiliated to the university of Texas system). He died in St. Louis.</lex>
+      <lex lang="en" lid="Id2">Elliot See was born in Dallas and studied at Austin University (part of the university of Texas system). He died in St. Louis.</lex>
+      <lex lang="en" lid="Id3">Elliot See, who was born in Dallas, has died in St Louis. He graduated from the University of Texas at Austin which is affiliated to the University of Texas system.</lex>
+      <lex lang="es" lid="Id1">Elliot See nació en Dallas y estudió en la Universidad de Texas en Austin (afiliada al sistema universitario de Texas). Murió en St.</lex>
+      <lex lang="es" lid="Id2">Elliot See nació en Dallas y estudió en la Universidad de Austin (perteneciente al sistema universitario de Texas). Murió en St.</lex>
+      <lex lang="es" lid="Id3">Elliot See, nacido en Dallas, ha fallecido en San Luis. Se licenció en la Universidad de Texas en Austin, afiliada al sistema de la Universidad de Texas.</lex>
+      <lex lang="ca" lid="Id1">Elliot See va néixer a Dallas i va estudiar a la Universitat de Texas a Austin (que està afiliada al sistema universitari de Texas).</lex>
+      <lex lang="ca" lid="Id2">Elliot See va néixer a Dallas i va estudiar a la Universitat d'Austin (part del sistema universitari de Texas) i va morir a St. Louis.</lex>
+      <lex lang="ca" lid="Id3">Elliot See, nascut a Dallas, va morir a Saint Louis. Es va graduar a la Universitat de Texas a Austin, que està afiliada al sistema de la Universitat de Texas.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Dallasen jaio zen eta Texasko Unibertsitatean ikasi zuen Austinen (Texasko Unibertsitatearen sistemako kidea da). St. Louisen hil zen.</lex>
+      <lex lang="eu" lid="Id2">Elliot See Dallasen jaio zen eta Austingo Unibertsitatean ikasi zuen (Texasko Unibertsitatearen sistemaren zati bat). St. Louisen hil zen.</lex>
+      <lex lang="eu" lid="Id3">Elliot See, Dallasen jaio zena, St Louis-en hil zen. Texas-eko Unibertsitatean graduatu zen, Austin-en, Texas-eko Unibertsitatearen sistemaren barruan.</lex>
+      <lex lang="gl" lid="Id1">Elliot See naceu en Dallas e estudou na Universidade de Texas en Austin (que está afiliada ao sistema da universidade de Texas). Morreu en St. Louis.</lex>
+      <lex lang="gl" lid="Id2">Elliot See naceu en Dallas e estudou na Universidade de Austin (parte do sistema universitario de Texas). Morreu en St. Louis.</lex>
+      <lex lang="gl" lid="Id3">Elliot See, que naceu en Dallas, morreu en St. Louis. Graduouse na Universidade de Texas en Austin, que está afiliada ao sistema da Universidade de Texas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        <mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+        <striple>Apolo_8 | Comandante | Frank_Borman</striple>
+        <striple>William_Anders | Misión | Apolo_8</striple>
+        <striple>Apolo_8 | PilotoDeReserva | Buzz_Aldrin</striple>
+        <striple>Apolo_8 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | DataDeJubilació | 1969-09-01</ctriple>
+        <ctriple>Apollo_8 | Comandant | Frank_Borman</ctriple>
+        <ctriple>William_Anders | Missió | Apollo_8</ctriple>
+        <ctriple>Apollo_8 | BackupPilot | Buzz_Aldrin</ctriple>
+        <ctriple>Apollo_8 | Operador | Nasa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | DataDeXubilación | 1969-09-01</gtriple>
+        <gtriple>Apollo_8 | Comandante | Frank_Borman</gtriple>
+        <gtriple>William_Anders | Misión | Apollo_8</gtriple>
+        <gtriple>Apollo_8 | BackupPilot | Buzz_Aldrin</gtriple>
+        <gtriple>Apollo_8 | Operador | NASA</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | ErretiroarenData | 1969-09-01</btriple>
+        <btriple>Apollo_8 | Komandantea. | Frank_Borman</btriple>
+        <btriple>William_Anders | Misioa | Apollo_8</btriple>
+        <btriple>Apollo_8 | BackupPilot | Buzz_Aldrin_izan_zen.</btriple>
+        <btriple>Apollo_8 | Operadore | NASA</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders was a member of the Apollo 8 crew (operated by NASA) and he retired on September 1st, 1969. Frank Borman was the commander of Apollo 8 and Buzz Aldrin was a back up pilot.</lex>
+      <lex lang="en" lid="Id2">William Anders, who retired on September 1st, 1969, was a crew member on Apollo 8 and served under commander Frank Borman. Apollo 8 was operated by NASA with Buzz Aldrin as backup pilot.</lex>
+      <lex lang="en" lid="Id3">William Anders joined NASA and was a member of Apollo 8 along with Frank Borman as Commander and Buzz Aldrin as back up pilot. William Anders retired on September 1st 1969.</lex>
+      <lex lang="es" lid="Id1">William Anders era miembro de la tripulación del Apolo 8 (operado por la NASA) y se retiró el 1 de septiembre de 1969. Frank Borman era el comandante del Apolo 8 y Buzz Aldrin era piloto de apoyo.</lex>
+      <lex lang="es" lid="Id2">William Anders, que se jubiló el 1 de septiembre de 1969, fue miembro de la tripulación del Apolo 8 y sirvió a las órdenes del comandante Frank Borman. El Apolo 8 fue operado por la NASA con Buzz Aldrin como piloto de reserva.</lex>
+      <lex lang="es" lid="Id3">William Anders se incorporó a la NASA y formó parte del Apolo 8 junto con Frank Borman como comandante y Buzz Aldrin como piloto de apoyo. William Anders se retiró el 1 de septiembre de 1969.</lex>
+      <lex lang="ca" lid="Id1">William Anders va ser membre de la tripulació de l'Apollo 8 (operada per la NASA) i es va retirar l'1 de setembre de 1969. Frank Borman va ser el comandant de l'Apollo 8 i Buzz Aldrin va ser un pilot de reserva.</lex>
+      <lex lang="ca" lid="Id2">William Anders, que es va retirar l'1 de setembre de 1969, va ser membre de la tripulació de l'Apol·lo 8 i va servir sota el comandament de Frank Borman. L'Apol·lo 8 va ser operat per la NASA amb Buzz Aldrin com a copilot.</lex>
+      <lex lang="ca" lid="Id3">William Anders es va unir a la NASA i va ser membre de l' Apollo 8 juntament amb Frank Borman com a comandant i Buzz Aldrin com a pilot de reserva. William Anders es va retirar l' 1 de setembre de 1969.</lex>
+      <lex lang="eu" lid="Id1">William Anders Apollo 8 misioko tripulazioko kidea izan zen (NASAk kudeatua) eta 1969ko irailaren 1ean erretiratu zen. Frank Borman Apollo 8 misioko komandantea izan zen eta Buzz Aldrin erreserbako pilotua.</lex>
+      <lex lang="eu" lid="Id2">William Anders, 1969ko irailaren 1ean erretiratu zena, Apollo 8ko tripulazioko kidea izan zen eta Frank Borman komandantearen agindupean lan egin zuen. Apollo 8 NASAk operatu zuen Buzz Aldrin babes pilotu gisa.</lex>
+      <lex lang="eu" lid="Id3">William Anders NASA-ko kide bihurtu zen eta Apollo 8-ko kide izan zen, Frank Borman komandantearekin eta Buzz Aldrin ordezko pilotuarekin batera. William Anders-ek erretiroa hartu zuen 1969ko irailaren 1ean.</lex>
+      <lex lang="gl" lid="Id1">William Anders foi membro da tripulación do Apollo 8 (operado pola NASA) e retirouse o 1 de setembro de 1969. Frank Borman foi o comandante do Apollo 8 e Buzz Aldrin foi o piloto de reserva.</lex>
+      <lex lang="gl" lid="Id2">William Anders, que se retirou o 1 de setembro de 1969, foi membro da tripulación do Apollo 8 e serviu baixo o comandante Frank Borman. O Apollo 8 foi operado pola NASA con Buzz Aldrin como piloto de reserva.</lex>
+      <lex lang="gl" lid="Id3">William Anders uniuse á NASA e foi membro do Apollo 8 xunto con Frank Borman como comandante e Buzz Aldrin como piloto de reserva. William Anders retirouse o 1 de setembro de 1969.</lex>
+      </entry>
+    </entries>
+  </benchmark>

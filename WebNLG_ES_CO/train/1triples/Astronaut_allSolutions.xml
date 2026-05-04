@@ -1,0 +1,2871 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | AlmaMáter | UT_Austin,_B.S._1955</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | AlmaMater | UT_Austin,_B.S._1955</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | AlmaMater | UT_Austin,_B.S._1955</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | AlmaMater | Austingo_Unibertsitatea,_B.S._1955</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The alma mater of Alan Bean is UT Austin. He graduated from it with a B.S. in 1955.</lex>
+      <lex lang="en" lid="Id2">Alan Bean graduated in 1955 from UT Austin with a B.S.</lex>
+      <lex lang="en" lid="Id3">Alan Bean graduated from UT Austin in 1955 with a B.S.</lex>
+      <lex lang="en" lid="Id4">Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree.</lex>
+      <lex lang="en" lid="Id5">Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955.</lex>
+      <lex lang="es" lid="Id1">El alma mater de Alan Bean es la Universidad de Austin. Se licenció en 1955.</lex>
+      <lex lang="es" lid="Id2">Alan Bean se licenció en 1955 en la Universidad Técnica de Austin.</lex>
+      <lex lang="es" lid="Id3">Alan Bean se licenció en la Universidad de Austin en 1955.</lex>
+      <lex lang="es" lid="Id4">Alan Bean se licenció en Ciencias por la Universidad Técnica de Austin en 1955.</lex>
+      <lex lang="es" lid="Id5">Alan Bean se licenció en Ciencias por la Universidad de Texas en Austin en 1955.</lex>
+      <lex lang="ca" lid="Id1">L'alma mater d'Alan Bean és la Universitat d'Austin, d'on es va graduar amb un B.S. el 1955.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean es va graduar el 1955 a UT Austin amb un B.S.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean es va graduar a UT Austin el 1955 amb un B.S.</lex>
+      <lex lang="ca" lid="Id4">Alan Bean es va graduar a UT Austin el 1955 amb un grau de llicenciatura en ciències.</lex>
+      <lex lang="ca" lid="Id5">Alan Bean va rebre una llicenciatura en Ciències a la Universitat de Texas a Austin el 1955.</lex>
+      <lex lang="eu" lid="Id1">Alan Beanen alma mater-a UT Austin da. 1955ean graduatu zen, B.S. tituluarekin.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean 1955ean graduatu zen UT Austinen, B.S.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean 1955ean graduatu zen Austineko Unibertsitatean.</lex>
+      <lex lang="eu" lid="Id4">Alan Beanek 1955ean graduatu zen UT Austinen, Zientzietako lizentziatura lortuta.</lex>
+      <lex lang="eu" lid="Id5">Alan Beanek zientzietan lizentziatu zen 1955ean Austineko Texasko Unibertsitatean.</lex>
+      <lex lang="gl" lid="Id1">A alma mater de Alan Bean é a UT Austin. Graduouse con B.S. en 1955.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean graduouse en 1955 na UT Austin cunha licenciatura.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean graduouse na UT Austin en 1955 cun B.S.</lex>
+      <lex lang="gl" lid="Id4">Alan Bean graduouse na UT Austin en 1955 cunha licenciatura en ciencias.</lex>
+      <lex lang="gl" lid="Id5">Alan Bean recibiu unha licenciatura en Ciencias na Universidade de Texas en Austin en 1955.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | FechaDeNacimiento | 15-03-1932</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | DataDeNaixement | 1932-03-15</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | DataDeNacemento | 1932-03-15</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | JaiotzeData | 1932-03-15</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was born on the 15th of March 1932.</lex>
+      <lex lang="en" lid="Id2">Alan Bean was born on Mar 15, 1932.</lex>
+      <lex lang="en" lid="Id3">Alan Bean was born on March 15, 1932.</lex>
+      <lex lang="es" lid="Id1">Alan Bean nació el 15 de marzo de 1932.</lex>
+      <lex lang="es" lid="Id2">Alan Bean nació el 15 de marzo de 1932.</lex>
+      <lex lang="es" lid="Id3">Alan Bean nació el 15 de marzo de 1932.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va néixer el 15 de març de 1932.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va néixer el 15 de març de 1932.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean va néixer el 15 de març de 1932.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean 1932ko martxoaren 15ean jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean 1932ko martxoaren 15ean jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean 1932ko martxoaren 15ean jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean naceu o 15 de marzo de 1932.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean naceu o 15 de marzo de 1932.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean naceu o 15 de marzo de 1932.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthName | "Alan LaVern Bean"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthName | "Alan LaVern Bean"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | NombreDeNacimiento | Alan_LaVern_Bean</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | NomDeNaixement | Alan_LaVern_Bean</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | NomeDeNacemento | Alan_LaVern_Bean</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Jaiotza-izena | Alan_LaVern_Bean</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean's full name was "Alan LaVern Bean".</lex>
+      <lex lang="en" lid="Id2">Alan Bean was born Alan LaVern Bean.</lex>
+      <lex lang="en" lid="Id3">Alan Bean's birth name was Alan LaVern Bean.</lex>
+      <lex lang="en" lid="Id4">Alan Bean's birth name is Alan LaVern Bean.</lex>
+      <lex lang="es" lid="Id1">El nombre completo de Alan Bean era "Alan LaVern Bean".</lex>
+      <lex lang="es" lid="Id2">Alan Bean nació como Alan LaVern Bean.</lex>
+      <lex lang="es" lid="Id3">El nombre de nacimiento de Alan Bean era Alan LaVern Bean.</lex>
+      <lex lang="es" lid="Id4">El nombre de nacimiento de Alan Bean es Alan LaVern Bean.</lex>
+      <lex lang="ca" lid="Id1">El nom complet d'Alan Bean era "Alan LaVern Bean".</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va néixer Alan LaVern Bean.</lex>
+      <lex lang="ca" lid="Id3">El nom de naixement d'Alan Bean era Alan LaVern Bean.</lex>
+      <lex lang="ca" lid="Id4">El nom de naixement d'Alan Bean és Alan LaVern Bean.</lex>
+      <lex lang="eu" lid="Id1">Alan Beanen izena "Alan LaVern Bean" zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean Alan LaVern Bean jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Beanen jaiotza izena Alan LaVern Bean zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Bean-en jaiotza-izena Alan LaVern Bean da.</lex>
+      <lex lang="gl" lid="Id1">O nome completo de Alan Bean era "Alan LaVern Bean".</lex>
+      <lex lang="gl" lid="Id2">Alan Bean naceu como Alan LaVern Bean.</lex>
+      <lex lang="gl" lid="Id3">O nome de nacemento de Alan Bean era Alan LaVern Bean.</lex>
+      <lex lang="gl" lid="Id4">O nome de nacemento de Alan Bean é Alan LaVern Bean.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | LlocDeNaixement | Wheeler,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | LugarDeNacemento | Wheeler,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | JaiotzeLekua | Wheeler,_Texaskoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was born in Wheeler, Texas.</lex>
+      <lex lang="en" lid="Id2">Alan Bean's birthplace is Wheeler, Texas.</lex>
+      <lex lang="es" lid="Id1">Alan Bean nació en Wheeler, Texas.</lex>
+      <lex lang="es" lid="Id2">El lugar de nacimiento de Alan Bean es Wheeler, Texas.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va néixer a Wheeler, Texas.</lex>
+      <lex lang="ca" lid="Id2">El lloc de naixement d'Alan Bean és Wheeler, Texas.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean Wheelerren jaio zen, Texasen.</lex>
+      <lex lang="eu" lid="Id2">Alan Beanen jaioterria Wheeler da, Texasen.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean naceu en Wheeler, Texas.</lex>
+      <lex lang="gl" lid="Id2">O lugar de nacemento de Alan Bean é Wheeler, Texas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | dateOfRet | "June 1981"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | dateOfRetirement | "June 1981"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | FechaDeJubilación | Junio_de_1981</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | DataDeJubilació | Juny_de_1981</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | DataDeXubilación | xuño_de_1981</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | ErretiroarenData | 1981eko_ekaina</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean retired on June 1981.</lex>
+      <lex lang="en" lid="Id2">Alan Bean retired in June of 1981.</lex>
+      <lex lang="en" lid="Id3">Alan Bean retired in June 1981.</lex>
+      <lex lang="en" lid="Id4">Alan Bean's retirement was in June 1981.</lex>
+      <lex lang="en" lid="Id5">Alan Bean retired in June, 1981.</lex>
+      <lex lang="es" lid="Id1">Alan Bean se jubiló en junio de 1981.</lex>
+      <lex lang="es" lid="Id2">Alan Bean se jubiló en junio de 1981.</lex>
+      <lex lang="es" lid="Id3">Alan Bean se jubiló en junio de 1981.</lex>
+      <lex lang="es" lid="Id4">Alan Bean se jubiló en junio de 1981.</lex>
+      <lex lang="es" lid="Id5">Alan Bean se jubiló en junio de 1981.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean es va retirar el juny de 1981.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean es va retirar el juny de 1981.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean es va retirar el juny de 1981.</lex>
+      <lex lang="ca" lid="Id4">La jubilació d'Alan Bean va ser el juny de 1981.</lex>
+      <lex lang="ca" lid="Id5">Alan Bean es va retirar el juny de 1981.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean 1981eko ekainean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean 1981eko ekainean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean 1981eko ekainean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Beanen erretiroa 1981eko ekainean izan zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Bean 1981eko ekainean erretiratu zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean retirouse en xuño de 1981.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean retirouse en xuño de 1981.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean retirouse en xuño de 1981.</lex>
+      <lex lang="gl" lid="Id4">A xubilación de Alan Bean foi en xuño de 1981.</lex>
+      <lex lang="gl" lid="Id5">Alan Bean retirouse en xuño de 1981.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | Ocupación | piloto_de_pruebas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | Ocupació | pilot_de_proves</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | Ocupación | Piloto_de_proba</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Okupazioa | Proba_pilotua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was a test pilot.</lex>
+      <lex lang="en" lid="Id2">Alan Bean served as a test pilot.</lex>
+      <lex lang="en" lid="Id3">Alan Bean performed as a test pilot.</lex>
+      <lex lang="en" lid="Id4">Alan Bean performs as a test pilot.</lex>
+      <lex lang="es" lid="Id1">Alan Bean era piloto de pruebas.</lex>
+      <lex lang="es" lid="Id2">Alan Bean sirvió como piloto de pruebas.</lex>
+      <lex lang="es" lid="Id3">Alan Bean actuó como piloto de pruebas.</lex>
+      <lex lang="es" lid="Id4">Alan Bean actúa como piloto de pruebas.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean era un pilot de proves.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va servir com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean va actuar com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id4">Alan Bean actua com a pilot de proves.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean proba-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Beanek proba pilotu gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean-ek proba pilotu gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id4">Alan Bean proba pilotu gisa aritzen da.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean foi piloto de probas.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean serviu como piloto de probas.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean actuou como piloto de probas.</lex>
+      <lex lang="gl" lid="Id4">Alan Bean actúa como piloto de probas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | status | "Retired"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | status | "Retired"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | Estado | Retirado</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | Estatut | retirat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | Estado | Retirado</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Egoera | Erretiroa_hartutakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean is retired.</lex>
+      <lex lang="en" lid="Id2">Alan Bean has retired.</lex>
+      <lex lang="en" lid="Id3">Alan Bean is now retired.</lex>
+      <lex lang="es" lid="Id1">Alan Bean está jubilado.</lex>
+      <lex lang="es" lid="Id2">Alan Bean se ha jubilado.</lex>
+      <lex lang="es" lid="Id3">Alan Bean ya está jubilado.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean està jubilat.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean s'ha jubilat.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean està jubilat.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean erretiratuta dago.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean erretiratu egin da.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean erretiratuta dago.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean está xubilado.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean retirouse.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean xa está xubilado.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | TempsAL'espai | "100305.0"(minuts)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | TempoNoEspazo | "100305.0"_(minutos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | DenboraEspazioan | "100305._0"_(minutuak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean spent 100305.0 minutes in Space.</lex>
+      <lex lang="en" lid="Id2">Alan Bean spent 100305 minutes in space.</lex>
+      <lex lang="en" lid="Id3">100305.0 minutes is the time Alan Bean spent in Space.</lex>
+      <lex lang="en" lid="Id4">Alan Bean was in space 100305 minutes.</lex>
+      <lex lang="en" lid="Id5">Alan Bean spent over 69 days in space, 100305 minutes to be exact!</lex>
+      <lex lang="en" lid="Id6">Alan Bean's time in space was 100305.0 minutes.</lex>
+      <lex lang="en" lid="Id7">Alan Bean spend a total of 100305 minutes in space.</lex>
+      <lex lang="es" lid="Id1">Alan Bean pasó 100305,0 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id2">Alan Bean pasó 100305 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id3">100305.0 minutos es el tiempo que Alan Bean pasó en el Espacio.</lex>
+      <lex lang="es" lid="Id4">Alan Bean estuvo en el espacio 100305 minutos.</lex>
+      <lex lang="es" lid="Id5">Alan Bean pasó más de 69 días en el espacio, ¡100305 minutos para ser exactos!</lex>
+      <lex lang="es" lid="Id6">El tiempo de Alan Bean en el espacio fue de 100305,0 minutos.</lex>
+      <lex lang="es" lid="Id7">Alan Bean pasó un total de 100305 minutos en el espacio.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va passar 100305,0 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va passar 100305 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id3">100305.0 minuts és el temps que Alan Bean va passar a l'espai.</lex>
+      <lex lang="ca" lid="Id4">Alan Bean va estar a l'espai 100305 minuts.</lex>
+      <lex lang="ca" lid="Id5">Alan Bean va passar més de 69 dies a l'espai, 100305 minuts per ser exactes!</lex>
+      <lex lang="ca" lid="Id6">El temps d'Alan Bean a l'espai va ser de 100305,0 minuts.</lex>
+      <lex lang="ca" lid="Id7">Alan Bean va passar un total de 100305 minuts a l'espai.</lex>
+      <lex lang="eu" lid="Id1">Alan Beanek 100305.0 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id2">Alan Beanek 100305 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id3">100305,0 minutu Alan Beanek espazioan eman zuen denbora da.</lex>
+      <lex lang="eu" lid="Id4">Alan Bean 100.305 minutuz egon zen espazioan.</lex>
+      <lex lang="eu" lid="Id5">Alan Beanek 69 egun baino gehiago eman zituen espazioan, 100305 minutu zehazki!</lex>
+      <lex lang="eu" lid="Id6">Alan Beanen denbora espazioan 100305,0 minutu izan zen.</lex>
+      <lex lang="eu" lid="Id7">Alan Beanek 100305 minutu eman ditu espazioan.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean pasou 100305,0 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean pasou 100305 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id3">100305,0 minutos é o tempo que Alan Bean pasou no espazo.</lex>
+      <lex lang="gl" lid="Id4">Alan Bean estivo no espazo 100305 minutos.</lex>
+      <lex lang="gl" lid="Id5">Alan Bean pasou máis de 69 días no espazo, 100305 minutos para ser exactos!</lex>
+      <lex lang="gl" lid="Id6">O tempo de Alan Bean no espazo foi de 100305,0 minutos.</lex>
+      <lex lang="gl" lid="Id7">Alan Bean pasou un total de 100305 minutos no espazo.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | Misión | Apolo_12</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | Missió | Apollo_12</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | Misión | Apollo_12</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Misioa | Apollo_12</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was a part of the crew of Apollo 12.</lex>
+      <lex lang="en" lid="Id2">Alan Bean served as a crew member of Apollo 12.</lex>
+      <lex lang="en" lid="Id3">Alan Bean was a member of the Apollo 12 crew.</lex>
+      <lex lang="en" lid="Id4">Alan Bean was a crew member aboard Apollo 12.</lex>
+      <lex lang="en" lid="Id5">Alan Bean was on the crew of Apollo 12.</lex>
+      <lex lang="en" lid="Id6">Alan Bean was a crew member of Apollo 12.</lex>
+      <lex lang="en" lid="Id7">Alan Bean was a crew member on the Apollo 12 flight mission.</lex>
+      <lex lang="es" lid="Id1">Alan Bean formaba parte de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id2">Alan Bean formó parte de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id3">Alan Bean era miembro de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id4">Alan Bean era miembro de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id5">Alan Bean formaba parte de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id6">Alan Bean era miembro de la tripulación del Apolo 12.</lex>
+      <lex lang="es" lid="Id7">Alan Bean fue miembro de la tripulación de la misión Apolo 12.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va formar part de la tripulació de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va servir com a membre de la tripulació de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean va ser membre de la tripulació de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id4">Alan Bean va ser un membre de la tripulació a bord de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id5">Alan Bean va formar part de la tripulació de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id6">Alan Bean va ser un membre de la tripulació de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id7">Alan Bean va ser un membre de la tripulació en la missió de vol Apollo 12.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean Apollo 12-ko tripulazioko kide izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean Apollo 12ko tripulazio kide izan zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean Apollo 12-ko tripulazioko kide izan zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Bean Apollo 12-ko tripulazioko kide izan zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Bean Apollo 12-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id6">Alan Bean Apollo 12-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id7">Alan Bean Apollo 12 hegaldiko tripulazioko kidea izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean formou parte da tripulación do Apollo 12.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean serviu como membro da tripulación do Apollo 12.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean foi membro da tripulación do Apollo 12.</lex>
+      <lex lang="gl" lid="Id4">Alan Bean foi un membro da tripulación a bordo do Apollo 12.</lex>
+      <lex lang="gl" lid="Id5">Alan Bean formou parte da tripulación do Apollo 12.</lex>
+      <lex lang="gl" lid="Id6">Alan Bean foi membro da tripulación do Apollo 12.</lex>
+      <lex lang="gl" lid="Id7">Alan Bean foi un membro da tripulación da misión Apollo 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_L._Bean | SeleccionadoPorLaNasa | 1963</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Bean | SeleccionatPerLaNasa | 1963</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Bean | SeleccionadoPolaNasa | 1963</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Bean | Nasa-kHautatua | 1963</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Bean was selected by Nasa in 1963.</lex>
+      <lex lang="en" lid="Id2">Alan Bean was chosen by NASA in 1963.</lex>
+      <lex lang="en" lid="Id3">Alan Bean was hired by NASA in 1963.</lex>
+      <lex lang="es" lid="Id1">Alan Bean fue seleccionado por la NASA en 1963.</lex>
+      <lex lang="es" lid="Id2">Alan Bean fue elegido por la NASA en 1963.</lex>
+      <lex lang="es" lid="Id3">Alan Bean fue contratado por la NASA en 1963.</lex>
+      <lex lang="ca" lid="Id1">Alan Bean va ser seleccionat per la NASA el 1963.</lex>
+      <lex lang="ca" lid="Id2">Alan Bean va ser escollit per la NASA el 1963.</lex>
+      <lex lang="ca" lid="Id3">Alan Bean va ser contractat per la NASA el 1963.</lex>
+      <lex lang="eu" lid="Id1">Alan Bean NASAk 1963an aukeratu zuen.</lex>
+      <lex lang="eu" lid="Id2">Alan Bean NASAk 1963an aukeratu zuen.</lex>
+      <lex lang="eu" lid="Id3">Alan Bean NASAk kontratatu zuen 1963an.</lex>
+      <lex lang="gl" lid="Id1">Alan Bean foi seleccionado pola NASA en 1963.</lex>
+      <lex lang="gl" lid="Id2">Alan Bean foi elixido pola NASA en 1963.</lex>
+      <lex lang="gl" lid="Id3">Alan Bean foi contratado pola NASA en 1963.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | AlmaMater | NWC,_M.A._1957</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | AlmaMater | Euskal-Erria,_1957.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard graduated from NWC with an M.A. in 1957.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard graduated from NWC in 1957 with an M.A.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard went to school at NWC and graduated with an MA in 1957.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard graduated from NWC with the master of arts degree in 1957.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard se graduó en la NWC con un máster en 1957.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard se graduó en la NWC en 1957 con un M.A.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard estudió en la NWC y se licenció en 1957.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard se graduó en la NWC con un máster en 1957.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard es va graduar de NWC amb una màster el 1957.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard es va graduar a la NWC el 1957 amb una màster.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va anar a l'escola a NWC i es va graduar amb un MA el 1957.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard es va graduar a la NWC amb el màster en arts el 1957.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard-ek NWC-n graduatu zen 1957an, M.A. tituluarekin.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard-ek NWC-n graduatu zen 1957an, M.A. batekin.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepardek NWC eskolan ikasi zuen eta 1957an graduatu zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard-ek NWC-n graduatu zen 1957an, arte-masterra lortuta.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard graduouse na NWC cunha M.A. en 1957.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard graduouse na NWC en 1957 cun M.A.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard estudou na NWC e graduouse cun máster en 1957.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard graduouse na NWC coa maestría en artes en 1957.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | FechaDeNacimiento | 18-11-1923</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | DataDeNaixement | 1923-11-18</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | DataDeNacemento | 1923-11-18</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | JaiotzeData | 1923-11-18</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard was born November 18th, 1923.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard was born on November 18, 1923.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was born on Nov 18, 1923.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard was born on 1923-11-18.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard was born on the 18th of November 1923.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard nació el 18 de noviembre de 1923.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard nació el 18 de noviembre de 1923.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard nació el 18 de noviembre de 1923.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard nació el 18 de noviembre de 1923.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard nació el 18 de noviembre de 1923.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard va néixer el 18 de novembre de 1923.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va néixer el 18 de novembre de 1923.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va néixer el 18 de novembre de 1923.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va néixer el 1923-11-18.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va néixer el 18 de novembre de 1923.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard 1923ko azaroaren 18an jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard 1923ko azaroaren 18an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard 1923ko azaroaren 18an jaio zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard 1923-11-18an jaio zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard 1923ko azaroaren 18an jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard naceu o 18 de novembro de 1923.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard naceu o 18 de novembro de 1923.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard naceu o 18 de novembro de 1923.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard naceu o 18-11-1923.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard naceu o 18 de novembro de 1923.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | LlocDeNaixement | Nou_Hampshire</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | LugarDeNacemento | New_Hampshireusa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | JaiotzeLekua | New_Hampshire</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard's birth place was New Hampshire.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard was born in New Hampshire.</lex>
+      <lex lang="es" lid="Id1">El lugar de nacimiento de Alan Shepard fue New Hampshire.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard nació en New Hampshire.</lex>
+      <lex lang="ca" lid="Id1">El lloc de naixement d'Alan Shepard va ser New Hampshire.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va néixer a New Hampshire.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard New Hampshiren jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard New Hampshiren jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard naceu en New Hampshire.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard naceu en New Hampshire.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | dateOfRet | "1974-08-01"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | FechaDeJubilación | 01-08-1974</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | DataDeJubilació | 1974-08-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | DataDeXubilación | 1974-08-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | ErretiroarenData | 1974-08-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard retired on 1974-08-01.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard retired August 1st, 1974.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard retired 1st of August 1974.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard retired on August 1, 1974.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard retired on Aug 1, 1974.</lex>
+      <lex lang="en" lid="Id6">Alan Shepard retired 1974-08-01.</lex>
+      <lex lang="en" lid="Id7">Alan Shepard retired on 1st August 1974.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id6">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="es" lid="Id7">Alan Shepard se jubiló el 1 de agosto de 1974.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard es va retirar el 1974-08-01.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard es va retirar l'1 d'agost de 1974.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard es va retirar l'1 d'agost de 1974.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard es va retirar l'1 d'agost de 1974.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard es va retirar l'1 d'agost de 1974.</lex>
+      <lex lang="ca" lid="Id6">Alan Shepard es va retirar el 1974-08-01.</lex>
+      <lex lang="ca" lid="Id7">Alan Shepard es va retirar l'1 d'agost de 1974.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard 1974-08-01ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard 1974ko abuztuaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard 1974ko abuztuaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard 1974ko abuztuaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard 1974ko abuztuaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id6">Alan Shepard 1974ko abuztuan erretiratu zen.</lex>
+      <lex lang="eu" lid="Id7">Alan Shepard 1974ko abuztuaren 1ean erretiratu zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id6">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      <lex lang="gl" lid="Id7">Alan Shepard retirouse o 1 de agosto de 1974.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | deathDate | "1998-07-21"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | deathDate | "1998-07-21"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | FechaDeDefunción | 21-07-1998</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | DataDeMort | 1998-07-21</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | DataDeMorte | 1998-07-21</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | HeriotzaData | 1998-07-21</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard died on the 21st of July, 1998.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard died July 21st, 1998.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard died on July 21, 1998.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard died on 1998-07-21.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard died 1998-07-21.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard murió el 21 de julio de 1998.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard murió el 21 de julio de 1998.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard murió el 21 de julio de 1998.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard murió el 21 de julio de 1998.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard murió el 21 de julio de 1998.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard va morir el 21 de juliol de 1998.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va morir el 21 de juliol de 1998.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va morir el 21 de juliol de 1998.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va morir el 21 de juliol de 1998.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va morir el 21 de juliol de 1998.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard 1998ko uztailaren 21ean hil zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard 1998ko uztailaren 21ean hil zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard 1998ko uztailaren 21ean hil zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard 1998-07-21ean hil zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard 1998-07-21ean hil zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard morreu o 21 de xullo de 1998.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard morreu o 21 de xullo de 1998.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard morreu o 21 de xullo de 1998.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard morreu o 21 de xullo de 1998.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard morreu o 21 de xullo de 1998.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | nationality | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | nationality | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Nacionalidad | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Nacionalidade | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Nazionalitatea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The nationality of Alan Shepard is United States.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard's nationality is the United States.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard is an American.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard is from the United States.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard was from the United States.</lex>
+      <lex lang="en" lid="Id6">Alan Shepard was American.</lex>
+      <lex lang="es" lid="Id1">La nacionalidad de Alan Shepard es estadounidense.</lex>
+      <lex lang="es" lid="Id2">La nacionalidad de Alan Shepard es estadounidense.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard es estadounidense.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard es de Estados Unidos.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard era de Estados Unidos.</lex>
+      <lex lang="es" lid="Id6">Alan Shepard era estadounidense.</lex>
+      <lex lang="ca" lid="Id1">La nacionalitat d'Alan Shepard és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">La nacionalitat d'Alan Shepard és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard és americà.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard era dels Estats Units.</lex>
+      <lex lang="ca" lid="Id6">Alan Shepard era americà.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard Ameriketako Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id2">Alan Sheparden nazionalitatea Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard estatubatuarra da.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard Estatu Batuetakoa zen.</lex>
+      <lex lang="eu" lid="Id6">Alan Shepard estatubatuarra zen.</lex>
+      <lex lang="gl" lid="Id1">A nacionalidade de Alan Shepard é Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">A nacionalidade de Alan Shepard é dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard é americano.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard é dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard era dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id6">Alan Shepard era estadounidense.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Ocupación | piloto_de_pruebas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Ocupació | pilot_de_proves</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Ocupación | Piloto_de_proba</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Okupazioa | Proba_pilotua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard's occupation was a test pilot.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard served as a Test pilot.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was a test pilot.</lex>
+      <lex lang="es" lid="Id1">La ocupación de Alan Shepard era piloto de pruebas.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard sirvió como piloto de pruebas.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard era piloto de pruebas.</lex>
+      <lex lang="ca" lid="Id1">L'ocupació d'Alan Shepard era pilot de proves.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va servir com a pilot de proves.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard era un pilot de proves.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard-en lanbidea proba-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepardek proba pilotu gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard proba-pilotua izan zen.</lex>
+      <lex lang="gl" lid="Id1">A ocupación de Alan Shepard era piloto de probas.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard serviu como piloto de probas.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard foi un piloto de probas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | years | 1963</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | servedAsChiefOfTheAstronautOfficeIn | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | FueJefeDeLaOficinaDeAstronautasEn | 1963</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | VaServirComACapDeL'oficinaD'astronautesEn | 1963</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | ServiuComoXefeDaOficinaDeAstronautasEn | 1963</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | AstronautenBulegokoBuruaIzanZen | 1963</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard was the Chief of the Astronaut Office in 1963.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard served as Chief of the Astronaut Office in 1963.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard era el Jefe de la Oficina de Astronautas en 1963.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard fue Jefe de la Oficina de Astronautas en 1963.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard era el cap de l'Oficina d'Astronautes el 1963.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va servir com a cap de l'Oficina d'Astronautes el 1963.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard Astronauta Bulegoko burua zen 1963an.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard Astronauta Bulegoko burua izan zen 1963an.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard era o xefe da Oficina de Astronautas en 1963.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard serviu como xefe da Oficina de Astronautas en 1963.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | status | "Deceased"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | status | "Deceased"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Estado | Fallecido</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Estatut | Defunció</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Estado | Falecido</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Egoera | Hildakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard is dead.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard is deceased.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard está muerto.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard ha fallecido.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard és mort.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard ha mort.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard hil da.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard hil da.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard está morto.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard morreu.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | timeInSpace | "13017.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | timeInSpace | "13017.0"(minutes)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | TiempoEnElEspacio | 13017.0_(minutos)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | TempsAL'espai | "13017.0"(minuts)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | TempoNoEspazo | "13017.0"_(minutos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | DenboraEspazioan | "13017.0"_(minutuak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard's time in space amounted to 13017.0 minutes.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard spent 13017 minutes in space.</lex>
+      <lex lang="en" lid="Id3">13017,0 minutes is the time Alan Shepard spent in space.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard was 13017 minutes in space.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard spent just over 9 days in space.</lex>
+      <lex lang="en" lid="Id6">Alan Shepard's time in space is 13017 minutes.</lex>
+      <lex lang="en" lid="Id7">Alan Shepard spent 13017.0 minutes in space.</lex>
+      <lex lang="es" lid="Id1">El tiempo que Alan Shepard pasó en el espacio fue de 13017,0 minutos.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard pasó 13017 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id3">13017,0 minutos es el tiempo que Alan Shepard pasó en el espacio.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard estuvo 13017 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard pasó algo más de 9 días en el espacio.</lex>
+      <lex lang="es" lid="Id6">El tiempo de Alan Shepard en el espacio es de 13017 minutos.</lex>
+      <lex lang="es" lid="Id7">Alan Shepard pasó 13017,0 minutos en el espacio.</lex>
+      <lex lang="ca" lid="Id1">El temps d'Alan Shepard a l'espai va ser de 13017,0 minuts.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va passar 13017 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id3">13017,0 minuts és el temps que Alan Shepard va passar a l'espai.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va estar 13017 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va passar poc més de 9 dies a l'espai.</lex>
+      <lex lang="ca" lid="Id6">El temps d'Alan Shepard a l'espai és de 13017 minuts.</lex>
+      <lex lang="ca" lid="Id7">Alan Shepard va passar 13017,0 minuts a l'espai.</lex>
+      <lex lang="eu" lid="Id1">Alan Sheparden denbora espazioan 13017.0 minutu izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepardek 13.017 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id3">13017,0 minutu Alan Shepardek espazioan eman duen denbora da.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepardek 13.017 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepardek 9 egun baino gehiago igaro zituen espazioan.</lex>
+      <lex lang="eu" lid="Id6">Alan Shepardek 13017 minutu eman ditu espazioan.</lex>
+      <lex lang="eu" lid="Id7">Alan Shepardek 13.017,0 minutu eman zituen espazioan.</lex>
+      <lex lang="gl" lid="Id1">O tempo de Alan Shepard no espazo foi de 13017,0 minutos.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard pasou 13017 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id3">13017,0 minutos é o tempo que Alan Shepard pasou no espazo.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard estivo 13017 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard pasou pouco máis de 9 días no espazo.</lex>
+      <lex lang="gl" lid="Id6">O tempo de Alan Shepard no espazo é de 13017 minutos.</lex>
+      <lex lang="gl" lid="Id7">Alan Shepard pasou 13017,0 minutos no espazo.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Título | Jefe_de_la_Oficina_de_Astronautas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Títol | Cap_de_l'Oficina_d'Astronautes</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Título | Xefe_da_Oficina_de_Astronautas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Titulua | Astronauta_Bulegoko_burua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard was the Chief of the Astronaut Office.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard served as the Chief of the Astronaut Office.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard performed as the Chief of the Astronaut Office.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard era el Jefe de la Oficina de Astronautas.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard fue Jefe de la Oficina de Astronautas.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard actuó como Jefe de la Oficina de Astronautas.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard era el cap de l'Oficina d'Astronautes.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va servir com a cap de l'Oficina d'Astronautes.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va actuar com a cap de l'Oficina d'Astronautes.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard, Astronauten Bulegoko burua.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepardek astronauten bulegoko buru gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepardek Astronauten Bulegoko burua izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard era o xefe da Oficina de Astronautas.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard serviu como xefe da Oficina de Astronautas.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard actuou como xefe da Oficina de Astronautas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | Misión | Apolo_14</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | Missió | Apollo_14</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | Misión | Apollo_14</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Misioa | Apollo_14</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard was a crew member of Apollo 14.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard served as a crew member of Apollo 14.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was a member of the Apollo 14 crew.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard was a crew member aboard Apollo 14.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard was on the crew of Apollo 14.</lex>
+      <lex lang="en" lid="Id6">Alan Shepard was a member of the crew of Apollo 14.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard fue miembro de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard formó parte de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard formó parte de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard era miembro de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard formaba parte de la tripulación del Apolo 14.</lex>
+      <lex lang="es" lid="Id6">Alan Shepard era miembro de la tripulación del Apolo 14.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard va ser un membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va servir com a membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va ser membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va ser un membre de la tripulació a bord de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va formar part de la tripulació de l'Apollo 14.</lex>
+      <lex lang="ca" lid="Id6">Alan Shepard va ser un membre de la tripulació de l'Apollo 14.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepard Apollo 14-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepard Apollo 14ko tripulazio kide izan zen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard Apollo 14-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard Apollo 14-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard Apollo 14-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id6">Alan Shepard Apollo 14-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard foi membro da tripulación do Apollo 14.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard serviu como membro da tripulación do Apollo 14.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard foi membro da tripulación do Apollo 14.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard foi membro da tripulación a bordo do Apollo 14.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard formou parte da tripulación do Apollo 14.</lex>
+      <lex lang="gl" lid="Id6">Alan Shepard foi membro da tripulación do Apollo 14.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | ribbon | "American Defense Service ribbon.svg"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | ribbonAward | "American Defense Service ribbon.svg"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | PremioCinta | Cinta_del_Servicio_de_Defensa_Americano.svg</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | PremiDeCinta | Servei_de_Defensa_Americana_ribbon._svg</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | PremioRibbon | Servizo_de_Defensa_Americano.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | ZintaSaria | Estatu_Batuetako_Defentsa_Zerbitzua.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Shepard was awarded the american defence service ribbon.</lex>
+      <lex lang="en" lid="Id2">Alan Shepard was awarded American Defense Service ribbon.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was awarded the American Defense Service Ribbon.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard won the American Defense Service ribbon.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard was awarded with the American Defense Service ribbon.</lex>
+      <lex lang="es" lid="Id1">Alan Shepard fue condecorado con la cinta del servicio de defensa estadounidense.</lex>
+      <lex lang="es" lid="Id2">Alan Shepard fue galardonado con la cinta del Servicio de Defensa Americano.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard fue condecorado con la Cinta del Servicio de Defensa Estadounidense.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard ganó la cinta del Servicio de Defensa Americano.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard fue condecorado con la cinta del Servicio de Defensa Estadounidense.</lex>
+      <lex lang="ca" lid="Id1">Alan Shepard va ser guardonat amb la cinta del servei de defensa americà.</lex>
+      <lex lang="ca" lid="Id2">Alan Shepard va ser guardonat amb la cinta del Servei de Defensa Americana.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va ser guardonat amb la cinta del Servei de Defensa dels Estats Units.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va guanyar la cinta del Servei de Defensa Americà.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va ser guardonat amb la cinta del Servei de Defensa Americana.</lex>
+      <lex lang="eu" lid="Id1">Alan Shepardek Estatu Batuetako Defentsa Zerbitzuen Zinta jaso zuen.</lex>
+      <lex lang="eu" lid="Id2">Alan Shepardek Estatu Batuetako Defentsa Zerbitzuko zinta jaso zuen.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepardek Estatu Batuetako Defentsa Zerbitzuen Zinta jaso zuen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepardek Estatu Batuetako Defentsa Zerbitzuko zinta irabazi zuen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepardek Estatu Batuetako Defentsa Zerbitzuaren zinta jaso zuen.</lex>
+      <lex lang="gl" lid="Id1">Alan Shepard foi galardoado coa cinta do servizo de defensa estadounidense.</lex>
+      <lex lang="gl" lid="Id2">Alan Shepard foi galardoado coa cinta do Servizo de Defensa Americano.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard foi galardoado co American Defense Service Ribbon.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard gañou a cinta do Servizo de Defensa Americano.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard foi galardoado coa cinta do Servizo de Defensa Americano.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | selection | 1959</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Bartlett_Shepard | SeleccionadoPorLaNasa | 1959</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Shepard | SeleccionatPerLaNasa | 1959</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Shepard | SeleccionadoPolaNasa | 1959</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Shepard | Nasa-kHautatua | 1959</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">NASA selected Alan Shepard in 1959.</lex>
+      <lex lang="en" lid="Id2">In 1959, Alan Shepard was selected by NASA.</lex>
+      <lex lang="en" lid="Id3">Alan Shepard was selected by NASA in 1959.</lex>
+      <lex lang="en" lid="Id4">Alan Shepard was chosen by NASA in 1959.</lex>
+      <lex lang="en" lid="Id5">Alan Shepard was hired by NASA in 1959.</lex>
+      <lex lang="es" lid="Id1">La NASA seleccionó a Alan Shepard en 1959.</lex>
+      <lex lang="es" lid="Id2">En 1959, Alan Shepard fue seleccionado por la NASA.</lex>
+      <lex lang="es" lid="Id3">Alan Shepard fue seleccionado por la NASA en 1959.</lex>
+      <lex lang="es" lid="Id4">Alan Shepard fue elegido por la NASA en 1959.</lex>
+      <lex lang="es" lid="Id5">Alan Shepard fue contratado por la NASA en 1959.</lex>
+      <lex lang="ca" lid="Id1">La NASA va seleccionar Alan Shepard el 1959.</lex>
+      <lex lang="ca" lid="Id2">El 1959, Alan Shepard va ser seleccionat per la NASA.</lex>
+      <lex lang="ca" lid="Id3">Alan Shepard va ser seleccionat per la NASA el 1959.</lex>
+      <lex lang="ca" lid="Id4">Alan Shepard va ser escollit per la NASA el 1959.</lex>
+      <lex lang="ca" lid="Id5">Alan Shepard va ser contractat per la NASA el 1959.</lex>
+      <lex lang="eu" lid="Id1">1959an, NASAk Alan Shepard aukeratu zuen.</lex>
+      <lex lang="eu" lid="Id2">1959an, Alan Shepard hautatu zuen NASAk.</lex>
+      <lex lang="eu" lid="Id3">Alan Shepard NASAk 1959an hautatua izan zen.</lex>
+      <lex lang="eu" lid="Id4">Alan Shepard NASAk 1959an aukeratu zuen.</lex>
+      <lex lang="eu" lid="Id5">Alan Shepard NASAk 1959an kontratatu zuen.</lex>
+      <lex lang="gl" lid="Id1">A NASA seleccionou a Alan Shepard en 1959.</lex>
+      <lex lang="gl" lid="Id2">En 1959, Alan Shepard foi seleccionado pola NASA.</lex>
+      <lex lang="gl" lid="Id3">Alan Shepard foi seleccionado pola NASA en 1959.</lex>
+      <lex lang="gl" lid="Id4">Alan Shepard foi elixido pola NASA en 1959.</lex>
+      <lex lang="gl" lid="Id5">Alan Shepard foi contratado pola NASA en 1959.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_11 | Operador | Nasa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_11 | Operador | NASA</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_11 | Operadore | NASA</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Apollo 11 was operated by NASA.</lex>
+      <lex lang="en" lid="Id2">The Apollo 11 program was organized by NASA.</lex>
+      <lex lang="es" lid="Id1">El Apolo 11 fue operado por la NASA.</lex>
+      <lex lang="es" lid="Id2">El programa Apolo 11 fue organizado por la NASA.</lex>
+      <lex lang="ca" lid="Id1">L'Apollo 11 va ser operat per la NASA.</lex>
+      <lex lang="ca" lid="Id2">El programa Apollo 11 va ser organitzat per la NASA.</lex>
+      <lex lang="eu" lid="Id1">Apollo 11 NASAk gidatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Apollo 11 programa NASAk antolatu zuen.</lex>
+      <lex lang="gl" lid="Id1">O Apollo 11 foi operado pola NASA.</lex>
+      <lex lang="gl" lid="Id2">O programa Apollo 11 foi organizado pola NASA.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_12 | PilotoDeReserva | Alfred_Worden</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_12 | BackupPilot | Alfred_Worden</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_12 | BackupPilot | Alfred_Worden</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_12 | BackupPilot | Alfred_Worden-ekin_hitz_egin_dut.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfred Worden was a backup pilot of Apollo 12.</lex>
+      <lex lang="en" lid="Id2">Apollo 12's backup pilot was Alfred Worden.</lex>
+      <lex lang="en" lid="Id3">Alfred Worden was the backup pilot of Apollo 12.</lex>
+      <lex lang="es" lid="Id1">Alfred Worden fue piloto de reserva del Apolo 12.</lex>
+      <lex lang="es" lid="Id2">El piloto de reserva del Apolo 12 era Alfred Worden.</lex>
+      <lex lang="es" lid="Id3">Alfred Worden fue el piloto de reserva del Apolo 12.</lex>
+      <lex lang="ca" lid="Id1">Alfred Worden va ser un pilot de reserva de l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id2">El pilot de reserva de l'Apollo 12 va ser Alfred Worden.</lex>
+      <lex lang="ca" lid="Id3">Alfred Worden va ser el pilot de reserva de l'Apollo 12.</lex>
+      <lex lang="eu" lid="Id1">Alfred Worden Apollo 12-ko ordezko pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Apollo 12ko ordezko pilotua Alfred Worden zen.</lex>
+      <lex lang="eu" lid="Id3">Alfred Worden Apollo 12-ko ordezko pilotua izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alfred Worden foi o piloto de reserva do Apollo 12.</lex>
+      <lex lang="gl" lid="Id2">O piloto de reserva do Apollo 12 foi Alfred Worden.</lex>
+      <lex lang="gl" lid="Id3">Alfred Worden foi o piloto de reserva do Apollo 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_12 | Comandante | David_Scott</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_12 | Comandant | David_Randolph_Scott</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_12 | Comandante | David_Scott</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_12 | Komandantea. | David_Scott</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Apollo 12 was commanded by David Scott.</lex>
+      <lex lang="en" lid="Id2">David Scott was the commander of Apollo 12.</lex>
+      <lex lang="es" lid="Id1">El Apolo 12 estaba comandado por David Scott.</lex>
+      <lex lang="es" lid="Id2">David Scott fue el comandante del Apolo 12.</lex>
+      <lex lang="ca" lid="Id1">L'Apollo 12 va ser comandat per David Scott.</lex>
+      <lex lang="ca" lid="Id2">David Scott va ser el comandant de l'Apollo 12.</lex>
+      <lex lang="eu" lid="Id1">Apollo 12ren komandantea David Scott izan zen.</lex>
+      <lex lang="eu" lid="Id2">David Scott izan zen Apollo 12-ko komandantea.</lex>
+      <lex lang="gl" lid="Id1">O Apolo 12 foi comandado por David Scott.</lex>
+      <lex lang="gl" lid="Id2">David Scott foi o comandante do Apollo 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_12 | Operador | Nasa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_12 | Operador | NASA</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_12 | Operadore | NASA</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The operator of Apollo 12 was NASA.</lex>
+      <lex lang="en" lid="Id2">The Apollo 12 operator is NASA.</lex>
+      <lex lang="en" lid="Id3">NASA operated Apollo 12.</lex>
+      <lex lang="en" lid="Id4">The Apollo 12 mission was operated by NASA.</lex>
+      <lex lang="en" lid="Id5">Apollo 12 is operated by NASA.</lex>
+      <lex lang="es" lid="Id1">El operador del Apolo 12 fue la NASA.</lex>
+      <lex lang="es" lid="Id2">El operador del Apolo 12 es la NASA.</lex>
+      <lex lang="es" lid="Id3">La NASA operó el Apolo 12.</lex>
+      <lex lang="es" lid="Id4">La misión Apolo 12 fue operada por la NASA.</lex>
+      <lex lang="es" lid="Id5">Apolo 12 es operado por la NASA.</lex>
+      <lex lang="ca" lid="Id1">L'operador de l'Apollo 12 era la NASA.</lex>
+      <lex lang="ca" lid="Id2">L'operador de l'Apollo 12 és la NASA.</lex>
+      <lex lang="ca" lid="Id3">La NASA va operar l'Apollo 12.</lex>
+      <lex lang="ca" lid="Id4">La missió Apollo 12 va ser operada per la NASA.</lex>
+      <lex lang="ca" lid="Id5">L'Apollo 12 és operat per la NASA.</lex>
+      <lex lang="eu" lid="Id1">Apollo 12-aren operadorea NASA izan zen.</lex>
+      <lex lang="eu" lid="Id2">Apollo 12 operadorea NASA da.</lex>
+      <lex lang="eu" lid="Id3">NASAk Apollo 12 pilotatu zuen.</lex>
+      <lex lang="eu" lid="Id4">Apollo 12 misioa NASAk zuzendu zuen.</lex>
+      <lex lang="eu" lid="Id5">Apolo 12 NASAk gidatzen du.</lex>
+      <lex lang="gl" lid="Id1">O operador do Apollo 12 era a NASA.</lex>
+      <lex lang="gl" lid="Id2">O operador do Apollo 12 é a NASA.</lex>
+      <lex lang="gl" lid="Id3">A NASA operou o Apollo 12.</lex>
+      <lex lang="gl" lid="Id4">A misión Apollo 12 foi operada pola NASA.</lex>
+      <lex lang="gl" lid="Id5">O Apollo 12 é operado pola NASA.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_8 | Comandante | Frank_Borman</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_8 | Comandant | Frank_Borman</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_8 | Comandante | Frank_Borman</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_8 | Komandantea. | Frank_Borman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Frank Borman was an Apollo 8 Commander.</lex>
+      <lex lang="en" lid="Id2">Frank Borman was the Apollo 8 commander.</lex>
+      <lex lang="en" lid="Id3">The Apollo 8 commander was Frank Borman.</lex>
+      <lex lang="es" lid="Id1">Frank Borman fue comandante del Apolo 8.</lex>
+      <lex lang="es" lid="Id2">Frank Borman fue el comandante del Apolo 8.</lex>
+      <lex lang="es" lid="Id3">El comandante del Apolo 8 fue Frank Borman.</lex>
+      <lex lang="ca" lid="Id1">Frank Borman va ser un comandant de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id2">Frank Borman va ser el comandant de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id3">El comandant de l'Apollo 8 va ser Frank Borman.</lex>
+      <lex lang="eu" lid="Id1">Frank Borman Apollo 8ko komandantea izan zen.</lex>
+      <lex lang="eu" lid="Id2">Frank Borman izan zen Apollo 8ko komandantea.</lex>
+      <lex lang="eu" lid="Id3">Apollo 8ko komandantea Frank Borman izan zen.</lex>
+      <lex lang="gl" lid="Id1">Frank Borman foi un comandante do Apollo 8.</lex>
+      <lex lang="gl" lid="Id2">Frank Borman foi o comandante do Apollo 8.</lex>
+      <lex lang="gl" lid="Id3">O comandante do Apollo 8 foi Frank Borman.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Apolo_8 | MiembrosDeLaTripulación | Frank_Borman</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Apollo_8 | MembresDeLaTripulació | Frank_Borman</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Apollo_8 | MembrosDaTripulación | Frank_Borman</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Apollo_8 | TripulaziokoKideak | Frank_Borman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Frank Borman was a member of the crew on Apollo 8.</lex>
+      <lex lang="en" lid="Id2">Frank Borman was a crew member of Apollo 8.</lex>
+      <lex lang="en" lid="Id3">Apollo 8 crew members included Frank Borman.</lex>
+      <lex lang="en" lid="Id4">Frank Borman was a crewman aboard Apollo 8.</lex>
+      <lex lang="en" lid="Id5">Frank Borman was a crew member on Apollo 8.</lex>
+      <lex lang="es" lid="Id1">Frank Borman formó parte de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id2">Frank Borman fue miembro de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id3">Entre los miembros de la tripulación del Apolo 8 se encontraba Frank Borman.</lex>
+      <lex lang="es" lid="Id4">Frank Borman era tripulante del Apolo 8.</lex>
+      <lex lang="es" lid="Id5">Frank Borman fue miembro de la tripulación del Apolo 8.</lex>
+      <lex lang="ca" lid="Id1">Frank Borman va ser membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id2">Frank Borman va ser un membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id3">Els membres de la tripulació de l'Apollo 8 incloïen Frank Borman.</lex>
+      <lex lang="ca" lid="Id4">Frank Borman va ser un tripulant a bord de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id5">Frank Borman va ser un membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="eu" lid="Id1">Frank Borman Apollo 8-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id2">Frank Borman Apollo 8-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id3">Apollo 8-ko tripulazioko kideetako bat Frank Borman izan zen.</lex>
+      <lex lang="eu" lid="Id4">Frank Borman Apollo 8-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id5">Frank Borman Apollo 8-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="gl" lid="Id1">Frank Borman foi membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id2">Frank Borman foi membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id3">Os membros da tripulación do Apollo 8 incluían a Frank Borman.</lex>
+      <lex lang="gl" lid="Id4">Frank Borman foi un tripulante a bordo do Apollo 8.</lex>
+      <lex lang="gl" lid="Id5">Frank Borman foi membro da tripulación do Apollo 8.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>British_Hong_Kong | representative | Chris_Patten</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>British_Hong_Kong | representative | Chris_Patten</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hong_Kong_Británico | Representante | Chris_Patten</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hong_Kong_britànic | Representatiu | Chris_Patten</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hong_Kong_británico | Representativo | Chris_Patten</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hong_Kong | Ordezkari | Chris_Patten,_zer_gertatzen_da?</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chris Patten served as a representative of British Hong Kong.</lex>
+      <lex lang="en" lid="Id2">Chris Patten represented British Hong Kong.</lex>
+      <lex lang="en" lid="Id3">Chris Patten is a representative of British Hong Kong.</lex>
+      <lex lang="en" lid="Id4">The British Hong Kong representative is Chris Patten.</lex>
+      <lex lang="es" lid="Id1">Chris Patten fue representante del Hong Kong británico.</lex>
+      <lex lang="es" lid="Id2">Chris Patten representó al Hong Kong británico.</lex>
+      <lex lang="es" lid="Id3">Chris Patten es representante del Hong Kong británico.</lex>
+      <lex lang="es" lid="Id4">El representante británico en Hong Kong es Chris Patten.</lex>
+      <lex lang="ca" lid="Id1">Chris Patten va servir com a representant de Hong Kong britànic.</lex>
+      <lex lang="ca" lid="Id2">Chris Patten va representar Hong Kong britànic.</lex>
+      <lex lang="ca" lid="Id3">Chris Patten és un representant de Hong Kong britànic.</lex>
+      <lex lang="ca" lid="Id4">El representant britànic de Hong Kong és Chris Patten.</lex>
+      <lex lang="eu" lid="Id1">Chris Patten britainiar Hong Kongeko ordezkari gisa aritu zen.</lex>
+      <lex lang="eu" lid="Id2">Chris Pattenek Hong Kong britainiarra ordezkatzen zuen.</lex>
+      <lex lang="eu" lid="Id3">Chris Patten Hong Kongeko britainiar ordezkaria da.</lex>
+      <lex lang="eu" lid="Id4">Hong Kongeko ordezkari britainiarra Chris Patten da.</lex>
+      <lex lang="gl" lid="Id1">Chris Patten serviu como representante de Hong Kong británica.</lex>
+      <lex lang="gl" lid="Id2">Chris Patten representou a Hong Kong británica.</lex>
+      <lex lang="gl" lid="Id3">Chris Patten é un representante de Hong Kong británico.</lex>
+      <lex lang="gl" lid="Id4">O representante británico de Hong Kong é Chris Patten.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | alternativeName | "Edwin E. Aldrin, Jr."</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | NombreAlternativo | Edwin_E._Aldrin,_Jr.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | NomAlternatiu | Edwin_E._Aldrin_Jr.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | NomeAlternativo | Edwin_E._Aldrin_Jr.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | AlternatiboaIzena | Edwin_E._Aldrin_gaztea.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin's real name was Edwin E. Aldrin, Jr.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin is also called Edwin E. Aldrin Jr.</lex>
+      <lex lang="es" lid="Id1">Edwin E. Aldrin, Jr. era conocido comúnmente como Buzz Aldrin.</lex>
+      <lex lang="es" lid="Id2">El verdadero nombre de Buzz Aldrin era Edwin E. Aldrin, Jr.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin también se llama Edwin E. Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id1">Edwin E. Aldrin, Jr. era més conegut com a Buzz Aldrin.</lex>
+      <lex lang="ca" lid="Id2">El nom real de Buzz Aldrin era Edwin E. Aldrin, Jr.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin també és anomenat Edwin E. Aldrin Jr.</lex>
+      <lex lang="eu" lid="Id1">Edwin E. Aldrin, Jr., Buzz Aldrin bezala ezagunagoa.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrinen benetako izena Edwin E. Aldrin, Jr. zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin-i Edwin E. Aldrin Jr. ere esaten zaio.</lex>
+      <lex lang="gl" lid="Id1">Edwin E. Aldrin, Jr. era comunmente coñecido como Buzz Aldrin.</lex>
+      <lex lang="gl" lid="Id2">O verdadeiro nome de Buzz Aldrin era Edwin E. Aldrin, Jr.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin tamén se chama Edwin E. Aldrin Jr.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | awards | 20</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | awards | 20</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | Premios | 20</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | Premis | 20</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | Premios | 20</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | Sariak | 20</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The number of Buzz Aldrin's awards are 20.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin won 20 awards.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin received 20 awards.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin has won 20 awards.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin had 20 awards.</lex>
+      <lex lang="es" lid="Id1">El número de premios de Buzz Aldrin es de 20.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin ganó 20 premios.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin recibió 20 premios.</lex>
+      <lex lang="es" lid="Id4">Buzz Aldrin ha ganado 20 premios.</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin recibió 20 premios.</lex>
+      <lex lang="ca" lid="Id1">El nombre de premis de Buzz Aldrin són 20.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va guanyar 20 premis.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin va rebre 20 premis.</lex>
+      <lex lang="ca" lid="Id4">Buzz Aldrin ha guanyat 20 premis.</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin va tenir 20 premis.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrinen sari kopurua 20 da.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrinek 20 sari irabazi zituen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrinek 20 sari jaso zituen.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrinek 20 sari irabazi ditu.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrinek 20 sari jaso zituen.</lex>
+      <lex lang="gl" lid="Id1">O número de premios de Buzz Aldrin é de 20.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin gañou 20 premios.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin recibiu 20 premios.</lex>
+      <lex lang="gl" lid="Id4">Buzz Aldrin gañou 20 premios.</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin recibiu 20 premios.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthDate | "1930-01-20"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | FechaDeNacimiento | 20-01-1930</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | DataDeNaixement | 1930-01-20</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | DataDeNacemento | 1930-01-20</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | JaiotzeData | 1930-01-20</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin's birth date was 1930 01 20.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin was born January 20, 1930.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin was born on 1930-01-20.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin's birth date is January 20, 1930.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin was born on January 20th, 1930.</lex>
+      <lex lang="en" lid="Id6">Buzz Aldrin was born on the 20th of January 1930.</lex>
+      <lex lang="en" lid="Id7">Buzz Aldrin was born on January 20,1930.</lex>
+      <lex lang="es" lid="Id1">La fecha de nacimiento de Buzz Aldrin fue 1930 01 20.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin nació el 20 de enero de 1930.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin nació el 20 de enero de 1930.</lex>
+      <lex lang="es" lid="Id4">La fecha de nacimiento de Buzz Aldrin es el 20 de enero de 1930.</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin nació el 20 de enero de 1930.</lex>
+      <lex lang="es" lid="Id6">Buzz Aldrin nació el 20 de enero de 1930.</lex>
+      <lex lang="es" lid="Id7">Buzz Aldrin nació el 20 de enero de 1930.</lex>
+      <lex lang="ca" lid="Id1">La data de naixement de Buzz Aldrin va ser 1930 01 20.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va néixer el 20 de gener de 1930.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin va néixer el 20 de gener de 1930.</lex>
+      <lex lang="ca" lid="Id4">La data de naixement de Buzz Aldrin és el 20 de gener de 1930.</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin va néixer el 20 de gener de 1930.</lex>
+      <lex lang="ca" lid="Id6">Buzz Aldrin va néixer el 20 de gener de 1930.</lex>
+      <lex lang="ca" lid="Id7">Buzz Aldrin va néixer el 20 de gener de 1930.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id6">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="eu" lid="Id7">Buzz Aldrin 1930eko urtarrilaren 20an jaio zen.</lex>
+      <lex lang="gl" lid="Id1">A data de nacemento de Buzz Aldrin foi 1930 01 20.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin naceu o 20 de xaneiro de 1930.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin naceu o 20 de xaneiro de 1930.</lex>
+      <lex lang="gl" lid="Id4">A data de nacemento de Buzz Aldrin é o 20 de xaneiro de 1930.</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin naceu o 20 de xaneiro de 1930.</lex>
+      <lex lang="gl" lid="Id6">Buzz Aldrin naceu o 20 de xaneiro de 1930.</lex>
+      <lex lang="gl" lid="Id7">Buzz Aldrin naceu o 20 de xaneiro de 1930.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | NombreDeNacimiento | Edwin_Eugene_Aldrin_Jr.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | NomDeNaixement | Edwin_Eugene_Aldrin_Jr.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | NomeDeNacemento | Edwin_Eugene_Aldrin_Jr.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | Jaiotza-izena | Edwin_Eugene_Aldrin_Jr.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin's birth name is Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin was born as Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin was born Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin's birth name was Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin was born with the name Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="es" lid="Id1">El nombre de nacimiento de Buzz Aldrin es Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin nació como Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin nació como Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="es" lid="Id4">El nombre de nacimiento de Buzz Aldrin era Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin nació con el nombre de Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id1">El nom de naixement de Buzz Aldrin és Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va néixer com Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin va néixer Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id4">El nom de naixement de Buzz Aldrin era Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin va néixer amb el nom d'Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrinen jaiotza izena Edwin Eugene Aldrin Jr. da.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin Edwin Eugene Aldrin Jr. bezala jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin jaio zen Edwin Eugene Aldrin gaztea.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrinen jaiotza izena Edwin Eugene Aldrin Jr. zen.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrin Edwin Eugene Aldrin Jr. izenarekin jaio zen.</lex>
+      <lex lang="gl" lid="Id1">O nome de nacemento de Buzz Aldrin é Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin naceu como Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin naceu como Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="gl" lid="Id4">O nome de nacemento de Buzz Aldrin era Edwin Eugene Aldrin Jr.</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin naceu co nome de Edwin Eugene Aldrin Jr.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | LlocDeNaixement | Glen_Ridge,_Nova_Jersey</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | LugarDeNacemento | Glen_Ridge,_Nova_Jersey</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | JaiotzeLekua | Glen_Ridge,_New_Jersey</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge New Jersey.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin's birth place was Glen Ridge, New Jersey.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin nació en Glen Ridge, Nueva Jersey.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin nació en Glen Ridge, Nueva Jersey.</lex>
+      <lex lang="es" lid="Id3">El lugar de nacimiento de Buzz Aldrin fue Glen Ridge, Nueva Jersey.</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin va néixer a Glen Ridge, Nova Jersey.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va néixer a Glen Ridge, Nova Jersey.</lex>
+      <lex lang="ca" lid="Id3">El lloc de naixement de Buzz Aldrin va ser Glen Ridge, Nova Jersey.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin New Jersey-ko Glen Ridge-n jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin New Jersey-ko Glen Ridge-n jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrinen jaiolekua New Jerseyko Glen Ridge da.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin naceu en Glen Ridge, Nova Jersey.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin naceu en Glen Ridge, Nova Jersey.</lex>
+      <lex lang="gl" lid="Id3">O lugar de nacemento de Buzz Aldrin era Glen Ridge, Nova Jersey.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | dateOfRet | "1971-07-01"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | dateOfRetirement | "1971-07-01"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | FechaDeJubilación | 01-07-1971</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | DataDeJubilació | 1971-07-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | DataDeXubilación | 1971-07-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | ErretiroarenData | 1971-07-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin retired on the 7th of January 1971.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin date of retirement was 1971/07/01.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin's retirement date is "1971-07-01".</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin retired on July 1st, 1971.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin retired on July 1, 1971.</lex>
+      <lex lang="en" lid="Id6">Buzz Aldrin retired on the 1st of July 1971.</lex>
+      <lex lang="en" lid="Id7">Buzz Aldrin retired on 1971-07-01.</lex>
+      <lex lang="en" lid="Id8">Buzz Aldrin retired on Jul 1, 1971.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin se jubiló el 7 de enero de 1971.</lex>
+      <lex lang="es" lid="Id2">La fecha de jubilación de Buzz Aldrin fue el 1 de julio de 1971.</lex>
+      <lex lang="es" lid="Id3">La fecha de jubilación de Buzz Aldrin es "1 de julio de 1971".</lex>
+      <lex lang="es" lid="Id4">Buzz Aldrin se retiró el 1 de julio de 1971.</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin se retiró el 1 de julio de 1971.</lex>
+      <lex lang="es" lid="Id6">Buzz Aldrin se jubiló el 1 de julio de 1971.</lex>
+      <lex lang="es" lid="Id7">Buzz Aldrin se jubiló el 1 de julio de 1971.</lex>
+      <lex lang="es" lid="Id8">Buzz Aldrin se retiró el 1 de julio de 1971.</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin es va retirar el 7 de gener de 1971.</lex>
+      <lex lang="ca" lid="Id2">La data de la jubilació de Buzz Aldrin va ser el 7 de gener de 1971.</lex>
+      <lex lang="ca" lid="Id3">La data de jubilació de Buzz Aldrin és "1971-07-01".</lex>
+      <lex lang="ca" lid="Id4">Buzz Aldrin es va retirar l'1 de juliol de 1971.</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin es va retirar l'1 de juliol de 1971.</lex>
+      <lex lang="ca" lid="Id6">Buzz Aldrin es va retirar l'1 de juliol de 1971.</lex>
+      <lex lang="ca" lid="Id7">Buzz Aldrin es va retirar el 1971-07-01.</lex>
+      <lex lang="ca" lid="Id8">Buzz Aldrin es va retirar l'1 de juliol de 1971.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin 1971ko urtarrilaren 7an erretiratu zen.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrinen erretiro-data 1971/07/01 izan zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrinen erretiro-data "1971-07-01" da.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrin 1971ko uztailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrin 1971ko uztailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id6">Buzz Aldrin 1971ko uztailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id7">Buzz Aldrin 1971-07-01ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id8">Buzz Aldrin 1971ko uztailaren 1ean erretiratu zen.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin retirouse o 7 de xaneiro de 1971.</lex>
+      <lex lang="gl" lid="Id2">A data de xubilación de Buzz Aldrin foi o 7 de xaneiro de 1971.</lex>
+      <lex lang="gl" lid="Id3">A data de xubilación de Buzz Aldrin é "1971-07-01".</lex>
+      <lex lang="gl" lid="Id4">Buzz Aldrin retirouse o 1 de xullo de 1971.</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin retirouse o 1 de xullo de 1971.</lex>
+      <lex lang="gl" lid="Id6">Buzz Aldrin retirouse o 1 de xullo de 1971.</lex>
+      <lex lang="gl" lid="Id7">Buzz Aldrin retirouse o 1 de xullo de 1971.</lex>
+      <lex lang="gl" lid="Id8">Buzz Aldrin retirouse o 1 de xullo de 1971.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | Ocupació | aviador_de_combat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | Ocupación | Piloto_de_caza</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | Okupazioa | Borroka-hegazkineko_pilotua.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin was a fighter pilot.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin served as a Fighter pilot.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin's occupation was a fighter pilot.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin performed as a fighter pilot.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin era piloto de caza.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin sirvió como piloto de caza.</lex>
+      <lex lang="es" lid="Id3">La ocupación de Buzz Aldrin era piloto de caza.</lex>
+      <lex lang="es" lid="Id4">Buzz Aldrin actuó como piloto de caza.</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin era un pilot de caça.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va servir com a pilot de caça.</lex>
+      <lex lang="ca" lid="Id3">L'ocupació de Buzz Aldrin era pilot de caça.</lex>
+      <lex lang="ca" lid="Id4">Buzz Aldrin va actuar com a pilot de caça.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin ehiza-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin ehiza-pilotu gisa aritu zen.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin ehiza-pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrin hegazkin-pilotu gisa aritu zen.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin era un piloto de caza.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin serviu como piloto de caza.</lex>
+      <lex lang="gl" lid="Id3">A ocupación de Buzz Aldrin era piloto de caza.</lex>
+      <lex lang="gl" lid="Id4">Buzz Aldrin actuou como piloto de caza.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | status | "Retired"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | Estado | Retirado</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | Estatut | retirat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | Estado | Retirado</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | Egoera | Erretiroa_hartutakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin is retired.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin is now retired.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin has retired.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin está retirado.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin ya está jubilado.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin se ha retirado.</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin està jubilat.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin està jubilat.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin s'ha jubilat.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin erretiratuta dago.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin erretiratuta dago.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin erretiratu egin da.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin está xubilado.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin está agora xubilado.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin retirouse.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | timeInSpace | "52.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | timeInSpace | "52.0"(minutes)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | TiempoEnElEspacio | 52.0_(minutos)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | TempsAL'espai | "52.0"(minuts)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | TempoNoEspazo | "52.0"_(minutos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | DenboraEspazioan | "52.0"_(minutuak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin was in space for 52 minutes.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin spent a total of 52.0 minutes in space.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin spent 52.0 minutes in Space.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin spent 52 minutes in space.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin walked in space 52.0 minutes.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin estuvo en el espacio 52 minutos.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin pasó un total de 52,0 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin pasó 52 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id4">Buzz Aldrin pasó 52 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin caminó en el espacio 52,0 minutos.</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin va estar a l'espai durant 52 minuts.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va passar un total de 52,0 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin va passar 52,0 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id4">Buzz Aldrin va passar 52 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin va caminar a l'espai 52,0 minuts.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrin 52 minutuz egon zen espazioan.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrinek 52,0 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrinek 52,0 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrinek 52 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrinek 52 minutu eman zituen espazioan.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin estivo no espazo durante 52 minutos.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin pasou un total de 52,0 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin pasou 52,0 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id4">Buzz Aldrin pasou 52 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin andou no espazo 52,0 minutos.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | ribbon | "Legion of Merit ribbon.svg"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | ribbonAward | "Legion of Merit ribbon.svg"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Buzz_Aldrin | PremioCinta | Cinta_de_la_Legión_al_Mérito.svg</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Buzz_Aldrin | PremiDeCinta | Línia_de_la_Legió_del_Mérit.svg</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Buzz_Aldrin | PremioRibbon | Legión_do_Mérito.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Buzz_Aldrin_izan_zen. | ZintaSaria | Merituaren_Legioa_ribbon.svg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Buzz Aldrin was awarded the Legion of Merit ribbon.</lex>
+      <lex lang="en" lid="Id2">Buzz Aldrin was awarded with Legion of Merit ribbon.</lex>
+      <lex lang="en" lid="Id3">Buzz Aldrin won the Legion of Merit ribbon.</lex>
+      <lex lang="en" lid="Id4">Buzz Aldrin was awarded the "Legion of Merit" ribbon.</lex>
+      <lex lang="en" lid="Id5">Buzz Aldrin was awarded the 'Legion of Merit' ribbon.</lex>
+      <lex lang="es" lid="Id1">Buzz Aldrin recibió la cinta de la Legión del Mérito.</lex>
+      <lex lang="es" lid="Id2">Buzz Aldrin fue galardonado con la cinta de la Legión del Mérito.</lex>
+      <lex lang="es" lid="Id3">Buzz Aldrin ganó la cinta de la Legión del Mérito.</lex>
+      <lex lang="es" lid="Id4">Buzz Aldrin recibió la cinta de la "Legión del Mérito".</lex>
+      <lex lang="es" lid="Id5">Buzz Aldrin fue condecorado con la cinta de la "Legión del Mérito".</lex>
+      <lex lang="ca" lid="Id1">Buzz Aldrin va ser guardonat amb la cinta de la Legió del Mèrit.</lex>
+      <lex lang="ca" lid="Id2">Buzz Aldrin va ser guardonat amb la cinta de la Legió del Mèrit.</lex>
+      <lex lang="ca" lid="Id3">Buzz Aldrin va guanyar la cinta de la Legió del Mèrit.</lex>
+      <lex lang="ca" lid="Id4">Buzz Aldrin va ser guardonat amb la cinta "Legion of Merit".</lex>
+      <lex lang="ca" lid="Id5">Buzz Aldrin va ser guardonat amb la cinta de la Legió del Mérit.</lex>
+      <lex lang="eu" lid="Id1">Buzz Aldrinek Merituaren Legioaren zinta jaso zuen.</lex>
+      <lex lang="eu" lid="Id2">Buzz Aldrin-i Merituaren Legioaren saria eman zioten.</lex>
+      <lex lang="eu" lid="Id3">Buzz Aldrin-ek Merituaren Legioaren saria jaso zuen.</lex>
+      <lex lang="eu" lid="Id4">Buzz Aldrinek "Legion of Merit" saria jaso zuen.</lex>
+      <lex lang="eu" lid="Id5">Buzz Aldrinek "Legion of Merit" saria jaso zuen.</lex>
+      <lex lang="gl" lid="Id1">Buzz Aldrin foi galardoado co lazo da Lexión do Mérito.</lex>
+      <lex lang="gl" lid="Id2">Buzz Aldrin foi galardoado coa Legión do Mérito.</lex>
+      <lex lang="gl" lid="Id3">Buzz Aldrin gañou o lazo da Lexión do Mérito.</lex>
+      <lex lang="gl" lid="Id4">Buzz Aldrin foi galardoado coa "Legión do Mérito".</lex>
+      <lex lang="gl" lid="Id5">Buzz Aldrin foi galardoado coa "Legión do Mérito".</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>California | fossil | Smilodon</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>California | fossil | Smilodon</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>California | Fósil | Smilodon</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Califòrnia | Fòssil | Smilodon</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>California | Fósil | Smilodon</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Californiausa._kgm | Fosila | Smilodon</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Smilodon is a fossil from California.</lex>
+      <lex lang="en" lid="Id2">California have fossils of the Smilodon.</lex>
+      <lex lang="en" lid="Id3">A Smilodon is a fossil from California.</lex>
+      <lex lang="en" lid="Id4">The Smilodon fossil was found in California.</lex>
+      <lex lang="es" lid="Id1">El Smilodon es un fósil de California.</lex>
+      <lex lang="es" lid="Id2">California tienen fósiles del Smilodon.</lex>
+      <lex lang="es" lid="Id3">Un Smilodon es un fósil de California.</lex>
+      <lex lang="es" lid="Id4">El fósil de Smilodon se encontró en California.</lex>
+      <lex lang="ca" lid="Id1">Smilodon és un fòssil de Califòrnia.</lex>
+      <lex lang="ca" lid="Id2">Califòrnia té fòssils de l'Smilodon.</lex>
+      <lex lang="ca" lid="Id3">Un Smilodon és un fòssil de Califòrnia.</lex>
+      <lex lang="ca" lid="Id4">El fòssil de Smilodon es va trobar a Califòrnia.</lex>
+      <lex lang="eu" lid="Id1">Smilodon Kaliforniako fosil bat da.</lex>
+      <lex lang="eu" lid="Id2">Kaliforniako Smilodonen fosilak daude.</lex>
+      <lex lang="eu" lid="Id3">Smilodon Kaliforniako fosila bat da.</lex>
+      <lex lang="eu" lid="Id4">Smilodonen fosila Kalifornian aurkitu zuten.</lex>
+      <lex lang="gl" lid="Id1">Smilodon é un fósil de California.</lex>
+      <lex lang="gl" lid="Id2">California ten fósiles do Smilodon.</lex>
+      <lex lang="gl" lid="Id3">Un Smilodon é un fósil de California.</lex>
+      <lex lang="gl" lid="Id4">O fósil de Smilodon atopouse en California.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>California | senators | Dianne_Feinstein</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>California | senators | Dianne_Feinstein</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>California | Senadores | Dianne_Feinstein</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Califòrnia | Senadors | Dianne_Feinstein</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>California | Senadores | Dianne_Feinstein</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Californiausa._kgm | Senatariak | Dianne_Feinstein</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Senator representing California was Dianne Feinstein.</lex>
+      <lex lang="en" lid="Id2">One of California's senators is Dianne Feinstein.</lex>
+      <lex lang="en" lid="Id3">Dianne Feinstein is a senator in California.</lex>
+      <lex lang="en" lid="Id4">Dianne Feinstein is a senator in the State of California.</lex>
+      <lex lang="es" lid="Id1">La senadora que representaba a California era Dianne Feinstein.</lex>
+      <lex lang="es" lid="Id2">Una de las senadoras de California es Dianne Feinstein.</lex>
+      <lex lang="es" lid="Id3">Dianne Feinstein es senadora por California.</lex>
+      <lex lang="es" lid="Id4">Dianne Feinstein es senadora por el Estado de California.</lex>
+      <lex lang="ca" lid="Id1">La senadora que representava Califòrnia era Dianne Feinstein.</lex>
+      <lex lang="ca" lid="Id2">Una de les senadores de Califòrnia és Dianne Feinstein.</lex>
+      <lex lang="ca" lid="Id3">Dianne Feinstein és senadora de Califòrnia.</lex>
+      <lex lang="ca" lid="Id4">Dianne Feinstein és una senadora de l'Estat de Califòrnia.</lex>
+      <lex lang="eu" lid="Id1">Kaliforniako senataria Dianne Feinstein izan zen.</lex>
+      <lex lang="eu" lid="Id2">Dianne Feinstein Kaliforniako senataria da.</lex>
+      <lex lang="eu" lid="Id3">Dianne Feinstein Kaliforniako senataria da.</lex>
+      <lex lang="eu" lid="Id4">Dianne Feinstein Kaliforniako senataria da.</lex>
+      <lex lang="gl" lid="Id1">A senadora que representaba a California era Dianne Feinstein.</lex>
+      <lex lang="gl" lid="Id2">Unha das senadoras de California é Dianne Feinstein.</lex>
+      <lex lang="gl" lid="Id3">Dianne Feinstein é senadora de California.</lex>
+      <lex lang="gl" lid="Id4">Dianne Feinstein é senadora do estado de California.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dallas | part | Collin_County,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dallas | Pieza | Condado_de_Collin,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Dallas | Part | Comtat_de_Collin,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Dallas | Parte | Condado_de_Collin,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Dallas | ZatiBat | Collin_konderria,_Texas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Dallas is in Collin County, Texas.</lex>
+      <lex lang="en" lid="Id2">Dallas is located in the Collin County in Texas.</lex>
+      <lex lang="es" lid="Id1">Dallas está en el condado de Collin, Texas.</lex>
+      <lex lang="es" lid="Id2">Dallas está situada en el condado de Collin, en Texas.</lex>
+      <lex lang="ca" lid="Id1">Dallas és al comtat de Collin, Texas.</lex>
+      <lex lang="ca" lid="Id2">Dallas es troba al comtat de Collin a Texas.</lex>
+      <lex lang="eu" lid="Id1">Dallas Collin konderrian dago, Texasen.</lex>
+      <lex lang="eu" lid="Id2">Dallas Texasko Collin konderrian dago.</lex>
+      <lex lang="gl" lid="Id1">Dallas está no condado de Collin, Texas.</lex>
+      <lex lang="gl" lid="Id2">Dallas está situada no condado de Collin en Texas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dallas | TipoDePiezas | Listado_de_condados_de_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Dallas | TipusDePart | Llista_de_comtats_de_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Dallas | TipoDePezas | Lista_de_condados_de_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Dallas | PartesMota | Texasko_konderrien_zerrenda</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Dallas is a county in Texas.</lex>
+      <lex lang="es" lid="Id1">Dallas es un condado de Texas.</lex>
+      <lex lang="ca" lid="Id1">Dallas és un comtat de Texas.</lex>
+      <lex lang="eu" lid="Id1">Dallas Texasko konderri bat da.</lex>
+      <lex lang="gl" lid="Id1">Dallas é un condado de Texas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos) | Superior | Medalla_de_Oro_del_Departamento_de_Comercio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Medalla_de_servei_distingit_(Marina_dels_Estats_Units) | MésAlt | Medalla_d'or_del_Departament_de_Comerç</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Medalla_de_Servizo_Distinguido_(Armada_dos_Estados_Unidos) | MáisAlto | Medalla_de_Ouro_do_Departamento_de_Comercio</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ameriketako_Estatu_Batuetako_Itsas_Armada_(Ingelesez) | Altuagoa | Merkataritza_Departamentuaren_Urrezko_Domina</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Distinguished service medal from the Navy is higher than the department of commerce gold medal.</lex>
+      <lex lang="en" lid="Id2">The Distinguished Service Medal of the United States Navy is higher than the Department of Commerce Gold Medal.</lex>
+      <lex lang="en" lid="Id3">Distinguished Service Medal from United States Navy ranks higher than Department of Commerce Gold Medal.</lex>
+      <lex lang="es" lid="Id1">La medalla de servicios distinguidos de la Armada es superior a la medalla de oro del Departamento de Comercio.</lex>
+      <lex lang="es" lid="Id2">La Medalla al Servicio Distinguido de la Marina de los Estados Unidos es superior a la Medalla de Oro del Departamento de Comercio.</lex>
+      <lex lang="es" lid="Id3">La Medalla al Servicio Distinguido de la Marina de los Estados Unidos es superior a la Medalla de Oro del Departamento de Comercio.</lex>
+      <lex lang="ca" lid="Id1">La medalla de servei distingit de la Marina és més alta que la medalla d'or del Departament de Comerç.</lex>
+      <lex lang="ca" lid="Id2">La Medalla de Servei Distinguit de la Marina dels Estats Units és més alta que la Medalla d'Or del Departament de Comerç.</lex>
+      <lex lang="ca" lid="Id3">La Medalla de Servei Distinguit de la Marina dels Estats Units és més alta que la Medalla d'Or del Departament de Comerç.</lex>
+      <lex lang="eu" lid="Id1">Merkataritza Saileko urrezko domina baino handiagoa da.</lex>
+      <lex lang="eu" lid="Id2">Estatu Batuetako Itsas armadaren zerbitzu bereizgarriaren domina merkataritza saileko urrezko domina baino handiagoa da.</lex>
+      <lex lang="eu" lid="Id3">Estatu Batuetako Itsas Armadako Zerbitzu Ohoretsuaren Domina Merkataritza Departamentuko Urrezko Domina baino handiagoa da.</lex>
+      <lex lang="gl" lid="Id1">A medalla de servizo distinguido da Armada é máis alta que a medalla de ouro do Departamento de Comercio.</lex>
+      <lex lang="gl" lid="Id2">A Medalla de Servizo Distinguido da Armada dos Estados Unidos é máis alta que a Medalla de Ouro do Departamento de Comercio.</lex>
+      <lex lang="gl" lid="Id3">A Medalla de Servizo Distinguido da Armada dos Estados Unidos é máis alta que a Medalla de Ouro do Departamento de Comercio.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | AlmaMater | Universitat_de_Texas_a_Austin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | AlmaMater | Universidade_de_Texas_en_Austin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | AlmaMater | Texasko_Unibertsitatea,_Austinen</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was a student at University of Texas at Austin.</lex>
+      <lex lang="en" lid="Id2">Elliot See attended the University of Texas at Austin.</lex>
+      <lex lang="en" lid="Id3">Elliot See graduated from the University of Texas at Austin.</lex>
+      <lex lang="es" lid="Id1">Elliot See estudiaba en la Universidad de Texas en Austin.</lex>
+      <lex lang="es" lid="Id2">Elliot See estudió en la Universidad de Texas en Austin.</lex>
+      <lex lang="es" lid="Id3">Elliot See se licenció en la Universidad de Texas en Austin.</lex>
+      <lex lang="ca" lid="Id1">Elliot See era un estudiant de la Universitat de Texas a Austin.</lex>
+      <lex lang="ca" lid="Id2">Elliot See va estudiar a la Universitat de Texas a Austin.</lex>
+      <lex lang="ca" lid="Id3">Elliot See es va graduar a la Universitat de Texas a Austin.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Austineko Texasko Unibertsitateko ikaslea zen.</lex>
+      <lex lang="eu" lid="Id2">Elliot See Texasko Unibertsitatean ikasi zuen.</lex>
+      <lex lang="eu" lid="Id3">Elliot See-k Austin-eko Texas Unibertsitatean graduatu zen.</lex>
+      <lex lang="gl" lid="Id1">Elliot See era estudante na Universidade de Texas en Austin.</lex>
+      <lex lang="gl" lid="Id2">Elliot See estudou na Universidade de Texas en Austin.</lex>
+      <lex lang="gl" lid="Id3">Elliot See graduouse na Universidade de Texas en Austin.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | birthDate | "1927-07-23"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | FechaDeNacimiento | 23-07-1927</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | DataDeNaixement | 1927-07-23</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | DataDeNacemento | 1927-07-23</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | JaiotzeData | 1927-07-23</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was born on the 23rd of July 1927.</lex>
+      <lex lang="en" lid="Id2">Elliot See was born on July 23, 1927.</lex>
+      <lex lang="en" lid="Id3">Elliot See was born on July 23rd, 1927.</lex>
+      <lex lang="en" lid="Id4">Elliot See was born on 23rd July 1927.</lex>
+      <lex lang="en" lid="Id5">Elliot See was born on 07/23/1927.</lex>
+      <lex lang="es" lid="Id1">Elliot See nació el 23 de julio de 1927.</lex>
+      <lex lang="es" lid="Id2">Elliot See nació el 23 de julio de 1927.</lex>
+      <lex lang="es" lid="Id3">Elliot See nació el 23 de julio de 1927.</lex>
+      <lex lang="es" lid="Id4">Elliot See nació el 23 de julio de 1927.</lex>
+      <lex lang="es" lid="Id5">Elliot See nació el 23 de julio de 1927.</lex>
+      <lex lang="ca" lid="Id1">Elliot See va néixer el 23 de juliol de 1927.</lex>
+      <lex lang="ca" lid="Id2">Elliot See va néixer el 23 de juliol de 1927.</lex>
+      <lex lang="ca" lid="Id3">Elliot See va néixer el 23 de juliol de 1927.</lex>
+      <lex lang="ca" lid="Id4">Elliot See va néixer el 23 de juliol de 1927.</lex>
+      <lex lang="ca" lid="Id5">Elliot See va néixer el 23 de juliol de 1927.</lex>
+      <lex lang="eu" lid="Id1">Elliot See 1927ko uztailaren 23an jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Elliot See 1927ko uztailaren 23an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Elliot See 1927ko uztailaren 23an jaio zen.</lex>
+      <lex lang="eu" lid="Id4">Elliot See 1927ko uztailaren 23an jaio zen.</lex>
+      <lex lang="eu" lid="Id5">Elliot See 1927ko uztailaren 23an jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Elliot See naceu o 23 de xullo de 1927.</lex>
+      <lex lang="gl" lid="Id2">Elliot See naceu o 23 de xullo de 1927.</lex>
+      <lex lang="gl" lid="Id3">Elliot See naceu o 23 de xullo de 1927.</lex>
+      <lex lang="gl" lid="Id4">Elliot See naceu o 23 de xullo de 1927.</lex>
+      <lex lang="gl" lid="Id5">Elliot See naceu o 23 de xullo de 1927.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | LlocDeNaixement | Dallas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | LugarDeNacemento | Dallas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | JaiotzeLekua | Dallas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Elliot See was born in Dallas.</lex>
+      <lex lang="es" lid="Id1">Elliot See nació en Dallas.</lex>
+      <lex lang="ca" lid="Id1">Elliot See va néixer a Dallas.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Dallasen jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Elliot See naceu en Dallas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | nationality | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | nationality | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | Nacionalidad | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | Nacionalidade | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | Nazionalitatea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The nationality of Elliot See is United States.</lex>
+      <lex lang="en" lid="Id2">Elliot See had a nationality that was of the United States.</lex>
+      <lex lang="en" lid="Id3">Elliot See is from the United States.</lex>
+      <lex lang="en" lid="Id4">Elliot See is a United States national.</lex>
+      <lex lang="es" lid="Id1">La nacionalidad de Elliot See es estadounidense.</lex>
+      <lex lang="es" lid="Id2">Elliot See tenía nacionalidad estadounidense.</lex>
+      <lex lang="es" lid="Id3">Elliot See es de Estados Unidos.</lex>
+      <lex lang="es" lid="Id4">Elliot See tiene nacionalidad estadounidense.</lex>
+      <lex lang="ca" lid="Id1">La nacionalitat d'Elliot See és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Elliot See tenia la nacionalitat dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Elliot See és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id4">Elliot See és un ciutadà dels Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Elliot See Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id2">Elliot Seek Estatu Batuetako nazionalitatea zuen.</lex>
+      <lex lang="eu" lid="Id3">Elliot See Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id4">Elliot See Ameriketako Estatu Batuetakoa da.</lex>
+      <lex lang="gl" lid="Id1">A nacionalidade de Elliot See é Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Elliot See tiña unha nacionalidade que era dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">Elliot See é dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id4">Elliot See é un cidadán dos Estados Unidos.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | selection | 1962</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Elliot_See | SeleccionadoPorLaNasa | 1962</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Elliot_See | SeleccionatPerLaNasa | 1962</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Elliot_See | SeleccionadoPolaNasa | 1962</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Elliot_See | Nasa-kHautatua | 1962</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">NASA selected Elliot See in 1962.</lex>
+      <lex lang="en" lid="Id2">Elliot See joined NASA in 1962.</lex>
+      <lex lang="en" lid="Id3">Elliot See was selected by NASA in 1962.</lex>
+      <lex lang="en" lid="Id4">Elliot See started working for NASA in 1962.</lex>
+      <lex lang="en" lid="Id5">Elliot See was chosen by NASA in 1962.</lex>
+      <lex lang="es" lid="Id1">La NASA seleccionó a Elliot See en 1962.</lex>
+      <lex lang="es" lid="Id2">Elliot See se incorporó a la NASA en 1962.</lex>
+      <lex lang="es" lid="Id3">Elliot See fue seleccionado por la NASA en 1962.</lex>
+      <lex lang="es" lid="Id4">Elliot See empezó a trabajar para la NASA en 1962.</lex>
+      <lex lang="es" lid="Id5">Elliot See fue elegido por la NASA en 1962.</lex>
+      <lex lang="ca" lid="Id1">La NASA va seleccionar Elliot See el 1962.</lex>
+      <lex lang="ca" lid="Id2">Elliot See es va unir a la NASA el 1962.</lex>
+      <lex lang="ca" lid="Id3">Elliot See va ser seleccionat per la NASA el 1962.</lex>
+      <lex lang="ca" lid="Id4">Elliot See va començar a treballar per a la NASA el 1962.</lex>
+      <lex lang="ca" lid="Id5">Elliot See va ser escollit per la NASA el 1962.</lex>
+      <lex lang="eu" lid="Id1">NASAk Elliot See aukeratu zuen 1962an.</lex>
+      <lex lang="eu" lid="Id2">Elliot See 1962an hasi zen NASAn lanean.</lex>
+      <lex lang="eu" lid="Id3">Elliot See NASAk 1962an aukeratu zuen.</lex>
+      <lex lang="eu" lid="Id4">Elliot See 1962an hasi zen NASAn lanean.</lex>
+      <lex lang="eu" lid="Id5">Elliot See NASAk 1962an aukeratu zuen.</lex>
+      <lex lang="gl" lid="Id1">A NASA seleccionou a Elliot See en 1962.</lex>
+      <lex lang="gl" lid="Id2">Elliot See uniuse á NASA en 1962.</lex>
+      <lex lang="gl" lid="Id3">Elliot See foi seleccionado pola NASA en 1962.</lex>
+      <lex lang="gl" lid="Id4">Elliot See comezou a traballar para a NASA en 1962.</lex>
+      <lex lang="gl" lid="Id5">Elliot See foi elixido pola NASA en 1962.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Glen_Ridge,_Nueva_Jersey | FormaParteDe | Condado_de_Essex,_Nueva_Jersey</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Glen_Ridge,_Nova_Jersey | ÉsPartDe | Comtat_d'Essex,_Nova_Jersey</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Glen_Ridge,_Nova_Jersey | ÉParteDe | Condado_de_Essex,_Nova_Jersey</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Glen_Ridge,_New_Jersey | HonenZatiDa | Essex_konderrian_kokatuta_dago,_New_Jersey_estatuan.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Glen Ridge is in the Essex County in New Jersey.</lex>
+      <lex lang="en" lid="Id2">Glen Ridge is located in the Essex County in New Jersey.</lex>
+      <lex lang="en" lid="Id3">Glen Ridge, New Jersey is situated in the Essex County.</lex>
+      <lex lang="es" lid="Id1">Glen Ridge está en el condado de Essex, en Nueva Jersey.</lex>
+      <lex lang="es" lid="Id2">Glen Ridge está situado en el condado de Essex en Nueva Jersey.</lex>
+      <lex lang="es" lid="Id3">Glen Ridge, Nueva Jersey, está situada en el condado de Essex.</lex>
+      <lex lang="ca" lid="Id1">Glen Ridge és al comtat d'Essex a Nova Jersey.</lex>
+      <lex lang="ca" lid="Id2">Glen Ridge es troba al comtat d'Essex a Nova Jersey.</lex>
+      <lex lang="ca" lid="Id3">Glen Ridge, Nova Jersey està situat al comtat d'Essex.</lex>
+      <lex lang="eu" lid="Id1">Glen Ridge Essex konderrian dago, New Jerseyn.</lex>
+      <lex lang="eu" lid="Id2">Glen Ridge New Jerseyko Essex konderrian dago.</lex>
+      <lex lang="eu" lid="Id3">Glen Ridge, New Jersey Essex konderrian dago.</lex>
+      <lex lang="gl" lid="Id1">Glen Ridge está no condado de Essex en Nova Jersey.</lex>
+      <lex lang="gl" lid="Id2">Glen Ridge está situado no condado de Essex en Nova Jersey.</lex>
+      <lex lang="gl" lid="Id3">Glen Ridge, Nova Jersey está situado no condado de Essex.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>New_Hampshire | bird | Purple_finch</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_Hampshire | bird | Purple_finch</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Nuevo_Hampshire | Pájaro | Camachuelo_Purpúreo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Nou_Hampshire | Ocell | pinsà_porprat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>New_Hampshireusa._kgm | Paxaro | Finch_púrpura</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>New_Hampshire | Txoria | Finka_morea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The purple finch is a native bird to New Hampshire.</lex>
+      <lex lang="en" lid="Id2">The Purple finch is a bird found in New Hampshire.</lex>
+      <lex lang="en" lid="Id3">The Purple Finch is a New Hampshire bird.</lex>
+      <lex lang="en" lid="Id4">The Purple Finch is a bird living in New Hampshire.</lex>
+      <lex lang="en" lid="Id5">The New Hampshire state bird is the purple finch.</lex>
+      <lex lang="es" lid="Id1">El pinzón morado es un ave autóctona de Nuevo Hampshire.</lex>
+      <lex lang="es" lid="Id2">El pinzón morado es un ave de New Hampshire.</lex>
+      <lex lang="es" lid="Id3">El pinzón morado es un ave de New Hampshire.</lex>
+      <lex lang="es" lid="Id4">El pinzón morado es un ave que vive en New Hampshire.</lex>
+      <lex lang="es" lid="Id5">El pájaro del estado de New Hampshire es el pinzón púrpura.</lex>
+      <lex lang="ca" lid="Id1">El pinsà porpra és un ocell natiu de Nou Hampshire.</lex>
+      <lex lang="ca" lid="Id2">El pinsà porpra és un ocell que es troba a Nou Hampshire.</lex>
+      <lex lang="ca" lid="Id3">El pinsà porpra és un ocell de Nou Hampshire.</lex>
+      <lex lang="ca" lid="Id4">El pinsà porpra és un ocell que viu a Nou Hampshire.</lex>
+      <lex lang="ca" lid="Id5">L'ocell de l'estat de New Hampshire és el pinsà porpra.</lex>
+      <lex lang="eu" lid="Id1">Txori hau New Hampshiren bizi da.</lex>
+      <lex lang="eu" lid="Id2">Purple finch New Hampshiren aurkitzen den hegaztia da.</lex>
+      <lex lang="eu" lid="Id3">Purple Finch New Hampshireko txori bat da.</lex>
+      <lex lang="eu" lid="Id4">Txori hau New Hampshiren bizi da.</lex>
+      <lex lang="eu" lid="Id5">New Hampshire-ko hegazti nazionala txolarre purpura da.</lex>
+      <lex lang="gl" lid="Id1">O pinzón púrpura é unha ave nativa de New Hampshire.</lex>
+      <lex lang="gl" lid="Id2">O pinzón púrpura é unha ave que se atopa en Nova Hampshire.</lex>
+      <lex lang="gl" lid="Id3">O pinzón púrpura é un paxaro de New Hampshire.</lex>
+      <lex lang="gl" lid="Id4">O pinzón púrpura é unha ave que vive en Nova Hampshire.</lex>
+      <lex lang="gl" lid="Id5">O paxaro estatal de New Hampshire é o pinzón púrpura.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>San_Luis | FormaParteDe | Reino_de_Francia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Saint_Louis | ÉsPartDe | Regne_de_França</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>San_Luís | ÉParteDe | Reino_de_Francia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>St._Louis | HonenZatiDa | Frantziako_Erresuma</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">St. Louis was situated in the Kingdom of France.</lex>
+      <lex lang="en" lid="Id2">St. Louis was part of the Kingdom of France.</lex>
+      <lex lang="en" lid="Id3">St. Louis is part of the Kingdom of France.</lex>
+      <lex lang="en" lid="Id4">St. Louis was a part of the kingdom of France.</lex>
+      <lex lang="es" lid="Id1">San Luis estaba situado en el Reino de Francia.</lex>
+      <lex lang="es" lid="Id2">San Luis formaba parte del Reino de Francia.</lex>
+      <lex lang="es" lid="Id3">San Luis forma parte del Reino de Francia.</lex>
+      <lex lang="es" lid="Id4">San Luis formaba parte del reino de Francia.</lex>
+      <lex lang="ca" lid="Id1">St. Louis estava situada al Regne de França.</lex>
+      <lex lang="ca" lid="Id2">Sant Lluís era part del Regne de França.</lex>
+      <lex lang="ca" lid="Id3">St. Louis és part del Regne de França.</lex>
+      <lex lang="ca" lid="Id4">St. Louis era part del regne de França.</lex>
+      <lex lang="eu" lid="Id1">Saint Louis Frantziako erresuman zegoen.</lex>
+      <lex lang="eu" lid="Id2">St. Louis Frantziako Erresumaren parte izan zen.</lex>
+      <lex lang="eu" lid="Id3">Saint Louis Frantziako erresumaren parte da.</lex>
+      <lex lang="eu" lid="Id4">St. Louis Frantziako erresumaren parte izan zen.</lex>
+      <lex lang="gl" lid="Id1">San Luís estaba situado no Reino de Francia.</lex>
+      <lex lang="gl" lid="Id2">San Luís formaba parte do Reino de Francia.</lex>
+      <lex lang="gl" lid="Id3">St. Louis forma parte do Reino de Francia.</lex>
+      <lex lang="gl" lid="Id4">San Luís formaba parte do reino de Francia.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>St._Louis | leaderName | Francis_G._Slay</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Louis | leader | Francis_G._Slay</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>San_Luis | Líder | Francis_G._Slay</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Saint_Louis | Líder | Francis_G._Slay</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>San_Luís | Líder | Francis_G._Slay</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>St._Louis | Buruzagia. | Francis_G._Slay</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The name of St Louis' leader is Francis G. Slay.</lex>
+      <lex lang="en" lid="Id2">Francis G Slay is the Mayor of St Louis.</lex>
+      <lex lang="es" lid="Id1">El nombre del líder de San Luis es Francis G. Slay.</lex>
+      <lex lang="es" lid="Id2">Francis G Slay es el alcalde de San Luis.</lex>
+      <lex lang="ca" lid="Id1">El nom del líder de St. Louis és Francis G. Slay.</lex>
+      <lex lang="ca" lid="Id2">Francis G. Slay és l'alcalde de Saint Louis.</lex>
+      <lex lang="eu" lid="Id1">St. Louiseko buruzagiaren izena Francis G. Slay da.</lex>
+      <lex lang="eu" lid="Id2">Francis G Slay da St Louis-eko alkatea.</lex>
+      <lex lang="gl" lid="Id1">O nome do líder de St. Louis é Francis G. Slay.</lex>
+      <lex lang="gl" lid="Id2">Francis G. Slay é o alcalde de St. Louis.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Líder | Joe_Biden</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Joseph_Robinette_Biden,_Jr.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | Líder | Joe_Biden</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | Buruzagia. | Joe_Bidenek_ere_bai.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Joe Biden is the United States leader.</lex>
+      <lex lang="en" lid="Id2">Joe Biden is a United States leader.</lex>
+      <lex lang="en" lid="Id3">Joe Biden was a representative of the United States.</lex>
+      <lex lang="en" lid="Id4">Joe Biden is a leader of the United States.</lex>
+      <lex lang="en" lid="Id5">The United States leader was called Joe Biden.</lex>
+      <lex lang="en" lid="Id6">Joe Biden served as United State's vice president.</lex>
+      <lex lang="es" lid="Id1">Joe Biden es el líder de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Joe Biden es un líder de Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">Joe Biden era representante de Estados Unidos.</lex>
+      <lex lang="es" lid="Id4">Joe Biden es un líder de los Estados Unidos.</lex>
+      <lex lang="es" lid="Id5">El líder de Estados Unidos se llamaba Joe Biden.</lex>
+      <lex lang="es" lid="Id6">Joe Biden fue Vicepresidente de los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Joe Biden és el líder dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Joe Biden és un líder dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Joe Biden era un representant dels Estats Units.</lex>
+      <lex lang="ca" lid="Id4">Joe Biden és un líder dels Estats Units.</lex>
+      <lex lang="ca" lid="Id5">El líder dels Estats Units es deia Joe Biden.</lex>
+      <lex lang="ca" lid="Id6">Joe Biden va servir com a vicepresident dels Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Joe Biden, Ameriketako Estatu Batuetako presidentea.</lex>
+      <lex lang="eu" lid="Id2">Joe Biden Ameriketako Estatu Batuetako presidentea da.</lex>
+      <lex lang="eu" lid="Id3">Joe Biden Estatu Batuetako ordezkaria zen.</lex>
+      <lex lang="eu" lid="Id4">Joe Biden Estatu Batuetako liderra da.</lex>
+      <lex lang="eu" lid="Id5">AEBetako liderra Joe Biden izan zen.</lex>
+      <lex lang="eu" lid="Id6">Joe Biden Estatu Batuetako presidenteorde izan zen.</lex>
+      <lex lang="gl" lid="Id1">Joe Biden é o líder dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Joe Biden é un líder dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">Joe Biden foi un representante dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id4">Joe Biden é un líder dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id5">O líder dos Estados Unidos chamábase Joe Biden.</lex>
+      <lex lang="gl" lid="Id6">Joe Biden foi vicepresidente dos Estados Unidos.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Universitat_de_Texas_a_Austin | Afiliació | Sistema_Universitari_de_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Universidade_de_Texas_en_Austin | Afiliación | Sistema_da_Universidade_de_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Afiliazioa | Texasko_Unibertsitatearen_Sistema</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">University of Texas at Austin is affiliated with University of Texas System.</lex>
+      <lex lang="en" lid="Id2">The University of Texas, Austin, is affiliated with the University of Texas System.</lex>
+      <lex lang="en" lid="Id3">The university of Texas at Austin is affiliated to the university of Texas System.</lex>
+      <lex lang="es" lid="Id1">La Universidad de Texas en Austin está afiliada al Sistema de la Universidad de Texas.</lex>
+      <lex lang="es" lid="Id2">La Universidad de Texas, Austin, está afiliada al Sistema Universitario de Texas.</lex>
+      <lex lang="es" lid="Id3">La Universidad de Texas en Austin está afiliada al Sistema Universitario de Texas.</lex>
+      <lex lang="ca" lid="Id1">La Universitat de Texas a Austin està afiliada al Sistema de la Universitat de Texas.</lex>
+      <lex lang="ca" lid="Id2">La Universitat de Texas, Austin, està afiliada al Sistema de la Universitat de Texas.</lex>
+      <lex lang="ca" lid="Id3">La Universitat de Texas a Austin està afiliada a la Universitat del Sistema de Texas.</lex>
+      <lex lang="eu" lid="Id1">Austineko Texasko Unibertsitatea Texasko Unibertsitate Sistemarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Texasko Unibertsitatea, Austin, Texasko Unibertsitate Sistemarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id3">Austineko Texasko Unibertsitatea Texasko Unibertsitate Sistemaren kidea da.</lex>
+      <lex lang="gl" lid="Id1">A Universidade de Texas en Austin está afiliada ao Sistema da Universidade de Texas.</lex>
+      <lex lang="gl" lid="Id2">A Universidade de Texas, Austin, está afiliada ao Sistema da Universidade de Texas.</lex>
+      <lex lang="gl" lid="Id3">A Universidade de Texas en Austin está afiliada ao Sistema Universitario de Texas.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Universidad_de_Texas_en_Austin | CompetirEn | Big_12_Conference</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Universitat_de_Texas_a_Austin | CompetirIn | Big_12_Conference</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Universidade_de_Texas_en_Austin | CompetirIn | Big_12_Conference</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Texasko_Unibertsitatea,_Austinen | LehiatuIn | Big_12_Konferentzia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The University of Texas at Austin is competing in the Big 12 Conference.</lex>
+      <lex lang="en" lid="Id2">The University of Texas, Austin, will compete in the Big 12 Conference.</lex>
+      <lex lang="en" lid="Id3">The University of Texas at Austin competed in the Big 12 Conference.</lex>
+      <lex lang="es" lid="Id1">La Universidad de Texas en Austin compite en la Big 12 Conference.</lex>
+      <lex lang="es" lid="Id2">La Universidad de Texas, en Austin, competirá en la Conferencia Big 12.</lex>
+      <lex lang="es" lid="Id3">La Universidad de Texas en Austin compite en la Big 12 Conference.</lex>
+      <lex lang="ca" lid="Id1">La Universitat de Texas a Austin competeix en la Conferència Big 12.</lex>
+      <lex lang="ca" lid="Id2">La Universitat de Texas, Austin, competirà a la Conferència Big 12.</lex>
+      <lex lang="ca" lid="Id3">La Universitat de Texas a Austin va competir a la Conferència Big 12.</lex>
+      <lex lang="eu" lid="Id1">Austineko Texasko Unibertsitatea Big 12ren parte da.</lex>
+      <lex lang="eu" lid="Id2">Texasko Unibertsitatea, Austin, Big 12 Konferentzian lehiatuko da.</lex>
+      <lex lang="eu" lid="Id3">Austineko Texasko Unibertsitateak Big 12 Konferentzian lehiatu zuen.</lex>
+      <lex lang="gl" lid="Id1">A Universidade de Texas en Austin compite na Conferencia Big 12.</lex>
+      <lex lang="gl" lid="Id2">A Universidade de Texas, Austin, competirá na Conferencia Big 12.</lex>
+      <lex lang="gl" lid="Id3">A Universidade de Texas en Austin competiu na Conferencia Big 12.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Universidad_de_Texas_en_Austin | Presidente | Gregory_L._Fenves</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Universitat_de_Texas_a_Austin | President | Gregory_L._Fenves</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Universidade_de_Texas_en_Austin | Presidente | Gregory_L._Fenves</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Texasko_Unibertsitatea,_Austinen | Lehendakaria. | Gregory_L._Fenves</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Gregory L. Fenves is the President of University of Texas at Austin.</lex>
+      <lex lang="en" lid="Id2">Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
+      <lex lang="en" lid="Id3">Gregory L. Fenves was appointed as the president of the University of Texas at Austin.</lex>
+      <lex lang="es" lid="Id1">Gregory L. Fenves es el Presidente de la Universidad de Texas en Austin.</lex>
+      <lex lang="es" lid="Id2">Gregory L. Fenves es el Presidente designado de la Universidad de Texas en Austin.</lex>
+      <lex lang="es" lid="Id3">Gregory L. Fenves fue nombrado Presidente de la Universidad de Texas en Austin.</lex>
+      <lex lang="ca" lid="Id1">Gregory L. Fenves és el president de la Universitat de Texas a Austin.</lex>
+      <lex lang="ca" lid="Id2">Gregory L. Fenves és el president designat de la Universitat de Texas a Austin.</lex>
+      <lex lang="ca" lid="Id3">Gregory L. Fenves va ser nomenat president de la Universitat de Texas a Austin.</lex>
+      <lex lang="eu" lid="Id1">Gregory L. Fenves Texasko Unibertsitateko lehendakaria da.</lex>
+      <lex lang="eu" lid="Id2">Gregory L. Fenves da Austineko Texasko Unibertsitateko lehendakari izendatua.</lex>
+      <lex lang="eu" lid="Id3">Gregory L. Fenves Austineko Texasko Unibertsitateko presidente izendatu zuten.</lex>
+      <lex lang="gl" lid="Id1">Gregory L. Fenves é o presidente da Universidade de Texas en Austin.</lex>
+      <lex lang="gl" lid="Id2">Gregory L. Fenves é o presidente da Universidade de Texas en Austin.</lex>
+      <lex lang="gl" lid="Id3">Gregory L. Fenves foi nomeado presidente da Universidade de Texas en Austin.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | AlmaMáter | AFIT,_M.S._1962</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | AlmaMater | AFIT,_M.S._1962</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | AlmaMater | AFIT,_M.S._1962</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | AlmaMater | AFIT,_M.S._1962</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">In 1962, William Anders received an M.S. from his alma mater AFIT.</lex>
+      <lex lang="en" lid="Id2">William Anders graduated, with an M.S., from AFIT in 1962.</lex>
+      <lex lang="en" lid="Id3">William Anders graduated from AFIT in 1962 with an M.S.</lex>
+      <lex lang="en" lid="Id4">William Anders graduated from AFIT, M.S. in 1962.</lex>
+      <lex lang="es" lid="Id1">En 1962, William Anders obtuvo un máster de su alma mater AFIT.</lex>
+      <lex lang="es" lid="Id2">William Anders se licenció en la AFIT en 1962.</lex>
+      <lex lang="es" lid="Id3">William Anders se licenció en Ciencias en la AFIT en 1962.</lex>
+      <lex lang="es" lid="Id4">William Anders se licenció en AFIT en 1962.</lex>
+      <lex lang="ca" lid="Id1">El 1962, William Anders va rebre un M.S. de la seva alma mater AFIT.</lex>
+      <lex lang="ca" lid="Id2">William Anders es va graduar, amb un M.S., de l'AFIT el 1962.</lex>
+      <lex lang="ca" lid="Id3">William Anders es va graduar de l'AFIT el 1962 amb un M.S.</lex>
+      <lex lang="ca" lid="Id4">William Anders es va graduar a AFIT, MS el 1962.</lex>
+      <lex lang="eu" lid="Id1">1962an, William Anders-ek M.S. lortu zuen bere alma mater AFIT-etik.</lex>
+      <lex lang="eu" lid="Id2">1962an graduatu zen, M.S. tituluarekin, AFIT-en.</lex>
+      <lex lang="eu" lid="Id3">William Anders-ek AFIT-en graduatu zen 1962an, M.S. batekin.</lex>
+      <lex lang="eu" lid="Id4">1962an graduatu zen William Anders AFIT-en.</lex>
+      <lex lang="gl" lid="Id1">En 1962, William Anders recibiu un M.S. da súa alma mater AFIT.</lex>
+      <lex lang="gl" lid="Id2">William Anders graduouse, cun M.S., na AFIT en 1962.</lex>
+      <lex lang="gl" lid="Id3">William Anders graduouse na AFIT en 1962 cun M.S.</lex>
+      <lex lang="gl" lid="Id4">William Anders graduouse na AFIT, MS en 1962.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | FechaDeNacimiento | 17-10-1933</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | DataDeNaixement | 1933-10-17</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | DataDeNacemento | 1933-10-17</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | JaiotzeData | 1933-10-17</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders was born on October 17th, 1933.</lex>
+      <lex lang="en" lid="Id2">William Anders was born October 17th 1933.</lex>
+      <lex lang="en" lid="Id3">William Anders was born on October 17, 1933.</lex>
+      <lex lang="en" lid="Id4">William Anders was born 1933-10-17.</lex>
+      <lex lang="en" lid="Id5">William Anders was born on the 17th of October 1933.</lex>
+      <lex lang="es" lid="Id1">William Anders nació el 17 de octubre de 1933.</lex>
+      <lex lang="es" lid="Id2">William Anders nació el 17 de octubre de 1933.</lex>
+      <lex lang="es" lid="Id3">William Anders nació el 17 de octubre de 1933.</lex>
+      <lex lang="es" lid="Id4">William Anders nació el 17 de octubre de 1933.</lex>
+      <lex lang="es" lid="Id5">William Anders nació el 17 de octubre de 1933.</lex>
+      <lex lang="ca" lid="Id1">William Anders va néixer el 17 d'octubre de 1933.</lex>
+      <lex lang="ca" lid="Id2">William Anders va néixer el 17 d'octubre de 1933.</lex>
+      <lex lang="ca" lid="Id3">William Anders va néixer el 17 d'octubre de 1933.</lex>
+      <lex lang="ca" lid="Id4">William Anders va néixer el 17 d'octubre de 1933.</lex>
+      <lex lang="ca" lid="Id5">William Anders va néixer el 17 d'octubre de 1933.</lex>
+      <lex lang="eu" lid="Id1">William Anders 1933ko urriaren 17an jaio zen.</lex>
+      <lex lang="eu" lid="Id2">William Anders 1933ko urriaren 17an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">William Anders 1933ko urriaren 17an jaio zen.</lex>
+      <lex lang="eu" lid="Id4">William Anders 1933ko urriaren 17an jaio zen.</lex>
+      <lex lang="eu" lid="Id5">William Anders 1933ko urriaren 17an jaio zen.</lex>
+      <lex lang="gl" lid="Id1">William Anders naceu o 17 de outubro de 1933.</lex>
+      <lex lang="gl" lid="Id2">William Anders naceu o 17 de outubro de 1933.</lex>
+      <lex lang="gl" lid="Id3">William Anders naceu o 17 de outubro de 1933.</lex>
+      <lex lang="gl" lid="Id4">William Anders naceu o 17 de outubro de 1933.</lex>
+      <lex lang="gl" lid="Id5">William Anders naceu o 17 de outubro de 1933.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | LlocDeNaixement | Hong_Kong_britànic</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | LugarDeNacemento | Hong_Kong_británico</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | JaiotzeLekua | Hong_Kong</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders was born in British Hong Kong.</lex>
+      <lex lang="es" lid="Id1">William Anders nació en la Hong Kong británica.</lex>
+      <lex lang="ca" lid="Id1">William Anders va néixer a Hong Kong britànic.</lex>
+      <lex lang="eu" lid="Id1">William Anders Hong Kong britainiarrean jaio zen.</lex>
+      <lex lang="gl" lid="Id1">William Anders naceu en Hong Kong británico.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | DataDeJubilació | 1969-09-01</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | DataDeXubilación | 1969-09-01</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | ErretiroarenData | 1969-09-01</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders retired on September 1st, 1969.</lex>
+      <lex lang="en" lid="Id2">William Anders retired Sept 1st 1969.</lex>
+      <lex lang="en" lid="Id3">William Anders retired on September 1, 1969.</lex>
+      <lex lang="en" lid="Id4">William Anders retired in 1969-09-01.</lex>
+      <lex lang="en" lid="Id5">William Anders retired 1969-09-01.</lex>
+      <lex lang="en" lid="Id6">William Anders retired on the 1st of September 1969.</lex>
+      <lex lang="es" lid="Id1">William Anders se jubiló el 1 de septiembre de 1969.</lex>
+      <lex lang="es" lid="Id2">William Anders se jubiló el 1 de septiembre de 1969.</lex>
+      <lex lang="es" lid="Id3">William Anders se jubiló el 1 de septiembre de 1969.</lex>
+      <lex lang="es" lid="Id4">William Anders se jubiló en 1 de septiembre de 1969.</lex>
+      <lex lang="es" lid="Id5">William Anders se jubiló el 1 de septiembre de 1969.</lex>
+      <lex lang="es" lid="Id6">William Anders se jubiló el 1 de septiembre de 1969.</lex>
+      <lex lang="ca" lid="Id1">William Anders es va retirar l'1 de setembre de 1969.</lex>
+      <lex lang="ca" lid="Id2">William Anders es va retirar l'1 de setembre de 1969.</lex>
+      <lex lang="ca" lid="Id3">William Anders es va retirar l'1 de setembre de 1969.</lex>
+      <lex lang="ca" lid="Id4">William Anders es va retirar el 1969-09-01.</lex>
+      <lex lang="ca" lid="Id5">William Anders es va retirar el 1969-09-01.</lex>
+      <lex lang="ca" lid="Id6">William Anders es va retirar l'1 de setembre de 1969.</lex>
+      <lex lang="eu" lid="Id1">William Anders 1969ko irailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id2">William Anders 1969ko irailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id3">William Anders 1969ko irailaren 1ean erretiratu zen.</lex>
+      <lex lang="eu" lid="Id4">William Anders erretiratu egin zen 1969-09-01ean.</lex>
+      <lex lang="eu" lid="Id5">William Anders erretiratu egin zen 1969-09-01.</lex>
+      <lex lang="eu" lid="Id6">William Anders 1969ko irailaren 1ean erretiratu zen.</lex>
+      <lex lang="gl" lid="Id1">William Anders retirouse o 1 de setembro de 1969.</lex>
+      <lex lang="gl" lid="Id2">William Anders retirouse o 1 de setembro de 1969.</lex>
+      <lex lang="gl" lid="Id3">William Anders retirouse o 1 de setembro de 1969.</lex>
+      <lex lang="gl" lid="Id4">William Anders retirouse en 1969-09-01.</lex>
+      <lex lang="gl" lid="Id5">William Anders retirouse o 1 de setembro de 1969.</lex>
+      <lex lang="gl" lid="Id6">William Anders retirouse o 1 de setembro de 1969.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | Nacionalidad | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | Nacionalidade | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Nazionalitatea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders has a nationality that is of the United States.</lex>
+      <lex lang="en" lid="Id2">William Anders is an American.</lex>
+      <lex lang="en" lid="Id3">The nationality of William Anders is United States.</lex>
+      <lex lang="en" lid="Id4">William Anders is from the United States.</lex>
+      <lex lang="en" lid="Id5">William Anders was from the United STates.</lex>
+      <lex lang="en" lid="Id6">William Anders is a US national.</lex>
+      <lex lang="es" lid="Id1">William Anders tiene nacionalidad estadounidense.</lex>
+      <lex lang="es" lid="Id2">William Anders es estadounidense.</lex>
+      <lex lang="es" lid="Id3">La nacionalidad de William Anders es estadounidense.</lex>
+      <lex lang="es" lid="Id4">William Anders es de Estados Unidos.</lex>
+      <lex lang="es" lid="Id5">William Anders era de Estados Unidos.</lex>
+      <lex lang="es" lid="Id6">William Anders tiene nacionalidad estadounidense.</lex>
+      <lex lang="ca" lid="Id1">William Anders té la nacionalitat dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">William Anders és americà.</lex>
+      <lex lang="ca" lid="Id3">La nacionalitat de William Anders és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id4">William Anders és dels Estats Units.</lex>
+      <lex lang="ca" lid="Id5">William Anders era dels Estats Units.</lex>
+      <lex lang="ca" lid="Id6">William Anders és un ciutadà nord-americà.</lex>
+      <lex lang="eu" lid="Id1">William Andersek Estatu Batuetako nazionalitatea du.</lex>
+      <lex lang="eu" lid="Id2">William Anders estatubatuarra da.</lex>
+      <lex lang="eu" lid="Id3">William Andersen nazionalitatea Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id4">William Anders Estatu Batuetakoa da.</lex>
+      <lex lang="eu" lid="Id5">William Anders Estatu Batuetakoa zen.</lex>
+      <lex lang="eu" lid="Id6">William Anders estatubatuarra da.</lex>
+      <lex lang="gl" lid="Id1">William Anders ten a nacionalidade dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">William Anders é estadounidense.</lex>
+      <lex lang="gl" lid="Id3">A nacionalidade de William Anders é Estados Unidos.</lex>
+      <lex lang="gl" lid="Id4">William Anders é dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id5">William Anders era dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id6">William Anders é un cidadán estadounidense.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | Ocupación | piloto_de_caza</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | Ocupació | aviador_de_combat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | Ocupación | Piloto_de_caza</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Okupazioa | Borroka-hegazkineko_pilotua.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders was a Fighter pilot.</lex>
+      <lex lang="en" lid="Id2">William Anders served as a Fighter pilot.</lex>
+      <lex lang="en" lid="Id3">William Anders is a fighter pilot.</lex>
+      <lex lang="es" lid="Id1">William Anders era piloto de caza.</lex>
+      <lex lang="es" lid="Id2">William Anders sirvió como piloto de caza.</lex>
+      <lex lang="es" lid="Id3">William Anders es piloto de caza.</lex>
+      <lex lang="ca" lid="Id1">William Anders era un pilot de caça.</lex>
+      <lex lang="ca" lid="Id2">William Anders va servir com a pilot de caça.</lex>
+      <lex lang="ca" lid="Id3">William Anders és un pilot de caça.</lex>
+      <lex lang="eu" lid="Id1">William Anders ehiza-hegazkin pilotua izan zen.</lex>
+      <lex lang="eu" lid="Id2">William Anders-ek ehiza-pilotu gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id3">William Anders hegazkin-pilotu bat da.</lex>
+      <lex lang="gl" lid="Id1">William Anders era un piloto de caza.</lex>
+      <lex lang="gl" lid="Id2">William Anders serviu como piloto de caza.</lex>
+      <lex lang="gl" lid="Id3">William Anders é un piloto de caza.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | years | 1976</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | FueJefeDeLaOficinaDeAstronautasEn | 1976</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | VaServirComACapDeL'oficinaD'astronautesEn | 1976</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | ServiuComoXefeDaOficinaDeAstronautasEn | 1976</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | AstronautenBulegokoBuruaIzanZen | 1976</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders served as Chief of the Astronaut Office in 1976.</lex>
+      <lex lang="es" lid="Id1">William Anders fue Jefe de la Oficina de Astronautas en 1976.</lex>
+      <lex lang="ca" lid="Id1">William Anders va servir com a cap de l'Oficina d'Astronautes el 1976.</lex>
+      <lex lang="eu" lid="Id1">William Anders Astronauten Bulegoko burua izan zen 1976an.</lex>
+      <lex lang="gl" lid="Id1">William Anders serviu como xefe da Oficina de Astronautas en 1976.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | status | "Retired"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | status | "Retired"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | Estado | Retirado</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | Estatut | retirat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | Estado | Retirado</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Egoera | Erretiroa_hartutakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders is retired.</lex>
+      <lex lang="en" lid="Id2">William Anders is now retired.</lex>
+      <lex lang="en" lid="Id3">William Anders has retired.</lex>
+      <lex lang="es" lid="Id1">William Anders está jubilado.</lex>
+      <lex lang="es" lid="Id2">William Anders ya está jubilado.</lex>
+      <lex lang="es" lid="Id3">William Anders se ha jubilado.</lex>
+      <lex lang="ca" lid="Id1">William Anders està jubilat.</lex>
+      <lex lang="ca" lid="Id2">William Anders ara està jubilat.</lex>
+      <lex lang="ca" lid="Id3">William Anders s'ha jubilat.</lex>
+      <lex lang="eu" lid="Id1">William Anders erretiratuta dago.</lex>
+      <lex lang="eu" lid="Id2">William Anders erretiratuta dago.</lex>
+      <lex lang="eu" lid="Id3">William Anders erretiratu egin da.</lex>
+      <lex lang="gl" lid="Id1">William Anders está xubilado.</lex>
+      <lex lang="gl" lid="Id2">William Anders está agora xubilado.</lex>
+      <lex lang="gl" lid="Id3">William Anders retirouse.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | timeInSpace | "8820.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | timeInSpace | "8820.0"(minutes)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | TiempoEnElEspacio | 8820.0_(minutos)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | TempsAL'espai | "8820.0"(minuts)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | TempoNoEspazo | "8820.0"_(minutos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | DenboraEspazioan | "8820.0"_(minutuak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William anders spent 8820 minutes in space.</lex>
+      <lex lang="en" lid="Id2">William Anders spent 8820.0 minutes in space.</lex>
+      <lex lang="en" lid="Id3">William Anders' time in space has been 8820.0 minutes.</lex>
+      <lex lang="en" lid="Id4">William Anders walked in space 8820.0 minutes.</lex>
+      <lex lang="en" lid="Id5">William Anders' time in space is 8820.0 minutes.</lex>
+      <lex lang="es" lid="Id1">William Anders pasó 8820 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id2">William Anders pasó 8820,0 minutos en el espacio.</lex>
+      <lex lang="es" lid="Id3">El tiempo de William Anders en el espacio ha sido de 8820,0 minutos.</lex>
+      <lex lang="es" lid="Id4">William Anders caminó en el espacio 8820,0 minutos.</lex>
+      <lex lang="es" lid="Id5">El tiempo de William Anders en el espacio es de 8820,0 minutos.</lex>
+      <lex lang="ca" lid="Id1">William Anders va passar 8.820 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id2">William Anders va passar 8820,0 minuts a l'espai.</lex>
+      <lex lang="ca" lid="Id3">El temps de William Anders a l'espai ha estat de 8820,0 minuts.</lex>
+      <lex lang="ca" lid="Id4">William Anders va caminar a l'espai 8820,0 minuts.</lex>
+      <lex lang="ca" lid="Id5">El temps de William Anders a l'espai és de 8820,0 minuts.</lex>
+      <lex lang="eu" lid="Id1">William Andersek 8.820 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id2">William Andersek 8.820,0 minutu eman zituen espazioan.</lex>
+      <lex lang="eu" lid="Id3">William Andersek espazioan egindako denbora 8820.0 minutu izan da.</lex>
+      <lex lang="eu" lid="Id4">William Anders-ek 8820.0 minutu egin zituen espazioan.</lex>
+      <lex lang="eu" lid="Id5">William Andersen denbora espazioan 8820,0 minutukoa da.</lex>
+      <lex lang="gl" lid="Id1">William Anders pasou 8820 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id2">William Anders pasou 8820,0 minutos no espazo.</lex>
+      <lex lang="gl" lid="Id3">O tempo de William Anders no espazo foi de 8820,0 minutos.</lex>
+      <lex lang="gl" lid="Id4">William Anders andou no espazo 8820,0 minutos.</lex>
+      <lex lang="gl" lid="Id5">O tempo de William Anders no espazo é de 8820,0 minutos.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | Título | Embajador_de_Estados_Unidos_en_Noruega</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | Títol | ambaixador_dels_Estats_Units_a_Noruega</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | Título | Embaixador_dos_Estados_Unidos_en_Noruega</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Titulua | Estatu_Batuek_Norvegian_duten_enbaxadorea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders serves as Ambassador to Norway in the United States.</lex>
+      <lex lang="en" lid="Id2">William Anders official title is the United States Ambassador to Norway.</lex>
+      <lex lang="en" lid="Id3">United States's Ambassador to Norway is William Anders.</lex>
+      <lex lang="en" lid="Id4">William Anders is the US Ambassador to Norway.</lex>
+      <lex lang="en" lid="Id5">William Anders' title is the US Ambassador to Norway.</lex>
+      <lex lang="en" lid="Id6">William Anders' title is the United States Ambassador to Norway.</lex>
+      <lex lang="en" lid="Id7">William Anders is the United States Ambassador to Norway.</lex>
+      <lex lang="es" lid="Id1">William Anders es Embajador de Noruega en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El cargo oficial de William Anders es el de Embajador de Estados Unidos en Noruega.</lex>
+      <lex lang="es" lid="Id3">El embajador de Estados Unidos en Noruega es William Anders.</lex>
+      <lex lang="es" lid="Id4">William Anders es el embajador de Estados Unidos en Noruega.</lex>
+      <lex lang="es" lid="Id5">El cargo de William Anders es el de Embajador de Estados Unidos en Noruega.</lex>
+      <lex lang="es" lid="Id6">El cargo de William Anders es el de Embajador de Estados Unidos en Noruega.</lex>
+      <lex lang="es" lid="Id7">William Anders es el Embajador de Estados Unidos en Noruega.</lex>
+      <lex lang="ca" lid="Id1">William Anders serveix com a Ambaixador de Noruega als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El títol oficial de William Anders és l'ambaixador dels Estats Units a Noruega.</lex>
+      <lex lang="ca" lid="Id3">L'ambaixador dels Estats Units a Noruega és William Anders.</lex>
+      <lex lang="ca" lid="Id4">William Anders és l'ambaixador dels EUA a Noruega.</lex>
+      <lex lang="ca" lid="Id5">El títol de William Anders és l'ambaixador dels EUA a Noruega.</lex>
+      <lex lang="ca" lid="Id6">El títol de William Anders és l'ambaixador dels Estats Units a Noruega.</lex>
+      <lex lang="ca" lid="Id7">William Anders és l'ambaixador dels Estats Units a Noruega.</lex>
+      <lex lang="eu" lid="Id1">William Anders Norvegiako enbaxadore gisa aritzen da Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id2">William Anders-en titulu ofiziala Estatu Batuek Norvegian duten enbaxadorea da.</lex>
+      <lex lang="eu" lid="Id3">Norfolk Ameriketako Estatu Batuetako erroldak esleitutako leku bat da.</lex>
+      <lex lang="eu" lid="Id4">William Anders Norvegiako enbaxadorea da.</lex>
+      <lex lang="eu" lid="Id5">William Andersen titulua Norvegiako AEBetako enbaxadorea da.</lex>
+      <lex lang="eu" lid="Id6">William Anders-en titulua Estatu Batuek Norvegian duten enbaxadorea da.</lex>
+      <lex lang="eu" lid="Id7">William Anders Norvegiako Estatu Batuetako enbaxadorea da.</lex>
+      <lex lang="gl" lid="Id1">William Anders é embaixador de Noruega nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O título oficial de William Anders é Embaixador dos Estados Unidos en Noruega.</lex>
+      <lex lang="gl" lid="Id3">O embaixador dos Estados Unidos en Noruega é William Anders.</lex>
+      <lex lang="gl" lid="Id4">William Anders é o embaixador dos Estados Unidos en Noruega.</lex>
+      <lex lang="gl" lid="Id5">O título de William Anders é o de Embaixador dos Estados Unidos en Noruega.</lex>
+      <lex lang="gl" lid="Id6">O título de William Anders é Embaixador dos Estados Unidos en Noruega.</lex>
+      <lex lang="gl" lid="Id7">William Anders é o embaixador dos Estados Unidos en Noruega.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | Misión | Apolo_8</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | Missió | Apollo_8</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | Misión | Apollo_8</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Misioa | Apollo_8</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders served as a crew member on Apollo 8.</lex>
+      <lex lang="en" lid="Id2">William Anders served as a crew member of Apollo 8.</lex>
+      <lex lang="en" lid="Id3">William Anders crewed Apollo 8.</lex>
+      <lex lang="en" lid="Id4">William Anders was a crew member on Apollo 8.</lex>
+      <lex lang="en" lid="Id5">William Anders was a member of the Apollo 8 crew.</lex>
+      <lex lang="en" lid="Id6">William Anders was a member of Apollo 8's crew.</lex>
+      <lex lang="es" lid="Id1">William Anders formó parte de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id2">William Anders formó parte de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id3">William Anders tripuló el Apolo 8.</lex>
+      <lex lang="es" lid="Id4">William Anders fue miembro de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id5">William Anders formó parte de la tripulación del Apolo 8.</lex>
+      <lex lang="es" lid="Id6">William Anders formó parte de la tripulación del Apolo 8.</lex>
+      <lex lang="ca" lid="Id1">William Anders va servir com a membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id2">William Anders va servir com a membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id3">William Anders va ser l'equip de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id4">William Anders va ser un membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id5">William Anders va ser membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="ca" lid="Id6">William Anders va ser membre de la tripulació de l'Apollo 8.</lex>
+      <lex lang="eu" lid="Id1">William Andersek Apolo 8ko tripulazioko kide gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id2">William Anders Apollo 8ko tripulazio kide izan zen.</lex>
+      <lex lang="eu" lid="Id3">William Anders-ek Apollo 8-ko tripulazioa osatu zuen.</lex>
+      <lex lang="eu" lid="Id4">William Anders Apollo 8ko tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id5">William Anders Apollo 8 tripulazioko kidea izan zen.</lex>
+      <lex lang="eu" lid="Id6">William Anders Apollo 8-ko tripulazioko kidea izan zen.</lex>
+      <lex lang="gl" lid="Id1">William Anders serviu como membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id2">William Anders serviu como membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id3">William Anders estaba na tripulación do Apolo 8.</lex>
+      <lex lang="gl" lid="Id4">William Anders foi membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id5">William Anders foi membro da tripulación do Apollo 8.</lex>
+      <lex lang="gl" lid="Id6">William Anders foi membro da tripulación do Apollo 8.</lex>
+      </entry>
+    <entry category="Astronaut" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>William_Anders | SeleccionadoPorLaNasa | 1963</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>William_Anders | SeleccionatPerLaNasa | 1963</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>William_Anders | SeleccionadoPolaNasa | 1963</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>William_Anders | Nasa-kHautatua | 1963</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">William Anders was selected by NASA in 1963.</lex>
+      <lex lang="en" lid="Id2">William Anders joined NASA in 1963.</lex>
+      <lex lang="en" lid="Id3">William Anders was chosen by NASA in 1963.</lex>
+      <lex lang="es" lid="Id1">William Anders fue seleccionado por la NASA en 1963.</lex>
+      <lex lang="es" lid="Id2">William Anders se incorporó a la NASA en 1963.</lex>
+      <lex lang="es" lid="Id3">William Anders fue elegido por la NASA en 1963.</lex>
+      <lex lang="ca" lid="Id1">William Anders va ser seleccionat per la NASA el 1963.</lex>
+      <lex lang="ca" lid="Id2">William Anders es va unir a la NASA el 1963.</lex>
+      <lex lang="ca" lid="Id3">William Anders va ser escollit per la NASA el 1963.</lex>
+      <lex lang="eu" lid="Id1">William Anders NASAk aukeratu zuen 1963an.</lex>
+      <lex lang="eu" lid="Id2">1963an William Anders NASAn sartu zen.</lex>
+      <lex lang="eu" lid="Id3">William Anders NASAk 1963an aukeratu zuen.</lex>
+      <lex lang="gl" lid="Id1">William Anders foi seleccionado pola NASA en 1963.</lex>
+      <lex lang="gl" lid="Id2">William Anders uniuse á NASA en 1963.</lex>
+      <lex lang="gl" lid="Id3">William Anders foi elixido pola NASA en 1963.</lex>
+      </entry>
+    </entries>
+  </benchmark>

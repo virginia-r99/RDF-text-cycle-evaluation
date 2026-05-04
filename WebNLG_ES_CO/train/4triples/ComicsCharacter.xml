@@ -1,0 +1,1964 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Arion_(personaje_de_cómic) | Creador | Jan_Duursema</striple>
+        <striple>Jan_Duursema | Premio | Premio_Eisner</striple>
+        <striple>Arion_(personaje_de_cómic) | NombreAlternativo | Ahri'ahn</striple>
+        <striple>Arion_(personaje_de_cómic) | Creador | Paul_Kupperberg</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Arion_(personatge_de_còmics) | Creador | Jan_Duursema</ctriple>
+        <ctriple>Jan_Duursema | Premi | Premi_Eisner</ctriple>
+        <ctriple>Arion_(personatge_de_còmics) | NomAlternatiu | Ahri'ahn</ctriple>
+        <ctriple>Arion_(personatge_de_còmics) | Creador | Paul_Kupperberg</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Arion_(carácter_de_cómics) | Creador | Jan_Duursema</gtriple>
+        <gtriple>Jan_Duursema | Premio | Premio_Eisner</gtriple>
+        <gtriple>Arion_(carácter_de_cómics) | NomeAlternativo | Ahri'ahn</gtriple>
+        <gtriple>Arion_(carácter_de_cómics) | Creador | Paul_Kupperberg</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Arion_(komiki-pertsonaia) | Sortzailea | Jan_Duursema</btriple>
+        <btriple>Jan_Duursema | Saria | Eisner_saria</btriple>
+        <btriple>Arion_(komiki-pertsonaia) | AlternatiboaIzena | Ahri'ahn</btriple>
+        <btriple>Arion_(komiki-pertsonaia) | Sortzailea | Paul_Kupperberg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Arion (also known as Ahri'ahn) is a comic character created by Paul Kupperberg and Jan Duursema, who won the Eisner award.</lex>
+      <lex lang="en" lid="Id2">Paul Kupperberg and Eisner Award winning Jan Duursema are the creators of the comic book character Arion, also know as Ahri'ahn.</lex>
+      <lex lang="en" lid="Id3">The comic book character Arion (also known as Ahri'ahn), was created by Paul Kupperberg and Jan Duursema, the latter having won the Eisner Award.</lex>
+      <lex lang="es" lid="Id1">Arion (también conocido como Ahri'ahn) es un personaje de cómic creado por Paul Kupperberg y Jan Duursema, que ganó el premio Eisner.</lex>
+      <lex lang="es" lid="Id2">Paul Kupperberg y Jan Duursema, ganador de un premio Eisner, son los creadores del personaje de cómic Arion, también conocido como Ahri'ahn.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Arion (también conocido como Ahri'ahn), fue creado por Paul Kupperberg y Jan Duursema, este último ganador del premio Eisner.</lex>
+      <lex lang="ca" lid="Id1">Arion (també conegut com Ahri'ahn) és un personatge de còmic creat per Paul Kupperberg i Jan Duursema, que va guanyar el premi Eisner.</lex>
+      <lex lang="ca" lid="Id2">Paul Kupperberg i el guanyador del Premi Eisner Jan Duursema són els creadors del personatge del còmic Arion, també conegut com Ahri'ahn.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic Arion (també conegut com Ahri'ahn), va ser creat per Paul Kupperberg i Jan Duursema, aquest últim havent guanyat el Premi Eisner.</lex>
+      <lex lang="eu" lid="Id1">Arion (Ahri'ahn bezala ere ezaguna) Paul Kupperbergek eta Jan Duursemak sortutako komiki pertsonaia bat da, Eisner saria irabazi zuena.</lex>
+      <lex lang="eu" lid="Id2">Paul Kupperberg eta Eisner sariduna, Jan Duursema, Arion komiki pertsonaiaren sortzaileak dira, Ahri'ahn izenarekin ere ezagunak.</lex>
+      <lex lang="eu" lid="Id3">Arion (Ahri'ahn bezala ere ezaguna) Paul Kupperbergek eta Jan Duursemak sortutako komiki pertsonaia bat da, azken honek Eisner Saria irabazi zuelarik.</lex>
+      <lex lang="gl" lid="Id1">Arion (tamén coñecido como Ahri'ahn) é un personaxe de banda deseñada creado por Paul Kupperberg e Jan Duursema, que gañou o premio Eisner.</lex>
+      <lex lang="gl" lid="Id2">Paul Kupperberg e o gañador do Premio Eisner Jan Duursema son os creadores do personaxe de banda deseñada Arion, tamén coñecido como Ahri'ahn.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Arion (tamén coñecido como Ahri'ahn), foi creado por Paul Kupperberg e Jan Duursema, este último gañando o Eisner Award.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aurakles | Creador | Dick_Dillin</striple>
+        <striple>Dick_Dillin | Nacionalidad | Estados_Unidos</striple>
+        <striple>Aurakles | Creador | Len_Wein</striple>
+        <striple>Aurakles | NombreAlternativo | Aurakles</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Auràcles | Creador | Dick_Dillin</ctriple>
+        <ctriple>Dick_Dillin | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Auràcles | Creador | Len_Wein</ctriple>
+        <ctriple>Auràcles | NomAlternatiu | Auràcles</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Auráculos | Creador | Dick_Dillin</gtriple>
+        <gtriple>Dick_Dillin | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Auráculos | Creador | Len_Wein</gtriple>
+        <gtriple>Auráculos | NomeAlternativo | Auráculos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aurakles | Sortzailea | Dick_Dillin-ekin_hitz_egin_nahi_dut.</btriple>
+        <btriple>Dick_Dillin-ekin_hitz_egin_nahi_dut. | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Aurakles | Sortzailea | Len_Wein</btriple>
+        <btriple>Aurakles | AlternatiboaIzena | Aurakles</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic book character Aurakles was created by Len Wein and the American Dick Dillin.</lex>
+      <lex lang="en" lid="Id2">The comic book character Aurakles, with the alternative name Aurakles, was created by Dick Dillin (from the United States) and Len Wein.</lex>
+      <lex lang="en" lid="Id3">The fictional character Aurakles, also known as ''Aurakles'' was created by Len Wein and Dick Dillin (American).</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Aurakles fue creado por Len Wein y el estadounidense Dick Dillin.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic Aurakles, con el nombre alternativo de Aurakles, fue creado por Dick Dillin (de Estados Unidos) y Len Wein.</lex>
+      <lex lang="es" lid="Id3">El personaje de ficción Aurakles, también conocido como ''Aurakles'' fue creado por Len Wein y Dick Dillin (estadounidense).</lex>
+      <lex lang="ca" lid="Id1">El personatge de còmic Aurakles va ser creat per Len Wein i l'americà Dick Dillin.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic Aurakles, amb el nom alternatiu Aurakles, va ser creat per Dick Dillin (dels Estats Units) i Len Wein.</lex>
+      <lex lang="ca" lid="Id3">El personatge de ficció Aurakles, també conegut com 'Aurakles' va ser creat per Len Wein i Dick Dillin (americà).</lex>
+      <lex lang="eu" lid="Id1">Aurakles komiki pertsonaia Len Weinek eta Dick Dillin estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Aurakles komiki-pertsonaia, Aurakles izen alternatiboarekin, Dick Dillin (Estatu Batuetakoa) eta Len Weinek sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Aurakles (ingelesez: Aurakles) Len Wein eta Dick Dillin estatubatuarrek sortutako fikziozko pertsonaia bat da.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de banda deseñada Aurakles foi creado por Len Wein e o estadounidense Dick Dillin.</lex>
+      <lex lang="gl" lid="Id2">O personaxe de banda deseñada Aurakles, co nome alternativo Aurakles, foi creado por Dick Dillin (dos Estados Unidos) e Len Wein.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de ficción Aurakles, tamén coñecido como 'Aurakles' foi creado por Len Wein e Dick Dillin (americano).</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>BBC | PersonaClave | Rona_Fairhead</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>BBC | Producto | BBC_Radio</striple>
+        <striple>BBC | Ciudad | Londres</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>BBC | PersonaClau | Rona_Fairhead</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>BBC | Producte | BBC_Radio</ctriple>
+        <ctriple>BBC | Ciutat | Londres</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>BBC | PersoaClave | Rona_Fairhead</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>BBC | Produto | Radio_BBC</gtriple>
+        <gtriple>BBC | Cidade | Londres</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>BBC | PertsonaGakoa | Rona_Fairhead</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>BBC | Produktua | BBC_irratia</btriple>
+        <btriple>BBC | Hiria | Londres</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The BBC, which is located in London, and where Rona Fairhead is a key person, once broadcast Bananaman and has a product called BBC radio.</lex>
+      <lex lang="en" lid="Id2">The BBC, located in London, with Rona Fairhead as a key person, broadcast the TV series Bananaman and produces BBC radio.</lex>
+      <lex lang="es" lid="Id1">La BBC, con sede en Londres y en la que Rona Fairhead es una persona clave, emitió en su día Bananaman y tiene un producto llamado BBC radio.</lex>
+      <lex lang="es" lid="Id2">La BBC, con sede en Londres y Rona Fairhead como persona clave, emite la serie de televisión Bananaman y produce la radio de la BBC.</lex>
+      <lex lang="ca" lid="Id1">La BBC, que es troba a Londres, i on Rona Fairhead és una persona clau, una vegada va emetre Bananaman i té un producte anomenat BBC radio.</lex>
+      <lex lang="ca" lid="Id2">La BBC, situada a Londres, amb Rona Fairhead com a persona clau, transmet la sèrie de televisió Bananaman i produeix la ràdio de la BBC.</lex>
+      <lex lang="eu" lid="Id1">BBCk, Londresen kokatuta dagoena, eta Rona Fairhead pertsonaia garrantzitsua dena, behin Bananaman eman zuen eta BBC irratia izeneko produktua zuen.</lex>
+      <lex lang="eu" lid="Id2">BBCk, Londresen kokatuta, Rona Fairhead pertsona nagusi gisa, Bananaman telesaila emititzen du eta BBC irratia ekoizten du.</lex>
+      <lex lang="gl" lid="Id1">A BBC, que está situada en Londres, e onde Rona Fairhead é unha persoa clave, emitiu unha vez Bananaman e ten un produto chamado BBC radio.</lex>
+      <lex lang="gl" lid="Id2">A BBC, con sede en Londres, con Rona Fairhead como persoa clave, transmite a serie de televisión Bananaman e produce a radio da BBC.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Balder_(personaje_de_cómic) | Creador | Jack_Kirby</striple>
+        <striple>Jack_Kirby | Nacionalidad | Estadounidense</striple>
+        <striple>Balder_(personaje_de_cómic) | Creador | Stan_Lee</striple>
+        <striple>Balder_(personaje_de_cómic) | NombreAlternativo | Balder_Odinson</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Balder_(personatge_de_còmics) | Creador | Jack_Kirby</ctriple>
+        <ctriple>Jack_Kirby | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Balder_(personatge_de_còmics) | Creador | Stan_Lee</ctriple>
+        <ctriple>Balder_(personatge_de_còmics) | NomAlternatiu | Balder_Odinson</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Balder_(personaxe_de_banda_deseñada) | Creador | Jack_Kirby</gtriple>
+        <gtriple>Jack_Kirby | Nacionalidade | Americanos</gtriple>
+        <gtriple>Balder_(personaxe_de_banda_deseñada) | Creador | Stan_Lee</gtriple>
+        <gtriple>Balder_(personaxe_de_banda_deseñada) | NomeAlternativo | Balder_Odinson</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Balder_(komikietako_pertsonaia) | Sortzailea | Jack_Kirby</btriple>
+        <btriple>Jack_Kirby | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Balder_(komikietako_pertsonaia) | Sortzailea | Stan_Lee_naiz_eta.</btriple>
+        <btriple>Balder_(komikietako_pertsonaia) | AlternatiboaIzena | Balder_Odinson</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Balder is a comic character created by Stan Lee and the American, Jack Kirby. His alternative name is Balder Odinson.</lex>
+      <lex lang="en" lid="Id2">The comic character of Balder is also known as "Balder Odinson". It was created by Stan Lee and the American, Jack Kirby.</lex>
+      <lex lang="en" lid="Id3">The comic character, Balder has the alternative name of Balder Odinson . It was created by Stan Lee and the American, Jack Kirby.</lex>
+      <lex lang="es" lid="Id1">Balder es un personaje de cómic creado por Stan Lee y el Estadounidense Jack Kirby. Su nombre alternativo es Balder Odinson.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic de Balder también es conocido como "Balder Odinson". Fue creado por Stan Lee y el Estadounidense Jack Kirby.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Balder tiene el nombre alternativo de Balder Odinson . Fue creado por Stan Lee y el Estadounidense Jack Kirby.</lex>
+      <lex lang="ca" lid="Id1">Balder és un personatge de còmic creat per Stan Lee i l' americà Jack Kirby. El seu nom alternatiu és Balder Odinson.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic de Balder també és conegut com a "Balder Odinson". Va ser creat per Stan Lee i l' americà Jack Kirby.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic, Balder té el nom alternatiu de Balder Odinson. Va ser creat per Stan Lee i l'americà, Jack Kirby.</lex>
+      <lex lang="eu" lid="Id1">Balder Stan Leek eta Jack Kirby estatubatuarrak sortutako pertsonaia komikoa da. Bere beste izena Balder Odinson da.</lex>
+      <lex lang="eu" lid="Id2">Balderren pertsonaia komikoa "Balder Odinson" gisa ere ezagutzen da. Stan Lee-k eta Jack Kirby estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Balder komikietako pertsonaia da, Balder Odinson izen alternatiboa duena. Stan Lee eta Jack Kirby estatubatuarrak sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">Balder é un personaxe de banda deseñada creado por Stan Lee e o estadounidense Jack Kirby. O seu nome alternativo é Balder Odinson.</lex>
+      <lex lang="gl" lid="Id2">O personaxe cómico de Balder tamén é coñecido como "Balder Odinson". Foi creado por Stan Lee e o estadounidense, Jack Kirby.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Balder ten o nome alternativo de Balder Odinson. Foi creado por Stan Lee e o estadounidense Jack Kirby.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>BBC | Producto | BBC_Radio</striple>
+        <striple>BBC | Ciudad | Broadcasting_House</striple>
+        <striple>BBC | FundadaPor | John_Reith,_1er_Barón_Reith</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>BBC | Producte | BBC_Radio</ctriple>
+        <ctriple>BBC | Ciutat | centre_emissor</ctriple>
+        <ctriple>BBC | FundatPer | John_Reith</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>BBC | Produto | Radio_BBC</gtriple>
+        <gtriple>BBC | Cidade | Casa_de_radiodifusión</gtriple>
+        <gtriple>BBC | FundadoPor | John_Reith,_1º_Barón_Reith</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>BBC | Produktua | BBC_irratia</btriple>
+        <btriple>BBC | Hiria | Irrati_eta_telebista.</btriple>
+        <btriple>BBC | Sortzailea: | John_Reith,_1._Baron_Reith</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">John Reith, 1st Baron Reith founded the BBC who have their HQ at Broadcasting House. The BBC broadcast Bananaman and also produce BBC radio.</lex>
+      <lex lang="en" lid="Id2">The BBC, founded by John Reith, 1st Baron Reith, has its headquarters in Broadcasting House. The BBC produces BBC radio and broadcast the TV series Bananaman.</lex>
+      <lex lang="en" lid="Id3">The founder of the BBC was 1st Baron John Reith and it is located at Broadcasting House in London. The BBC broadcast Bananaman and also produce BBC radio.</lex>
+      <lex lang="es" lid="Id1">John Reith, 1er Barón Reith, fundó la BBC, que tiene su sede en Broadcasting House. La BBC emite Bananaman y también produce la radio de la BBC.</lex>
+      <lex lang="es" lid="Id2">La BBC, fundada por John Reith, 1er Barón Reith, tiene su sede en Broadcasting House. La BBC produce la radio BBC y emite la serie de televisión Bananaman.</lex>
+      <lex lang="es" lid="Id3">El fundador de la BBC fue el 1er Barón John Reith y tiene su sede en la Broadcasting House de Londres. La BBC emite Bananaman y también produce la radio BBC.</lex>
+      <lex lang="ca" lid="Id1">John Reith, 1r Baró Reith, va fundar la BBC, que té la seva seu a Broadcasting House. La BBC va emetre Bananaman i també produeix la ràdio de la BBC.</lex>
+      <lex lang="ca" lid="Id2">La BBC, fundada per John Reith, 1r Baró Reith, té la seva seu a Broadcasting House. La BBC produeix la ràdio de la BBC i emet la sèrie de televisió Bananaman.</lex>
+      <lex lang="ca" lid="Id3">El fundador de la BBC va ser el primer baró John Reith i es troba a la Broadcasting House de Londres. La BBC va emetre Bananaman i també va produir la ràdio de la BBC.</lex>
+      <lex lang="eu" lid="Id1">John Reith, Reith 1. baroiak BBC sortu zuen, Broadcasting Housen egoitza duena. BBCk Bananaman emititu zuen eta BBC irratia ere ekoiztu zuen.</lex>
+      <lex lang="eu" lid="Id2">John Reith, Reith I. baroiak sortua, BBCren egoitza nagusia Broadcasting Housen dago. BBC irratia ekoizten du eta Bananaman telesaila emititzen du.</lex>
+      <lex lang="eu" lid="Id3">BBCren sortzailea John Reith 1. baroia izan zen eta Londresko Broadcasting Housen dago. BBCk Bananaman emititzen du eta BBC irratia ere ekoizten du.</lex>
+      <lex lang="gl" lid="Id1">John Reith, 1º Barón Reith fundou a BBC que ten a súa sede en Broadcasting House. A BBC emite Bananaman e tamén produce a radio da BBC.</lex>
+      <lex lang="gl" lid="Id2">A BBC, fundada por John Reith, 1º Barón Reith, ten a súa sede en Broadcasting House. A BBC produce a radio da BBC e emite a serie de televisión Bananaman.</lex>
+      <lex lang="gl" lid="Id3">O fundador da BBC foi o 1º Barón John Reith e está situado na Broadcasting House en Londres. A BBC emite Bananaman e tamén produce a radio da BBC.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>BBC | Producto | BBC_Radio</striple>
+        <striple>BBC | Ciudad | Londres</striple>
+        <striple>BBC | FundadaPor | John_Reith,_1er_Barón_Reith</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>BBC | Producte | BBC_Radio</ctriple>
+        <ctriple>BBC | Ciutat | Londres</ctriple>
+        <ctriple>BBC | FundatPer | John_Reith</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>BBC | Produto | Radio_BBC</gtriple>
+        <gtriple>BBC | Cidade | Londres</gtriple>
+        <gtriple>BBC | FundadoPor | John_Reith,_1º_Barón_Reith</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>BBC | Produktua | BBC_irratia</btriple>
+        <btriple>BBC | Hiria | Londres</btriple>
+        <btriple>BBC | Sortzailea: | John_Reith,_1._Baron_Reith</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1st Baron, John Reith was the founder of the BBC which is located in London and showed the TV series, Bananaman. Another product of the BBC is BBC radio.</lex>
+      <lex lang="en" lid="Id2">Bananaman is broadcast by the BBC, the organisation founded by John Reith, 1st Baron Reith. The BBC is based in London and also produces BBC radio.</lex>
+      <lex lang="es" lid="Id1">1er Barón, John Reith fue el fundador de la BBC que se encuentra en Londres y mostró la serie de televisión, Bananaman. Otro producto de la BBC es la radio BBC.</lex>
+      <lex lang="es" lid="Id2">Bananaman se emite en la BBC, la organización fundada por John Reith, 1er Barón Reith. La BBC tiene su sede en Londres y también produce la radio BBC.</lex>
+      <lex lang="ca" lid="Id1">El primer baró, John Reith va ser el fundador de la BBC, que es troba a Londres i va mostrar la sèrie de televisió, Bananaman. Un altre producte de la BBC és la ràdio de la BBC.</lex>
+      <lex lang="ca" lid="Id2">Bananaman és emès per la BBC, l'organització fundada per John Reith, 1r Baró Reith. La BBC té la seu a Londres i també produeix la ràdio de la BBC.</lex>
+      <lex lang="eu" lid="Id1">1. Baroia, John Reith BBCren sortzailea izan zen. Londresen dago eta Bananaman telesaila erakutsi zuen. BBCren beste produktu bat BBC irratia da.</lex>
+      <lex lang="eu" lid="Id2">Bananaman BBCk emititzen du, John Reith, Reith I. baroiak sortutako erakundeak. BBCren egoitza Londresen dago eta BBC irratia ere ekoizten du.</lex>
+      <lex lang="gl" lid="Id1">Primeiro Barón, John Reith foi o fundador da BBC, que ten a súa sede en Londres e emitiu a serie de televisión Bananaman. Outro produto da BBC é a radio da BBC.</lex>
+      <lex lang="gl" lid="Id2">Bananaman é emitido pola BBC, a organización fundada por John Reith, 1º Barón Reith. A BBC ten a súa sede en Londres e tamén produce a radio da BBC.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | Creador | Steve_Bright</striple>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | Creador | Steve_Bright</ctriple>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Creador | Steve_Bright</gtriple>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Sortzailea | Steve_Bright</btriple>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bill Oddie stars in Bananaman which was created by Steve Bright. It was first broadcast by the BBC on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman, created by Steve Bright and starring Bill Oddie, was first broadcast by the BBC on the 3rd October 1983.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie protagoniza Bananaman, creada por Steve Bright. Se emitió por primera vez en la BBC el 3 de octubre de 1983.</lex>
+      <lex lang="es" lid="Id2">Bananaman, creada por Steve Bright y protagonizada por Bill Oddie, fue emitida por primera vez por la BBC el 3 de octubre de 1983.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie protagonitza Bananaman, creat per Steve Bright. Es va emetre per primera vegada a la BBC el 3 d'octubre de 1983.</lex>
+      <lex lang="ca" lid="Id2">Bananaman, creat per Steve Bright i protagonitzat per Bill Oddie, va ser emès per primera vegada per la BBC el 3 d'octubre de 1983.</lex>
+      <lex lang="eu" lid="Id1">Bill Oddie da Steve Bright-ek sortutako Bananaman-eko izarra. 1983ko urriaren 3an eman zuen lehen aldiz BBC-k.</lex>
+      <lex lang="eu" lid="Id2">Bananaman, Steve Brightek sortutakoa eta Bill Oddiek antzeztutakoa, BBCk 1983ko urriaren 3an eman zuen lehen aldiz.</lex>
+      <lex lang="gl" lid="Id1">Bill Oddie protagoniza Bananaman, que foi creado por Steve Bright. A BBC emitiuno por primeira vez o 3 de outubro de 1983.</lex>
+      <lex lang="gl" lid="Id2">Bananaman, creado por Steve Bright e protagonizado por Bill Oddie, foi emitido por primeira vez pola BBC o 3 de outubro de 1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | Creador | Steve_Bright</striple>
+        <striple>Bananaman | ProtagonizadaPor | Graeme_Garden</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | Creador | Steve_Bright</ctriple>
+        <ctriple>Bananamà | ProtagonitzadaPer | Graeme_Garden</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Creador | Steve_Bright</gtriple>
+        <gtriple>Bananas | Estrelado | Graeme_Garden</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Sortzailea | Steve_Bright</btriple>
+        <btriple>Bananaman | Antzezpena: | Graeme_Garden</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman, which was first broadcast by the BBC on 3rd October 1983, was created by Steve Bright and starred Graeme Garden.</lex>
+      <lex lang="en" lid="Id2">Steve Bright created Bananaman which was first aired by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex lang="en" lid="Id3">Bananaman was first aired on 3 October 1983 by the BBC. It was created by Steve Bright and starred Graeme Garden.</lex>
+      <lex lang="es" lid="Id1">Bananaman, emitida por primera vez por la BBC el 3 de octubre de 1983, fue creada por Steve Bright y protagonizada por Graeme Garden.</lex>
+      <lex lang="es" lid="Id2">Steve Bright creó Bananaman, emitida por primera vez por la BBC el 3 de octubre de 1983 y protagonizada por Graeme Garden.</lex>
+      <lex lang="es" lid="Id3">Bananaman se emitió por primera vez el 3 de octubre de 1983 en la BBC. Fue creado por Steve Bright y protagonizado por Graeme Garden.</lex>
+      <lex lang="ca" lid="Id1">Bananaman, que va ser emès per primera vegada per la BBC el 3 d'octubre de 1983, va ser creat per Steve Bright i protagonitzat per Graeme Garden.</lex>
+      <lex lang="ca" lid="Id2">Steve Bright va crear Bananaman que va ser emès per primera vegada per la BBC el 3 d'octubre de 1983 i protagonitzat per Graeme Garden.</lex>
+      <lex lang="ca" lid="Id3">Bananaman va ser emès per primera vegada el 3 d'octubre de 1983 per la BBC. Va ser creat per Steve Bright i protagonitzat per Graeme Garden.</lex>
+      <lex lang="eu" lid="Id1">Bananaman 1983ko urriaren 3an estreinatu zen BBC katean, Steve Brightek sortua eta Graeme Gardenek antzeztua.</lex>
+      <lex lang="eu" lid="Id2">Steve Bright-ek sortu zuen Bananaman, eta 1983ko urriaren 3an eman zuen lehen aldiz BBC-k, Graeme Garden protagonista zela.</lex>
+      <lex lang="eu" lid="Id3">Bananaman 1983ko urriaren 3an eman zuen lehen aldiz BBCk. Steve Brightek sortu zuen eta Graeme Gardenek antzeztu zuen.</lex>
+      <lex lang="gl" lid="Id1">Bananaman, que foi emitido por primeira vez pola BBC o 3 de outubro de 1983, foi creado por Steve Bright e protagonizado por Graeme Garden.</lex>
+      <lex lang="gl" lid="Id2">Steve Bright creou Bananaman, que foi emitido por primeira vez pola BBC o 3 de outubro de 1983 e protagonizado por Graeme Garden.</lex>
+      <lex lang="gl" lid="Id3">Bananaman foi emitida por primeira vez o 3 de outubro de 1983 pola BBC. Foi creada por Steve Bright e protagonizada por Graeme Garden.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | ProtagonizadaPor | Jill_Shilling</striple>
+        <striple>Bananaman | Creador | John_Geering</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | ProtagonitzadaPer | Jill_Shilling</ctriple>
+        <ctriple>Bananamà | Creador | John_Geering</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Estrelado | Jill_Shilling</gtriple>
+        <gtriple>Bananas | Creador | John_Geering</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Antzezpena: | Jill_Shilling-ek_esan_zuen:</btriple>
+        <btriple>Bananaman | Sortzailea | John_Geering</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">John Geering created the TV character Bananaman which was first broadcast by the BBC on 3 October 1983 and starred Jill Shilling.</lex>
+      <lex lang="en" lid="Id2">John Geering created the fictional comic superhero of Bananaman which starred Jill Shilling. It was first aired by the BBC on 3 October 1983.</lex>
+      <lex lang="es" lid="Id1">John Geering creó el personaje televisivo Bananaman, emitido por primera vez por la BBC el 3 de octubre de 1983 y protagonizado por Jill Shilling.</lex>
+      <lex lang="es" lid="Id2">John Geering creó el superhéroe ficticio Bananaman, protagonizado por Jill Shilling. Se emitió por primera vez en la BBC el 3 de octubre de 1983.</lex>
+      <lex lang="ca" lid="Id1">John Geering va crear el personatge de televisió Bananaman que va ser emès per primera vegada per la BBC el 3 d'octubre de 1983 i protagonitzat per Jill Shilling.</lex>
+      <lex lang="ca" lid="Id2">John Geering va crear el còmic superheroi fictici de Bananaman que va ser protagonitzat per Jill Shilling. Va ser emès per primera vegada per la BBC el 3 d' octubre de 1983.</lex>
+      <lex lang="eu" lid="Id1">John Geeringek Bananaman telebista pertsonaia sortu zuen, BBCk 1983ko urriaren 3an eman zuen lehen aldiz eta Jill Shillingek antzeztu zuen.</lex>
+      <lex lang="eu" lid="Id2">John Geeringek Bananaman komikiaren superheroi fikzionala sortu zuen, Jill Shillingek antzeztu zuena. 1983ko urriaren 3an eman zuen lehen aldiz BBCk.</lex>
+      <lex lang="gl" lid="Id1">John Geering creou o personaxe de televisión Bananaman, que foi emitido por primeira vez pola BBC o 3 de outubro de 1983 e protagonizado por Jill Shilling.</lex>
+      <lex lang="gl" lid="Id2">John Geering creou o superheroe de banda deseñada ficcional Bananaman, protagonizado por Jill Shilling. A BBC emitiuno por primeira vez o 3 de outubro de 1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | ProtagonizadaPor | Jill_Shilling</striple>
+        <striple>Bananaman | Creador | Steve_Bright</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | ProtagonitzadaPer | Jill_Shilling</ctriple>
+        <ctriple>Bananamà | Creador | Steve_Bright</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Estrelado | Jill_Shilling</gtriple>
+        <gtriple>Bananas | Creador | Steve_Bright</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Antzezpena: | Jill_Shilling-ek_esan_zuen:</btriple>
+        <btriple>Bananaman | Sortzailea | Steve_Bright</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman was first broadcast by the BBC on 3 October 1983. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="en" lid="Id2">Bananaman, starring Jill Shilling, created by Steve Bright. first aired on the BBC on 3/10/1983.</lex>
+      <lex lang="es" lid="Id1">Bananaman se emitió por primera vez en la BBC el 3 de octubre de 1983. Fue creado por Steve Bright y protagonizado por Jill Shilling.</lex>
+      <lex lang="es" lid="Id2">Bananaman, protagonizada por Jill Shilling, creada por Steve Bright. Emitida por primera vez en la BBC el 3 de octubre de 1983.</lex>
+      <lex lang="ca" lid="Id1">Bananaman va ser emès per primera vegada per la BBC el 3 d'octubre de 1983. Va ser creat per Steve Bright i protagonitzat per Jill Shilling.</lex>
+      <lex lang="ca" lid="Id2">Bananaman, protagonitzada per Jill Shilling, creada per Steve Bright. es va emetre per primera vegada a la BBC el 3/10/1983.</lex>
+      <lex lang="eu" lid="Id1">Bananaman BBCk 1983ko urriaren 3an eman zuen lehen aldiz. Steve Brightek sortu zuen eta Jill Shillingek antzeztu zuen.</lex>
+      <lex lang="eu" lid="Id2">Bananaman, Jill Shillingek antzeztutakoa, Steve Brightek sortutakoa. 1983ko urriaren 3an eman zuen lehen aldiz BBCn.</lex>
+      <lex lang="gl" lid="Id1">Bananaman foi emitido por primeira vez pola BBC o 3 de outubro de 1983. Foi creado por Steve Bright e protagonizado por Jill Shilling.</lex>
+      <lex lang="gl" lid="Id2">Bananaman, protagonizada por Jill Shilling, creada por Steve Bright. Emitiuse por primeira vez na BBC o 3/10/1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bill_Oddie | LugarDeNacimiento | Lancashire</striple>
+        <striple>BBC | Ciudad | Broadcasting_House</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bill_Oddie | LlocDeNaixement | Lancashire</ctriple>
+        <ctriple>BBC | Ciutat | centre_emissor</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bill_Oddie | LugarDeNacemento | Lancashire</gtriple>
+        <gtriple>BBC | Cidade | Casa_de_radiodifusión</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bill_Oddie_naiz. | JaiotzeLekua | Lancashire_eskualdea.</btriple>
+        <btriple>BBC | Hiria | Irrati_eta_telebista.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Lancashire born Bill Oddie was the star of Bananaman, broadcasted by the BBC out of the broadcasting house in London.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie, nacido en Lancashire, fue la estrella de Bananaman, emitido por la BBC desde la casa de la radiodifusión en Londres.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie, nascut a Lancashire, va ser l'estrella de Bananaman, emès per la BBC des de la casa de radiodifusió de Londres.</lex>
+      <lex lang="eu" lid="Id1">Lancashiren jaioa, Bill Oddie Bananaman telesailaren izarra izan zen, BBCk Londresko telebista etxetik igortzen zuena.</lex>
+      <lex lang="gl" lid="Id1">O nacido en Lancashire Bill Oddie foi a estrela de Bananaman, emitido pola BBC desde a casa de emisións de Londres.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bill_Oddie | LugarDeNacimiento | Lancashire</striple>
+        <striple>BBC | Ciudad | Londres</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bill_Oddie | LlocDeNaixement | Lancashire</ctriple>
+        <ctriple>BBC | Ciutat | Londres</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bill_Oddie | LugarDeNacemento | Lancashire</gtriple>
+        <gtriple>BBC | Cidade | Londres</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bill_Oddie_naiz. | JaiotzeLekua | Lancashire_eskualdea.</btriple>
+        <btriple>BBC | Hiria | Londres</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Lancashire born Bill Oddie starred in Bananaman. It was broadcast by the BBC located in London.</lex>
+      <lex lang="en" lid="Id2">Bananaman, that starred Lancashire born Bill Oddie, is broadcast by the BBC which is located in London.</lex>
+      <lex lang="en" lid="Id3">Lancashire born Bill Oddie starred in the TV series Bananaman. It was shown by the BBC who are located in London.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie, nacido en Lancashire, protagonizó Bananaman. Fue emitida por la BBC de Londres.</lex>
+      <lex lang="es" lid="Id2">Bananaman, protagonizada por Bill Oddie, nacido en Lancashire, es emitida por la BBC de Londres.</lex>
+      <lex lang="es" lid="Id3">Bill Oddie, nacido en Lancashire, protagonizó la serie de televisión Bananaman. La emitió la BBC, con sede en Londres.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie, nascut a Lancashire, va protagonitzar Bananaman, que va ser emès per la BBC de Londres.</lex>
+      <lex lang="ca" lid="Id2">Bananaman, protagonitzada per Bill Oddie, nascut a Lancashire, és emesa per la BBC, que es troba a Londres.</lex>
+      <lex lang="ca" lid="Id3">Bill Oddie, nascut a Lancashire, va protagonitzar la sèrie de televisió Bananaman. Es va emetre a la BBC, que es troba a Londres.</lex>
+      <lex lang="eu" lid="Id1">Lancashire-n jaiotako Bill Oddie-k Bananaman-en parte hartu zuen. BBC-k Londresen emititu zuen.</lex>
+      <lex lang="eu" lid="Id2">Bananaman, Lancashiren jaiotako Bill Oddie aktoreak antzeztutako britainiar telesaila da, BBC katean emititzen dena.</lex>
+      <lex lang="eu" lid="Id3">Lancashire-n jaiotako Bill Oddie-k Bananaman telesailean parte hartu zuen. Londresen kokatuta dagoen BBC-k eman zuen.</lex>
+      <lex lang="gl" lid="Id1">Nado en Lancashire, Bill Oddie protagonizou Bananaman. Foi emitido pola BBC con sede en Londres.</lex>
+      <lex lang="gl" lid="Id2">Bananaman, protagonizada por Bill Oddie, nado en Lancashire, é emitida pola BBC, que ten a súa sede en Londres.</lex>
+      <lex lang="gl" lid="Id3">Nado en Lancashire, Bill Oddie protagonizou a serie de televisión Bananaman. Foi emitida pola BBC, con sede en Londres.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bill_Oddie | LugarDeNacimiento | Rochdale</striple>
+        <striple>BBC | Ciudad | Broadcasting_House</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bill_Oddie | LlocDeNaixement | Rochdale</ctriple>
+        <ctriple>BBC | Ciutat | centre_emissor</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bill_Oddie | LugarDeNacemento | Rochdale</gtriple>
+        <gtriple>BBC | Cidade | Casa_de_radiodifusión</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bill_Oddie_naiz. | JaiotzeLekua | Rochdale</btriple>
+        <btriple>BBC | Hiria | Irrati_eta_telebista.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Rochdale born Bill Oddie starred in the TV series Bananaman. This show was broadcast by the BBC, which has its headquarters in Broadcasting House.</lex>
+      <lex lang="en" lid="Id2">The BBC broadcast Bananaman, which starred Rochdale born Bill Oddie. The BBC headquarters is called Broadcasting House.</lex>
+      <lex lang="en" lid="Id3">Rochdale born Bill Oddie starred in Bananaman which was a TV series shown on the BBC, based at Broadcasting House in London.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie, nacido en Rochdale, protagonizó la serie de televisión Bananaman. Este programa fue emitido por la BBC, que tiene su sede en Broadcasting House.</lex>
+      <lex lang="es" lid="Id2">La BBC emitió Bananaman, protagonizada por Bill Oddie, nacido en Rochdale. La sede de la BBC se llama Broadcasting House.</lex>
+      <lex lang="es" lid="Id3">Bill Oddie, nacido en Rochdale, protagonizó Bananaman, una serie de televisión emitida por la BBC, con sede en Broadcasting House, Londres.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie, nascut a Rochdale, va protagonitzar la sèrie de televisió Bananaman. Aquest programa s'emetia a la BBC, que té la seu a Broadcasting House.</lex>
+      <lex lang="ca" lid="Id2">La BBC va emetre Bananaman, protagonitzada per Bill Oddie, nascut a Rochdale. La seu de la BBC es diu Broadcasting House.</lex>
+      <lex lang="ca" lid="Id3">Bill Oddie, nascut a Rochdale, va protagonitzar Bananaman, que va ser una sèrie de televisió mostrada a la BBC, amb seu a Broadcasting House a Londres.</lex>
+      <lex lang="eu" lid="Id1">Rochdale-n jaioa, Bill Oddie Bananaman telesailean agertu zen. Programa hau BBC-k eman zuen, Broadcasting House-n egoitza duena.</lex>
+      <lex lang="eu" lid="Id2">BBCk Bananaman telesaila eman zuen, Rochdale jaiotako Bill Oddie aktorearekin. BBCren egoitza Broadcasting House da.</lex>
+      <lex lang="eu" lid="Id3">Rochdale Bill Oddie jaio zen eta Bananaman telesailean antzeztu zuen, BBCn erakusten zena, Londresko Broadcasting Housen.</lex>
+      <lex lang="gl" lid="Id1">Bill Oddie, nado en Rochdale, protagonizou a serie de televisión Bananaman. Este programa foi emitido pola BBC, que ten a súa sede en Broadcasting House.</lex>
+      <lex lang="gl" lid="Id2">A BBC emitiu Bananaman, protagonizada por Bill Oddie, nacido en Rochdale. A sede da BBC chámase Broadcasting House.</lex>
+      <lex lang="gl" lid="Id3">Rochdale, nado Bill Oddie, protagonizou Bananaman, unha serie de televisión que se emitiu na BBC, con sede en Broadcasting House en Londres.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id14" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bill_Oddie | LugarDeNacimiento | Rochdale</striple>
+        <striple>BBC | Ciudad | Londres</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bill_Oddie | LlocDeNaixement | Rochdale</ctriple>
+        <ctriple>BBC | Ciutat | Londres</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bill_Oddie | LugarDeNacemento | Rochdale</gtriple>
+        <gtriple>BBC | Cidade | Londres</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bill_Oddie_naiz. | JaiotzeLekua | Rochdale</btriple>
+        <btriple>BBC | Hiria | Londres</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman the TV series was shown on the BBC (London) and starred Bill Oddie, who was born in Rochdale.</lex>
+      <lex lang="en" lid="Id2">The BBC, which is located in London, showed the TV series Bananaman. It starred Bill Oddie who was born in Rochdale.</lex>
+      <lex lang="en" lid="Id3">Bananaman is a tv series which starred Rochdale born Bill Oddie. The series was shown on the BBC which is located in the city of London.</lex>
+      <lex lang="es" lid="Id1">La serie de televisión Bananaman se emitía en la BBC (Londres) y estaba protagonizada por Bill Oddie, nacido en Rochdale.</lex>
+      <lex lang="es" lid="Id2">La BBC, con sede en Londres, emitió la serie de televisión Bananaman. La protagonizaba Bill Oddie, nacido en Rochdale.</lex>
+      <lex lang="es" lid="Id3">Bananaman es una serie de televisión protagonizada por Bill Oddie, nacido en Rochdale. La serie se emitió en la BBC, con sede en Londres.</lex>
+      <lex lang="ca" lid="Id1">Bananaman la sèrie de televisió es va mostrar a la BBC (Londres) i va ser protagonitzada per Bill Oddie, que va néixer a Rochdale.</lex>
+      <lex lang="ca" lid="Id2">La BBC, amb seu a Londres, va mostrar la sèrie de televisió Bananaman, protagonitzada per Bill Oddie, nascut a Rochdale.</lex>
+      <lex lang="ca" lid="Id3">Bananaman és una sèrie de televisió protagonitzada per Bill Oddie, nascut a Rochdale. La sèrie es va emetre a la BBC, ubicada a la ciutat de Londres.</lex>
+      <lex lang="eu" lid="Id1">Bananaman telesaila BBCn (Londres) erakutsi zen eta Bill Oddie antzeztu zuen, Rochdale-n jaioa.</lex>
+      <lex lang="eu" lid="Id2">BBCk, Londresen egoitza duenak, Bananaman telesaila eman zuen, Rochdale-n jaiotako Bill Oddie aktorearekin.</lex>
+      <lex lang="eu" lid="Id3">Bananaman Bill Oddie-k (Rochdale-n jaioa) antzeztutako telesail bat da. Telesaila BBC-n eman zen, Londresen.</lex>
+      <lex lang="gl" lid="Id1">Bananaman a serie de televisión foi mostrada na BBC (Londres) e protagonizada por Bill Oddie, que naceu en Rochdale.</lex>
+      <lex lang="gl" lid="Id2">A BBC, que ten a súa sede en Londres, emitiu a serie de televisión Bananaman, protagonizada por Bill Oddie, que naceu en Rochdale.</lex>
+      <lex lang="gl" lid="Id3">Bananaman é unha serie de televisión protagonizada por Bill Oddie, nacido en Rochdale. A serie emitiuse na BBC, que ten a súa sede na cidade de Londres.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Graeme_Garden</striple>
+        <striple>Graeme_Garden | LugarDeNacimiento | Aberdeen</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>BBC | Ciudad | Broadcasting_House</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Graeme_Garden</ctriple>
+        <ctriple>Graeme_Garden | LlocDeNaixement | Aberdeen</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>BBC | Ciutat | centre_emissor</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Graeme_Garden</gtriple>
+        <gtriple>Graeme_Garden | LugarDeNacemento | Aberdeen</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>BBC | Cidade | Casa_de_radiodifusión</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Graeme_Garden</btriple>
+        <btriple>Graeme_Garden | JaiotzeLekua | Aberdeen</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>BBC | Hiria | Irrati_eta_telebista.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aberdeen born Graeme Garden starred in Bananaman, which was broadcast by the BBC, whose headquarters are called Broadcasting House.</lex>
+      <lex lang="en" lid="Id2">Aberdeen born Graeme Garden starred in the tv series " Bananaman " . The series was shown on the BBC which is based in the broadcasting house in London.</lex>
+      <lex lang="en" lid="Id3">The BBC, based in Broadcasting House, London, showed the TV series Bananaman. This show starred Aberdeen born Graeme Garden.</lex>
+      <lex lang="es" lid="Id1">Graeme Garden, nacido en Aberdeen, protagonizó Bananaman, que emitió la BBC, cuya sede se llama Broadcasting House.</lex>
+      <lex lang="es" lid="Id2">Graeme Garden, nacido en Aberdeen, protagonizó la serie de televisión "Bananaman". La serie se emitió en la BBC, que tiene su sede en Londres.</lex>
+      <lex lang="es" lid="Id3">La BBC, con sede en Broadcasting House, Londres, emitía la serie de televisión Bananaman. La protagonizaba Graeme Garden, nacido en Aberdeen.</lex>
+      <lex lang="ca" lid="Id1">Graeme Garden, nascut a Aberdeen, va protagonitzar Bananaman, emès per la BBC, la seu de la qual s'anomena Broadcasting House.</lex>
+      <lex lang="ca" lid="Id2">Graeme Garden, nascut a Aberdeen, va protagonitzar la sèrie de televisió "Bananaman". La sèrie es va emetre a la BBC, que té la seu a Londres.</lex>
+      <lex lang="ca" lid="Id3">La BBC, amb seu a la Broadcasting House de Londres, va emetre la sèrie de televisió Bananaman, protagonitzada per Graeme Garden, nascut a Aberdeen.</lex>
+      <lex lang="eu" lid="Id1">Aberdeen-en jaioa, Graeme Gardenek Bananaman filmean antzeztu zuen, BBCk emititu zuena, zeinaren egoitza Broadcasting House izena duen.</lex>
+      <lex lang="eu" lid="Id2">Aberdeenen jaiotako Graeme Gardenek " Bananaman " telesailean parte hartu zuen. BBC-k eman zuen telesaila, eta Londresen du egoitza.</lex>
+      <lex lang="eu" lid="Id3">BBC-k, Londresko Broadcasting House-n egoitza zuenak, Bananaman telesaila eman zuen, Aberdeenen jaiotako Graeme Garden aktoreak antzeztua.</lex>
+      <lex lang="gl" lid="Id1">O nacido en Aberdeen Graeme Garden protagonizou Bananaman, que foi emitido pola BBC, cuxa sede se chama Broadcasting House.</lex>
+      <lex lang="gl" lid="Id2">Nado en Aberdeen, Graeme Garden protagonizou a serie de televisión Bananaman. A serie emitiuse na BBC, que ten a súa sede en Londres.</lex>
+      <lex lang="gl" lid="Id3">A BBC, con sede en Broadcasting House, Londres, emitiu a serie de televisión Bananaman, protagonizada por Graeme Garden, nacido en Aberdeen.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | Creador | John_Geering</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Tim_Brooke-Taylor</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | Creador | John_Geering</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Tim_Brooke-Taylor</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Creador | John_Geering</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Tim_Brooke-Taylor</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Sortzailea | John_Geering</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor starred in Bananaman which was created by John Geering. It was first broadcast by the BBC on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman was first aired on 10/03/1983 and was broadcast by the BBC. Tim Brooke-Taylor starred in the show, which was created by John Geering.</lex>
+      <lex lang="en" lid="Id3">The fictional comic superhero Bananaman was created by John Geering and starred Tim Brooke-taylor. It was first broadcast on 3 October 1983 by the BBC.</lex>
+      <lex lang="es" lid="Id1">Tim Brooke-Taylor protagonizó Bananaman, creada por John Geering. Se emitió por primera vez en la BBC el 3 de octubre de 1983.</lex>
+      <lex lang="es" lid="Id2">Bananaman se emitió por primera vez el 10 de marzo de 1983 en la BBC. Tim Brooke-Taylor protagonizó la serie, creada por John Geering.</lex>
+      <lex lang="es" lid="Id3">El superhéroe ficticio de cómic Bananaman fue creado por John Geering y protagonizado por Tim Brooke-taylor. Se emitió por primera vez el 3 de octubre de 1983 en la BBC.</lex>
+      <lex lang="ca" lid="Id1">Tim Brooke- Taylor va protagonitzar Bananaman que va ser creat per John Geering. Va ser emès per primera vegada per la BBC el 3 d' octubre de 1983.</lex>
+      <lex lang="ca" lid="Id2">Bananaman es va emetre per primera vegada el 10/03/1983 i va ser emès per la BBC. Tim Brooke-Taylor va protagonitzar el programa, creat per John Geering.</lex>
+      <lex lang="ca" lid="Id3">El còmic de superherois de ficció Bananaman va ser creat per John Geering i protagonitzat per Tim Brooke-Taylor. Es va emetre per primera vegada el 3 d'octubre de 1983 a la BBC.</lex>
+      <lex lang="eu" lid="Id1">Tim Brooke-Taylorrek Bananaman filmean antzeztu zuen, John Geeringek sortutakoa. 1983ko urriaren 3an eman zuen lehen aldiz BBCk.</lex>
+      <lex lang="eu" lid="Id2">Bananaman 1983ko martxoaren 10ean estreinatu zen lehen aldiz eta Tim Brooke-Taylor aktoreak antzeztu zuen, John Geeringek sortua.</lex>
+      <lex lang="eu" lid="Id3">Bananaman komikiaren superheroia John Geeringek sortu zuen eta Tim Brooke-Taylorek antzeztu zuen. 1983ko urriaren 3an eman zuen lehen aldiz BBCk.</lex>
+      <lex lang="gl" lid="Id1">Tim Brooke- Taylor protagonizou Bananaman que foi creado por John Geering. Foi emitido por primeira vez pola BBC o 3 de outubro de 1983.</lex>
+      <lex lang="gl" lid="Id2">Bananaman foi emitido por primeira vez o 10/ 03/ 1983 e foi transmitido pola BBC. Tim Brooke- Taylor protagonizou o programa, que foi creado por John Geering.</lex>
+      <lex lang="gl" lid="Id3">O superheroe de banda deseñada ficcional Bananaman foi creado por John Geering e protagonizado por Tim Brooke-Taylor. A BBC emitiuno por primeira vez o 3 de outubro de 1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | Creador | Steve_Bright</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Tim_Brooke-Taylor</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | Creador | Steve_Bright</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Tim_Brooke-Taylor</gtriple>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Creador | Steve_Bright</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Tim_Brooke-Taylor</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Sortzailea | Steve_Bright</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. It was first aired on 3 October 1983, being broadcast by the BBC.</lex>
+      <lex lang="en" lid="Id2">Bananaman (created by Steve Bright) was first broadcasted by the BBC on the 10/03/1983, and starred Tim Brooke-Taylor.</lex>
+      <lex lang="en" lid="Id3">Tim Brooke-Taylor starred in Bananaman which was created by Steve Bright. It was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex lang="es" lid="Id1">Bananaman fue creada por Steve Bright y protagonizada por Tim Brooke-Taylor. Se emitió por primera vez el 3 de octubre de 1983 en la BBC.</lex>
+      <lex lang="es" lid="Id2">Bananaman (creada por Steve Bright) fue emitida por primera vez por la BBC el 10 de marzo de 1983, y protagonizada por Tim Brooke-Taylor.</lex>
+      <lex lang="es" lid="Id3">Tim Brooke-Taylor protagonizó Bananaman, creada por Steve Bright. Fue emitida por la BBC por primera vez el 3 de octubre de 1983.</lex>
+      <lex lang="ca" lid="Id1">Bananaman va ser creat per Steve Bright i protagonitzat per Tim Brooke-Taylor. Es va emetre per primera vegada el 3 d'octubre de 1983 a la BBC.</lex>
+      <lex lang="ca" lid="Id2">Bananaman (creat per Steve Bright) va ser emès per primera vegada per la BBC el 10/03/1983, i protagonitzat per Tim Brooke-Taylor.</lex>
+      <lex lang="ca" lid="Id3">Tim Brooke- Taylor va protagonitzar Bananaman que va ser creat per Steve Bright. Va ser emès per la BBC i es va emetre per primera vegada el 3 d' octubre de 1983.</lex>
+      <lex lang="eu" lid="Id1">Bananaman Steve Brightek sortutako telesaila da, Tim Brooke-Taylor aktoreak antzeztua, 1983ko urriaren 3an BBC katean estreinatu zena.</lex>
+      <lex lang="eu" lid="Id2">Bananaman (Steve Bright-ek sortua) 1983ko urriaren 3an eman zuen lehen aldiz BBC-k, eta Tim Brooke-Taylor izan zen protagonista.</lex>
+      <lex lang="eu" lid="Id3">Tim Brooke-Taylorrek Bananaman telesailean antzeztu zuen, Steve Brightek sortua eta BBC kateak 1983ko urriaren 3an estreinatu zuena.</lex>
+      <lex lang="gl" lid="Id1">Bananaman foi creado por Steve Bright e protagonizado por Tim Brooke-Taylor. Emitiuse por primeira vez o 3 de outubro de 1983 pola BBC.</lex>
+      <lex lang="gl" lid="Id2">Bananaman (creado por Steve Bright) foi emitido por primeira vez pola BBC o 10/03/1983, e protagonizado por Tim Brooke-Taylor.</lex>
+      <lex lang="gl" lid="Id3">Tim Brooke-Taylor protagonizou Bananaman, creado por Steve Bright. A BBC emitiuno por primeira vez o 3 de outubro de 1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baymax | PrimeraApariciónEnElCine | Big_Hero_6_(película)</striple>
+        <striple>Baymax | Voz | Scott_Adsit</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Baymax | PrimeraAparicióEnPel·Lícula | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Baymax | Veu | Scott_Adsit</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Baymax | PrimeiraApariciónEnCine | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Baymax | Voz | Scott_Adsit</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Baymax | LehenengoAgerpenaFilmean | Big_Hero_6_(filma)</btriple>
+        <btriple>Baymax | Ahotsa | Scott_Adsit</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The character Baymax first appeared in the film Big Hero 6 and is voiced by Scott Adsit. It was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="en" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who first appeared in the film Big Hero 6 and is voiced by Scott Adsit.</lex>
+      <lex lang="en" lid="Id3">Baymax, voiced by Scott Adsit and created by Duncan Rouleau and Steven T. Seagle first appeared in the film Big Hero 6.</lex>
+      <lex lang="es" lid="Id1">El personaje Baymax apareció por primera vez en la película Big Hero 6 y cuenta con la voz de Scott Adsit. Fue creado por Duncan Rouleau y Steven T. Seagle.</lex>
+      <lex lang="es" lid="Id2">Duncan Rouleau y Steven T Seagle crearon el personaje de Baymax, que apareció por primera vez en la película Big Hero 6 y al que pone voz Scott Adsit.</lex>
+      <lex lang="es" lid="Id3">Baymax, al que pone voz Scott Adsit y ha sido creado por Duncan Rouleau y Steven T. Seagle, apareció por primera vez en la película Big Hero 6.</lex>
+      <lex lang="ca" lid="Id1">El personatge Baymax va aparèixer per primera vegada a la pel·lícula Big Hero 6 i és interpretat per Scott Adsit. Va ser creat per Duncan Rouleau i Steven T. Seagle.</lex>
+      <lex lang="ca" lid="Id2">Duncan Rouleau i Steven T. Seagle van crear el personatge de Baymax que va aparèixer per primera vegada en la pel·lícula Big Hero 6 i és expressa per Scott Adsit.</lex>
+      <lex lang="ca" lid="Id3">Baymax, amb veu de Scott Adsit i creat per Duncan Rouleau i Steven T. Seagle, va aparèixer per primera vegada a la pel·lícula Big Hero 6.</lex>
+      <lex lang="eu" lid="Id1">Baymax pertsonaia Big Hero 6 filmean agertu zen lehen aldiz eta Scott Adsitek ahoskatzen du. Duncan Rouleau eta Steven T. Seagle-k sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Duncan Rouleau eta Steven T. Seaglek sortu zuten Baymax pertsonaia. Big Hero 6 filmean agertu zen lehen aldiz, eta Scott Adsit-ek jarri zion ahotsa.</lex>
+      <lex lang="eu" lid="Id3">Baymax, Scott Adsitek ahoskatua eta Duncan Rouleau eta Steven T. Seagle-k sortutakoa, Big Hero 6 filmean agertu zen lehen aldiz.</lex>
+      <lex lang="gl" lid="Id1">O personaxe Baymax apareceu por primeira vez na película Big Hero 6 e ten a voz de Scott Adsit. Foi creado por Duncan Rouleau e Steven T. Seagle.</lex>
+      <lex lang="gl" lid="Id2">Duncan Rouleau e Steven T. Seagle crearon o personaxe de Baymax, que apareceu por primeira vez na película Big Hero 6 e que ten a voz de Scott Adsit.</lex>
+      <lex lang="gl" lid="Id3">Baymax, con voz de Scott Adsit e creado por Duncan Rouleau e Steven T. Seagle, apareceu por primeira vez na película Big Hero 6.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id19" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baymax | PrimeraApariciónEnElCine | Big_Hero_6_(película)</striple>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Baymax | PrimeraAparicióEnPel·Lícula | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Baymax | PrimeiraApariciónEnCine | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Baymax | LehenengoAgerpenaFilmean | Big_Hero_6_(filma)</btriple>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The character Baymax, created by Steven T. Seagle and the American Duncan Rouleau, first appeared in the film Big Hero 6.</lex>
+      <lex lang="en" lid="Id2">Baymax first appeared in the film Big Hero 6 and was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Big hero 6 was the first appearance for Baymax, created by American Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="es" lid="Id1">El personaje Baymax, creado por Steven T. Seagle y el Estadounidense Duncan Rouleau, apareció por primera vez en la película Big Hero 6.</lex>
+      <lex lang="es" lid="Id2">Baymax apareció por primera vez en la película Big Hero 6 y fue creado por Steven T Seagle y el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Big hero 6 fue la primera aparición de Baymax, creado por los Estadounidenses Duncan Rouleau y Steven T. Seagle.</lex>
+      <lex lang="ca" lid="Id1">El personatge Baymax, creat per Steven T. Seagle i l'americà Duncan Rouleau, va aparèixer per primera vegada a la pel·lícula Big Hero 6.</lex>
+      <lex lang="ca" lid="Id2">Baymax va aparèixer per primera vegada a la pel·lícula Big Hero 6 i va ser creat per Steven T. Seagle i l'americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Big Hero 6 va ser la primera aparició de Baymax, creat per l'americà Duncan Rouleau i Steven T. Seagle.</lex>
+      <lex lang="eu" lid="Id1">Steven T. Seagle eta Duncan Rouleau estatubatuarrak sortutako Baymax pertsonaia Big Hero 6 filmean agertu zen lehen aldiz.</lex>
+      <lex lang="eu" lid="Id2">Baymax Big Hero 6 filmean agertu zen lehen aldiz eta Steven T. Seagle eta Duncan Rouleau estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Big Hero 6 izan zen Baymax-en lehen agerpena, Duncan Rouleau eta Steven T. Seagle estatubatuarrek sortutakoa.</lex>
+      <lex lang="gl" lid="Id1">O personaxe Baymax, creado por Steven T. Seagle e o estadounidense Duncan Rouleau, apareceu por primeira vez na película Big Hero 6.</lex>
+      <lex lang="gl" lid="Id2">Baymax apareceu por primeira vez na película Big Hero 6 e foi creado por Steven T. Seagle e o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Big hero 6 foi a primeira aparición de Baymax, creado polos estadounidenses Duncan Rouleau e Steven T. Seagle.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | PrimeraApariciónEnElCine | Big_Hero_6_(película)</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | PrimeraAparicióEnPel·Lícula | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | PrimeiraApariciónEnCine | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | LehenengoAgerpenaFilmean | Big_Hero_6_(filma)</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax is a character created by Duncan Rouleau and Steven T. Seagle which first appeared in the film "Big Hero 6".</lex>
+      <lex lang="en" lid="Id2">Baymax is a character who first appeared in the film Big Hero 6. It was created by Steven T Seagle and Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Steven T Seagle and Duncan Rouleau created the character Baymax, which first appeared in the movie Big Hero 6.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje creado por Duncan Rouleau y Steven T. Seagle que apareció por primera vez en la película "Big Hero 6".</lex>
+      <lex lang="es" lid="Id2">Baymax es un personaje que apareció por primera vez en la película Big Hero 6. Fue creado por Steven T Seagle y Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Steven T Seagle y Duncan Rouleau crearon el personaje Baymax, que apareció por primera vez en la película Big Hero 6.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge creat per Duncan Rouleau i Steven T. Seagle que va aparèixer per primera vegada a la pel·lícula "Big Hero 6".</lex>
+      <lex lang="ca" lid="Id2">Baymax és un personatge que va aparèixer per primera vegada a la pel·lícula Big Hero 6. Va ser creat per Steven T Seagle i Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Steven T. Seagle i Duncan Rouleau van crear el personatge Baymax, que va aparèixer per primera vegada a la pel·lícula Big Hero 6.</lex>
+      <lex lang="eu" lid="Id1">Baymax Duncan Rouleau eta Steven T. Seagle-k sortutako pertsonaia bat da, lehen aldiz "Big Hero 6" filmean agertu zena.</lex>
+      <lex lang="eu" lid="Id2">Baymax Big Hero 6 filmean agertu zen lehen pertsonaia da. Steven T. Seagle eta Duncan Rouleau-k sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Steven T. Seagle eta Duncan Rouleau-k sortu zuten Baymax pertsonaia, lehen aldiz Big Hero 6 filmean agertu zena.</lex>
+      <lex lang="gl" lid="Id1">Baymax é un personaxe creado por Duncan Rouleau e Steven T. Seagle que apareceu por primeira vez na película "Big Hero 6".</lex>
+      <lex lang="gl" lid="Id2">Baymax é un personaxe que apareceu por primeira vez na película Big Hero 6. Foi creado por Steven T Seagle e Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Steven T. Seagle e Duncan Rouleau crearon o personaxe Baymax, que apareceu por primeira vez na película Big Hero 6.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Baymax | Voz | Scott_Adsit</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Baymax | Veu | Scott_Adsit</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Baymax | Voz | Scott_Adsit</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Baymax | Ahotsa | Scott_Adsit</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax, the Big Hero 6 character created by Steven T. Seagle and Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex lang="en" lid="Id2">Duncan Rouleau and Steven T. Seagle are both creators of the character Baymax which featured in the film Big Hero 6. The voice of this character in the film was provided by Scott Adsit.</lex>
+      <lex lang="en" lid="Id3">Duncan Rouleau and Steven T. Seagle are both creators of Baymax which featured in the film Big Hero 6. The voice of Baymax was provided by Scott Adsit.</lex>
+      <lex lang="es" lid="Id1">Baymax, el personaje de Big Hero 6 creado por Steven T. Seagle y Duncan Rouleau, tiene la voz de Scott Adsit.</lex>
+      <lex lang="es" lid="Id2">Duncan Rouleau y Steven T. Seagle son los creadores del personaje Baymax, que aparece en la película Big Hero 6. La voz de este personaje en la película la puso Scott Adsit.</lex>
+      <lex lang="es" lid="Id3">Duncan Rouleau y Steven T. Seagle son los creadores de Baymax, que aparece en la película Big Hero 6. La voz de Baymax la puso Scott Adsit.</lex>
+      <lex lang="ca" lid="Id1">Baymax, el personatge de Big Hero 6 creat per Steven T. Seagle i Duncan Rouleau, té la veu de Scott Adsit.</lex>
+      <lex lang="ca" lid="Id2">Duncan Rouleau i Steven T. Seagle són els creadors del personatge Baymax que va aparèixer a la pel· lícula Big Hero 6. La veu d' aquest personatge a la pel· lícula va ser proporcionada per Scott Adsit.</lex>
+      <lex lang="ca" lid="Id3">Duncan Rouleau i Steven T. Seagle són els creadors de Baymax, que va aparèixer a la pel·lícula Big Hero 6. Scott Adsit va fer la veu de Baymax.</lex>
+      <lex lang="eu" lid="Id1">Baymax, Steven T. Seagle eta Duncan Rouleau-k sortutako Big Hero 6 pertsonaia, Scott Adsitek ahoskatzen du.</lex>
+      <lex lang="eu" lid="Id2">Duncan Rouleau eta Steven T. Seagle dira Big Hero 6 filmean agertzen den Baymax pertsonaiaren sortzaileak. Scott Adsit-ek jarri zion ahotsa pertsonaiari filmean.</lex>
+      <lex lang="eu" lid="Id3">Duncan Rouleau eta Steven T. Seagle dira Big Hero 6 filmean agertzen den Baymax-en sortzaileak. Baymax-en ahotsa Scott Adsit-ek eman zuen.</lex>
+      <lex lang="gl" lid="Id1">Baymax, o personaxe de Big Hero 6 creado por Steven T. Seagle e Duncan Rouleau, ten a voz de Scott Adsit.</lex>
+      <lex lang="gl" lid="Id2">Duncan Rouleau e Steven T. Seagle son os creadores do personaxe Baymax que apareceu na película Big Hero 6. A voz deste personaxe na película foi proporcionada por Scott Adsit.</lex>
+      <lex lang="gl" lid="Id3">Duncan Rouleau e Steven T. Seagle son os creadores de Baymax, que apareceu na película Big Hero 6. A voz de Baymax foi proporcionada por Scott Adsit.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id22" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple>
+        <striple>Ernie_Colón | Nacionalidad | puertorriqueños</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple>
+        <striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Paris_Cullins</ctriple>
+        <ctriple>Ernie_Colón | Nacionalitat | porto-riquenys</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Ernie_Colón</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | NomAlternatiu | Larry_Bolatinsky</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Paris_Cullins</gtriple>
+        <gtriple>Ernie_Colón | Nacionalidade | Puertorriqueños</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Ernie_Colón</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | NomeAlternativo | Larry_Bolatinsky</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Paris_Cullins-en_antzera.</btriple>
+        <btriple>Ernie_Colón | Nazionalitatea | Puerto_Ricarrak</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Ernie_Colón</btriple>
+        <btriple>Bolt_(comicsCharacter) | AlternatiboaIzena | Larry_Bolatinsky_naiz</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bolt (Larry Bolatinsky) is a comic character that was created by both Paris Cullins and Ernie Colon who is a national of Puerto Rico.</lex>
+      <lex lang="en" lid="Id2">Bolt is a comic character otherwise know as Larry Bolatinsky. He was created by Paris Cullins and Ernie Colon (national of Puerto Rico).</lex>
+      <lex lang="en" lid="Id3">The character Bolt, also known as Larry Bolatinsky, was created by Paris Cullins and Ernie Colon, a puerto Rican National.</lex>
+      <lex lang="es" lid="Id1">Bolt (Larry Bolatinsky) es un personaje de cómic creado por Paris Cullins y Ernie Colon, ciudadano de Puerto Rico.</lex>
+      <lex lang="es" lid="Id2">Bolt es un personaje de cómic también conocido como Larry Bolatinsky. Fue creado por Paris Cullins y Ernie Colon (nacional de Puerto Rico).</lex>
+      <lex lang="es" lid="Id3">El personaje Bolt, también conocido como Larry Bolatinsky, fue creado por Paris Cullins y Ernie Colon, de nacionalidad puertorriqueña.</lex>
+      <lex lang="ca" lid="Id1">Bolt (Larry Bolatinsky) és un personatge de còmic que va ser creat per Paris Cullins i Ernie Colon, que és ciutadà de Puerto Rico.</lex>
+      <lex lang="ca" lid="Id2">Bolt és un personatge de còmic conegut també com a Larry Bolatinsky. Va ser creat per Paris Cullins i Ernie Colon (nacional de Puerto Rico).</lex>
+      <lex lang="ca" lid="Id3">El personatge Bolt, també conegut com a Larry Bolatinsky, va ser creat per Paris Cullins i Ernie Colon, un nacional porto-riqueny.</lex>
+      <lex lang="eu" lid="Id1">Bolt (Larry Bolatinsky) Paris Cullinsek eta Ernie Colonek sortutako komiki pertsonaia bat da.</lex>
+      <lex lang="eu" lid="Id2">Bolt, Larry Bolatinsky izenarekin ezaguna, Paris Cullinsek eta Ernie Colonek sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Bolt pertsonaia, Larry Bolatinsky bezala ere ezaguna, Paris Cullins eta Ernie Colon-ek sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">Bolt (Larry Bolatinsky) é un personaxe de banda deseñada que foi creado por Paris Cullins e Ernie Colon que é un nacional de Porto Rico.</lex>
+      <lex lang="gl" lid="Id2">Bolt é un personaxe de banda deseñada coñecido como Larry Bolatinsky. Foi creado por Paris Cullins e Ernie Colon (nacido en Porto Rico).</lex>
+      <lex lang="gl" lid="Id3">O personaxe Bolt, tamén coñecido como Larry Bolatinsky, foi creado por Paris Cullins e Ernie Colon, un nacional portorriqueño.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax is a character from Big Hero 6, who was created by American born Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="en" lid="Id2">Baymax, a character in Big Hero 6, was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Baymax, created by Steven T Seagle and the American Duncan Rouleau, is a character in Big Hero 6.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje de Big Hero 6, creado por los Estadounidenses Duncan Rouleau y Steven T. Seagle.</lex>
+      <lex lang="es" lid="Id2">Baymax, personaje de Big Hero 6, fue creado por Steven T Seagle y el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Baymax, creado por Steven T Seagle y el Estadounidense Duncan Rouleau, es un personaje de Big Hero 6.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge de Big Hero 6, que va ser creat pels americans Duncan Rouleau i Steven T. Seagle.</lex>
+      <lex lang="ca" lid="Id2">Baymax, un personatge de Big Hero 6, va ser creat per Steven T Seagle i l'americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Baymax, creat per Steven T Seagle i l'americà Duncan Rouleau, és un personatge de Big Hero 6.</lex>
+      <lex lang="eu" lid="Id1">Baymax Big Hero 6-ko pertsonaia bat da, Duncan Rouleau eta Steven T. Seagle estatubatuarrek sortutakoa.</lex>
+      <lex lang="eu" lid="Id2">Baymax, Big Hero 6-ko pertsonaia, Steven T. Seagle eta Duncan Rouleau estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Baymax Steven T. Seagle eta Duncan Rouleau estatubatuarrek sortutako fikziozko pertsonaia bat da.</lex>
+      <lex lang="gl" lid="Id1">Baymax é un personaxe de Big Hero 6, creado por Duncan Rouleau e Steven T. Seagle.</lex>
+      <lex lang="gl" lid="Id2">Baymax, un personaxe de Big Hero 6, foi creado por Steven T. Seagle e o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Baymax, creado por Steven T. Seagle e o estadounidense Duncan Rouleau, é un personaxe de Big Hero 6.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        <striple>Baymax | Voz | Scott_Adsit</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        <ctriple>Baymax | Veu | Scott_Adsit</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Creador | Steven_T._Seagle</gtriple>
+        <gtriple>Baymax | Voz | Scott_Adsit</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Sortzailea | Steven_T._Seagle</btriple>
+        <btriple>Baymax | Ahotsa | Scott_Adsit</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The character Baymax, created by Steven T. Seagle and the American Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex lang="en" lid="Id2">Scott Adsit provides the voice for Baymax who was created by Steven T. Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Scott Adsit provides the voice for the character Baymax who was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id1">El personaje Baymax, creado por Steven T. Seagle y el Estadounidense Duncan Rouleau, tiene la voz de Scott Adsit.</lex>
+      <lex lang="es" lid="Id2">Scott Adsit pone voz a Baymax, creado por Steven T. Seagle y el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Scott Adsit pone voz al personaje Baymax, creado por Steven T Seagle y el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id1">El personatge Baymax, creat per Steven T. Seagle i l'americà Duncan Rouleau, té la veu de Scott Adsit.</lex>
+      <lex lang="ca" lid="Id2">Scott Adsit proporciona la veu de Baymax que va ser creat per Steven T. Seagle i l'americà, Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Scott Adsit proporciona la veu del personatge Baymax que va ser creat per Steven T. Seagle i l'americà Duncan Rouleau.</lex>
+      <lex lang="eu" lid="Id1">Steven T. Seagle eta Duncan Rouleau estatubatuarrak sortutako Baymax pertsonaia Scott Adsitek ahoskatzen du.</lex>
+      <lex lang="eu" lid="Id2">Steven T. Seaglek eta Duncan Rouleau estatubatuarrak sortutako Baymaxen ahotsa Scott Adsit da.</lex>
+      <lex lang="eu" lid="Id3">Scott Adsitek ematen du ahotsa Steven T. Seagle eta Duncan Rouleau estatubatuarrak sortutako Baymax pertsonaiarentzat.</lex>
+      <lex lang="gl" lid="Id1">O personaxe Baymax, creado por Steven T. Seagle e o estadounidense Duncan Rouleau, ten a voz de Scott Adsit.</lex>
+      <lex lang="gl" lid="Id2">Scott Adsit pon a voz a Baymax, que foi creado por Steven T. Seagle e o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Scott Adsit pon voz ao personaxe Baymax, creado por Steven T. Seagle e o estadounidense Duncan Rouleau.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id25" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Scott_Adsit</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Scott_Adsit</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Big_Hero_6_(filme) | Estrelado | Scott_Adsit</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Big_Hero_6_(filma) | Antzezpena: | Scott_Adsit</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax is a character in Big Hero 6 which starred Scott Adsit. The creator of Baymax is the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id2">Baymax is a character in the film Big Hero 6 which star's Scott Adsit. The creator of this character is American national, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">The American, Duncan Rouleau created the character of Baymax which appeared in the film Big Hero 6 alongside the star of the film, Scott Adsit.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje de Big Hero 6 protagonizado por Scott Adsit. El creador de Baymax es el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">Baymax es un personaje de la película Big Hero 6 protagonizada por Scott Adsit. El creador de este personaje es el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">El Estadounidense Duncan Rouleau creó el personaje de Baymax, que apareció en la película Big Hero 6 junto al protagonista, Scott Adsit.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge de Big Hero 6 protagonitzat per Scott Adsit. El creador de Baymax és l' americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id2">Baymax és un personatge de la pel·lícula Big Hero 6, protagonitzada per Scott Adsit. El creador d'aquest personatge és el nord-americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">L'americà Duncan Rouleau va crear el personatge de Baymax, que va aparèixer a la pel·lícula Big Hero 6 al costat de l'estrella de la pel·lícula Scott Adsit.</lex>
+      <lex lang="eu" lid="Id1">Baymax Scott Adsit aktoreak antzeztutako Big Hero 6 telesaileko pertsonaia bat da. Baymaxen sortzailea Duncan Rouleau estatubatuarra da.</lex>
+      <lex lang="eu" lid="Id2">Baymax Scott Adsit aktoreak antzeztutako Big Hero 6 filmaren pertsonaia bat da. Pertsonaia honen sortzailea Duncan Rouleau estatubatuarra da.</lex>
+      <lex lang="eu" lid="Id3">Duncan Rouleau estatubatuarrak sortu zuen Baymax pertsonaia, Big Hero 6 filmean agertu zena, filmeko izarrarekin batera, Scott Adsit.</lex>
+      <lex lang="gl" lid="Id1">Baymax é un personaxe de Big Hero 6 protagonizado por Scott Adsit. O creador de Baymax é o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id2">Baymax é un personaxe da película Big Hero 6, protagonizada por Scott Adsit. O creador deste personaxe é o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">O estadounidense Duncan Rouleau creou o personaxe de Baymax que apareceu na película Big Hero 6 xunto á estrela da película, Scott Adsit.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id26" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Alan_Tudyk</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Alan_Tudyk</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Big_Hero_6_(filme) | Estrelado | Alan_Tudyk</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Big_Hero_6_(filma) | Antzezpena: | Alan_Tudyk</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Tudyk stars in the film, Big Hero 6 in which Baymax, created by the American Duncan Rouleau, is also a character.</lex>
+      <lex lang="en" lid="Id2">The American, Duncan Rouleau created the character of Baymax who appeared in the film Big Hero 6 which starred Alan Tudyk.</lex>
+      <lex lang="en" lid="Id3">American national Duncan Rouleau is the creator of the character Baymax, which featured in the film Big Hero 6 (starring Alan Tudyk).</lex>
+      <lex lang="es" lid="Id1">Alan Tudyk protagoniza la película Big Hero 6, en la que también aparece Baymax, creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">El Estadounidense Duncan Rouleau creó el personaje de Baymax, que apareció en la película Big Hero 6, protagonizada por Alan Tudyk.</lex>
+      <lex lang="es" lid="Id3">El Estadounidense Duncan Rouleau es el creador del personaje Baymax, que apareció en la película Big Hero 6 (protagonizada por Alan Tudyk).</lex>
+      <lex lang="ca" lid="Id1">Alan Tudyk protagonitza la pel·lícula, Big Hero 6 en la qual Baymax, creat per l'americà Duncan Rouleau, també és un personatge.</lex>
+      <lex lang="ca" lid="Id2">L'americà Duncan Rouleau va crear el personatge de Baymax, que va aparèixer a la pel·lícula Big Hero 6, protagonitzada per Alan Tudyk.</lex>
+      <lex lang="ca" lid="Id3">El nacional americà Duncan Rouleau és el creador del personatge Baymax, que va aparèixer a la pel·lícula Big Hero 6 (estrenada per Alan Tudyk).</lex>
+      <lex lang="eu" lid="Id1">Alan Tudyk Big Hero 6 filmean agertzen da, non Baymax, Duncan Rouleau estatubatuarrak sortutakoa, ere pertsonaia bat den.</lex>
+      <lex lang="eu" lid="Id2">Duncan Rouleau estatubatuarrak sortu zuen Baymax, Alan Tudykek antzeztutako Big Hero 6 filmean agertu zena.</lex>
+      <lex lang="eu" lid="Id3">Duncan Rouleau estatubatuarra da Baymax pertsonaiaren sortzailea, Alan Tudyk protagonista duen Big Hero 6 filmean agertzen dena.</lex>
+      <lex lang="gl" lid="Id1">Alan Tudyk protagoniza a película Big Hero 6 na que Baymax, creado polo estadounidense Duncan Rouleau, tamén é un personaxe.</lex>
+      <lex lang="gl" lid="Id2">O estadounidense Duncan Rouleau creou o personaxe de Baymax que apareceu na película Big Hero 6 protagonizada por Alan Tudyk.</lex>
+      <lex lang="gl" lid="Id3">O estadounidense Duncan Rouleau é o creador do personaxe Baymax, que apareceu na película Big Hero 6 (protagonizada por Alan Tudyk).</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id27" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Jerry_Ordway | Nacionalidad | Estadounidense</striple>
+        <striple>Bibbo_Bibbowski | NombreCompleto | Bo_Bibbowski</striple>
+        <striple>Bibbo_Bibbowski | Creador | Jerry_Ordway</striple>
+        <striple>Bibbo_Bibbowski | Creador | Marv_Wolfman</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Jerry_Ordway | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Bibbo_Bibbowski | NomComplet | Bo_Bibbowski</ctriple>
+        <ctriple>Bibbo_Bibbowski | Creador | Jerry_Ordway</ctriple>
+        <ctriple>Bibbo_Bibbowski | Creador | Marv_Wolfman</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Jerry_Ordway | Nacionalidade | Americanos</gtriple>
+        <gtriple>Bibbo_Bibbowski | NomeCompleto | Bo_Bibbowski</gtriple>
+        <gtriple>Bibbo_Bibbowski | Creador | Jerry_Ordway</gtriple>
+        <gtriple>Bibbo_Bibbowski | Creador | Marv_Wolfman</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Jerry_Ordway | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Bibbo_Bibbowski | IzenOsoa | Bo_Bibbowski-ren_izena_da.</btriple>
+        <btriple>Bibbo_Bibbowski | Sortzailea | Jerry_Ordway</btriple>
+        <btriple>Bibbo_Bibbowski | Sortzailea | Marv_Wolfman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bibbo Bibbowski is the full name of Bo Bibbowski created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex lang="en" lid="Id2">Bo (full name Bibbo) Bibbowski was created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex lang="en" lid="Id3">Marv Wolfman and the American, Jerry Ordway created Bo (full name Bibbo) Bibbowski.</lex>
+      <lex lang="es" lid="Id1">Bibbo Bibbowski es el nombre completo de Bo Bibbowski, creado por Marv Wolfman y el Estadounidense Jerry Ordway.</lex>
+      <lex lang="es" lid="Id2">Bo (de nombre completo Bibbo) Bibbowski fue creado por Marv Wolfman y el Estadounidense Jerry Ordway.</lex>
+      <lex lang="es" lid="Id3">Marv Wolfman y el Estadounidense Jerry Ordway crearon a Bo (de nombre completo Bibbo) Bibbowski.</lex>
+      <lex lang="ca" lid="Id1">Bibbo Bibbowski és el nom complet de Bo Bibbowski creat per Marv Wolfman i l'americà Jerry Ordway.</lex>
+      <lex lang="ca" lid="Id2">Bo (nom complet Bibbo) Bibbowski va ser creat per Marv Wolfman i l'americà Jerry Ordway.</lex>
+      <lex lang="ca" lid="Id3">Marv Wolfman i l'americà Jerry Ordway van crear Bo (nom complet Bibbo) Bibbowski.</lex>
+      <lex lang="eu" lid="Id1">Bibbo Bibbowski Marv Wolfmanek eta Jerry Ordway estatubatuarrak sortutako Bo Bibbowski izena da.</lex>
+      <lex lang="eu" lid="Id2">Bo (izena Bibbo) Bibbowski Marv Wolfmanek eta Jerry Ordway estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Marv Wolfman-ek eta Jerry Ordway estatubatuarrak sortu zuten Bo (izen osoa, Bibbo) Bibbowski.</lex>
+      <lex lang="gl" lid="Id1">Bibbo Bibbowski é o nome completo de Bo Bibbowski creado por Marv Wolfman e o estadounidense Jerry Ordway.</lex>
+      <lex lang="gl" lid="Id2">Bo (nome completo Bibbo) Bibbowski foi creado por Marv Wolfman e o estadounidense Jerry Ordway.</lex>
+      <lex lang="gl" lid="Id3">Marv Wolfman e o estadounidense Jerry Ordway crearon a Bo (nome completo Bibbo) Bibbowski.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id28" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Karl_Kesel | Nacionalidad | Estadounidense</striple>
+        <striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple>
+        <striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple>
+        <striple>Auron_(personaje_de_cómic) | Creador | Marv_Wolfman</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Karl_Kesel | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | NomComplet | Lambien</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | Creador | Karl_Kesel</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | Creador | Marv_Wolfman</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Karl_Kesel | Nacionalidade | Americanos</gtriple>
+        <gtriple>Auron_(comicsCharacter) | NomeCompleto | Lambien</gtriple>
+        <gtriple>Auron_(comicsCharacter) | Creador | Karl_Kesel</gtriple>
+        <gtriple>Auron_(comicsCharacter) | Creador | Marv_Wolfman</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Karl_Kesel_izan_zen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Auron_(comicsCharacter) | IzenOsoa | Lambien</btriple>
+        <btriple>Auron_(comicsCharacter) | Sortzailea | Karl_Kesel_izan_zen.</btriple>
+        <btriple>Auron_(comicsCharacter) | Sortzailea | Marv_Wolfman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character Auron (Lambien) was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex lang="en" lid="Id2">Auron (Lambien) is a comic character that was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex lang="en" lid="Id3">Marv Wolfman and the American Karl Kesel are the creators of the comic book character Auron, whose full name is Lambien.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Auron (Lambien) fue creado por Marv Wolfman y el Estadounidense Karl Kesel.</lex>
+      <lex lang="es" lid="Id2">Auron (Lambien) es un personaje de cómic creado por Marv Wolfman y el Estadounidense Karl Kesel.</lex>
+      <lex lang="es" lid="Id3">Marv Wolfman y el Estadounidense Karl Kesel son los creadores del personaje de cómic Auron, cuyo nombre completo es Lambien.</lex>
+      <lex lang="ca" lid="Id1">El personatge còmic Auron (Lambien) va ser creat conjuntament per Marv Wolfman i l'americà Karl Kesel.</lex>
+      <lex lang="ca" lid="Id2">Auron (Lambien) és un personatge de còmic creat per Marv Wolfman i Karl Kesel.</lex>
+      <lex lang="ca" lid="Id3">Marv Wolfman i l'americà Karl Kesel són els creadors del personatge del còmic Auron, el nom complet del qual és Lambien.</lex>
+      <lex lang="eu" lid="Id1">Auron komiki pertsonaia Marv Wolfman eta Karl Kesel estatubatuarrek sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Auron (Lambien) Marv Wolfmanek eta Karl Kesel estatubatuarrak sortutako komiki pertsonaia bat da.</lex>
+      <lex lang="eu" lid="Id3">Marv Wolfman eta Karl Kesel estatubatuarrak dira Auron komikiko pertsonaiaren sortzaileak. Auronen izen osoa Lambien da.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de banda deseñada Auron (Lambien) foi creado por Marv Wolfman e o estadounidense Karl Kesel.</lex>
+      <lex lang="gl" lid="Id2">Auron (Lambien) é un personaxe de banda deseñada creado por Marv Wolfman e o estadounidense Karl Kesel.</lex>
+      <lex lang="gl" lid="Id3">Marv Wolfman e o estadounidense Karl Kesel son os creadores do personaxe de banda deseñada Auron, cuxo nome completo é Lambien.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id29" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Karl_Kesel | Nacionalidad | Estadounidense</striple>
+        <striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple>
+        <striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple>
+        <striple>Auron_(personaje_de_cómic) | Creador | Walter_Simonson_(es_un_zombi)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Karl_Kesel | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | NomComplet | Lambien</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | Creador | Karl_Kesel</ctriple>
+        <ctriple>Auron_(personatge_de_còmics) | Creador | Walter_Simonson</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Karl_Kesel | Nacionalidade | Americanos</gtriple>
+        <gtriple>Auron_(comicsCharacter) | NomeCompleto | Lambien</gtriple>
+        <gtriple>Auron_(comicsCharacter) | Creador | Karl_Kesel</gtriple>
+        <gtriple>Auron_(comicsCharacter) | Creador | Walt_Simonson</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Karl_Kesel_izan_zen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Auron_(comicsCharacter) | IzenOsoa | Lambien</btriple>
+        <btriple>Auron_(comicsCharacter) | Sortzailea | Karl_Kesel_izan_zen.</btriple>
+        <btriple>Auron_(comicsCharacter) | Sortzailea | Walt_Simonson-ekin_hitz_egin_nahi_dut.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character of Auron (whose full name is Lambien) was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex lang="en" lid="Id2">The comic character of Auron has the full name Lambien. He was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex lang="en" lid="Id3">The comic book character Auron, with the full name Lambien, was created by Walt Simonson and Karl Kesel, who is from the United States.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic de Auron (cuyo nombre completo es Lambien) fue creado por Walt Simonson y el Estadounidense Karl Kesel.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic de Auron tiene el nombre completo de Lambien. Fue creado por Walt Simonson y el Estadounidense Karl Kesel.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Auron, de nombre completo Lambien, fue creado por Walt Simonson y el Estadounidense Karl Kesel.</lex>
+      <lex lang="ca" lid="Id1">El personatge còmic d'Auron (el nom complet del qual és Lambien) va ser creat per Walt Simonson i l'americà, Karl Kesel.</lex>
+      <lex lang="ca" lid="Id2">El personatge còmic d' Auron té el nom complet de Lambien. Va ser creat per Walt Simonson i l' americà Karl Kesel.</lex>
+      <lex lang="ca" lid="Id3">El personatge del còmic Auron, amb el nom complet Lambien, va ser creat per Walt Simonson i Karl Kesel, que és dels Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Auron (izen osoa: Lambien) Walt Simonson eta Karl Kesel estatubatuarrek sortutako komiki pertsonaia bat da.</lex>
+      <lex lang="eu" lid="Id2">Auron komiki pertsonaiaren izen osoa Lambien da. Walt Simonson eta Karl Kesel estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Auron komiki pertsonaia, Lambien izen osoarekin, Walt Simonson eta Karl Kesel-ek sortu zuten, Estatu Batuetakoa dena.</lex>
+      <lex lang="gl" lid="Id1">O personaxe cómico de Auron (cuxo nome completo é Lambien) foi creado por Walt Simonson e o estadounidense Karl Kesel.</lex>
+      <lex lang="gl" lid="Id2">O personaxe de banda deseñada de Auron ten o nome completo de Lambien. Foi creado por Walt Simonson e o estadounidense Karl Kesel.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Auron, co nome completo Lambien, foi creado por Walt Simonson e Karl Kesel, que é dos Estados Unidos.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id30" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Dan_Mishkin</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple>
+        <striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paris_Cullins | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Dan_Mishkin</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Paris_Cullins</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | NomAlternatiu | Larry_Bolatinsky</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paris_Cullins | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Dan_Mishkin</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Paris_Cullins</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | NomeAlternativo | Larry_Bolatinsky</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paris_Cullins-en_antzera. | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Dan_Mishkin</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Paris_Cullins-en_antzera.</btriple>
+        <btriple>Bolt_(comicsCharacter) | AlternatiboaIzena | Larry_Bolatinsky_naiz</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bolt is a comic character with the alternative name of Larry Bolatinsky. He was created by Dan Mishkin and the US national, Paris Cullins.</lex>
+      <lex lang="en" lid="Id2">Bolt (Larry Bolatinsky) is a comic character which was created by both Dan Mishkin and U.S. national Paris Cullins.</lex>
+      <lex lang="en" lid="Id3">The comic book character Bolt also known as Larry Bolatinsky was created by Dan Mishkin and the American Paris Cullins.</lex>
+      <lex lang="es" lid="Id1">Bolt es un personaje de cómic con el nombre alternativo de Larry Bolatinsky. Fue creado por Dan Mishkin y el estadounidense Paris Cullins.</lex>
+      <lex lang="es" lid="Id2">Bolt (Larry Bolatinsky) es un personaje de cómic creado por Dan Mishkin y el estadounidense Paris Cullins.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Bolt, también conocido como Larry Bolatinsky, fue creado por Dan Mishkin y el estadounidense Paris Cullins.</lex>
+      <lex lang="ca" lid="Id1">Bolt és un personatge de còmic amb el nom alternatiu de Larry Bolatinsky. Va ser creat per Dan Mishkin i la ciutadana nord-americana, Paris Cullins.</lex>
+      <lex lang="ca" lid="Id2">Bolt (Larry Bolatinsky) és un personatge de còmic que va ser creat per Dan Mishkin i l'estatunidenca Paris Cullins.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic Bolt també conegut com Larry Bolatinsky va ser creat per Dan Mishkin i l'americà Paris Cullins.</lex>
+      <lex lang="eu" lid="Id1">Bolt komikietako pertsonaia bat da, Larry Bolatinsky izen alternatiboarekin. Dan Mishkin eta Paris Cullins estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Bolt (Larry Bolatinsky) Dan Mishkinek eta Paris Cullins estatubatuarrak sortutako komiki pertsonaia bat da.</lex>
+      <lex lang="eu" lid="Id3">Bolt komiki pertsonaia, Larry Bolatinsky izenarekin ere ezaguna, Dan Mishkinek eta Paris Cullins estatubatuarrak sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">Bolt é un personaxe de banda deseñada co nome alternativo de Larry Bolatinsky. Foi creado por Dan Mishkin e a estadounidense Paris Cullins.</lex>
+      <lex lang="gl" lid="Id2">Bolt (Larry Bolatinsky) é un personaxe de banda deseñada creado por Dan Mishkin e o estadounidense Paris Cullins.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Bolt tamén coñecido como Larry Bolatinsky foi creado por Dan Mishkin e o estadounidense Paris Cullins.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id31" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Gary_Cohn</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple>
+        <striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paris_Cullins | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Gary_Cohn_(còmic)</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Paris_Cullins</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | NomAlternatiu | Larry_Bolatinsky</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paris_Cullins | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Gary_Cohn_(cómics)</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Paris_Cullins</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | NomeAlternativo | Larry_Bolatinsky</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paris_Cullins-en_antzera. | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Gary_Cohn_(komikiak)</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Paris_Cullins-en_antzera.</btriple>
+        <btriple>Bolt_(comicsCharacter) | AlternatiboaIzena | Larry_Bolatinsky_naiz</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The US national, Paris Cullins along with comic book writer, Gary Cohn created the comic character of Bolt. The character has the alternative name of Larry Bolatinsky.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt, or otherwise known as Larry Bolatinsky, was created by both Gary Cohn and U.S national Paris Cullins.</lex>
+      <lex lang="en" lid="Id3">Bolt, also known as Larry Bolatinsky, is a comic book character created by Gary Cohn and the United States national Paris Cullins.</lex>
+      <lex lang="es" lid="Id1">El estadounidense Paris Cullins y el guionista de cómics Gary Cohn crearon el personaje de Bolt. El personaje tiene el nombre alternativo de Larry Bolatinsky.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic Bolt, o también conocido como Larry Bolatinsky, fue creado por Gary Cohn y U.S. national Paris Cullins.</lex>
+      <lex lang="es" lid="Id3">Bolt, también conocido como Larry Bolatinsky, es un personaje de cómic creado por Gary Cohn y la estadounidense Paris Cullins.</lex>
+      <lex lang="ca" lid="Id1">La ciutadana dels Estats Units, Paris Cullins juntament amb l'escriptor de còmics, Gary Cohn van crear el personatge de còmic de Bolt. El personatge té el nom alternatiu de Larry Bolatinsky.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic Bolt, o també conegut com Larry Bolatinsky, va ser creat per Gary Cohn i l'estatunidenca Paris Cullins.</lex>
+      <lex lang="ca" lid="Id3">Bolt, també conegut com Larry Bolatinsky, és un personatge de còmic creat per Gary Cohn i la nacional dels Estats Units Paris Cullins.</lex>
+      <lex lang="eu" lid="Id1">Paris Cullins estatubatuarrak eta Gary Cohn komiki idazleak Bolt komiki pertsonaia sortu zuten. Pertsonaiak Larry Bolatinsky izen alternatiboa du.</lex>
+      <lex lang="eu" lid="Id2">Bolt komiki-pertsonaia, edo Larry Bolatinsky bezala ezaguna, Gary Cohnek eta Paris Cullins estatubatuarrak sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Bolt, Larry Bolatinsky bezala ere ezaguna, Gary Cohn eta Paris Cullins estatubatuarrek sortutako komiki pertsonaia bat da.</lex>
+      <lex lang="gl" lid="Id1">O estadounidense Paris Cullins xunto co escritor de banda deseñada Gary Cohn crearon o personaxe de banda deseñada de Bolt. O personaxe ten o nome alternativo de Larry Bolatinsky.</lex>
+      <lex lang="gl" lid="Id2">O personaxe cómico Bolt, tamén coñecido como Larry Bolatinsky, foi creado por Gary Cohn e a estadounidense Paris Cullins.</lex>
+      <lex lang="gl" lid="Id3">Bolt, tamén coñecido como Larry Bolatinsky, é un personaxe de banda deseñada creado por Gary Cohn e a estadounidense Paris Cullins.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple>
+        <striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paris_Cullins | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Paris_Cullins</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Ernie_Colón</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | NomAlternatiu | Larry_Bolatinsky</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paris_Cullins | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Paris_Cullins</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Ernie_Colón</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | NomeAlternativo | Larry_Bolatinsky</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paris_Cullins-en_antzera. | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Paris_Cullins-en_antzera.</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Ernie_Colón</btriple>
+        <btriple>Bolt_(comicsCharacter) | AlternatiboaIzena | Larry_Bolatinsky_naiz</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Larry Bolatinsky is the alternative name for the comic book character Bolt, which was created by Ernie Colon and the American Paris Cullins.</lex>
+      <lex lang="en" lid="Id2">Ernie Colon and the US national Paris Cullins created the comic character of Bolt, who has the alternative name of Larry Bolatinsky.</lex>
+      <lex lang="en" lid="Id3">Ernie Colón and the American Paris Cullins were among the creators of the comic book character Bolt, also known as Larry Bolatinsky.</lex>
+      <lex lang="es" lid="Id1">Larry Bolatinsky es el nombre alternativo del personaje de cómic Bolt, creado por Ernie Colon y el estadounidense Paris Cullins.</lex>
+      <lex lang="es" lid="Id2">Ernie Colon y el estadounidense Paris Cullins crearon el personaje cómico de Bolt, que tiene el nombre alternativo de Larry Bolatinsky.</lex>
+      <lex lang="es" lid="Id3">Ernie Colón y el estadounidense Paris Cullins fueron algunos de los creadores del personaje de cómic Bolt, también conocido como Larry Bolatinsky.</lex>
+      <lex lang="ca" lid="Id1">Larry Bolatinsky és el nom alternatiu del personatge de còmic Bolt, que va ser creat per Ernie Colon i l'americà Paris Cullins.</lex>
+      <lex lang="ca" lid="Id2">Ernie Colon i el nord-americà Paris Cullins van crear el personatge còmic de Bolt, que té el nom alternatiu de Larry Bolatinsky.</lex>
+      <lex lang="ca" lid="Id3">Ernie Colón i l'americà Paris Cullins van ser entre els creadors del personatge de còmic Bolt, també conegut com Larry Bolatinsky.</lex>
+      <lex lang="eu" lid="Id1">Larry Bolatinsky da Ernie Colonek eta Paris Cullins estatubatuarrak sortutako Bolt komikiko pertsonaiaren izen alternatiboa.</lex>
+      <lex lang="eu" lid="Id2">Ernie Colonek eta Paris Cullins estatubatuarrak Bolt komiki pertsonaia sortu zuten, Larry Bolatinsky izen alternatiboa duena.</lex>
+      <lex lang="eu" lid="Id3">Ernie Colón eta Paris Cullins estatubatuarrek Bolt komiki pertsonaia sortu zuten, Larry Bolatinsky izenarekin ere ezaguna.</lex>
+      <lex lang="gl" lid="Id1">Larry Bolatinsky é o nome alternativo para o personaxe de banda deseñada Bolt, que foi creado por Ernie Colon e o estadounidense Paris Cullins.</lex>
+      <lex lang="gl" lid="Id2">Ernie Colon e o estadounidense Paris Cullins crearon o personaxe cómico de Bolt, que ten o nome alternativo de Larry Bolatinsky.</lex>
+      <lex lang="gl" lid="Id3">Ernie Colón e o estadounidense Paris Cullins estaban entre os creadores do personaxe de banda deseñada Bolt, tamén coñecido como Larry Bolatinsky.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>René_Goscinny | Nacionalidad | franceses</striple>
+        <striple>Astérix_(personaje_de_cómic) | Creador | René_Goscinny</striple>
+        <striple>Astérix_(personaje_de_cómic) | NombreAlternativo | Astérix</striple>
+        <striple>Astérix_(personaje_de_cómic) | Creador | Albert_Uderzo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>René_Goscinny | Nacionalitat | Persones_franceses</ctriple>
+        <ctriple>Asterix_(personatge_de_còmics) | Creador | René_Goscinny</ctriple>
+        <ctriple>Asterix_(personatge_de_còmics) | NomAlternatiu | Astèrix</ctriple>
+        <ctriple>Asterix_(personatge_de_còmics) | Creador | Albert_Uderzo</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>René_Goscinny | Nacionalidade | Persoas_francesas</gtriple>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | Creador | René_Goscinny</gtriple>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | NomeAlternativo | Astérix</gtriple>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | Creador | Albert_Uderzo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>René_Goscinny | Nazionalitatea | Frantziako_pertsonak</btriple>
+        <btriple>Asterix_(komiki_pertsonaia) | Sortzailea | René_Goscinny</btriple>
+        <btriple>Asterix_(komiki_pertsonaia) | AlternatiboaIzena | Asterix</btriple>
+        <btriple>Asterix_(komiki_pertsonaia) | Sortzailea | Albert_Uderzo</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex lang="en" lid="Id2">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Astérix, a veces llamado "Astérix", fue creado por Albert Uderzo y el francés René Goscinny.</lex>
+      <lex lang="es" lid="Id2">Albert Uderzo y el francés René Goscinny son los creadores del personaje de cómic Astérix.</lex>
+      <lex lang="ca" lid="Id1">El personatge còmic Astérix és a vegades anomenat "Astérix" i va ser creat per Albert Uderzo i el nacional francès, Rene Goscinny.</lex>
+      <lex lang="ca" lid="Id2">Albert Uderzo i René Goscinny, de naixement francès, són els creadors del personatge de còmic Asterix, també conegut com Astérix.</lex>
+      <lex lang="eu" lid="Id1">Asterix komiki-pertsonaia "Astérix" deitzen da batzuetan eta Albert Uderzok eta Rene Goscinny frantsesak sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Albert Uderzo eta René Goscinny frantsesak dira Asterix komikiko pertsonaiaren sortzaileak.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de cómics Asterix é ás veces chamado "Astérix" e foi creado por Albert Uderzo e o nacional francés, Rene Goscinny.</lex>
+      <lex lang="gl" lid="Id2">Albert Uderzo e o francés René Goscinny son os creadores do personaxe de banda deseñada Asterix, tamén coñecido como Astérix.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Roger_McKenzie_(guionista_de_cómics) | Nacionalidad | Estados_Unidos</striple>
+        <striple>Ben_Urich | Creador | Roger_McKenzie_(guionista_de_cómics)</striple>
+        <striple>Ben_Urich | Creador | Gene_Colan</striple>
+        <striple>Ben_Urich | NombreCompleto | Benjamin_Urich</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Roger_McKenzie_(escriptor_de_còmics) | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Ben_Urich | Creador | Roger_McKenzie_(escriptor_de_còmics)</ctriple>
+        <ctriple>Ben_Urich | Creador | Gene_Colan</ctriple>
+        <ctriple>Ben_Urich | NomComplet | Benjamin_Urich</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Roger_McKenzie_(escritor_de_banda_deseñada) | Nacionalidade | Estados_Unidos</gtriple>
+        <gtriple>Ben_Urich | Creador | Roger_McKenzie_(escritor_de_banda_deseñada)</gtriple>
+        <gtriple>Ben_Urich | Creador | Gene_Colan</gtriple>
+        <gtriple>Ben_Urich | NomeCompleto | Benjamin_Urich</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Roger_McKenzie_(komiki-idazlea) | Nazionalitatea | Estatu_Batuak</btriple>
+        <btriple>Ben_Urich | Sortzailea | Roger_McKenzie_(komiki-idazlea)</btriple>
+        <btriple>Ben_Urich | Sortzailea | Gene_Colan</btriple>
+        <btriple>Ben_Urich | IzenOsoa | Benjamin_Urich</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The American comic book writer Roger McKenzie and Gene Colan created the character Ben Urich, who has the full name Benjamin Urich.</lex>
+      <lex lang="en" lid="Id2">The comic book writer, Roger McKenzie is an American and along with Gene Colan created Ben (Benjamin) Urich.</lex>
+      <lex lang="en" lid="Id3">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer Roger Mckenzie who is American.</lex>
+      <lex lang="es" lid="Id1">El guionista de cómics estadounidense Roger McKenzie y Gene Colan crearon el personaje Ben Urich, cuyo nombre completo es Benjamin Urich.</lex>
+      <lex lang="es" lid="Id2">El guionista de cómics Roger McKenzie es estadounidense y, junto con Gene Colan, creó a Ben (Benjamin) Urich.</lex>
+      <lex lang="es" lid="Id3">El personaje de Ben Urich, cuyo nombre completo es Benjamin Urich, fue creado por Gene Colan y el guionista de cómics estadounidense Roger Mckenzie.</lex>
+      <lex lang="ca" lid="Id1">L'escriptor de còmics americà Roger McKenzie i Gene Colan van crear el personatge de Ben Urich, que té el nom complet de Benjamin Urich.</lex>
+      <lex lang="ca" lid="Id2">L'escriptor de còmics, Roger McKenzie és un americà i juntament amb Gene Colan va crear Ben (Benjamin) Urich.</lex>
+      <lex lang="ca" lid="Id3">El personatge de Ben Urich, el nom complet del qual és Benjamin Urich, va ser creat per Gene Colan i l'escriptor de còmics Roger Mckenzie, que és americà.</lex>
+      <lex lang="eu" lid="Id1">Roger McKenzie eta Gene Colan komiki idazle estatubatuarrek sortu zuten Ben Urich pertsonaia, Benjamin Urich izena duena.</lex>
+      <lex lang="eu" lid="Id2">Roger McKenzie komikigilea estatubatuarra da eta Gene Colanekin batera sortu zuen Ben (Benjamin) Urich.</lex>
+      <lex lang="eu" lid="Id3">Ben Urich pertsonaiaren izena Benjamin Urich da. Gene Colan eta Roger Mckenzie komikigile amerikarrak sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">O escritor de banda deseñada estadounidense Roger McKenzie e Gene Colan crearon o personaxe de Ben Urich, que ten o nome completo de Benjamin Urich.</lex>
+      <lex lang="gl" lid="Id2">O escritor de banda deseñada, Roger McKenzie é un estadounidense e xunto con Gene Colan creou a Ben (Benjamin) Urich.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de Ben Urich, cuxo nome completo é Benjamin Urich, foi creado por Gene Colan e o escritor de banda deseñada estadounidense Roger McKenzie.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+        <mtriple>Black_Pirate | alternativeName | "Jon Valor"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sheldon_Moldoff | Nacionalidad | Estadounidense</striple>
+        <striple>Pirata_negro | Creador | Sheldon_Moldoff</striple>
+        <striple>Sheldon_Moldoff | Premio | Premio_Inkpot</striple>
+        <striple>Pirata_negro | NombreAlternativo | Jon_Valor</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Sheldon_Moldoff | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Pirata_negre | Creador | Sheldon_Moldoff</ctriple>
+        <ctriple>Sheldon_Moldoff | Premi | Premi_Inkpot</ctriple>
+        <ctriple>Pirata_negre | NomAlternatiu | Jon_Valor</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Sheldon_Moldoff | Nacionalidade | Americanos</gtriple>
+        <gtriple>Pirata_negro | Creador | Sheldon_Moldoff</gtriple>
+        <gtriple>Sheldon_Moldoff | Premio | Premio_Inkpot</gtriple>
+        <gtriple>Pirata_negro | NomeAlternativo | Jon_Valor</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Sheldon_Moldoff | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Pirata_beltza. | Sortzailea | Sheldon_Moldoff</btriple>
+        <btriple>Sheldon_Moldoff | Saria | Inkpot_saria</btriple>
+        <btriple>Pirata_beltza. | AlternatiboaIzena | Jon_Valor</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Black Pirate, also know as Jon Valor, was created by the Inkpot Award winning American, Sheldon Moldoff.</lex>
+      <lex lang="en" lid="Id2">American Sheldon Moldoff, who has won the Inkpot Award, created The Black Pirate, whose alternative name is Jon Valor.</lex>
+      <lex lang="en" lid="Id3">The black pirate, also known as Jon Valor, was created by Sheldon Moldoff, an American who has won the Inkpot award.</lex>
+      <lex lang="es" lid="Id1">El Pirata Negro, también conocido como Jon Valor, fue creado por el Estadounidense Sheldon Moldoff, ganador del premio Inkpot.</lex>
+      <lex lang="es" lid="Id2">El Estadounidense Sheldon Moldoff, ganador del Premio Inkpot, creó El Pirata Negro, cuyo nombre alternativo es Jon Valor.</lex>
+      <lex lang="es" lid="Id3">El pirata negro, también conocido como Jon Valor, fue creado por el Estadounidense Sheldon Moldoff, ganador del premio Inkpot.</lex>
+      <lex lang="ca" lid="Id1">El pirata negre, també conegut com a Jon Valor, va ser creat pel guanyador del premi Inkpot, Sheldon Moldoff.</lex>
+      <lex lang="ca" lid="Id2">L'americà Sheldon Moldoff, que ha guanyat el premi Inkpot, va crear The Black Pirate, el nom alternatiu del qual és Jon Valor.</lex>
+      <lex lang="ca" lid="Id3">El pirata negre, també conegut com Jon Valor, va ser creat per Sheldon Moldoff, un americà que ha guanyat el premi Inkpot.</lex>
+      <lex lang="eu" lid="Id1">Pirata beltza, Jon Valor izenarekin ere ezaguna, Sheldon Moldoff estatubatuarrak sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Sheldon Moldoff estatubatuarrak, Inkpot saria irabazi duena, The Black Pirate sortu zuen, Jon Valor izenarekin.</lex>
+      <lex lang="eu" lid="Id3">Jon Valor izenarekin ere ezaguna den pirata beltza Sheldon Moldoff estatubatuarrak sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">O Pirata Negro, tamén coñecido como Jon Valor, foi creado polo estadounidense gañador do premio Inkpot, Sheldon Moldoff.</lex>
+      <lex lang="gl" lid="Id2">O estadounidense Sheldon Moldoff, que gañou o premio Inkpot, creou The Black Pirate, cuxo nome alternativo é Jon Valor.</lex>
+      <lex lang="gl" lid="Id3">O pirata negro, tamén coñecido como Jon Valor, foi creado por Sheldon Moldoff, un estadounidense que gañou o premio Inkpot.</lex>
+      </entry>
+    </entries>
+  </benchmark>

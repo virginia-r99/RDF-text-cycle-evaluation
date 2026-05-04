@@ -1,0 +1,1142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | shipBeam | "32.2"^^xsd:double</otriple>
+        <otriple>AIDAstella | topSpeed | "38.892"^^xsd:double</otriple>
+        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
+        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+        <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
+        <mtriple>AIDAstella | topSpeed | 38.892</mtriple>
+        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAstella | Operador | AIDA_Cruises</striple>
+        <striple>AIDAstella | VigaDelBuque | 32.2</striple>
+        <striple>AIDAstella | VelocidadMáxima | 38.892</striple>
+        <striple>AIDAstella | Constructor | Meyer_Werft</striple>
+        <striple>AIDAstella | Longitud | 253260.0_(milímetros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AIDAstella | Operador | AIDA_Cruises</ctriple>
+        <ctriple>AIDAstella | BeamDeVaixell | 32.2</ctriple>
+        <ctriple>AIDAstella | VelocitatMàxima | 38.892</ctriple>
+        <ctriple>AIDAstella | Constructor | Meyer_Werft</ctriple>
+        <ctriple>AIDAstella | Longitud | 253260.0_(mil·límetres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AIDAstella | Operador | AIDA_Cruises</gtriple>
+        <gtriple>AIDAstella | BarcoFeixe | 32.2</gtriple>
+        <gtriple>AIDAstella | VelocidadeMáxima | 38.892</gtriple>
+        <gtriple>AIDAstella | Construtor | Meyer_Werft</gtriple>
+        <gtriple>AIDAstella | Lonxitude | 253260.0_(milímetros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AIDAstella | Operadore | AIDA_Cruises</btriple>
+        <btriple>AIDAstella | Itsasontzia | 32.2</btriple>
+        <btriple>AIDAstella | GoikoAbiadura | 38.892</btriple>
+        <btriple>AIDAstella | Eraikitzailea. | Meyer_ontziola.</btriple>
+        <btriple>AIDAstella | Luzera | 253260,0_(milimetroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line. The AIDAstella has a beam of 32.2 m, is 253260.0 millimetres in length and has a top speed of 38.892.</lex>
+      <lex lang="en" lid="Id2">The AIDAstella was built by Meyer Werft and operated by the AIDA Cruise Line. It is 253260.0 millimetres long with a beam of 32.2 metres and a top speed of 38.892 km/h.</lex>
+      <lex lang="en" lid="Id3">The AIDAstella is operated by AIDA Cruise Line and was built by Meyer Werft. It is 253260.0 millimetres in length, has a beam of 32.2m and a top speed of 38.892 km/h.</lex>
+      <lex lang="es" lid="Id1">El AIDAstella fue construido por Meyer Werft y es operado por AIDA Cruise Line. El AIDAstella tiene una manga de 32,2 m, una eslora de 253260,0 milímetros y una velocidad máxima de 38,892.</lex>.
+      <lex lang="es" lid="Id2">El AIDAstella fue construido por Meyer Werft y operado por AIDA Cruise Line. Tiene 253260,0 milímetros de longitud con una manga de 32,2 metros y una velocidad máxima de 38,892 km/h.</lex>
+      <lex lang="es" lid="Id3">El AIDAstella está operado por AIDA Cruise Line y fue construido por Meyer Werft. Tiene una longitud de 253260,0 milímetros, una manga de 32,2 m y una velocidad máxima de 38,892 km/h.</lex>
+      <lex lang="ca" lid="Id1">L' AIDAstella va ser construït per Meyer Werft i és operat per AIDA Cruise Line. L' AIDAstella té una envergadura de 32. 2 m, és de 253260. 0 mil· límetres de longitud i té una velocitat màxima de 38. 892.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAstella va ser construït per Meyer Werft i operat per AIDA Cruise Line. Té 253.260,0 mil·límetres de llarg amb una amplada de 32,2 metres i una velocitat màxima de 38,892 km/h.</lex>
+      <lex lang="ca" lid="Id3">L'AIDAstella és operat per AIDA Cruise Line i va ser construït per Meyer Werft. Té 253260.0 mil·límetres de llargada, té una envergadura de 32.2m i una velocitat màxima de 38.892 km/h.</lex>
+      <lex lang="eu" lid="Id1">AIDAstella Meyer Werft-ek eraiki zuen eta AIDA Cruise Line-k kudeatzen du. AIDAstellak 32,2 metroko zabalera du, 253260,0 milimetroko luzera eta 38,892 kilometro orduko abiadura du.</lex>
+      <lex lang="eu" lid="Id2">AIDAstella Meyer Werft-ek eraiki zuen eta AIDA Cruise Line-k kudeatzen du. 253.260,0 milimetroko luzera du, 32,2 metroko zabalera eta 38,892 km/h-ko gehienezko abiadura.</lex>
+      <lex lang="eu" lid="Id3">AIDAstella AIDA Cruise Line-k kudeatzen du eta Meyer Werft-ek eraiki zuen. 253.260,0 milimetroko luzera du, 32,2 metroko zabalera eta 38,892 km/h-ko gehienezko abiadura.</lex>
+      <lex lang="gl" lid="Id1">O AIDAstella foi construído por Meyer Werft e é operado por AIDA Cruise Line. O AIDAstella ten un largo de 32, 2 m, mide 253260, 0 milímetros e ten unha velocidade máxima de 38, 892.</lex>
+      <lex lang="gl" lid="Id2">O AIDAstella foi construído por Meyer Werft e operado pola AIDA Cruise Line. Ten unha eslora de 253260,0 milímetros, unha manga de 32,2 metros e unha velocidade máxima de 38,892 km/h.</lex>
+      <lex lang="gl" lid="Id3">O AIDAstella é operado por AIDA Cruise Line e foi construído por Meyer Werft. É de 253260,0 milímetros de lonxitude, ten unha viga de 32,2 m e unha velocidade máxima de 38,892 km / h.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>ALCO_RS-3 | builder | American_Locomotive_Company</otriple>
+        <otriple>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>ALCO_RS-3 | cylindercount | 12</otriple>
+        <otriple>ALCO_RS-3 | enginetype | V12_engine</otriple>
+        <otriple>ALCO_RS-3 | builddate | "May 1950 &amp;ndash; August 1956"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALCO_RS-3 | builder | American_Locomotive_Company</mtriple>
+        <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
+        <mtriple>ALCO_RS-3 | cylinderCount | 12</mtriple>
+        <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
+        <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ALCO_RS-3 | Constructor | Alco</striple>
+        <striple>ALCO_RS-3 | Longitud | 17068,8_(milímetros)</striple>
+        <striple>ALCO_RS-3 | RecuentoDeCilindros | 12</striple>
+        <striple>ALCO_RS-3 | Motor | V12</striple>
+        <striple>ALCO_RS-3 | FechaDeConstrucción | mayo_de_1950_-_agosto_de_1956</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Constructor | American_Locomotive_Company</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Longitud | 17068.8_(mil·límetres)</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | CompteDeCilindres | 12</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Motor | Motor_V12</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | DataDeConstrucció | Maig_1950_-_agost_1956</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>ALCO_RS-3 | Construtor | American_Locomotive_Company</gtriple>
+        <gtriple>ALCO_RS-3 | Lonxitude | 17068.8_(milímetros)</gtriple>
+        <gtriple>ALCO_RS-3 | NúmeroDeCilindros | 12</gtriple>
+        <gtriple>ALCO_RS-3 | Motor | Motor_V12</gtriple>
+        <gtriple>ALCO_RS-3 | DataDeConstrución | Maio_de_1950_-_agosto_de_1956</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alko_RS-3_bat_da. | Eraikitzailea. | American_Locomotive_Company</btriple>
+        <btriple>Alko_RS-3_bat_da. | Luzera | 17068,8_(milimetroetan)</btriple>
+        <btriple>Alko_RS-3_bat_da. | ZilindroKopurua | 12</btriple>
+        <btriple>Alko_RS-3_bat_da. | Motorra | V12_motorra</btriple>
+        <btriple>Alko_RS-3_bat_da. | Eraikitze-data | 1950eko_maiatza_-_1956ko_abuztua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and its length is 17068.8 millimetres.</lex>
+      <lex lang="en" lid="Id2">The ALCO RS-3, built by the American Locomotive Company, has a V12 cylinder engine and is 17068.8mm long. It was produced from May 1950 to August 1956.</lex>
+      <lex lang="en" lid="Id3">The ALCO RS-3 was produced from May 1950 to August 1956 by the American Locomotive Company. It has a V12, 12 cylinder engine and is 17068.8mm long.</lex>
+      <lex lang="es" lid="Id1">La ALCO RS-3, fabricada entre mayo de 1950 y agosto de 1956 por la American Locomotive Company, tiene 12 cilindros y un motor V12 y su longitud es de 17068,8 milímetros.</lex>
+      <lex lang="es" lid="Id2">La ALCO RS-3, construida por la American Locomotive Company, tiene un motor de 12 cilindros en V y una longitud de 17068,8 milímetros. Se fabricó desde mayo de 1950 hasta agosto de 1956.</lex>
+      <lex lang="es" lid="Id3">La ALCO RS-3 fue producida desde mayo de 1950 hasta agosto de 1956 por la American Locomotive Company. Tiene un motor V12 de 12 cilindros y una longitud de 17068,8 mm.</lex>
+      <lex lang="ca" lid="Id1">L'ALCO RS-3, produït entre maig de 1950 i agost de 1956 per l'American Locomotive Company, té 12 cilindres i un motor V12 i la seva longitud és de 17068,8 mil·límetres.</lex>
+      <lex lang="ca" lid="Id2">L'ALCO RS-3, construït per l'American Locomotive Company, té un motor de cilindres V12 i fa 17.068,8 mm de llarg. Es va fabricar del maig del 1950 a l'agost del 1956.</lex>
+      <lex lang="ca" lid="Id3">L' ALCO RS- 3 va ser produït des de maig de 1950 fins a agost de 1956 per l' American Locomotive Company. Té un motor V12 de 12 cilindres i és de 17068, 8 mm de llarg.</lex>
+      <lex lang="eu" lid="Id1">ALCO RS-3, 1950eko maiatzaren eta 1956ko abuztuaren artean American Locomotive Company-k ekoitzitakoa, 12 zilindro eta V12 motorra ditu eta 17068,8 milimetro luze da.</lex>
+      <lex lang="eu" lid="Id2">ALCO RS-3, American Locomotive Companyk eraikia, V12 zilindrodun motorra du eta 17068,8 mm luze da. 1950eko maiatzetik 1956ko abuztura bitartean ekoiztua izan zen.</lex>
+      <lex lang="eu" lid="Id3">ALCO RS-3 1950eko maiatzetik 1956ko abuztua arte ekoitzi zuen American Locomotive Company enpresak. V12, 12 zilindroko motorra du eta 17068,8 mm luze da.</lex>
+      <lex lang="gl" lid="Id1">O ALCO RS-3, producido entre maio de 1950 e agosto de 1956 pola American Locomotive Company, ten 12 cilindros e un motor V12 e a súa lonxitude é de 17068,8 milímetros.</lex>
+      <lex lang="gl" lid="Id2">O ALCO RS- 3, construído pola American Locomotive Company, ten un motor de 12 cilindros en V e ten 17068, 8 mm de lonxitude. Foi producido desde maio de 1950 ata agosto de 1956.</lex>
+      <lex lang="gl" lid="Id3">O ALCO RS- 3 foi producido de maio de 1950 a agosto de 1956 pola American Locomotive Company. Ten un motor V12 de 12 cilindros e mide 17068, 8 mm de longo.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>AMC_Matador | aka | "American Motors Matador"@en</otriple>
+        <otriple>AMC_Matador | assembly | Thames,_New_Zealand</otriple>
+        <otriple>AMC_Matador | bodyStyle | Station_wagon</otriple>
+        <otriple>AMC_Matador | class | Mid-size_car</otriple>
+        <otriple>AMC_Matador | engine | "V8"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | alternativeName | "American Motors Matador"</mtriple>
+        <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
+        <mtriple>AMC_Matador | bodyStyle | Station_wagon</mtriple>
+        <mtriple>AMC_Matador | class | Mid-size_car</mtriple>
+        <mtriple>AMC_Matador | engine | AMC_V8_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | NombreAlternativo | American_Motors_Matador</striple>
+        <striple>AMC_Matador | Montaje | Thames,_Nueva_Zelanda</striple>
+        <striple>AMC_Matador | EstiloDeCarrocería | familiar_(automóvil)</striple>
+        <striple>AMC_Matador | Clase | Coche_de_tamaño_medio</striple>
+        <striple>AMC_Matador | Motor | Motor_AMC_V8</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | NomAlternatiu | American_Motors_Matador</ctriple>
+        <ctriple>AMC_Matador | Assemblea | Thames,_Nova_Zelanda</ctriple>
+        <ctriple>AMC_Matador | EstilDelCos | Familiar</ctriple>
+        <ctriple>AMC_Matador | Classe | mid_size</ctriple>
+        <ctriple>AMC_Matador | Motor | Motor_AMC_V8</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AMC_Matador | NomeAlternativo | American_Motors_Matador</gtriple>
+        <gtriple>AMC_Matador | Montaxe | Thames,_Nova_Zelandia</gtriple>
+        <gtriple>AMC_Matador | EstiloDoCorpo | Vehículos_eléctricos</gtriple>
+        <gtriple>AMC_Matador | Clasificación | Coche_de_tamaño_medio</gtriple>
+        <gtriple>AMC_Matador | Motor | Motor_AMC_V8</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AMC_Matador | AlternatiboaIzena | American_Motors_Matador</btriple>
+        <btriple>AMC_Matador | Assemblage | Thames,_Zeelanda_Berria</btriple>
+        <btriple>AMC_Matador | GorputzarenEstiloa | Familiako_autoa</btriple>
+        <btriple>AMC_Matador | Klasea | Auto_ertaina</btriple>
+        <btriple>AMC_Matador | Motorra | AMC_V8_motorra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The AMC Matador (also known as the American Motors Matador) is assembled in Thames, New Zealand. Classified as a mid-size car, it features a wagon style body and an AMC V8 engine.</lex>
+      <lex lang="en" lid="Id2">The AMC Matador, also known as American Motors Matador, was assembled in Thames, New Zealand. The AMC Matador is a mid-size station wagon with a V8 engine type.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador aka the American Motors Matador, is assembled in Thames, New Zealand, has a v8 engine, and is classified as a mid-size station wagon.</lex>
+      <lex lang="es" lid="Id1">El AMC Matador (también conocido como American Motors Matador) se ensambla en Thames, Nueva Zelanda. Clasificado como un coche de tamaño medio, cuenta con una carrocería estilo vagón y un motor AMC V8.</lex>
+      <lex lang="es" lid="Id2">El AMC Matador, también conocido como American Motors Matador, se ensambló en Thames, Nueva Zelanda. El AMC Matador es un station wagon de tamaño medio con un tipo de motor V8.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador, también conocido como American Motors Matador, se ensambló en Thames, Nueva Zelanda, tiene un motor v8 y está clasificado como un station wagon de tamaño medio.</lex>
+      <lex lang="ca" lid="Id1">L'AMC Matador (també conegut com l'American Motors Matador) s'acobla a Thames, Nova Zelanda. Classificat com un cotxe de mida mitjana, té un cos d'estil familiar i un motor AMC V8.</lex>
+      <lex lang="ca" lid="Id2">L'AMC Matador, també conegut com a American Motors Matador, es va acoblar a Thames, Nova Zelanda. L'AMC Matador és una furgoneta de mida mitjana amb un motor V8.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador, també conegut com l'American Motors Matador, es munta a Thames, Nova Zelanda, té un motor v8, i es classifica com una furgoneta de mida mitjana.</lex>
+      <lex lang="eu" lid="Id1">AMC Matador (American Motors Matador bezala ere ezaguna) Thames-en (Zeelanda Berria) muntatzen da. Tamaina ertaineko auto gisa sailkatzen da, wagon estiloko gorputza eta AMC V8 motorra ditu.</lex>
+      <lex lang="eu" lid="Id2">AMC Matador, American Motors Matador bezala ere ezaguna, Zeelanda Berriko Thames hirian eraikitako erdi mailako furgoneta bat da, V8 motorra duena.</lex>
+      <lex lang="eu" lid="Id3">AMC Matador, edo American Motors Matador, Tamesen muntatzen da, Zeelanda Berrian, V8 motorra du, eta tamaina ertaineko furgoneta gisa sailkatzen da.</lex>
+      <lex lang="gl" lid="Id1">O AMC Matador (tamén coñecido como American Motors Matador) ensámblase en Thames, Nova Zelandia. Clasificado como un coche de tamaño medio, presenta unha carrocería de estilo vagón e un motor AMC V8.</lex>
+      <lex lang="gl" lid="Id2">O AMC Matador, tamén coñecido como American Motors Matador, foi montado en Thames, Nova Zelandia. O AMC Matador é un station wagon de tamaño medio cun tipo de motor V8.</lex>
+      <lex lang="gl" lid="Id3">O AMC Matador, tamén coñecido como American Motors Matador, está montado en Thames, Nova Zelandia, ten un motor v8, e está clasificado como un station wagon de tamaño medio.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
+        <otriple>Alhambra_(1855) | length | "63.8"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
+        <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alhambra | Propietario | P&amp;O_(empresa)</striple>
+        <striple>Alhambra | TipoDePotencia | Humphrys,_Tennant_y_Dykes</striple>
+        <striple>Humphrys,_Tennant_y_Dykes | Ubicación | Deptford</striple>
+        <striple>Alhambra | Constructor | Samuda_Brothers</striple>
+        <striple>Alhambra | Longitud | 63800.0_(milímetros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alhambra | Propietari | P&amp;O_(empresa)</ctriple>
+        <ctriple>Alhambra | TipusDePotència | Humphrys,_Tennant_i_Dykes</ctriple>
+        <ctriple>Humphrys,_Tennant_i_Dykes | Ubicació | Deptford</ctriple>
+        <ctriple>Alhambra | Constructor | Germans_Samuda</ctriple>
+        <ctriple>Alhambra | Longitud | 63800.0_(mil·límetres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alhambra | Propietario | P&amp;O_(empresa)</gtriple>
+        <gtriple>Alhambra | TipoDeEnerxía | Humphrys,_Tennant_e_Dykes</gtriple>
+        <gtriple>Humphrys,_Tennant_e_Dykes | Localización | Deptford</gtriple>
+        <gtriple>Alhambra | Construtor | Irmáns_Samuda</gtriple>
+        <gtriple>Alhambra | Lonxitude | 63800.0_(milímetros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alhambra | Jabea. | P&amp;O_(enpresa)</btriple>
+        <btriple>Alhambra | PotentziaMota | Humphrys,_Tennant_eta_Dykes</btriple>
+        <btriple>Humphrys,_Tennant_eta_Dykes | Lokalizazioa | Deptford-en_dago.</btriple>
+        <btriple>Alhambra | Eraikitzailea. | Samuda_anaiak.</btriple>
+        <btriple>Alhambra | Luzera | 63800.0_(milimetroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">P&amp;O owns the Alhambra which has a Humphrys, Tennant and Dykes engine and is 63800.0 millimetres long. The Alhambra was made by the Samuda Brothers. Humphrys, Tennant and Dykes are located in Deptford.</lex>
+      <lex lang="en" lid="Id2">The Alhambra was built by the Samuda Brothers is owned by the P &amp; O company. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes are located in Deptford.</lex>
+      <lex lang="en" lid="Id3">The Alhambra was built by the Samuda Brothers and is owned by P&amp;O. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes is located in Deptford.</lex>
+      <lex lang="es" lid="Id1">P&amp;O posee el Alhambra que tiene un motor Humphrys, Tennant y Dykes y mide 63800,0 milímetros de eslora. El Alhambra fue fabricado por los hermanos Samuda. Humphrys, Tennant y Dykes se encuentran en Deptford.</lex>
+      <lex lang="es" lid="Id2">El Alhambra fue construido por los hermanos Samuda es propiedad de la empresa P &amp; O. Fue 63800.0 milímetros de largo y tiene un tipo de potencia Humphrys, Tennant y Dykes. Humphrys, Tennant y Dykes se encuentran en Deptford.</lex>
+      <lex lang="es" lid="Id3">El Alhambra fue construido por los hermanos Samuda y es propiedad de P&amp;O. Tenía una longitud de 63800,0 milímetros y un tipo de propulsión Humphrys, Tennant y Dykes. Humphrys, Tennant and Dykes se encuentra en Deptford.</lex>
+      <lex lang="ca" lid="Id1">P&amp;O és propietària de l'Alhambra que té un motor Humphrys, Tennant i Dykes i és de 63800.0 mil·límetres de llarg. L'Alhambra va ser construït pels germans Samuda. Humphrys, Tennant i Dykes estan ubicats a Deptford.</lex>
+      <lex lang="ca" lid="Id2">L'Alhambra va ser construït pels germans Samuda és propietat de la companyia P &amp; O. Tenia 63800.0 mil·límetres de llarg i té un tipus de potència Humphrys, Tennant i Dykes. Humphrys, Tennant i Dykes estan ubicats a Deptford.</lex>
+      <lex lang="ca" lid="Id3">L'Alhambra va ser construït pels germans Samuda i és propietat de P&amp;O. Tenia 63800.0 mil·límetres de llarg i té un tipus de potència Humphrys, Tennant and Dykes. Humphrys, Tennant and Dykes està situat a Deptford.</lex>
+      <lex lang="eu" lid="Id1">P&amp;Oren jabetzakoa da Alhambra, Humphrys, Tennant and Dykes motorra duena eta 63800.0 milimetroko luzera duena. Alhambra Samuda anaiek egin zuten. Humphrys, Tennant and Dykes Deptforden dago.</lex>
+      <lex lang="eu" lid="Id2">Alhambra Samuda anaiek eraiki zuten eta P &amp; O konpainiaren jabetzakoa da. 63800.0 milimetroko luzera zuen eta Humphrys, Tennant and Dykes potentzia mota zuen. Humphrys, Tennant and Dykes Deptforden dago.</lex>
+      <lex lang="eu" lid="Id3">Alhambra, Samuda anaiek eraiki zuten eta P&amp;Oren jabetzakoa da. 63.800,0 milimetroko luzera zuen eta Humphrys, Tennant and Dykes motor mota zuen. Humphrys, Tennant and Dykes Deptforden dago.</lex>
+      <lex lang="gl" lid="Id1">P&amp;O posúe o Alhambra que ten un motor Humphrys, Tennant and Dykes e ten 63800. 0 milímetros de longo. O Alhambra foi construído polos irmáns Samuda. Humphrys, Tennant and Dykes están situados en Deptford.</lex>
+      <lex lang="gl" lid="Id2">A Alhambra foi construída polos irmáns Samuda e é propiedade da compañía P &amp; O. Era de 63800.0 milímetros de longo e ten un tipo de potencia Humphrys, Tennant e Dykes. Humphrys, Tennant e Dykes están situados en Deptford.</lex>
+      <lex lang="gl" lid="Id3">O Alhambra foi construído polos irmáns Samuda e é propiedade de P&amp;O. Tiña 63800,0 milímetros de longo e ten un tipo de potencia Humphrys, Tennant and Dykes. Humphrys, Tennant and Dykes está situado en Deptford.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</otriple>
+        <otriple>Antares_(rocket) | maidenFlight | "2014-10-28"^^xsd:date</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        <otriple>Antares_(rocket) | MeanOfTransportation/diameter | "3.9"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+        <otriple>Antares_(rocket) | finalFlight | "2013-09-18"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</mtriple>
+        <mtriple>Antares_(rocket) | maidenFlight | 2014-10-28</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        <mtriple>Antares_(rocket) | diameter | 3.9 (metres)</mtriple>
+        <mtriple>Antares_(rocket) | finalFlight | 2013-09-18</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antares_(cohete) | Fabricante | Oficina_de_diseño_Yuzhnoye</striple>
+        <striple>Antares_(cohete) | VueloInaugural | 28-10-2014</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio</striple>
+        <striple>Antares_(cohete) | Diámetro | 3,9_(metros)</striple>
+        <striple>Antares_(cohete) | VueloFinal | 18-09-2013</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Antares_(coet) | Fabricant | Oficina_de_Disseny_de_Yuzhnoye</ctriple>
+        <ctriple>Antares_(coet) | MaidenFlight | 2014-10-28</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | plataforma_de_llançament_0</ctriple>
+        <ctriple>Antares_(coet) | Diàmetre | 3.9_(metres)</ctriple>
+        <ctriple>Antares_(coet) | VolFinal | 2013-09-18</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Antares_(foguete) | Fabricante | Oficina_de_Deseño_de_Yuzhnoye</gtriple>
+        <gtriple>Antares_(foguete) | MaidenFlight | 2014-10-28</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio</gtriple>
+        <gtriple>Antares_(foguete) | Diámetro | 3.9_(metros)</gtriple>
+        <gtriple>Antares_(foguete) | VooFinal | 2013-09-18</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Antares_(suziri_bat) | Fabrikatzailea | Yuzhnoye_Diseinu_Bulegoa</btriple>
+        <btriple>Antares_(suziri_bat) | MaidenFlight | 2014-10-28</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0</btriple>
+        <btriple>Antares_(suziri_bat) | Diametroa | 3,9_(metroetan)</btriple>
+        <btriple>Antares_(suziri_bat) | AzkenHegaldia | 2013-09-18</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Antares rocket is 3.9 metres in diametre and is manufactured by the Yuzhnoye Design Office. Its launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. The Antares rocket made its first flight on October 28th, 2014 and its final flight on September 18th, 2013.</lex>
+      <lex lang="en" lid="Id2">The Antares rocket, manufactured by the Yuzhnoye Design Office, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. At 3.9m in diameter, the Antares rocket had its maiden flight on the 28th October, 2014 and final flight on the 18th of September, 2013.</lex>
+      <lex lang="en" lid="Id3">The Antares rocket, which was manufactured at the Yuzhnoye Design Office, made its first flight on October 28, 2014 and had its final flight on the 18th of September 2013. It is 3.9 m in diameter, and was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="es" lid="Id1">El cohete Antares tiene 3,9 metros de diámetro y fue fabricado por la Oficina de Diseño Yuzhnoye. Su lugar de lanzamiento fue la plataforma de lanzamiento 0 del Mid-Atlantic Regional Spaceport. El cohete Antares realizó su primer vuelo el 28-10-2014 y su vuelo final el 18-09-2013.</lex>
+      <lex lang="es" lid="Id2">El cohete Antares, fabricado por la Oficina de Diseño Yuzhnoye, fue lanzado desde la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio. Con 3,9 m de diámetro, el cohete Antares realizó su vuelo inaugural el 28-10-2014 y el vuelo final el 18-09-2013.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares, fabricado en la Oficina de Diseño de Yuzhnoye, realizó su primer vuelo el 28-10-2014 y tuvo su vuelo final el 18-09-2013. Tiene 3,9 m de diámetro y fue lanzado desde la plataforma de lanzamiento 0 del Mid-Atlantic Regional Spaceport.</lex>.
+    <lex lang="ca" lid="Id1">El coet Antares té 3,9 metres de diàmetre i és fabricat per l'oficina de disseny Yuzhnoye. El seu lloc de llançament va ser la plataforma de llançament 0 del port espacial regional del mig Atlàntic. El coet Antares va fer el seu primer vol el 28 d'octubre de 2014 i el seu vol final el 18 de setembre de 2013.</lex>
+      <lex lang="ca" lid="Id2">El coet Antares, fabricat per l'oficina de disseny Yuzhnoye, va ser llançat des de la plataforma de llançament 0 del port espacial regional del mig Atlàntic. Amb un diàmetre de 3,9 m, el coet Antares va realitzar el seu vol inaugural el 28 d'octubre de 2014 i el seu vol final el 18 de setembre de 2013.</lex>
+      <lex lang="ca" lid="Id3">El coet Antares, fabricat a l'oficina de disseny de Yuzhnoye, va fer el seu primer vol el 28 d'octubre de 2014 i el seu vol final el 18 de setembre de 2013. Té un diàmetre de 3,9 m i es va llançar des de la plataforma de llançament 0 del Port Espacial Regional de l'Atlàntic Mitjà.</lex>
+      <lex lang="eu" lid="Id1">Antares suziriak 3,9 metroko diametroa du eta Yuzhnoye Diseinu Bulegoak fabrikatu du. Bere jaurtiketa gunea Mid-Atlantic Regional Spaceport Launch Pad 0 izan zen. Antares suziriak bere lehen hegaldia 2014ko urriaren 28an egin zuen eta bere azken hegaldia 2013ko irailaren 18an.</lex>
+      <lex lang="eu" lid="Id2">Antares suziria, Yuzhnoye Diseinu Bulegoak egina, Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti zen. 3,9 metroko diametroarekin, Antares suziriak bere lehen hegaldia 2014ko urriaren 28an egin zuen eta azken hegaldia 2013ko irailaren 18an.</lex>
+      <lex lang="eu" lid="Id3">Antares suziria, Yuzhnoye Diseinu Bulegoan egina, bere lehen hegaldia 2014ko urriaren 28an egin zuen eta bere azken hegaldia 2013ko irailaren 18an egin zuen. 3,9 m-ko diametroa du, eta Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti zen.</lex>
+      <lex lang="gl" lid="Id1">O foguete Antares ten un diámetro de 3,9 metros e está fabricado pola Oficina de Deseño Yuzhnoye. O seu lugar de lanzamento foi a plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio. O foguete Antares fixo o seu primeiro voo o 28 de outubro de 2014 e o seu último o 18 de setembro de 2013.</lex>
+      <lex lang="gl" lid="Id2">O foguete Antares, fabricado pola Oficina de Deseño Yuzhnoye, lanzouse desde a plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio. O foguete Antares, de 3,9 metros de diámetro, realizou o seu primeiro voo o 28 de outubro de 2014 e o último o 18 de setembro de 2013.</lex>
+      <lex lang="gl" lid="Id3">O foguete Antares, fabricado pola Oficina de Deseño Yuzhnoye, fixo o seu primeiro voo o 28 de outubro de 2014 e o último o 18 de setembro de 2013. Ten un diámetro de 3,9 m e lanzouse desde a plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id6" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</otriple>
+        <otriple>Delta_II | sites | Vandenberg_Air_Force_Base</otriple>
+        <otriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</otriple>
+        <otriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</mtriple>
+        <mtriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antares_(cohete) | Fabricante | Oficina_de_diseño_Yuzhnoye</striple>
+        <striple>Delta_II | LugarDeLanzamiento | Base_de_las_Fuerzas_Aéreas_Vandenberg</striple>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Puerto_espacial_regional_del_Atlántico_Medio</striple>
+        <striple>Delta_II | PaísDeOrigen | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Antares_(coet) | Fabricant | Oficina_de_Disseny_de_Yuzhnoye</ctriple>
+        <ctriple>Delta_II | LlocDeLlançament | Base_de_la_Força_Aèria_de_Vandenberg</ctriple>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | Mid-Atlantic_Regional_Spaceport</ctriple>
+        <ctriple>Delta_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Antares_(foguete) | Fabricante | Oficina_de_Deseño_de_Yuzhnoye</gtriple>
+        <gtriple>Delta_II | LanzarOSitio | Base_da_Forza_Aérea_de_Vandenberg</gtriple>
+        <gtriple>Antares_(foguete) | Comparable | Delta_II</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Aeroporto_Espacial_Rexional_do_Atlántico_Medio</gtriple>
+        <gtriple>Delta_II | PaísOrixe | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Antares_(suziri_bat) | Fabrikatzailea | Yuzhnoye_Diseinu_Bulegoa</btriple>
+        <btriple>Delta_II | Site-aMartxanJartzea | Vandenberg_Air_Force_Base</btriple>
+        <btriple>Antares_(suziri_bat) | Konparagarria | Delta_II</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Mid-Atlantic_eskualdeko_espazio-portua</btriple>
+        <btriple>Delta_II | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.</lex>
+      <lex lang="en" lid="Id2">Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid-Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.</lex>
+      <lex lang="en" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base.</lex>
+      <lex lang="es" lid="Id1">El cohete Antares se fabrica en la Oficina de Diseño de Yuzhnoye y se lanzó desde el Puerto Espacial Regional del Atlántico Medio. Es comparable al Delta II de Estados Unidos, que se lanzó en la base aérea de Vandenberg.</lex>
+      <lex lang="es" lid="Id2">Producido en la Oficina de Diseño de Yuzhnoye, el cohete Antares fue lanzado desde el Puerto Espacial Regional del Atlántico Medio. El Antares se compara con el cohete de origen estadounidense Delta II, que se lanza desde la base aérea de Vandenberg.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares es fabricado por la Oficina de Diseño Yuzhnoye y lanzado desde el Puerto Espacial Regional del Atlántico Medio. Es similar al cohete Delta II de Estados Unidos que se lanzó desde la base aérea de Vandenberg.</lex>
+      <lex lang="ca" lid="Id1">El coet Antares és fabricat a l'Oficina de Disseny de Yuzhnoye, i va ser llançat des del Middle-Atlantic Regional Spaceport. És comparable al Delta II dels Estats Units, que va ser llançat a la Base de la Força Aèria de Vandenberg.</lex>
+      <lex lang="ca" lid="Id2">Produït a l' Oficina de Disseny Yuzhnoye, el coet Antares va ser llançat des del Port Espacial Regional de l' Atlàntic Mitjà. L' Antares es compara amb el coet Delta II nascut als Estats Units que s' enlairava des de la Base de la Força Aèria de Vandenberg.</lex>
+      <lex lang="ca" lid="Id3">El coet Antares és fabricat per l'Oficina de Disseny de Yuzhnoye i llançat des del Middle-Atlantic Regional Spaceport. És similar al coet Delta II dels Estats Units que va ser llançat des de la Base de la Força Aèria de Vandenberg.</lex>
+      <lex lang="eu" lid="Id1">Antares suziria Yuzhnoye Diseinu Bulegoan fabrikatzen da, eta Mid-Atlantic Regional Spaceport-etik jaurtitzen da. Delta II estatubatuar suziriaren antzekoa da, Vandenberg Air Force Base-tik jaurti zena.</lex>
+      <lex lang="eu" lid="Id2">Yuzhnoye diseinu-bulegoan ekoitzitako Antares suziria Mid-Atlantic Regional Spaceport-etik jaurti zen. Antares-a AEBetako Delta II suziriarekin alderagarria da, Vandenberg Air Force Base-tik jaurtitzen dena.</lex>
+      <lex lang="eu" lid="Id3">Antares suziria Yuzhnoye Diseinu Bulegoak egiten du eta Atlantiko Ertaineko Eskualdeko Espazioko Portutik jaurtitzen da. AEBetako Delta II suziriaren antzekoa da, eta Vandenberg Aire Armadako Basetik jaurtitzen da.</lex>
+      <lex lang="gl" lid="Id1">O foguete Antares é fabricado na Oficina de Deseño Yuzhnoye, e foi lanzado desde o Centro Espacial Rexional do Atlántico. É comparable ao Delta II dos Estados Unidos, que foi lanzado desde a Base da Forza Aérea de Vandenberg.</lex>
+      <lex lang="gl" lid="Id2">Producido na Oficina de Deseño Yuzhnoye, o foguete Antares foi lanzado desde o Porto Espacial Rexional do Atlántico Medio. O Antares é comparable ao foguete Delta II estadounidense que se lanza desde a Base da Forza Aérea de Vandenberg.</lex>
+      <lex lang="gl" lid="Id3">O foguete Antares é fabricado pola Oficina de Deseño Yuzhnoye e lanzado desde o Porto Espacial Rexional do Atlántico Medio. É similar ao foguete Delta II dos Estados Unidos que se lanza desde a Base da Forza Aérea de Vandenberg.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ariane_5 | finalFlight | "2009-12-18"^^xsd:date</otriple>
+        <otriple>Ariane_5 | maidenFlight | "2005-08-11"^^xsd:date</otriple>
+        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
+        <otriple>Ariane_5 | sites | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | MeanOfTransportation/diameter | "5.4"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ariane_5 | finalFlight | 2009-12-18</mtriple>
+        <mtriple>Ariane_5 | maidenFlight | 2005-08-11</mtriple>
+        <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
+        <mtriple>Ariane_5 | launchSite | Guiana_Space_Centre</mtriple>
+        <mtriple>Ariane_5 | diameter | 5.4 (metres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ariane_5 | VueloFinal | 18-12-2009</striple>
+        <striple>Ariane_5 | VueloInaugural | 11-08-2005</striple>
+        <striple>Ariane_5 | Fabricante | Airbus_Defence_and_Space</striple>
+        <striple>Ariane_5 | LugarDeLanzamiento | Puerto_espacial_de_Kourou</striple>
+        <striple>Ariane_5 | Diámetro | 5,4_(metros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ariane_5 | VolFinal | 2009-12-18</ctriple>
+        <ctriple>Ariane_5 | MaidenFlight | 2005-08-11</ctriple>
+        <ctriple>Ariane_5 | Fabricant | Airbus_Defence_and_Space</ctriple>
+        <ctriple>Ariane_5 | LlocDeLlançament | Port_Espacial_Europeu_de_Kourou</ctriple>
+        <ctriple>Ariane_5 | Diàmetre | 5.4_(metres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ariane_5 | VooFinal | 2009-12-18</gtriple>
+        <gtriple>Ariane_5 | MaidenFlight | 2005-08-11</gtriple>
+        <gtriple>Ariane_5 | Fabricante | Airbus_Defence_and_Space</gtriple>
+        <gtriple>Ariane_5 | LanzarOSitio | Centro_Espacial_da_Guyana</gtriple>
+        <gtriple>Ariane_5 | Diámetro | 5.4_(metros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ariane_5 | AzkenHegaldia | 2009-12-18</btriple>
+        <btriple>Ariane_5 | MaidenFlight | 2005-08-11</btriple>
+        <btriple>Ariane_5 | Fabrikatzailea | Airbus_Defentsa_eta_Espazioa</btriple>
+        <btriple>Ariane_5 | Site-aMartxanJartzea | Guiana_Espazioko_Zentroa</btriple>
+        <btriple>Ariane_5 | Diametroa | 5,4_(metroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009. It was manufactured by Airbus Defence and Space and launched from the Guiana Space Centre. Its diameter is 5.4 metres.</lex>
+      <lex lang="en" lid="Id2">The Airbus Defence and Space manufactured the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the final flight on 18 December 2009.</lex>
+      <lex lang="en" lid="Id3">The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009.</lex>
+      <lex lang="es" lid="Id1">El Ariane 5 realizó su primer viaje el 11-08-2005 y su último vuelo el 18-12-2009. Fue fabricado por Airbus Defence and Space y lanzado desde el Centro Espacial de Guayana. Su diámetro es de 5,4 metros.</lex>
+      <lex lang="es" lid="Id2">La empresa Airbus Defence and Space fabricó el Ariane 5 que tiene un diámetro de 5,4 metros. Fue lanzado desde el Centro Espacial de Guayana, realizando su vuelo inaugural el 11-08-2005 y el vuelo final el 18-12-2009.</lex>
+      <lex lang="es" lid="Id3">Airbus Defence and Space fabrica el Ariane 5, de 5,4 metros de diámetro. Fue lanzado desde el Centro Espacial de Guayana, realizando su vuelo inaugural el 11-08-2005 y el último el 18-12-2009.</lex>
+      <lex lang="ca" lid="Id1">L'Ariane 5 va fer el seu primer viatge l'11 d'agost de 2005 i el seu últim vol el 18 de desembre de 2009. Va ser fabricat per Airbus Defence and Space i es va llançar des del Centre Espacial de la Guaiana. El seu diàmetre és de 5,4 metres.</lex>
+      <lex lang="ca" lid="Id2">L'Airbus Defence and Space va fabricar l'Ariane 5, que té un diàmetre de 5,4 m. Va ser llançat des del Centre Espacial de Guyana, fent el seu primer vol l'11 d'agost de 2005 i el vol final el 18 de desembre de 2009.</lex>
+      <lex lang="ca" lid="Id3">L'Airbus Defence and Space fabrica l'Ariane 5 que té un diàmetre de 5,4 metres. Va ser llançat des del Centre Espacial de Guyana, fent el seu vol inaugural l'11 d'agost de 2005 i l'últim vol el 18 de desembre de 2009.</lex>
+      <lex lang="eu" lid="Id1">Ariane 5 suziria 2005eko abuztuaren 11n jaurti zen lehen aldiz, eta azken hegaldia 2009ko abenduaren 18an egin zuen. Airbus Defence and Space enpresak egin zuen eta Guyanako espazio-zentrotik jaurti zen.</lex>
+      <lex lang="eu" lid="Id2">Ariane 5 5,4 metroko diametroa duen Ariane 5 suziria da, 2005eko abuztuaren 11n Guyanako espazio-zentrotik jaurti zen, bere lehen hegaldia 2005eko abuztuaren 11n egin zuen eta azken hegaldia 2009ko abenduaren 18an.</lex>
+      <lex lang="eu" lid="Id3">Ariane 5 suziria, 5,4 metroko diametroa duena, 2005eko abuztuaren 11n jaurti zen Guyanako espazio-zentrotik, bere lehen hegaldia 2005eko abuztuaren 11n egin zuen eta azken hegaldia 2009ko abenduaren 18an.</lex>
+      <lex lang="gl" lid="Id1">O Ariane 5 fixo a súa primeira viaxe o 11 de agosto de 2005 e o seu último voo o 18 de decembro de 2009. Foi fabricado por Airbus Defence and Space e lanzado desde o Centro Espacial de Güiana. O seu diámetro é de 5,4 metros.</lex>
+      <lex lang="gl" lid="Id2">O Airbus Defence and Space fabricou o Ariane 5, que ten un diámetro de 5,4 metros. Foi lanzado desde o Centro Espacial de Güiana, realizando o seu primeiro voo o 11 de agosto de 2005 e o último o 18 de decembro de 2009.</lex>
+      <lex lang="gl" lid="Id3">Airbus Defence and Space fabrica o Ariane 5, que ten un diámetro de 5,4 metros. Foi lanzado desde o Centro Espacial de Güiana, realizando o seu primeiro voo o 11 de agosto de 2005 e o último o 18 de decembro de 2009.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+        <otriple>Ariane_5 | maidenFlight | "2004-03-02"^^xsd:date</otriple>
+        <otriple>Ariane_5 | manufacturer | European_Space_Agency</otriple>
+        <otriple>Ariane_5 | MeanOfTransportation/diameter | "5.4"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+        <otriple>Ariane_5 | finalFlight | "2003-09-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
+        <mtriple>Ariane_5 | maidenFlight | 2004-03-02</mtriple>
+        <mtriple>Ariane_5 | manufacturer | European_Space_Agency</mtriple>
+        <mtriple>Ariane_5 | diameter | 5.4 (metres)</mtriple>
+        <mtriple>Ariane_5 | finalFlight | 2003-09-27</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ariane_5 | LugarDeLanzamiento | ELA-3</striple>
+        <striple>Ariane_5 | VueloInaugural | 02-03-2004</striple>
+        <striple>Ariane_5 | Fabricante | Agencia_Espacial_Europea</striple>
+        <striple>Ariane_5 | Diámetro | 5,4_(metros)</striple>
+        <striple>Ariane_5 | VueloFinal | 27-09-2003</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ariane_5 | LlocDeLlançament | ELA-3</ctriple>
+        <ctriple>Ariane_5 | MaidenFlight | 2004-03-02</ctriple>
+        <ctriple>Ariane_5 | Fabricant | Agència_Espacial_Europea</ctriple>
+        <ctriple>Ariane_5 | Diàmetre | 5.4_(metres)</ctriple>
+        <ctriple>Ariane_5 | VolFinal | 2003-09-27</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ariane_5 | LanzarOSitio | ELA-3</gtriple>
+        <gtriple>Ariane_5 | MaidenFlight | 2004-03-02</gtriple>
+        <gtriple>Ariane_5 | Fabricante | Axencia_Espacial_Europea</gtriple>
+        <gtriple>Ariane_5 | Diámetro | 5.4_(metros)</gtriple>
+        <gtriple>Ariane_5 | VooFinal | 2003-09-27</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ariane_5 | Site-aMartxanJartzea | ELA-3</btriple>
+        <btriple>Ariane_5 | MaidenFlight | 2004-03-02</btriple>
+        <btriple>Ariane_5 | Fabrikatzailea | Europako_Espazio_Agentzia</btriple>
+        <btriple>Ariane_5 | Diametroa | 5,4_(metroetan)</btriple>
+        <btriple>Ariane_5 | AzkenHegaldia | 2003-09-27</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Ariane 5's maiden flight was on the 2nd March 2004 and its last flight being on Sept. 27, 2003. It was made by the European Space Agency and took off from ELA-3. It is 5.4 m in diameter.</lex>
+      <lex lang="en" lid="Id2">First launched on March 2, 2004 the Ariane 5 took off from ELA-3. That craft is made by the European Space Agency and its last flight was on Sept. 27, 2003. The Ariane 5 is 5.4 m in diameter.</lex>
+      <lex lang="es" lid="Id1">El Ariane 5 realizó su primer vuelo el 2 de marzo de 2004 y el último el 27-09-2003. Fue realizado por la Agencia Espacial Europea y despegó del ELA-3. Tiene 5,4 m de diámetro.</lex>
+      <lex lang="es" lid="Id2">Lanzado por primera vez el 2 de marzo de 2004, el Ariane 5 despegó de ELA-3. Esa nave está fabricada por la Agencia Espacial Europea y su último vuelo fue el 27-09-2003. El Ariane 5 tiene un diámetro de 5,4 m.</lex>
+      <lex lang="ca" lid="Id1">El vol inaugural de l' Ariane 5 va ser el 2 de març de 2004 i el seu últim vol va ser el 27 de setembre de 2003. Va ser fet per l' Agència Espacial Europea i va enlairar- se des de l' ELA- 3. Té 5, 4 m de diàmetre.</lex>
+      <lex lang="ca" lid="Id2">L' Ariane 5 va ser llançat per primera vegada el 2 de març de 2004 des de l' ELA- 3. Aquesta nau és fabricada per l' Agència Espacial Europea i el seu últim vol va ser el 27 de setembre de 2003. L' Ariane 5 té 5, 4 m de diàmetre.</lex>
+      <lex lang="eu" lid="Id1">Ariane 5-aren lehen hegaldia 2004ko martxoaren 2an izan zen eta azkena 2003ko irailaren 27an. Europako Espazio Agentziak egin zuen eta ELA-3-tik aireratu zen. 5,4 metroko diametroa du.</lex>
+      <lex lang="eu" lid="Id2">2004ko martxoaren 2an jaurti zen lehen aldiz Ariane 5 ontzia, ELA-3tik. Ontzi hori Europako Espazio Agentziak egin zuen eta 2003ko irailaren 27an egin zuen azken hegaldia. Ariane 5 ontziaren diametroa 5,4 metrokoa da.</lex>
+      <lex lang="gl" lid="Id1">O voo inaugural do Ariane 5 foi o 2 de marzo de 2004 e o seu último voo foi o 27 de setembro de 2003. Foi feito pola Axencia Espacial Europea e despegou desde ELA- 3. Ten 5, 4 m de diámetro.</lex>
+      <lex lang="gl" lid="Id2">Lanzado por primeira vez o 2 de marzo de 2004, o Ariane 5 despegou do ELA- 3. Esta nave é feita pola Axencia Espacial Europea e o seu último voo foi o 27 de setembro de 2003. O Ariane 5 ten 5, 4 m de diámetro.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id9" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aston_Martin_Virage | related | Aston_Martin_DBS</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+        <otriple>Aston_Martin_DBS | manufacturer | Aston_Martin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+        <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aston_Martin_Virage | MediosDeTransporteRelacionados | Aston_Martin_DBS</striple>
+        <striple>Reino_Unido | Líder | Isabel_II_del_Reino_Unido</striple>
+        <striple>Aston_Martin_V8 | Montaje | Reino_Unido</striple>
+        <striple>Aston_Martin_V8 | Sucesor | Aston_Martin_Virage</striple>
+        <striple>Aston_Martin_DBS | Fabricante | Aston_Martin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aston_Martin_Virage | MitjàDeTransportRelacionat | Aston_Martin_DBS</ctriple>
+        <ctriple>Regne_Unit | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        <ctriple>Aston_Martin_V8 | Assemblea | Regne_Unit</ctriple>
+        <ctriple>Aston_Martin_V8 | Successor | Aston_Martin_Virage</ctriple>
+        <ctriple>Aston_Martin_DBS | Fabricant | Aston_Martin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aston_Martin_Virage | MedioDeTransporteRelacionado | Aston_Martin_DBS</gtriple>
+        <gtriple>Reino_Unido | Líder | Elizabeth_II</gtriple>
+        <gtriple>Aston_Martin_V8 | Montaxe | Reino_Unido</gtriple>
+        <gtriple>Aston_Martin_V8 | Sucesor | Aston_Martin_Virage</gtriple>
+        <gtriple>Aston_Martin_DBS | Fabricante | Aston_Martin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aston_Martin_Virage | ErlazionatutakoGarraiobidearenEsanahia | Aston_Martin_DBS</btriple>
+        <btriple>Erresuma_Batua | Buruzagia. | Elizabeth_II</btriple>
+        <btriple>Aston_Martin_V8 | Assemblage | Erresuma_Batua</btriple>
+        <btriple>Aston_Martin_V8 | Ondorengoa | Aston_Martin_Virage</btriple>
+        <btriple>Aston_Martin_DBS | Fabrikatzailea | Aston_Martin_bat_da.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom governed by Elizabeth II. The next model of that vehicle was the Aston Martin Virage, which is related to Aston Martin DBS. Aston Martin is the manufacturer of the Aston Martin DBS.</lex>
+      <lex lang="en" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom, where the ruler is Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.</lex>
+      <lex lang="en" lid="Id3">Aston Martin manufactures the Aston Martin DBS which is related to the Aston Martin Virage. The latter car succeeded the Aston Martin V8 which is assembled in the United Kingdom which is led by Elizabeth II.</lex>
+      <lex lang="en" lid="Id4">Aston Mastin DBS, made by Aston Martin, is related to the Aston Martin Virage, which succeeded the Aston Martin V8. The V8 was assembled in the, Elizabeth II led, United Kingdom.</lex>
+      <lex lang="es" lid="Id1">El Aston Martin V8 se ensambla en el Reino Unido gobernado por Isabel II. El siguiente modelo de ese vehículo fue el Aston Martin Virage, que está relacionado con el Aston Martin DBS. Aston Martin es el fabricante del Aston Martin DBS.</lex>
+      <lex lang="es" lid="Id2">El Aston Martin V8 se ensambla en el Reino Unido, donde la soberana es la reina Isabel II. El Aston Martin V8 fue sucedido por el Aston Martin Virage que junto con el Aston Martin DBS (Aston Martin manufatured) son tipos de transporte relacionados.</lex>
+      <lex lang="es" lid="Id3">Aston Martin fabrica el Aston Martin DBS que está relacionado con el Aston Martin Virage. Este último coche sucedió al Aston Martin V8 que se ensambla en el Reino Unido que dirige Isabel II.</lex>
+      <lex lang="es" lid="Id4">El Aston Mastin DBS, fabricado por Aston Martin, está relacionado con el Aston Martin Virage, que sucedió al Aston Martin V8. El V8 fue ensamblado en, dirigido por Elizabeth II, el Reino Unido.</lex>
+      <lex lang="ca" lid="Id1">L' Aston Martin V8 es munta al Regne Unit governat per Elisabet II. El següent model d' aquest vehicle va ser l' Aston Martin Virage, que està relacionat amb l' Aston Martin DBS. Aston Martin és el fabricant de l' Aston Martin DBS.</lex>
+      <lex lang="ca" lid="Id2">L'Aston Martin V8 s'acobla al Regne Unit, on la governadora és la reina Elisabet II. L'Aston Martin V8 va ser succeït per l'Aston Martin Virage, que juntament amb l'Aston Martin DBS (fabricat per Aston Martin) són tipus de transport relacionats.</lex>
+      <lex lang="ca" lid="Id3">Aston Martin fabrica l'Aston Martin DBS que està relacionat amb l'Aston Martin Virage. Aquest últim cotxe va succeir a l'Aston Martin V8 que s'assembla al Regne Unit que està liderat per Elisabet II.</lex>
+      <lex lang="ca" lid="Id4">L'Aston Martin Mastin DBS, fabricat per Aston Martin, està relacionat amb l'Aston Martin Virage, que va succeir l'Aston Martin V8. El V8 va ser muntat al Regne Unit, dirigit per Elisabet II.</lex>
+      <lex lang="eu" lid="Id1">Aston Martin V8 Erresuma Batuan muntatzen da, Elisabet II.aren gidaritzapean. Ibilgailu horren hurrengo modeloa Aston Martin Virage izan zen, eta Aston Martin DBS-arekin erlazionatuta dago. Aston Martin da Aston Martin DBS-aren fabrikatzailea.</lex>
+      <lex lang="eu" lid="Id2">Aston Martin V8 Erresuma Batuan muntatzen da, eta bertako erregina Elisabet II.a da. Aston Martin V8aren ordezkoa Aston Martin Virage izan zen, eta harekin batera, Aston Martin DBS (Aston Martin fabrikatua) garraio-mota erlazionatuak dira.</lex>
+      <lex lang="eu" lid="Id3">Aston Martinek Aston Martin DBS autoa ekoizten du, Aston Martin Virage autoarekin erlazionatuta dagoena. Azken hau Aston Martin V8 autoaren ondorengoa da, Erresuma Batuan muntatzen dena, Elisabet II.a Erresuma Batukoaren agindupean.</lex>
+      <lex lang="eu" lid="Id4">Aston Martin-ek egindako Aston Mastin DBS, Aston Martin Virage-rekin lotuta dago, Aston Martin V8ren ondorengoa.</lex>
+      <lex lang="gl" lid="Id1">O Aston Martin V8 é montado no Reino Unido gobernado por Isabel II. O seguinte modelo dese vehículo foi o Aston Martin Virage, que está relacionado co Aston Martin DBS. Aston Martin é o fabricante do Aston Martin DBS.</lex>
+      <lex lang="gl" lid="Id2">O Aston Martin V8 é montado no Reino Unido, onde o gobernante é a raíña Isabel II. O Aston Martin V8 foi sucedido polo Aston Martin Virage que xunto co Aston Martin DBS (fabricado por Aston Martin) son tipos de transporte relacionados.</lex>
+      <lex lang="gl" lid="Id3">Aston Martin fabrica o Aston Martin DBS que está relacionado co Aston Martin Virage. Este último coche sucedeu ao Aston Martin V8 que é montado no Reino Unido que está liderado por Isabel II.</lex>
+      <lex lang="gl" lid="Id4">O Aston Mastin DBS, fabricado por Aston Martin, está relacionado co Aston Martin Virage, que sucedeu ao Aston Martin V8. O V8 foi montado no Reino Unido, liderado por Isabel II.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Atlas_II | countryOrigin | United_States</otriple>
+        <otriple>Atlas_II | finalFlight | "1998-03-16"^^xsd:date</otriple>
+        <otriple>Atlas_II | sites | Vandenberg_Air_Force_Base</otriple>
+        <otriple>Atlas_II | diameter | "3.04 m"@en</otriple>
+        <otriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
+        <mtriple>Atlas_II | finalFlight | 1998-03-16</mtriple>
+        <mtriple>Atlas_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
+        <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
+        <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Atlas_II | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Atlas_II | VueloFinal | 16-03-1998</striple>
+        <striple>Atlas_II | LugarDeLanzamiento | Base_de_las_Fuerzas_Aéreas_Vandenberg</striple>
+        <striple>Atlas_II | Diámetro | 3.04_m</striple>
+        <striple>Atlas_II | LugarDeLanzamiento | Complejo_de_Lanzamiento_36_del_Puerto_Espacial_de_Florida</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Atlas_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Atlas_II | VolFinal | 1998-03-16</ctriple>
+        <ctriple>Atlas_II | LlocDeLlançament | Base_de_la_Força_Aèria_de_Vandenberg</ctriple>
+        <ctriple>Atlas_II | Diàmetre | 3._04_m</ctriple>
+        <ctriple>Atlas_II | LlocDeLlançament | Complex_de_llançament_Spaceport_Florida_36</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Atlas_II | PaísOrixe | Estados_Unidos</gtriple>
+        <gtriple>Atlas_II | VooFinal | 1998-03-16</gtriple>
+        <gtriple>Atlas_II | LanzarOSitio | Base_da_Forza_Aérea_de_Vandenberg</gtriple>
+        <gtriple>Atlas_II | Diámetro | 3,04_m</gtriple>
+        <gtriple>Atlas_II | LanzarOSitio | Complexo_de_lanzamento_36_de_Spaceport_Florida</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atlas_II | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        <btriple>Atlas_II | AzkenHegaldia | 1998-03-16</btriple>
+        <btriple>Atlas_II | Site-aMartxanJartzea | Vandenberg_Air_Force_Base</btriple>
+        <btriple>Atlas_II | Diametroa | 3,04_m</btriple>
+        <btriple>Atlas_II | Site-aMartxanJartzea | Florida_Launch_Complex_36_espazio-portua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">From the United States the Atlas II (3.04 m diameter) was sent from Vandenberg Air Force Base and Spaceport Florida Launch Complex 36. March 16, 1998 was its final lift off.</lex>
+      <lex lang="en" lid="Id2">The Atlas II is from the United States and launched from the Vandenberg Air Force Base and the Spaceport Florida Launch Complex 36. It is 3.04 m in diameter and took its final flight on 16 March 1998.</lex>
+      <lex lang="en" lid="Id3">The Atlas II, from the united States, was launched at the Spaceport Florida Launch Complex 36 and Vandenberg Air Force Base. 3.04m in diameter, its final flight was March 16, 1998.</lex>
+      <lex lang="es" lid="Id1">Desde Estados Unidos se envió el Atlas II (de 3,04 m de diámetro) desde la Base Aérea de Vandenberg y el Complejo de Lanzamiento 36 del Puerto Espacial de Florida. El 16-03-1998 fue su último despegue.</lex>
+      <lex lang="es" lid="Id2">El Atlas II es de Estados Unidos y fue lanzado desde la Base de la Fuerza Aérea de Vandenberg y el Complejo de Lanzamiento 36 del Puerto Espacial de Florida. Mide 3,04 m de diámetro y realizó su último vuelo el 16-03-1998.</lex>
+      <lex lang="es" lid="Id3">El Atlas II, de Estados Unidos, fue lanzado en el Complejo de Lanzamiento 36 del Puerto Espacial de Florida y en la Base Aérea de Vandenberg. De 3,04 m de diámetro, su último vuelo fue el 16-03-1998.</lex>
+      <lex lang="ca" lid="Id1">Des dels Estats Units, l'Atlas II (3,04 m de diàmetre) va ser enviat des de la Base de la Força Aèria de Vandenberg i el Complex de Llançament 36 del Port Espacial de Florida.</lex>
+      <lex lang="ca" lid="Id2">L'Atlas II és dels Estats Units i va ser llançat des de la Base de la Força Aèria de Vandenberg i el Complex de Llançament 36 del Port Espacial de Florida. Té 3,04 m de diàmetre i va fer el seu últim vol el 16 de març de 1998.</lex>
+      <lex lang="ca" lid="Id3">L'Atlas II, dels Estats Units, va ser llançat al Complex de Llançament 36 de l'Aeroport Espacial de Florida i a la Base de la Força Aèria de Vandenberg.</lex>
+      <lex lang="eu" lid="Id1">Estatu Batuetatik, Atlas II (3,04 metroko diametroa) Vandenberg Air Force Base eta Spaceport Florida Launch Complex 36-tik bidali zen. 1998ko martxoaren 16an izan zen bere azken jaurtiketa.</lex>
+      <lex lang="eu" lid="Id2">Atlas II Ameriketako Estatu Batuetako Vandenberg Air Force Base eta Spaceport Florida Launch Complex 36 jaurtigailuetatik jaurti zen. 3,04 metroko diametroa du eta bere azken hegaldia 1998ko martxoaren 16an egin zuen.</lex>
+      <lex lang="eu" lid="Id3">Atlas II, Estatu Batuetakoa, Spaceport Florida-ko 36. jaurtiketa-gunean eta Vandenberg-eko aire-indarren basean jaurti zen. 3,04 metroko diametroa zuen eta 1998ko martxoaren 16an egin zuen azken hegaldia.</lex>
+      <lex lang="gl" lid="Id1">Desde os Estados Unidos o Atlas II (3,04 m de diámetro) foi enviado desde a Base da Forza Aérea de Vandenberg e o Complexo de Lanzamento 36 do Porto Espacial de Florida. O 16 de marzo de 1998 foi o seu último lanzamento.</lex>
+      <lex lang="gl" lid="Id2">O Atlas II é dos Estados Unidos e lanzouse desde a Base da Forza Aérea de Vandenberg e o Complexo de Lanzamento 36 de Spaceport Florida. Ten un diámetro de 3,04 m e realizou o seu último voo o 16 de marzo de 1998.</lex>
+      <lex lang="gl" lid="Id3">O Atlas II, dos Estados Unidos, foi lanzado no Complexo de Lanzamento 36 do Porto Espacial de Florida e na Base da Forza Aérea de Vandenberg. Ten 3,04 m de diámetro, o seu último voo foi o 16 de marzo de 1998.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | class | "Supermini"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Audi_A1 | Motor | 1,2_(litros)</striple>
+        <striple>Audi_A1 | Diseño | Motor_delantero_y_tracción_delantera</striple>
+        <striple>Audi_A1 | Montaje | Bruselas,_Bélgica</striple>
+        <striple>Audi_A1 | Clase | Supermini</striple>
+        <striple>Audi_A1 | EstiloDeCarrocería | hatchback</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Audi_A1 | Motor | 1.2_(litres)</ctriple>
+        <ctriple>Audi_A1 | Disposició | Motor_frontal,_tracció_davantera</ctriple>
+        <ctriple>Audi_A1 | Assemblea | Brussels,_Bèlgica</ctriple>
+        <ctriple>Audi_A1 | Classe | segment_B</ctriple>
+        <ctriple>Audi_A1 | EstilDelCos | cotxe_amb_porta_posterior</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Audi_A1 | Motor | 1.2_(litros)</gtriple>
+        <gtriple>Audi_A1 | Disposición | Motor_dianteiro,_tracción_dianteira</gtriple>
+        <gtriple>Audi_A1 | Montaxe | Bruxelas,_Bélxica</gtriple>
+        <gtriple>Audi_A1 | Clasificación | Supermini</gtriple>
+        <gtriple>Audi_A1 | EstiloDoCorpo | Camión_de_cabina</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Audi_A1 | Motorra | 1.2_(litroetan)</btriple>
+        <btriple>Audi_A1 | Diseinua | Aurreko_motorra_eta_aurreko_gurpilen_trakzioa_dituen_diseinua</btriple>
+        <btriple>Audi_A1 | Assemblage | Brusela,_Belgika</btriple>
+        <btriple>Audi_A1 | Klasea | Supermini_bat_da.</btriple>
+        <btriple>Audi_A1 | GorputzarenEstiloa | Hatchback_bat</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Audi A1 hatchback is a supermini vehicle made in Brussels, Belgium. It contains a 1.2 l front engine with a front wheel drive layout.</lex>
+      <lex lang="en" lid="Id2">The Audi A1 is a hatchback belonging to the supermini class. It has a 1.2 litre engine, a front-engine with front-wheel-drive and is assembled in Brussels, Belgium.</lex>
+      <lex lang="en" lid="Id3">The Audi A1 is a supermini hatchback assembled in Brussels, Belgium. It has a front-engine with front-wheel-drive and a 1.2 litre engine.</lex>
+      <lex lang="es" lid="Id1">El Audi A1 hatchback es un vehículo Supermini fabricado en Bruselas, Bélgica. Contiene un motor delantero de 1,2 l con un esquema de tracción delantera.</lex>
+      <lex lang="es" lid="Id2">El Audi A1 es un utilitario perteneciente a la clase Supermini. Tiene un motor de 1,2 litros, un motor delantero con tracción delantera y se ensambla en Bruselas (Bélgica)</lex>.
+      <lex lang="es" lid="Id3">El Audi A1 es un Supermini hatchback ensamblado en Bruselas, Bélgica. Tiene un motor delantero con tracción delantera y un motor de 1,2 litros.</lex>
+      <lex lang="ca" lid="Id1">L' Audi A1 hatchback és un vehicle supermini fabricat a Brussel· les, Bèlgica. Conté un motor frontal de 1, 2 l amb tracció davantera.</lex>
+      <lex lang="ca" lid="Id2">L' Audi A1 és un hatchback pertanyent a la classe supermini. Té un motor d'1,2 litres, un motor frontal amb tracció davantera i és muntat a Brussel·les, Bèlgica.</lex>
+      <lex lang="ca" lid="Id3">L'Audi A1 és un supermini hatchback muntat a Brussel·les, Bèlgica. Té un motor davanter amb tracció davantera i un motor d'1,2 litres.</lex>
+      <lex lang="eu" lid="Id1">Audi A1 hatchback, Brusela, Belgikan ekoitzitako supermini ibilgailua da.</lex>
+      <lex lang="eu" lid="Id2">Audi A1 supermini klaseko hatchback bat da. 1,2 litroko motorra du, aurreko motorra eta aurreko gurpil-aulkia ditu eta Bruselan muntatzen da, Belgikan.</lex>
+      <lex lang="eu" lid="Id3">Audi A1 supermini hatchback bat da, Bruselan (Belgika) muntatua. Aurrealdeko motorra du, aurreko gurpil-aulkiarekin eta 1,2 litroko motorrarekin.</lex>
+      <lex lang="gl" lid="Id1">O Audi A1 hatchback é un vehículo supermini fabricado en Bruxelas, Bélxica. Contén un motor dianteiro de 1, 2 l con tracción dianteira.</lex>
+      <lex lang="gl" lid="Id2">O Audi A1 é un hatchback pertencente á clase supermini. Ten un motor de 1,2 litros, un motor dianteiro con tracción dianteira e está ensamblado en Bruxelas, Bélxica.</lex>
+      <lex lang="gl" lid="Id3">O Audi A1 é un supermini hatchback montado en Bruxelas, Bélxica. Ten un motor dianteiro con tracción dianteira e un motor de 1,2 litros.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>Caterpillar_Inc. | location | Illinois</otriple>
+        <otriple>Caterpillar_Inc. | foundationPlace | United_States</otriple>
+        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>Caterpillar_Inc. | location | Illinois</mtriple>
+        <mtriple>Caterpillar_Inc. | foundationPlace | United_States</mtriple>
+        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Caterpillar_Inc. | PersonaClave | Douglas_R._Oberhelman</striple>
+        <striple>Caterpillar_Inc. | Ubicación | Illinois</striple>
+        <striple>Caterpillar_Inc. | LugarDeCimentación | Estados_Unidos</striple>
+        <striple>AIDAluna | Propietario | AIDA_Cruises</striple>
+        <striple>AIDAluna | TipoDePotencia | Caterpillar_Inc.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Caterpillar_Tractor_Company | PersonaClau | Douglas_R._Oberhelman</ctriple>
+        <ctriple>Caterpillar_Tractor_Company | Ubicació | Illinois</ctriple>
+        <ctriple>Caterpillar_Tractor_Company | LlocDeFundació | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>AIDAluna | Propietari | AIDA_Cruises</ctriple>
+        <ctriple>AIDAluna | TipusDePotència | Caterpillar_Tractor_Company</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Caterpillar_Inc. | PersoaClave | Douglas_R._Oberhelman</gtriple>
+        <gtriple>Caterpillar_Inc. | Localización | Illinois</gtriple>
+        <gtriple>Caterpillar_Inc. | LugarDeFundación | Estados_Unidos</gtriple>
+        <gtriple>AIDAluna | Propietario | AIDA_Cruises</gtriple>
+        <gtriple>AIDAluna | TipoDeEnerxía | Caterpillar_Inc.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Caterpillar_Inc. | PertsonaGakoa | Douglas_R._Oberhelman</btriple>
+        <btriple>Caterpillar_Inc. | Lokalizazioa | Illinois</btriple>
+        <btriple>Caterpillar_Inc. | FundazioarenLekua. | Estatu_Batuak</btriple>
+        <btriple>AIDAluna | Jabea. | AIDA_Cruises</btriple>
+        <btriple>AIDAluna | PotentziaMota | Caterpillar_Inc.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Douglas R. Oberhelman is the key person at Caterpillar Inc which was founded in the US and located in Illinois. The company provides the engine power to the AIDAluna owned by AIDA Cruises.</lex>
+      <lex lang="en" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the United States and is located in Illinois. The company powers the AIDAluna owned by AIDA Cruises.</lex>
+      <lex lang="en" lid="Id3">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the United States and is located in Illinois. It provides the power to the AIDAluna owned by AIDA Cruises.</lex>
+      <lex lang="es" lid="Id1">Douglas R. Oberhelman es la persona clave de Caterpillar Inc, fundada en EE.UU. y ubicada en Illinois. La empresa suministra la potencia de los motores al AIDAluna, propiedad de AIDA Cruises.</lex>
+      <lex lang="es" lid="Id2">Douglas R Oberhelman es una persona clave en Caterpillar Inc. que fue fundada en Estados Unidos y está ubicada en Illinois. La empresa propulsa el AIDAluna, propiedad de AIDA Cruises.</lex>
+      <lex lang="es" lid="Id3">Douglas R Oberhelman es una persona clave en Caterpillar Inc. que fue fundada en Estados Unidos y está ubicada en Illinois. Proporciona la energía al AIDAluna propiedad de AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id1">Douglas R. Oberhelman és la persona clau a Caterpillar Inc. que es va fundar als EUA i es troba a Illinois. L'empresa proporciona la potència del motor a l'AIDAluna propietat d'AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id2">Douglas R Oberhelman és una persona clau a Caterpillar Inc. que es va fundar als Estats Units i es troba a Illinois. L'empresa alimenta l'AIDAluna propietat d'AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id3">Douglas R Oberhelman és una persona clau a Caterpillar Inc. que va ser fundada als Estats Units i està situada a Illinois. Proporciona energia a l'AIDAluna propietat d'AIDA Cruises.</lex>
+      <lex lang="eu" lid="Id1">Douglas R. Oberhelman Caterpillar Inc. enpresako funtsezko pertsona da, Estatu Batuetan sortua eta Illinoisen kokatua. Konpainiak AIDA Cruises-en jabetza den AIDAluna ontziaren motorrak hornitzen ditu.</lex>
+      <lex lang="eu" lid="Id2">Douglas R Oberhelman Caterpillar Inc. enpresako funtsezko pertsona bat da, Estatu Batuetan sortua eta Illinoisen kokatua. Enpresa honek AIDA Cruises-en jabetza den AIDAluna propultsatu egiten du.</lex>
+      <lex lang="eu" lid="Id3">Douglas R Oberhelman Caterpillar Inc. enpresako funtsezko pertsona bat da, Estatu Batuetan sortua eta Illinoisen kokatua. AIDA Cruises-en jabetza den AIDAluna ontziari energia ematen dio.</lex>
+      <lex lang="gl" lid="Id1">Douglas R. Oberhelman é a persoa clave en Caterpillar Inc, fundada nos EUA e situada en Illinois. A compañía fornece a potencia do motor do AIDAluna, propiedade de AIDA Cruises.</lex>
+      <lex lang="gl" lid="Id2">Douglas R Oberhelman é unha persoa clave en Caterpillar Inc. que foi fundada nos Estados Unidos e está situada en Illinois. A compañía propulsa o AIDAluna propiedade de AIDA Cruises.</lex>
+      <lex lang="gl" lid="Id3">Douglas R Oberhelman é unha persoa clave en Caterpillar Inc., que foi fundada nos Estados Unidos e está situada en Illinois. Fornece enerxía ao AIDAluna, propiedade de AIDA Cruises.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Costa_Crociere | location | Genoa</otriple>
+        <otriple>Costa_Crociere | parentCompany | Carnival_Corporation_&amp;_plc</otriple>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | shipBuilder | Meyer_Werft</otriple>
+        <otriple>AIDAstella | shipOwner | Costa_Crociere</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Costa_Crociere | location | Genoa</otriple>
+        <otriple>Costa_Crociere | parent | Carnival_Corporation_&amp;_plc</otriple>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | shipBuilder | Meyer_Werft</otriple>
+        <otriple>AIDAstella | shipOwner | Costa_Crociere</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Costa_Crociere | location | Genoa</mtriple>
+        <mtriple>Costa_Crociere | parentCompany | Carnival_Corporation_&amp;_plc</mtriple>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+        <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Costa_Crociere | Ubicación | Génova</striple>
+        <striple>Costa_Crociere | EmpresaMatriz | Carnival_Corporation_&amp;_plc</striple>
+        <striple>AIDAstella | Operador | AIDA_Cruises</striple>
+        <striple>AIDAstella | Constructor | Meyer_Werft</striple>
+        <striple>AIDAstella | Propietario | Costa_Crociere</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Costa_Crociere | Ubicació | Gènova</ctriple>
+        <ctriple>Costa_Crociere | EmpresaMatriu | Carnival_Corporation_&amp;_plc</ctriple>
+        <ctriple>AIDAstella | Operador | AIDA_Cruises</ctriple>
+        <ctriple>AIDAstella | Constructor | Meyer_Werft</ctriple>
+        <ctriple>AIDAstella | Propietari | Costa_Crociere</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Costa_Crociere | Localización | Xénova</gtriple>
+        <gtriple>Costa_Crociere | EmpresaMatriz | Carnival_Corporation_&amp;_plc</gtriple>
+        <gtriple>AIDAstella | Operador | AIDA_Cruises</gtriple>
+        <gtriple>AIDAstella | Construtor | Meyer_Werft</gtriple>
+        <gtriple>AIDAstella | Propietario | Costa_Crociere</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Costa_Crociere | Lokalizazioa | Genoa</btriple>
+        <btriple>Costa_Crociere | EnpresaNagusia | Carnival_Corporation_eta_plc.</btriple>
+        <btriple>AIDAstella | Operadore | AIDA_Cruises</btriple>
+        <btriple>AIDAstella | Eraikitzailea. | Meyer_ontziola.</btriple>
+        <btriple>AIDAstella | Jabea. | Costa_Crociere</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Carnival Corporation &amp; plc is the parent company of Costa Crociere in Genoa, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruises.</lex>
+      <lex lang="en" lid="Id2">The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. Its owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.</lex>
+      <lex lang="en" lid="Id3">Meyer Werft built the AIDAstella which is operated by the AIDA Cruise Line. It is owned by Costa Crociere who are located in Genoa and have Carnival Corporation &amp; plc as their parent company.</lex>
+      <lex lang="es" lid="Id1">Carnival Corporation &amp; plc es la empresa matriz de Costa Crociere en Génova, propietaria del AIDAstella. El AIDAstella fue construido por Meyer Werft y es operado por AIDA Cruises.</lex>
+      <lex lang="es" lid="Id2">El AIDAstella, que fue construido por Meyer Werft, es operado por AIDA Cruises. Su propietario es Costa Crociere, con sede en Génova y filial de Carnival Corporation &amp; Plc.</lex>.
+      <lex lang="es" lid="Id3">Meyer Werft construyó el AIDAstella, operado por AIDA Cruise Line. Es propiedad de Costa Crociere, con sede en Génova y cuya empresa matriz es Carnival Corporation &amp; plc.</lex>.
+    <lex lang="ca" lid="Id1">Carnival Corporation &amp; plc és la companyia mare de Costa Crociere a Gènova, propietària de l' AIDAstella. AIDAstella va ser construït per Meyer Werft i és operat per AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAstella, que va ser construït per Meyer Werft, és operat per AIDA Cruises. El seu propietari és Costa Crociere, que està situat a Gènova i és una subsidiària de Carnival Corporation &amp; Plc.</lex>
+      <lex lang="ca" lid="Id3">Meyer Werft va construir l'AIDAstella que és operat per la AIDA Cruise Line. És propietat de Costa Crociere que està situada a Gènova i té Carnival Corporation &amp; plc com a empresa matriu.</lex>
+      <lex lang="eu" lid="Id1">Carnival Corporation &amp; plc Genoako Costa Crociere konpainiaren jabea da, AIDAstellaren jabea dena. AIDAstella Meyer Werft-ek eraiki zuen eta AIDA Cruises-ek kudeatzen du.</lex>
+      <lex lang="eu" lid="Id2">AIDAstella, Meyer Werft-ek eraikia, AIDA Cruises-ek kudeatzen du. Bere jabea Costa Crociere da, Genova-n kokatua eta Carnival Corporation &amp; Plc-ren filiala.</lex>
+      <lex lang="eu" lid="Id3">Meyer Werft-ek eraiki zuen AIDAstella, eta AIDA Cruise Line-k kudeatzen du. Costa Crociere-ren jabetzakoa da, Genova hirian kokatuta dagoena eta Carnival Corporation &amp; plc bere konpainia nagusia dena.</lex>
+      <lex lang="gl" lid="Id1">Carnival Corporation &amp; plc é a empresa matriz de Costa Crociere en Xénova, propietaria do AIDAstella. O AIDAstella foi construído por Meyer Werft e está operado por AIDA Cruises.</lex>
+      <lex lang="gl" lid="Id2">O AIDAstella, que foi construído por Meyer Werft, é operado por AIDA Cruises. O seu propietario é Costa Crociere, con sede en Xénova e unha filial de Carnival Corporation &amp; Plc.</lex>
+      <lex lang="gl" lid="Id3">Meyer Werft construíu o AIDAstella, que é operado pola AIDA Cruise Line. É propiedade de Costa Crociere, con sede en Xénova, e a súa empresa matriz é Carnival Corporation &amp; plc.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        <otriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Minotaur_IV</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Delta_II | LugarDeLanzamiento | Estación_de_las_Fuerzas_Aéreas_de_Cabo_Cañaveral</striple>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Delta_II | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio</striple>
+        <striple>Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio | CoheteAsociado | Minotaur_IV</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Delta_II | LlocDeLlançament | Estació_de_la_Força_Aèria_de_Cape_Canaveral</ctriple>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Delta_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | plataforma_de_llançament_0</ctriple>
+        <ctriple>plataforma_de_llançament_0 | RocketAssociat | Minotaure_IVConstellation_name_(optional)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Delta_II | LanzarOSitio | Estación_da_Forza_Aérea_de_Cabo_Cañaveral</gtriple>
+        <gtriple>Antares_(foguete) | Comparable | Delta_II</gtriple>
+        <gtriple>Delta_II | PaísOrixe | Estados_Unidos</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio</gtriple>
+        <gtriple>Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio | RocketAsociado | Minotauro_IV</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Delta_II | Site-aMartxanJartzea | Cape_Canaveraleko_Aireko_Indarren_Estazioa.</btriple>
+        <btriple>Antares_(suziri_bat) | Konparagarria | Delta_II</btriple>
+        <btriple>Delta_II | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0</btriple>
+        <btriple>Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0 | AsoziatutakoRocket | Minotauro_IV.a</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0 . The latter was similar to the Delta II from the United States that launched at Cape Canaveral Air Force Station.</lex>
+      <lex lang="en" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV and is also the launch site of the Antares rocket. This latter rocket is comparable to the United states Delta II which launched from Cape Canaveral Air Force Station.</lex>
+      <lex lang="en" lid="Id3">Both the Antares rocket and the Minotaur IV rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, while the Delta II (United States) was launched at Cape Canaveral Air Force Station; Delta II is comparable to Antares.</lex>
+      <lex lang="es" lid="Id1">El cohete Minotauro IV y el cohete Antares fueron lanzados desde la plataforma de lanzamiento 0 del Mid-Atlantic Regional Spaceport . Este último fue similar al Delta II de Estados Unidos que se lanzó en la Estación de la Fuerza Aérea de Cabo Cañaveral.</lex>
+      <lex lang="es" lid="Id2">La Plataforma de Lanzamiento 0 del Mid-Atlantic Regional Spaceport está asociada al cohete Minotaur IV y es también el lugar de lanzamiento del cohete Antares. Este último cohete es comparable al Delta II de Estados Unidos, que se lanzó desde la estación de la Fuerza Aérea de Cabo Cañaveral.</lex>
+      <lex lang="es" lid="Id3">Tanto el cohete Antares como el cohete Minotauro IV se lanzaron desde la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio, mientras que el Delta II (Estados Unidos) se lanzó en la Estación de la Fuerza Aérea de Cabo Cañaveral; el Delta II es comparable al Antares.</lex>
+      <lex lang="ca" lid="Id1">El coet Minotaur IV i el coet Antares van ser llançats des de la plataforma de llançament 0 del Mid- Atlantic Regional Spaceport. Aquest últim era similar al Delta II dels Estats Units que va ser llançat des de l' Estació de la Força Aèria de Cap Canaveral.</lex>
+      <lex lang="ca" lid="Id2">La plataforma de llançament 0 del Port Espacial Regional de l'Atlàntic Mitjà està associada amb el coet Minotaur IV i també és el lloc de llançament del coet Antares. Aquest últim coet és comparable al Delta II dels Estats Units, que es va llançar des de l'estació de la Força Aèria de Cap Canaveral.</lex>
+      <lex lang="ca" lid="Id3">Tant el coet Antares com el coet Minotaur IV van ser llançats des del Mid-Atlantic Regional Spaceport Launch Pad 0, mentre que el Delta II (Estats Units) va ser llançat des de l'Estació de la Força Aèria de Cap Canaveral; Delta II és comparable a Antares.</lex>
+      <lex lang="eu" lid="Id1">Minotaur IV suziria eta Antares suziria Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti ziren. Azken hori AEBetako Delta II-aren antzekoa da, eta Cape Canaveral Air Force Station-etik jaurti zen.</lex>
+      <lex lang="eu" lid="Id2">Mid-Atlantic Regional Spaceport Launch Pad 0 Minotaur IV espazio-suziriarekin lotuta dago eta Antares espazio-suziriaren jaurtiketa gunea ere bada.</lex>
+      <lex lang="eu" lid="Id3">Antares suziria eta Minotaur IV suziria Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti ziren, Delta II (Estatu Batuak) Cape Canaveral Air Force Station-etik jaurti zen bitartean; Delta II Antares-arekin alderagarria da.</lex>
+      <lex lang="gl" lid="Id1">O foguete Minotaur IV e o foguete Antares foron lanzados desde a plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio. Este último era similar ao Delta II dos Estados Unidos que se lanzou desde a Estación da Forza Aérea de Cabo Cañaveral.</lex>
+      <lex lang="gl" lid="Id2">A Plataforma de Lanzamento 0 do Porto Espacial Rexional do Atlántico Medio está asociada co foguete Minotaur IV e é tamén o lugar de lanzamento do foguete Antares. Este último é comparable ao Delta II dos Estados Unidos que se lanzou desde a Estación da Forza Aérea de Cabo Cañaveral.</lex>
+      <lex lang="gl" lid="Id3">Tanto o foguete Antares como o Minotaur IV foron lanzados desde a plataforma de lanzamento 0 do Mid-Atlantic Regional Spaceport, mentres que o Delta II (Estados Unidos) foi lanzado desde a Estación da Forza Aérea de Cabo Cañaveral; o Delta II é comparable ao Antares.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        <otriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Minotaur_IV</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Delta_II | LugarDeLanzamiento | Base_de_las_Fuerzas_Aéreas_Vandenberg</striple>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Delta_II | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio</striple>
+        <striple>Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio | CoheteAsociado | Minotaur_IV</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Delta_II | LlocDeLlançament | Base_de_la_Força_Aèria_de_Vandenberg</ctriple>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Delta_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | plataforma_de_llançament_0</ctriple>
+        <ctriple>plataforma_de_llançament_0 | RocketAssociat | Minotaure_IVConstellation_name_(optional)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Delta_II | LanzarOSitio | Base_da_Forza_Aérea_de_Vandenberg</gtriple>
+        <gtriple>Antares_(foguete) | Comparable | Delta_II</gtriple>
+        <gtriple>Delta_II | PaísOrixe | Estados_Unidos</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio</gtriple>
+        <gtriple>Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio | RocketAsociado | Minotauro_IV</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Delta_II | Site-aMartxanJartzea | Vandenberg_Air_Force_Base</btriple>
+        <btriple>Antares_(suziri_bat) | Konparagarria | Delta_II</btriple>
+        <btriple>Delta_II | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0</btriple>
+        <btriple>Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0 | AsoziatutakoRocket | Minotauro_IV.a</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The launch site of the rocket Antares was the Mid-Atlantic Regional Spaceport Launch Pad 0, which is associated with the Minotaur IV rocket. The Antares rocket is comparable with the Delta II, which originated from the United States, and was launched at Vandenberg Air Force Base.</lex>
+      <lex lang="en" lid="Id2">The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. The latter rocket is comparable to the Delta II which originated in the United States and launched from the Vandenberg Air Force Base.</lex>
+      <lex lang="es" lid="Id1">El lugar de lanzamiento del cohete Antares fue la plataforma de lanzamiento 0 del Mid-Atlantic Regional Spaceport, asociada al cohete Minotaur IV. El cohete Antares es comparable con el Delta II, originario de Estados Unidos, que se lanzó en la base aérea de Vandenberg.</lex>
+      <lex lang="es" lid="Id2">El cohete Minotaur IV y el cohete Antares fueron lanzados desde la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio. Este último cohete es comparable con el Delta II, originario de Estados Unidos y lanzado desde la Base Aérea de Vandenberg.</lex>
+      <lex lang="ca" lid="Id1">El lloc de llançament del coet Antares era el Mid-Atlantic Regional Spaceport Launch Pad 0, que està associat amb el coet Minotaur IV. El coet Antares és comparable al Delta II, que es va originar als Estats Units i es va llançar des de la base aèria de Vandenberg.</lex>
+      <lex lang="ca" lid="Id2">El coet Minotaur IV i el coet Antares van ser llançats des de la plataforma de llançament 0 del Mid- Atlantic Regional Spaceport. Aquest últim coet és comparable al Delta II que es va originar als Estats Units i va ser llançat des de la base de la Força Aèria de Vandenberg.</lex>
+      <lex lang="eu" lid="Id1">Antares suziriaren jaurtiketa gunea Mid-Atlantic Regional Spaceport Launch Pad 0 izan zen, Minotaur IV suziriarekin erlazionatua dagoena. Antares suziria Delta II suziriaren antzekoa da, Estatu Batuetako jatorria duena, eta Vandenberg Air Force Basetik jaurti zen.</lex>
+      <lex lang="eu" lid="Id2">Minotaur IV suziria eta Antares suziria Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti ziren. Azken hau Delta II suziriaren antzekoa da, Estatu Batuetan sortua eta Vandenberg Air Force Base-tik jaurti zena.</lex>
+      <lex lang="gl" lid="Id1">O lugar de lanzamento do foguete Antares foi a plataforma de lanzamento 0 do Mid- Atlantic Regional Spaceport, que está asociada co foguete Minotaur IV. O foguete Antares é comparable ao Delta II, que se orixinou nos Estados Unidos e foi lanzado desde a base da Forza Aérea de Vandenberg.</lex>
+      <lex lang="gl" lid="Id2">O foguete Minotaur IV e o foguete Antares foron lanzados desde a Plataforma de Lanzamento 0 do Porto Espacial Rexional do Atlántico Medio. Este último é comparable ao Delta II que se orixinou nos Estados Unidos e foi lanzado desde a Base da Forza Aérea de Vandenberg.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Germany | capital | Berlin</otriple>
+        <otriple>Neptun_Werft | locationCity | Rostock</otriple>
+        <otriple>Germany | leader | Joachim_Gauck</otriple>
+        <otriple>Rostock | country | Germany</otriple>
+        <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Germany | capital | Berlin</mtriple>
+        <mtriple>Neptun_Werft | city | Rostock</mtriple>
+        <mtriple>Germany | leader | Joachim_Gauck</mtriple>
+        <mtriple>Rostock | country | Germany</mtriple>
+        <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alemania | Capital | Berlín</striple>
+        <striple>Neptun_Werft | Ciudad | Rostock</striple>
+        <striple>Alemania | Líder | Joachim_Gauck</striple>
+        <striple>Rostock | País | Alemania</striple>
+        <striple>A-Rosa_Luna | Constructor | Neptun_Werft</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alemanya | Capital | Berlín</ctriple>
+        <ctriple>Neptun_Werft | Ciutat | Rostock</ctriple>
+        <ctriple>Alemanya | Líder | Joachim_Gauck</ctriple>
+        <ctriple>Rostock | País | Alemanya</ctriple>
+        <ctriple>A-Rosa_Luna | Constructor | Neptun_Werft</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alemaña | Capital | Berlín</gtriple>
+        <gtriple>Neptun_Werft | Cidade | Rostock</gtriple>
+        <gtriple>Alemaña | Líder | Joachim_Gauck</gtriple>
+        <gtriple>Rostock | País | Alemaña</gtriple>
+        <gtriple>A-Rosa_Luna | Construtor | Neptun_Werft</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alemania | Kapitala | Berlinen</btriple>
+        <btriple>Neptuno_ontziola | Hiria | Rostock</btriple>
+        <btriple>Alemania | Buruzagia. | Joachim_Gauck</btriple>
+        <btriple>Rostock | Herrialdea | Alemania</btriple>
+        <btriple>A-Rosa_Luna | Eraikitzailea. | Neptuno_ontziola</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The A-Rosa Luna was built on the Neptun Werft, located in Rostock, Germany. Germany (whose capital city is Berlin) is led by Joachim Gauck.</lex>
+      <lex lang="en" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft whose HQ is in Rostock, Germany. Berlin is the capital in that country and Joachim Gauck is the name of one of its leaders.</lex>
+      <lex lang="en" lid="Id3">The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. Joachim Gauck is a leader of Germany, with its capital at Berlin.</lex>
+      <lex lang="es" lid="Id1">El A-Rosa Luna se construyó en el astillero Neptun Werft, situado en Rostock (Alemania). Alemania (cuya capital es Berlín) está liderada por Joachim Gauck.</lex>
+      <lex lang="es" lid="Id2">El constructor del A-Rosa Luna es Neptun Werft, cuya sede está en Rostock, Alemania. Berlín es la capital en ese país y Joachim Gauck es el nombre de uno de sus líderes.</lex>
+      <lex lang="es" lid="Id3">El A-Rosa Luna fue construido por Neptun Werft en Rostock, Alemania. Joachim Gauck es un líder de Alemania, con capital en Berlín.</lex>
+      <lex lang="ca" lid="Id1">L' A- Rosa Luna va ser construït a la Neptun Werft, situada a Rostock, Alemanya. Alemanya (la capital de la qual és Berlín) està liderada per Joachim Gauck.</lex>
+      <lex lang="ca" lid="Id2">El constructor de l'A-Rosa Luna és Neptun Werft, amb seu a Rostock, Alemanya. Berlín és la capital d'aquest país i Joachim Gauck és el nom d'un dels seus líders.</lex>
+      <lex lang="ca" lid="Id3">L'A-Rosa Luna va ser construït per Neptun Werft a Rostock, Alemanya. Joachim Gauck és el líder d'Alemanya, amb capital a Berlín.</lex>
+      <lex lang="eu" lid="Id1">A-Rosa Luna Rostock-eko (Alemania) Neptun Werft-en eraiki zen. Joachim Gauck-ek gidatzen du Alemania (hiriburua Berlin da).</lex>
+      <lex lang="eu" lid="Id2">A-Rosa Lunaren eraikitzailea Neptun Werft da, bere egoitza nagusia Rostocken duena, Alemanian. Berlin da herrialde horretako hiriburua eta Joachim Gauck bere buruzagietako baten izena da.</lex>
+      <lex lang="eu" lid="Id3">Alemaniako Rostock-eko Neptun Werft-ek eraiki zuen A-Rosa Luna. Joachim Gauck Alemaniako liderra da, eta Berlinen du hiriburua.</lex>
+      <lex lang="gl" lid="Id1">O A- Rosa Luna foi construído no Neptun Werft, situado en Rostock, Alemaña. Alemaña (cuxa capital é Berlín) está liderada por Joachim Gauck.</lex>
+      <lex lang="gl" lid="Id2">O construtor do A-Rosa Luna é Neptun Werft, cuxa sede está en Rostock, Alemaña. Berlín é a capital dese país e Joachim Gauck é o nome dun dos seus líderes.</lex>
+      <lex lang="gl" lid="Id3">O A-Rosa Luna foi construído por Neptun Werft en Rostock, Alemaña. Joachim Gauck é o líder de Alemaña, cuxa capital é Berlín.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Germany | demonym | Germans</otriple>
+        <otriple>Germany | leader | Stanislaw_Tillich</otriple>
+        <otriple>Neptun_Werft | locationCity | Rostock</otriple>
+        <otriple>Rostock | country | Germany</otriple>
+        <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Germany | demonym | Germans</mtriple>
+        <mtriple>Germany | leader | Stanislaw_Tillich</mtriple>
+        <mtriple>Neptun_Werft | city | Rostock</mtriple>
+        <mtriple>Rostock | country | Germany</mtriple>
+        <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alemania | Gentilicio | alemanes</striple>
+        <striple>Alemania | Líder | Stanislaw_Tillich</striple>
+        <striple>Neptun_Werft | Ciudad | Rostock</striple>
+        <striple>Rostock | País | Alemania</striple>
+        <striple>A-Rosa_Luna | Constructor | Neptun_Werft</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alemanya | Demònim | alemanys</ctriple>
+        <ctriple>Alemanya | Líder | Stanislaw_Tillich</ctriple>
+        <ctriple>Neptun_Werft | Ciutat | Rostock</ctriple>
+        <ctriple>Rostock | País | Alemanya</ctriple>
+        <ctriple>A-Rosa_Luna | Constructor | Neptun_Werft</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alemaña | Demónimo | Alemáns</gtriple>
+        <gtriple>Alemaña | Líder | Stanislaw_Tillich</gtriple>
+        <gtriple>Neptun_Werft | Cidade | Rostock</gtriple>
+        <gtriple>Rostock | País | Alemaña</gtriple>
+        <gtriple>A-Rosa_Luna | Construtor | Neptun_Werft</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alemania | DeabruarenIzena. | Alemaniarrak.</btriple>
+        <btriple>Alemania | Buruzagia. | Stanislaw_Tillich</btriple>
+        <btriple>Neptuno_ontziola | Hiria | Rostock</btriple>
+        <btriple>Rostock | Herrialdea | Alemania</btriple>
+        <btriple>A-Rosa_Luna | Eraikitzailea. | Neptuno_ontziola</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The builder of the A-Rosa Luna is Neptun Werft, from Rostock, Germany. The leader of Germany is Stanislaw Tillich and the people are called Germans.</lex>
+      <lex lang="en" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft, headquartered in Rostock, Germany. Stanislaw Tillich is a leader of Germany, and the demonym for people who live there is Germans.</lex>
+      <lex lang="en" lid="Id3">Neptun Werft, who built the A-Rosa Luna, is headquartered in Rostock in Germany. Germans is the demonym for people who live in Germany and Stanislaw Tillich is its leader.</lex>
+      <lex lang="es" lid="Id1">El constructor del A-Rosa Luna es Neptun Werft, de Rostock, Alemania. El líder de Alemania es Stanislaw Tillich y sus habitantes se llaman alemanes.</lex>
+      <lex lang="es" lid="Id2">El constructor del A-Rosa Luna es Neptun Werft, con sede en Rostock, Alemania. Stanislaw Tillich es un dirigente de Alemania, y el gentilicio de las personas que viven allí es alemanes.</lex>
+      <lex lang="es" lid="Id3">Neptun Werft, que construyó el A-Rosa Luna, tiene su sede en Rostock, Alemania. Alemanes es el gentilicio de las personas que viven en Alemania y Stanislaw Tillich es su líder.</lex>
+      <lex lang="ca" lid="Id1">El constructor de l'A-Rosa Luna és Neptun Werft, de Rostock, Alemanya. El líder d'Alemanya és Stanislaw Tillich i la gent s'anomena alemanys.</lex>
+      <lex lang="ca" lid="Id2">El constructor de l'A-Rosa Luna és Neptun Werft, amb seu a Rostock, Alemanya. Stanislaw Tillich és un líder d'Alemanya, i el demoníac de la gent que hi viu és alemany.</lex>
+      <lex lang="ca" lid="Id3">Neptun Werft, que va construir l'A-Rosa Luna, té la seu a Rostock, Alemanya. Germans és el demoníac de la gent que viu a Alemanya i Stanislaw Tillich és el seu líder.</lex>
+      <lex lang="eu" lid="Id1">A-Rosa Lunaren eraikitzailea Neptun Werft da, Rostocketik, Alemaniatik. Alemaniako buruzagia Stanislaw Tillich da eta herriari alemanak deitzen diote.</lex>
+      <lex lang="eu" lid="Id2">A-Rosa Lunaren eraikitzailea Neptun Werft da, Rostock-en egoitza duena, Alemanian. Stanislaw Tillich Alemaniako buruzagi bat da, eta han bizi den jendearen demonioa alemaniarrak dira.</lex>
+      <lex lang="eu" lid="Id3">Neptun Werft, A-Rosa Luna eraiki zuena, Rostocken du egoitza nagusia, Alemanian. Alemanak Alemanian bizi diren pertsonen demonioa da eta Stanislaw Tillich da bere buruzagia.</lex>
+      <lex lang="gl" lid="Id1">O construtor do A-Rosa Luna é Neptun Werft, de Rostock, Alemaña. O líder de Alemaña é Stanislaw Tillich e a xente chámase alemá.</lex>
+      <lex lang="gl" lid="Id2">O construtor do A- Rosa Luna é Neptun Werft, con sede en Rostock, Alemaña. Stanislaw Tillich é un líder de Alemaña, e o demoníaco da xente que vive alí é alemán.</lex>
+      <lex lang="gl" lid="Id3">Neptun Werft, que construíu o A- Rosa Luna, ten a súa sede en Rostock, Alemaña. Germans é o demoníaco da xente que vive en Alemaña e Stanislaw Tillich é o seu líder.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Minotaur_V</otriple>
+        <otriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_V</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio | CoheteAsociado | Minotaur_V</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Puerto_espacial_regional_del_Atlántico_Medio</striple>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Delta_II | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>plataforma_de_llançament_0 | RocketAssociat | Minotaure_V</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | Mid-Atlantic_Regional_Spaceport</ctriple>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Delta_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | plataforma_de_llançament_0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio | RocketAsociado | Minotauro_V</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Aeroporto_Espacial_Rexional_do_Atlántico_Medio</gtriple>
+        <gtriple>Antares_(foguete) | Comparable | Delta_II</gtriple>
+        <gtriple>Delta_II | PaísOrixe | Estados_Unidos</gtriple>
+        <gtriple>Antares_(foguete) | LanzarOSitio | Plataforma_de_lanzamento_0_do_porto_espacial_rexional_do_Atlántico_medio</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0 | AsoziatutakoRocket | Minotauro_V.a</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Mid-Atlantic_eskualdeko_espazio-portua</btriple>
+        <btriple>Antares_(suziri_bat) | Konparagarria | Delta_II</btriple>
+        <btriple>Delta_II | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        <btriple>Antares_(suziri_bat) | Site-aMartxanJartzea | Atlantiko_Erdiko_Eskualdeko_Espazio-portuaren_jaurtiketa-plataforma_0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Delta II is from the United States and is comparable to the Antares rocket which was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Rocket Minotaur V.</lex>
+      <lex lang="en" lid="Id2">The Antares rocket and the Minotaur V, were launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. The Antares is comparable to the, United States origin, Delta II.</lex>
+      <lex lang="en" lid="Id3">The Antares rocket, comparable to the Delta II (United States), was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0, along with the Minotaur V.</lex>
+      <lex lang="es" lid="Id1">El Delta II es de Estados Unidos y es comparable al cohete Antares, que fue lanzado en la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio. La Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio está asociada al cohete Minotaur V.</lex>.
+      <lex lang="es" lid="Id2">El cohete Antares y el Minotaur V, fueron lanzados en el Mid-Atlantic Regional Spaceport Launch Pad 0. El Antares es comparable al, Delta IIde origen estadounidense.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares, comparable al Delta II (Estados Unidos), fue lanzado en la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio, junto con el Minotaur V.</lex>
+      <lex lang="ca" lid="Id1">El Delta II és dels Estats Units i és comparable al coet Antares que va ser llançat des de la plataforma de llançament 0 del Mid- Atlantic Regional Spaceport. La plataforma de llançament 0 del Mid- Atlantic Regional Spaceport està associada amb el coet Minotaur V.</lex>
+      <lex lang="ca" lid="Id2">El coet Antares i el Minotaur V, van ser llançats des de la plataforma de llançament 0 del Mid- Atlantic Regional Spaceport. L' Antares és comparable al Delta II, d'origen nord- americà.</lex>
+      <lex lang="ca" lid="Id3">El coet Antares, comparable al Delta II (Estats Units), va ser llançat a la plataforma de llançament del Middle-Atlantic Regional Spaceport Launch Pad 0, juntament amb el Minotaur V.</lex>
+      <lex lang="eu" lid="Id1">Delta II Estatu Batuetakoa da eta Antares suziriaren antzekoa da, Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurtitzen dena. Mid-Atlantic Regional Spaceport Launch Pad 0 Minotaur V suziriarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Antares suziria eta Minotaur V suziria Mid-Atlantic Regional Spaceport Launch Pad 0 jaurtigailutik jaurti ziren. Antares Delta II suziriaren antzekoa da, Estatu Batuetako jatorria duena.</lex>
+      <lex lang="eu" lid="Id3">Antares suziria, Delta II (Estatu Batuak) bezalakoa, Mid-Atlantic Regional Spaceport Launch Pad 0-tik jaurti zen, Minotaur V-rekin batera.</lex>
+      <lex lang="gl" lid="Id1">O Delta II provén dos Estados Unidos e é comparable ao foguete Antares, que se lanzou desde a plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio. A plataforma de lanzamento 0 do Porto Espacial Rexional do Atlántico Medio está asociada co foguete Minotaur V.</lex>
+      <lex lang="gl" lid="Id2">O foguete Antares e o Minotaur V foron lanzados desde a Plataforma de Lanzamento 0 do Centro Espacial Rexional do Atlántico. O Antares é comparable ao Delta II, de orixe estadounidense.</lex>
+      <lex lang="gl" lid="Id3">O foguete Antares, comparable ao Delta II (Estados Unidos), foi lanzado na plataforma de lanzamento do puerto espacial regional do Atlántico medio 0, xunto co Minotauro V.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | anthem | The_Star-Spangled_Banner</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | blanco_estadounidense</striple>
+        <striple>ALV_X-1 | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Estados_Unidos | Himno | The_Star-Spangled_Banner</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | blancs_estatunidencs</ctriple>
+        <ctriple>ALV_X-1 | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Himne | The_Star-Spangled_Banner</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Americanos_brancos</gtriple>
+        <gtriple>ALV_X-1 | PaísOrixe | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | Demónimo | Americanos</gtriple>
+        <gtriple>Estados_Unidos | Capital | Washington,_D.C.</gtriple>
+        <gtriple>Estados_Unidos | Himno | A_bandeira_estrelada</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Amerikar_zuriak.</btriple>
+        <btriple>ALV_X-1_zenbakia. | JatorrizkoHerrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | DeabruarenIzena. | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | Kapitala | Washington_D.C.</btriple>
+        <btriple>Estatu_Batuak | AbestiBat. | Izarrezko_Bandera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">ALV X-1 came from the U.S. whose people are American and whose capital is in Washington, D.C. White Americans are part of an ethnic group in the U.S. and their national anthem is known as The Star Spangled Banner.</lex>
+      <lex lang="en" lid="Id2">The capital of the United States, where ALV X-1 originated, is Washington, D.C. The inhabitants of the United States are called Americans, and its anthem is The Star Spangled Banner. One of its ethnic groups is White Americans.</lex>
+      <lex lang="en" lid="Id3">The ALV X-1 originates from the United States where the national anthem is the Star Spangled Banner and the capital city is Washington DC. The country's inhabitants are called Americans and one of the ethnic groups are the White Americans.</lex>
+      <lex lang="es" lid="Id1">El ALV X-1 procede de EE.UU., cuyos habitantes son Estadounidenses y su capital se encuentra en Washington, D.C. Los Estadounidenses blancos forman parte de un grupo étnico de EE.UU. y su himno nacional se conoce como The Star Spangled Banner.</lex>
+      <lex lang="es" lid="Id2">La capital de Estados Unidos, donde se originó el ALV X-1, es Washington, D.C. Sus habitantes se denominan Estadounidenses y su himno es The Star Spangled Banner. Uno de sus grupos étnicos es el de los Estadounidense blancos.</lex>
+      <lex lang="es" lid="Id3">El ALV X-1 es originario de Estados Unidos, donde el himno nacional es The Star Spangled Banner y la capital es Washington DC. Los habitantes del país se llaman Estadounidense y uno de los grupos étnicos son los Estadounidense blancos.</lex>
+      <lex lang="ca" lid="Id1">ALV X-1 va venir dels Estats Units, la gent dels quals és americana i la capital és Washington, D.C. Els americans blancs són part d'un grup ètnic als Estats Units i el seu himne nacional és conegut com The Star Spangled Banner.</lex>
+      <lex lang="ca" lid="Id2">La capital dels Estats Units, on es va originar l'ALV X-1, és Washington, D.C. Els habitants dels Estats Units s'anomenen americans, i el seu himne és The Star Spangled Banner. Un dels seus grups ètnics són els americans blancs.</lex>
+      <lex lang="ca" lid="Id3">L'ALV X-1 s'origina als Estats Units, on l'himne nacional és l'Star Spangled Banner i la capital és Washington DC. Els habitants del país s'anomenen americans i un dels grups ètnics són els americans blancs.</lex>
+      <lex lang="eu" lid="Id1">ALV X-1 Ameriketako Estatu Batuetakoa da, bere biztanleak estatubatuarrak dira eta bere hiriburua Washington D.C.n dago. Amerikar zuriak Estatu Batuetako talde etniko batekoak dira eta haien himno nazionala The Star Spangled Banner izenarekin ezaguna da.</lex>
+      <lex lang="eu" lid="Id2">Ameriketako Estatu Batuetako hiriburua, ALV X-1 sortu zen lekua, Washington, D.C. da. Estatu Batuetako biztanleei amerikarrak deitzen zaie, eta bere ereserkia The Star Spangled Banner da. Bere talde etnikoetako bat amerikar zuriak dira.</lex>
+      <lex lang="eu" lid="Id3">ALV X-1 Ameriketako Estatu Batuetatik dator, non himno nazionala Star Spangled Banner da eta hiriburua Washington DC da. Herrialdeko biztanleei estatubatuarrak deitzen zaizkie eta talde etnikoetako bat estatubatuar zuriak dira.</lex>
+      <lex lang="gl" lid="Id1">ALV X-1 veu dos Estados Unidos cuxa xente é americana e cuxa capital está en Washington, D.C. Os americanos brancos son parte dun grupo étnico nos Estados Unidos e o seu himno nacional é coñecido como The Star Spangled Banner.</lex>
+      <lex lang="gl" lid="Id2">A capital dos Estados Unidos, onde se orixinou o ALV X-1, é Washington, D.C. Os habitantes dos Estados Unidos chámanse americanos e o seu himno é The Star Spangled Banner. Un dos seus grupos étnicos son os americanos brancos.</lex>
+      <lex lang="gl" lid="Id3">O ALV X- 1 ten a súa orixe nos Estados Unidos, onde o himno nacional é Star Spangled Banner e a capital é Washington DC. Os habitantes do país chámanse americanos e un dos grupos étnicos son os americanos brancos.</lex>
+      </entry>
+    </entries>
+  </benchmark>

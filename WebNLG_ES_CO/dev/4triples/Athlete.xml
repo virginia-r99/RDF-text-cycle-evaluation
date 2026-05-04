@@ -1,0 +1,1060 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abel_Hernández | clubs | Peñarol</otriple>
+        <otriple>Abel_Hernández | youthclubs | Central_Español</otriple>
+        <otriple>Hull_City_A.F.C. | manager | Steve_Bruce</otriple>
+        <otriple>Abel_Hernández | team | Hull_City_A.F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | Peñarol</mtriple>
+        <mtriple>Abel_Hernández | youthclub | Central_Español</mtriple>
+        <mtriple>Hull_City_A.F.C. | manager | Steve_Bruce</mtriple>
+        <mtriple>Abel_Hernández | club | Hull_City_A.F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Hernández | Club | Club_Atlético_Peñarol</striple>
+        <striple>Abel_Hernández | ClubJuvenil | Central_Español_Fútbol_Club</striple>
+        <striple>Hull_City_Association_Football_Club | Director | Steve_Bruce</striple>
+        <striple>Abel_Hernández | Club | Hull_City_Association_Football_Club</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | Peñarol</ctriple>
+        <ctriple>Abel_Mathías_Hernández_Platero | ClubJuvenil | Central_Español</ctriple>
+        <ctriple>Hull_City_AFC | Gerent | Steve_Bruce</ctriple>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | Hull_City_AFC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abel_Hernández | Trevos | Peñarol</gtriple>
+        <gtriple>Abel_Hernández | ClubDeMocidade | Central_Español</gtriple>
+        <gtriple>Hull_City_A.F.C._(en_inglés). | Xestor | Steve_Bruce</gtriple>
+        <gtriple>Abel_Hernández | Trevos | Hull_City_A.F.C._(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abel_Hernández | Klub | Peñarol</btriple>
+        <btriple>Abel_Hernández | GazteentzakoKluba | Central_Español</btriple>
+        <btriple>Hull_Cityko_futbol_taldea. | Kudeatzailea | Steve_Bruce</btriple>
+        <btriple>Abel_Hernández | Klub | Hull_Cityko_futbol_taldea.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A former player of the Central Español youth club, Abel Hernandez belongs to the club Penarol. He also plays for, Steve Bruce managed, Hull City A.F.C.</lex>
+      <lex lang="en" lid="Id2">Abel Hernandez, who played for Penarol, was a member of the Central Espanol youth team. Abel Hernández's club is Hull City A.F.C. which is managed by, Steve Bruce.</lex>
+      <lex lang="en" lid="Id3">Abel Hernandez, whose club is Penarol, played youth football for Central Español. his club is also Hull City A.F.C., the manager of which, is Steve Bruce.</lex>
+      <lex lang="es" lid="Id1">Ex jugador del club juvenil Central Español, Abel Hernández pertenece al club Peñarol. También juega en el Hull City A.F.C., dirigido por Steve Bruce.</lex>
+      <lex lang="es" lid="Id2">Abel Hernández, que jugó en el Peñarol, fue miembro del equipo juvenil del Central Español. El club de Abel Hernández es el Hull City A.F.C. que es dirigido por, Steve Bruce.</lex>
+      <lex lang="es" lid="Id3">Abel Hernández, cuyo club es Peñarol, jugó en las categorías inferiores del Central Español. Su club es también el Hull City A.F.C., cuyo entrenador es Steve Bruce.</lex>
+      <lex lang="ca" lid="Id1">Un antic jugador del club juvenil Central Español, Abel Hernández pertany al club Penarol. També juga, dirigit per Steve Bruce, Hull City A.F.C.</lex>
+      <lex lang="ca" lid="Id2">Abel Hernández, que va jugar per Penarol, va ser membre de l'equip juvenil del Central Español. El club d'Abel Hernández és el Hull City A.F.C. que és dirigit per Steve Bruce.</lex>
+      <lex lang="ca" lid="Id3">Abel Hernández, el club del qual és Penarol, va jugar a futbol juvenil pel Central Español. El seu club és també el Hull City A.F.C., l'entrenador del qual, és Steve Bruce.</lex>
+      <lex lang="eu" lid="Id1">Abel Hernandez, Central Español-eko jokalari ohia, Penarol-eko jokalaria da. Steve Bruce-k entrenatzen duen Hull City A.F.C.-ko jokalaria ere bada.</lex>
+      <lex lang="eu" lid="Id2">Abel Hernandez, Peñarol-en jokatu zuena, Central Español-eko gazteen taldeko kidea izan zen. Abel Hernándezen kluba Hull City A.F.C. da, eta Steve Bruce-k zuzentzen du.</lex>
+      <lex lang="eu" lid="Id3">Abel Hernandezek, Penarolen jokatzen zuen, Central Español taldean jokatu zuen. Bere taldea ere Hull City A.F.C. da, eta bere managerra Steve Bruce da.</lex>
+      <lex lang="gl" lid="Id1">Antigo xogador do club xuvenil Central Español, Abel Hernández pertence ao club Penarol. Tamén xoga, dirixido por Steve Bruce, no Hull City A.F.C.</lex>
+      <lex lang="gl" lid="Id2">Abel Hernández, que xogou para o Peñarol, foi membro do equipo xuvenil do Central Español. O club de Abel Hernández é o Hull City A.F.C., dirixido por Steve Bruce.</lex>
+      <lex lang="gl" lid="Id3">Abel Hernández, cuxo club é Penarol, xogou fútbol xuvenil para Central Español. O seu club tamén é Hull City A.F.C., cuxo mánager é Steve Bruce.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
+        <otriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</otriple>
+        <otriple>Abel_Hernández | clubs | U.S._Città_di_Palermo</otriple>
+        <otriple>U.S._Città_di_Palermo | league | Serie_A</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
+        <mtriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</mtriple>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+        <mtriple>U.S._Città_di_Palermo | league | Serie_A</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Hernández | ClubJuvenil | Club_Atlético_Peñarol</striple>
+        <striple>U.S._Città_di_Palermo | Director | Giuseppe_Iachini</striple>
+        <striple>Abel_Hernández | Club | U.S._Città_di_Palermo</striple>
+        <striple>U.S._Città_di_Palermo | Liga | Serie_A</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abel_Mathías_Hernández_Platero | ClubJuvenil | Peñarol</ctriple>
+        <ctriple>U.S._Città_di_Palermo | Gerent | Giuseppe_Iachini</ctriple>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | U.S._Città_di_Palermo</ctriple>
+        <ctriple>U.S._Città_di_Palermo | Lliga | Lliga_italiana_de_futbol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abel_Hernández | ClubDeMocidade | Peñarol</gtriple>
+        <gtriple>U.S._Città_di_Palermo | Xestor | Giuseppe_Iachini</gtriple>
+        <gtriple>Abel_Hernández | Trevos | U.S._Città_di_Palermo</gtriple>
+        <gtriple>U.S._Città_di_Palermo | LigaunitDescriptionInLists | Serie_A</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abel_Hernández | GazteentzakoKluba | Peñarol</btriple>
+        <btriple>U.S._Città_di_Palermo | Kudeatzailea | Giuseppe_Iachini</btriple>
+        <btriple>Abel_Hernández | Klub | U.S._Città_di_Palermo</btriple>
+        <btriple>U.S._Città_di_Palermo | LigaBatDa. | Serie_A</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abel Hernández, who was a member of youth club Peñarol, plays for the club, U.S. Città di Palermo. The club is managed by Giuseppe Iachini and play in the Serie A league.</lex>
+      <lex lang="en" lid="Id2">When he was younger, Abel Hernández played for Peñarol. He now plays for US Citta di Palermo in the Serie A. League and managed by Giuseppe Iachini.</lex>
+      <lex lang="en" lid="Id3">Abel Hernández plays for, Giuseppe Iachini managed, U.S. Città di Palermo. in the Serie A league. He has played for Peñarol.</lex>
+      <lex lang="es" lid="Id1">Abel Hernández, que militó en el Peñarol juvenil, juega en el club U.S. Città di Palermo. El club está dirigido por Giuseppe Iachini y juega en la liga Serie A.</lex>
+      <lex lang="es" lid="Id2">Cuando era más joven, Abel Hernández jugaba en el Peñarol. Ahora juega en el US Citta di Palermo de la Serie A. Liga y lo dirige Giuseppe Iachini.</lex>
+      <lex lang="es" lid="Id3">Abel Hernández juega en, dirigido por Giuseppe Iachini, U.S. Città di Palermo. en la liga Serie A. Ha jugado en Peñarol.</lex>
+      <lex lang="ca" lid="Id1">Abel Hernández, que va ser membre del club juvenil Peñarol, juga pel club, U.S. Città di Palermo. El club és dirigit per Giuseppe Iachini i juga a la lliga Serie A.</lex>
+      <lex lang="ca" lid="Id2">Quan era més jove, Abel Hernández va jugar al Peñarol. Ara juga al US Citta di Palermo a la Serie A. Lliga i és entrenat per Giuseppe Iachini.</lex>
+      <lex lang="ca" lid="Id3">Abel Hernández juga amb el U.S. Città di Palermo, dirigit per Giuseppe Iachini, a la lliga de la Sèria A. Ha jugat amb el Peñarol.</lex>
+      <lex lang="eu" lid="Id1">Abel Hernández, Peñarol gazte taldeko kidea, U.S. Città di Palermo taldean jokatzen du.</lex>
+      <lex lang="eu" lid="Id2">Gaztetan, Abel Hernándezek Peñarol taldean jokatu zuen, eta gaur egun US Citta di Palermo taldean jokatzen du Serie A-n, Giuseppe Iachiniren zuzendaritzapean.</lex>
+      <lex lang="eu" lid="Id3">Abel Hernández U.S. Città di Palermo futbol taldean jokatzen du, Serie A ligan. Peñarolen jokatu du.</lex>
+      <lex lang="gl" lid="Id1">Abel Hernández, que foi membro do club xuvenil Peñarol, xoga para o club, U.S. Città di Palermo. O club está dirixido por Giuseppe Iachini e xoga na liga Serie A.</lex>
+      <lex lang="gl" lid="Id2">Cando era máis novo, Abel Hernández xogou para o Peñarol. Agora xoga para o US Citta di Palermo na Serie A e está dirixido por Giuseppe Iachini.</lex>
+      <lex lang="gl" lid="Id3">Abel Hernández xoga para o U.S. Città di Palermo, dirixido por Giuseppe Iachini, na liga Serie A. Xogou para o Peñarol.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Boston_Bruins | generalManager | Don_Sweeney</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_McQuaid | EquipoDeReclutamiento | Columbus_Blue_Jackets</striple>
+        <striple>Boston_Bruins | DirectorGeneral | Don_Sweeney</striple>
+        <striple>Columbus_Blue_Jackets | Ciudad | Columbus,_Ohio</striple>
+        <striple>Adam_McQuaid | Club | Boston_Bruins</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Adam_McQuaid | ProjecteDeL'equip | Columbus_Blue_Jackets</ctriple>
+        <ctriple>Boston_Bruins | GerentGeneral | Don_Sweeney</ctriple>
+        <ctriple>Columbus_Blue_Jackets | Ciutat | Columbus,_Ohio</ctriple>
+        <ctriple>Adam_McQuaid | Trèvols | Boston_Bruins</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Adam_McQuaid | ProxectoDeEquipo | Columbus_Blue_Jackets</gtriple>
+        <gtriple>Boston_Bruins | GerenteXeral | Don_Sweeney</gtriple>
+        <gtriple>Columbus_Blue_Jackets | Cidade | Columbus,_Ohio</gtriple>
+        <gtriple>Adam_McQuaid | Trevos | Boston_Bruins</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adam_McQuaid | TaldearenZirriborroa | Columbus_Blue_Jackets</btriple>
+        <btriple>Boston_Bruins | ErabiltzailearenEzarpenakgeneralManager | Don_Sweeney</btriple>
+        <btriple>Columbus_Blue_Jackets | Hiria | Columbus,_Ohio</btriple>
+        <btriple>Adam_McQuaid | Klub | Boston_Bruins</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adam McQuaid was originally drafted to the Columbus Blue Jackets out of Columbus, Ohio. He nows plays with the Boston Bruins whose general manager is Don Sweeney.</lex>
+      <lex lang="en" lid="Id2">Don Sweeney is general manager for the Boston Bruins, the team Adam McQuaid played for. McQuaid was drafted to the Columbus Blue Jackets, from Columbus, Ohio.</lex>
+      <lex lang="en" lid="Id3">Adam McQuaid was drafted with the Columbus Blue Jackets in Columbus, Ohio. He played for the Boston Bruins whose manager is Don Sweeney.</lex>
+      <lex lang="es" lid="Id1">Adam McQuaid fue fichado por los Columbus Blue Jackets de Columbus, Ohio. Ahora juega en los Boston Bruins, cuyo director general es Don Sweeney.</lex>
+      <lex lang="es" lid="Id2">Don Sweeney es el director general de los Boston Bruins, el equipo en el que jugó Adam McQuaid. McQuaid fue reclutado por los Columbus Blue Jackets, de Columbus, Ohio.</lex>
+      <lex lang="es" lid="Id3">Adam McQuaid fue reclutado por los Columbus Blue Jackets de Columbus, Ohio. Jugó en los Boston Bruins, cuyo entrenador es Don Sweeney.</lex>
+      <lex lang="ca" lid="Id1">Adam McQuaid va ser reclutat originalment pels Columbus Blue Jackets de Columbus, Ohio. Ara juga amb els Boston Bruins, el director general dels quals és Don Sweeney.</lex>
+      <lex lang="ca" lid="Id2">Don Sweeney és el gerent general dels Boston Bruins, l'equip pel qual va jugar Adam McQuaid. McQuaid va ser draftat pels Columbus Blue Jackets, de Columbus, Ohio.</lex>
+      <lex lang="ca" lid="Id3">Adam McQuaid va ser reclutat pels Columbus Blue Jackets a Columbus, Ohio. Va jugar amb els Boston Bruins, l'entrenador dels quals és Don Sweeney.</lex>
+      <lex lang="eu" lid="Id1">Adam McQuaid jatorrian Columbus Blue Jackets taldean drafteatu zuten Columbusetik, Ohiotik. Gaur egun Boston Bruins taldean jokatzen du, Don Sweeney entrenatzailea duena.</lex>
+      <lex lang="eu" lid="Id2">Don Sweeney Boston Bruins taldearen zuzendari nagusia da, Adam McQuaid-ek jokatu zuen taldea. McQuaid Columbus Blue Jackets-era drafteatu zuten, Columbus, Ohio-tik.</lex>
+      <lex lang="eu" lid="Id3">Adam McQuaid Columbus Blue Jackets taldearekin drafteatu zuten Columbusen, Ohion. Boston Bruins taldean jokatu zuen, Don Sweeney entrenatzailearen eskutik.</lex>
+      <lex lang="gl" lid="Id1">Adam McQuaid foi orixinalmente escollido polos Columbus Blue Jackets de Columbus, Ohio. Agora xoga cos Boston Bruins cuxo adestrador xeral é Don Sweeney.</lex>
+      <lex lang="gl" lid="Id2">Don Sweeney é o director xeral dos Boston Bruins, o equipo no que xogou Adam McQuaid. McQuaid foi seleccionado polos Columbus Blue Jackets, de Columbus, Ohio.</lex>
+      <lex lang="gl" lid="Id3">Adam McQuaid foi seleccionado polos Columbus Blue Jackets en Columbus, Ohio. Xogou para os Boston Bruins, cuxo adestrador é Don Sweeney.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Ayers | formerTeam | New_England_Patriots</otriple>
+        <otriple>Akeem_Ayers | dateOfBirth | "1989-07-10"^^xsd:date</otriple>
+        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
+        <otriple>Akeem_Ayers | birthYear | "1989"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Ayers | formerTeam | New_England_Patriots</mtriple>
+        <mtriple>Akeem_Ayers | birthDate | 1989-07-10</mtriple>
+        <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
+        <mtriple>Akeem_Ayers | birthYear | 1989</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Ayers | AntiguoEquipo | New_England_Patriots</striple>
+        <striple>Akeem_Ayers | FechaDeNacimiento | 10-07-1989</striple>
+        <striple>Akeem_Ayers | EquipoDebutante | Tennessee_Titans</striple>
+        <striple>Akeem_Ayers | AñoDeNacimiento | 1989</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Ayers | AnticEquip | New_England_Patriots</ctriple>
+        <ctriple>Akeem_Ayers | DataDeNaixement | 1989-07-10</ctriple>
+        <ctriple>Akeem_Ayers | DebutDeL'equip | Tennessee_Titans</ctriple>
+        <ctriple>Akeem_Ayers | AnyDeNaixement | 1989</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Ayers | AntigoEquipo | Patriots_de_Nova_Inglaterra</gtriple>
+        <gtriple>Akeem_Ayers | DataDeNacemento | 1989-07-10</gtriple>
+        <gtriple>Akeem_Ayers | EquipoDebutante | Tennessee_Titans</gtriple>
+        <gtriple>Akeem_Ayers | AnoDeNacemento | 1989</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Ayers | TaldeOhia | New_Englandeko_Patriots_taldea.</btriple>
+        <btriple>Akeem_Ayers | JaiotzeData | 1989-07-10</btriple>
+        <btriple>Akeem_Ayers | DebutTaldea | Tennessee_Titans_taldea</btriple>
+        <btriple>Akeem_Ayers | JaiotzaUrtea | 1989</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Ayers was born on 10th July 1989. He made his debut for the Tennessee Titans and used to play for the New England Patriots.</lex>
+      <lex lang="en" lid="Id2">Born on July 10th, 1989, Akeem Ayers, made his debut for the Tennessee Titans and used to play for the New England Patriots.</lex>
+      <lex lang="en" lid="Id3">Akeem Ayers was born on 10th July 1989. His debut team was the Tennessee Titans and his former team is the New England Patriots.</lex>
+      <lex lang="es" lid="Id1">Akeem Ayers nació el 10-07-1989. Debutó con los Tennessee Titans y solía jugar con los New England Patriots.</lex>
+      <lex lang="es" lid="Id2">Nacido el 10-07-1989, Akeem Ayers debutó con los Tennessee Titans y jugó en los New England Patriots.</lex>
+      <lex lang="es" lid="Id3">Akeem Ayers nació el 10-07-1989. Su equipo de debut fueron los Tennessee Titans y su antiguo equipo son los New England Patriots.</lex>
+      <lex lang="ca" lid="Id1">Akeem Ayers va néixer el 10 de juliol de 1989. Va fer el seu debut amb els Tennessee Titans i solia jugar amb els New England Patriots.</lex>
+      <lex lang="ca" lid="Id2">Nascut el 10 de juliol de 1989, Akeem Ayers, va debutar amb els Tennessee Titans i va jugar amb els New England Patriots.</lex>
+      <lex lang="ca" lid="Id3">Akeem Ayers va néixer el 10 de juliol de 1989. El seu equip de debut va ser els Tennessee Titans i el seu equip anterior és els New England Patriots.</lex>
+      <lex lang="eu" lid="Id1">Akeem Ayers 1989ko uztailaren 10ean jaio zen. Tennessee Titans taldean egin zuen debuta eta New England Patriots taldean jokatzen zuen.</lex>
+      <lex lang="eu" lid="Id2">1989ko uztailaren 10ean jaio zen Akeem Ayers, Tennessee Titans taldean debutatu zuen eta New England Patriots taldean jokatzen zuen.</lex>
+      <lex lang="eu" lid="Id3">Akeem Ayers 1989ko uztailaren 10ean jaio zen eta bere lehen taldea Tennessee Titans izan zen eta bere talde ohia New England Patriots.</lex>
+      <lex lang="gl" lid="Id1">Akeem Ayers naceu o 10 de xullo de 1989. Fixo o seu debut cos Tennessee Titans e adoitaba xogar cos New England Patriots.</lex>
+      <lex lang="gl" lid="Id2">Nacido o 10 de xullo de 1989, Akeem Ayers, fixo o seu debut cos Tennessee Titans e xogou cos New England Patriots.</lex>
+      <lex lang="gl" lid="Id3">Akeem Ayers naceu o 10 de xullo de 1989. O seu equipo de debut foi o Tennessee Titans e o seu antigo equipo é o New England Patriots.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
+        <otriple>Akeem_Dent | formerTeam | Houston_Texans</otriple>
+        <otriple>Akeem_Dent | dateOfBirth | "1987-09-27"^^xsd:date</otriple>
+        <otriple>Akeem_Dent | placeOfBirth | "Atlanta, Georgia"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
+        <mtriple>Akeem_Dent | formerTeam | Houston_Texans</mtriple>
+        <mtriple>Akeem_Dent | birthDate | 1987-09-27</mtriple>
+        <mtriple>Akeem_Dent | birthPlace | "Atlanta, Georgia"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Dent | AñoDeNacimiento | 1987</striple>
+        <striple>Akeem_Dent | AntiguoEquipo | Houston_Texans</striple>
+        <striple>Akeem_Dent | FechaDeNacimiento | 27-09-1987</striple>
+        <striple>Akeem_Dent | LugarDeNacimiento | Atlanta,_Georgia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Dent | AnyDeNaixement | 1987</ctriple>
+        <ctriple>Akeem_Dent | AnticEquip | Houston_Texans</ctriple>
+        <ctriple>Akeem_Dent | DataDeNaixement | 1987-09-27</ctriple>
+        <ctriple>Akeem_Dent | LlocDeNaixement | Atlanta,_Geòrgia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Dent | AnoDeNacemento | 1987</gtriple>
+        <gtriple>Akeem_Dent | AntigoEquipo | Houston_Texans</gtriple>
+        <gtriple>Akeem_Dent | DataDeNacemento | 1987-09-27</gtriple>
+        <gtriple>Akeem_Dent | LugarDeNacemento | Atlanta,_Xeorxiausa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Dent | JaiotzaUrtea | 1987</btriple>
+        <btriple>Akeem_Dent | TaldeOhia | Houston_Texasko_hiri_bat_da.</btriple>
+        <btriple>Akeem_Dent | JaiotzeData | 1987-09-27</btriple>
+        <btriple>Akeem_Dent | JaiotzeLekua | Atlanta,_Georgia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent, who used to play for Houston Texans, was born on 27 September 1987 in Atlanta, Georgia.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent was born in Atlanta, Georgia on 27th September 1987 and played for the Houston Texans.</lex>
+      <lex lang="en" lid="Id3">Former Houston Texans player, Akeem Dent, was born in Atlanta Georgia, on 09/27/1987.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent, que jugaba en los Houston Texans, nació el 27-09-1987 en Atlanta, Georgia.</lex>
+      <lex lang="es" lid="Id2">Akeem Dent nació en Atlanta (Georgia) el 27-09-1987 y jugó en los Houston Texans.</lex>
+      <lex lang="es" lid="Id3">El ex jugador de los Houston Texans, Akeem Dent, nació en Atlanta, Georgia, el 27/09/1987.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent, que va jugar pels Houston Texans, va néixer el 27 de setembre de 1987 a Atlanta, Geòrgia.</lex>
+      <lex lang="ca" lid="Id2">Akeem Dent va néixer a Atlanta, Geòrgia el 27 de setembre de 1987 i va jugar pels Houston Texans.</lex>
+      <lex lang="ca" lid="Id3">L'ex jugador dels Houston Texans, Akeem Dent, va néixer a Atlanta, Geòrgia, el 27 de setembre de 1987.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dent, Houston Texans taldean jokatu zuena, 1987ko irailaren 27an jaio zen Atlanta, Georgian.</lex>
+      <lex lang="eu" lid="Id2">Akeem Dent Atlanta-n jaio zen 1987ko irailaren 27an eta Houston Texans taldean jokatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Houston Texans taldearen jokalari ohia, Akeem Dent, Atlantan jaio zen, Georgian, 1987ko irailaren 27an.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent, que xogou para os Houston Texans, naceu o 27 de setembro de 1987 en Atlanta, Xeorxia.</lex>
+      <lex lang="gl" lid="Id2">Akeem Dent naceu en Atlanta, Xeorxia o 27 de setembro de 1987 e xogou para os Houston Texans.</lex>
+      <lex lang="gl" lid="Id3">O antigo xogador dos Houston Texans, Akeem Dent, naceu en Atlanta, Xeorxia, o 27 de setembro de 1987.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
+        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Al_Kharaitiyat_SC</otriple>
+        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
+        <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
+        <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Al-Kharitiyath_SC</striple>
+        <striple>Al-Kharitiyath_SC | Suelo | Jor</striple>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Club_Shabab_Al-Ordon</striple>
+        <striple>Al-Kharitiyath_SC | Director | Amar_Osim</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Al_Kharaitiyat_SC</ctriple>
+        <ctriple>Al_Kharaitiyat_SC | Terra | Al_Khor_(municipi)</ctriple>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Shabab_Al_Ordon_Al_Qadisiya</ctriple>
+        <ctriple>Al_Kharaitiyat_SC | Gerent | Amar_Osim</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Al_Kharaitiyat_SC</gtriple>
+        <gtriple>Al_Kharaitiyat_SC | Terra | Al_Khor</gtriple>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Club_Shabab_Al-Ordon</gtriple>
+        <gtriple>Al_Kharaitiyat_SC | Xestor | Amar_Osim</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alaa_Abdul-Zahra | Klub | Al_Kharaitiyat_SC</btriple>
+        <btriple>Al_Kharaitiyat_SC | Lurra | Al_Khor</btriple>
+        <btriple>Alaa_Abdul-Zahra | Klub | Shabab_Al-Ordon_Kluba</btriple>
+        <btriple>Al_Kharaitiyat_SC | Kudeatzailea | Amar_Osim</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alaa Abdul Zahra plays for Al Kharaitiyat SC which is located at Al Khor and managed by Amar Osim. The Shabab Al-Ordon club is associated with Alaa Abdul-Zahra.</lex>
+      <lex lang="en" lid="Id2">Alaa Abdul-Zahra, whose club is Shabab Al-Ordon Club, also plays for Al Kharaitiyat SC. which is located in Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.</lex>
+      <lex lang="en" lid="Id3">Alaa Abdul Zahra's club is AL Kharaitiyat SC which is managed by Amar Osim and is located in Al Khor. Another club of Alaa Abdul-Zahra, is Shabab Al-Ordon Club.</lex>
+      <lex lang="es" lid="Id1">Alaa Abdul Zahra juega en el Al Kharaitiyat SC, que se encuentra en Al Khor y está dirigido por Amar Osim. El club Shabab Al-Ordon está asociado con Alaa Abdul-Zahra.</lex>
+      <lex lang="es" lid="Id2">Alaa Abdul-Zahra, cuyo club es el Shabab Al-Ordon Club, también juega en el Al Kharaitiyat SC. que se encuentra en Al Khor. El entrenador del Al Kharaitiyat SC es Amar Osim.</lex>
+      <lex lang="es" lid="Id3">El club de Alaa Abdul Zahra es el AL Kharaitiyat SC, dirigido por Amar Osim y situado en Al Khor. Otro club de Alaa Abdul-Zahra, es el Shabab Al-Ordon Club.</lex>
+      <lex lang="ca" lid="Id1">Alaa Abdul Zahra juga per l'Al Kharaitiyat SC, situat a Al Khor i dirigit per Amar Osim. El club Shabab Al-Ordon està associat amb Alaa Abdul-Zahra.</lex>
+      <lex lang="ca" lid="Id2">Alaa Abdul-Zahra, el club del qual és el Shabab Al-Ordon Club, també juga per l'Al Kharaitiyat SC, que es troba a Al Khor. L'entrenador de l'Al Kharaitiyat SC és Amar Osim.</lex>
+      <lex lang="ca" lid="Id3">El club d'Alaa Abdul Zahra és l'AL Kharaitiyat SC, que és dirigit per Amar Osim i es troba a Al Khor, un altre club d'Alaa Abdul-Zahra és el Shabab Al-Ordon Club.</lex>
+      <lex lang="eu" lid="Id1">Alaa Abdul Zahra Al Kharaitiyat SC taldean jokatzen du, Al Khor hirian dagoena eta Amar Osimek zuzentzen duena. Shabab Al-Ordon taldea Alaa Abdul Zahrari lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Alaa Abdul-Zahra, bere kluba Shabab Al-Ordon Club da, Al Khor-en dagoen Al Kharaitiyat SC-rentzat ere jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Alaa Abdul Zahra-ren kluba AL Kharaitiyat SC da, Amar Osim-ek zuzentzen duena eta Al Khor-en dagoena.</lex>
+      <lex lang="gl" lid="Id1">Alaa Abdul Zahra xoga para o Al Kharaitiyat SC, situado en Al Khor e dirixido por Amar Osim. O club Shabab Al- Ordon está asociado con Alaa Abdul Zahra.</lex>
+      <lex lang="gl" lid="Id2">Alaa Abdul- Zahra, cuxo club é o Shabab Al- Ordon Club, tamén xoga para o Al Kharaitiyat SC., que está situado en Al Khor. O adestrador do Al Kharaitiyat SC é Amar Osim.</lex>
+      <lex lang="gl" lid="Id3">O club de Alaa Abdul Zahra é o AL Kharaitiyat SC que é dirixido por Amar Osim e está situado en Al Khor. Outro club de Alaa Abdul- Zahra, é o Shabab Al- Ordon Club.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Accrington_Stanley_F.C.</otriple>
+        <otriple>Accrington_Stanley_F.C. | ground | Accrington</otriple>
+        <otriple>Clyde_F.C. | manager | Barry_Ferguson</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Clyde_F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Accrington_Stanley_F.C.</mtriple>
+        <mtriple>Accrington_Stanley_F.C. | ground | Accrington</mtriple>
+        <mtriple>Clyde_F.C. | manager | Barry_Ferguson</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Martin_(futbolista) | Club | Accrington_Stanley_F.C</striple>
+        <striple>Accrington_Stanley_F.C | Suelo | Accrington</striple>
+        <striple>Clyde_F.C. | Director | Barry_Ferguson</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Clyde_F.C.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Accrington_Stanley_Football_Club</ctriple>
+        <ctriple>Accrington_Stanley_Football_Club | Terra | Accrington</ctriple>
+        <ctriple>Clyde_FC | Gerent | Barry_Ferguson</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Clyde_FC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Accrington_Stanley_F.C.</gtriple>
+        <gtriple>Accrington_Stanley_F.C. | Terra | Accrington</gtriple>
+        <gtriple>Clyde_F.C. | Xestor | Barry_Ferguson</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Clyde_F.C.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Accrington_Stanley_F.C.</btriple>
+        <btriple>Accrington_Stanley_F.C. | Lurra | Accrington</btriple>
+        <btriple>Clyde_F.C. | Kudeatzailea | Barry_Ferguson_izan_zen.</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Clyde_F.C.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Martin played football for Clyde F.C., the manager of which, is Barry Ferguson. Alan Martin also played football for Accrington Stanley F.C., which have their ground in Accrington.</lex>
+      <lex lang="en" lid="Id2">Alan Martin has played footbal for Barry Ferguson managed, Clyde F.C. and Accrington Stanley F.C. of Accrington.</lex>
+      <lex lang="en" lid="Id3">Alan Martin played football for Clyde FC, which was managed by Barry Ferguson. He also played for Accrington based Accrington Stanley FC.</lex>
+      <lex lang="es" lid="Id1">Alan Martin jugó al fútbol en el Clyde F.C., cuyo entrenador es Barry Ferguson. Alan Martin también jugó al fútbol en el Accrington Stanley F.C., que tiene su estadio en Accrington.</lex>
+      <lex lang="es" lid="Id2">Alan Martin ha jugado al fútbol en los equipos que dirigía Barry Ferguson, el Clyde F.C. y el Accrington Stanley F.C. de Accrington.</lex>
+      <lex lang="es" lid="Id3">Alan Martin jugó al fútbol en el Clyde FC, dirigido por Barry Ferguson. También jugó en el Accrington Stanley FC, con sede en Accrington.</lex>
+      <lex lang="ca" lid="Id1">Alan Martin va jugar a futbol pel Clyde F.C., l'entrenador del qual és Barry Ferguson. Alan Martin també va jugar a futbol per l'Accrington Stanley F.C., que té el seu estadi a Accrington.</lex>
+      <lex lang="ca" lid="Id2">Alan Martin ha jugat a futbol per Barry Ferguson, Clyde FC i Accrington Stanley FC d'Accrington.</lex>
+      <lex lang="ca" lid="Id3">Alan Martin va jugar a futbol pel Clyde FC, que va ser dirigit per Barry Ferguson. També va jugar per Accrington Stanley FC amb seu a Accrington.</lex>
+      <lex lang="eu" lid="Id1">Alan Martinek Clyde F.C. futbol-taldean jokatu zuen, eta Barry Ferguson da taldearen entrenatzailea. Alan Martinek Accrington Stanley F.C. futbol-taldean ere jokatu zuen, eta Accringtonen dute zelaia.</lex>
+      <lex lang="eu" lid="Id2">Futbolean, Barry Fergusonek zuzendutako Clyde F.C. eta Accrington Stanley F.C. taldeetan jokatu du.</lex>
+      <lex lang="eu" lid="Id3">Alan Martinek Clyde FC taldean jokatu zuen, Barry Fergusonek zuzendua, eta Accrington Stanley FC taldean ere jokatu zuen.</lex>
+      <lex lang="gl" lid="Id1">Alan Martin xogou para o Clyde F.C., cuxo adestrador é Barry Ferguson. Alan Martin tamén xogou para o Accrington Stanley F.C., que ten o seu campo en Accrington.</lex>
+      <lex lang="gl" lid="Id2">Alan Martin xogou ao fútbol nos equipos dirixidos por Barry Ferguson, Clyde F.C. e Accrington Stanley F.C. de Accrington.</lex>
+      <lex lang="gl" lid="Id3">Alan Martin xogou ao fútbol no Clyde FC, que era dirixido por Barry Ferguson. Tamén xogou no Accrington Stanley FC de Accrington.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Hamilton_Academical_F.C.</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | dateOfBirth | "1989-01-01"^^xsd:date</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | Person/height | "185.42"^^&lt;http://dbpedia.org/datatype/centimetre&gt;</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Crewe_Alexandra_F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
+        <mtriple>Alan_Martin_(footballer) | birthDate | 1989-01-01</mtriple>
+        <mtriple>Alan_Martin_(footballer) | height | 185.42 (centimetres)</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Martin_(futbolista) | Club | Hamilton_Academical_Football_Club</striple>
+        <striple>Alan_Martin_(futbolista) | FechaDeNacimiento | 01-01-1989</striple>
+        <striple>Alan_Martin_(futbolista) | Altura | 185,42_(centímetros)</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Crewe_Alexandra_Football_Club</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Hamilton_Academical_FC</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | DataDeNaixement | 1989-01-01</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Alçada | 185,42_(centimetres)</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Crewe_Alexandra</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Hamilton_Academical_F.C._(en_inglés).</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | DataDeNacemento | 1989-01-01</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Altura | 185.42_(centimetros)</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Crewe_Alexandra_F.C.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Hamiltoneko_Futbol_Taldea.</btriple>
+        <btriple>Alan_Martin_(futbolaria) | JaiotzeData | 1989-01-01</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Altuera | 185.42_(zentimetroak)</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Crewe_Alexandra_F.C.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Martin is a footballer who is 185.42 cm in height and was born on 1 January 1989. He plays for both Hamilton Academical FC and Crewe Alexandra FC.</lex>
+      <lex lang="en" lid="Id2">Footballer, Alan Martin, was born on the 1st January 1989. He is 185.42 cm tall and plays for both the Hamilton Academical FC and Crewe Alexandra FC.</lex>
+      <lex lang="en" lid="Id3">Alan Martin was born on the 1st January 1989 and is 185.42 cm tall. He played football for Hamilton Academical F.C. and is a footballer for the Crewe Alexandra FC.</lex>
+      <lex lang="es" lid="Id1">Alan Martin es un futbolista que mide 185,42 cm y nació el 01-01-1989. Juega en el Hamilton Academical FC y en el Crewe Alexandra FC.</lex>
+      <lex lang="es" lid="Id2">El futbolista Alan Martin nació el 01-01-1989. Mide 185,42 cm y juega en el Hamilton Academical FC y en el Crewe Alexandra FC.</lex>
+      <lex lang="es" lid="Id3">Alan Martin nació el 01-01-1989 y mide 185,42 cm. Jugó al fútbol en el Hamilton Academical F.C. y es futbolista del Crewe Alexandra FC.</lex>
+      <lex lang="ca" lid="Id1">L'Alan Martin és un futbolista que fa 185,42 cm d'alçada i va néixer l'1 de gener de 1989. Juga amb el Hamilton Academical FC i el Crewe Alexandra FC.</lex>
+      <lex lang="ca" lid="Id2">El futbolista Alan Martin va néixer l'1 de gener de 1989. Fa 185,42 cm d'alçada i juga amb el Hamilton Academical FC i el Crewe Alexandra FC.</lex>
+      <lex lang="ca" lid="Id3">Alan Martin va néixer l'1 de gener de 1989 i fa 185,42 cm d'alçada. Va jugar a futbol pel Hamilton Academical FC i és futbolista pel Crewe Alexandra FC.</lex>
+      <lex lang="eu" lid="Id1">Alan Martin 185,42 cm-ko altuera duen futbolaria da eta 1989ko urtarrilaren 1ean jaio zen. Hamilton Academical FC eta Crewe Alexandra FC taldeetan jokatzen du.</lex>
+      <lex lang="eu" lid="Id2">Alan Martin 1989ko urtarrilaren 1ean jaio zen. 185,42 cm-ko altuera du eta Hamilton Academical FC eta Crewe Alexandra FC taldeetan jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Alan Martin 1989ko urtarrilaren 1ean jaio zen eta 185,42 cm-ko altuera du. Hamilton Academical F.C.-n jokatu zuen eta Crewe Alexandra F.C.-ko jokalaria da.</lex>
+      <lex lang="gl" lid="Id1">Alan Martin é un futbolista que ten 185,42 cm de altura e naceu o 1 de xaneiro de 1989. Xoga para Hamilton Academical FC e Crewe Alexandra FC.</lex>
+      <lex lang="gl" lid="Id2">O futbolista, Alan Martin, naceu o 1 de xaneiro de 1989. Mide 185, 42 cm e xoga tanto para o Hamilton Academical FC como para o Crewe Alexandra FC.</lex>
+      <lex lang="gl" lid="Id3">Alan Martin naceu o 1 de xaneiro de 1989 e mide 185,42 cm. Xogou ao fútbol co Hamilton Academical F.C. e é futbolista do Crewe Alexandra F.C.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Motherwell_F.C.</otriple>
+        <otriple>Motherwell_F.C. | ground | Fir_Park</otriple>
+        <otriple>Clyde_F.C. | manager | Barry_Ferguson</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Clyde_F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Motherwell_F.C.</mtriple>
+        <mtriple>Motherwell_F.C. | ground | Fir_Park</mtriple>
+        <mtriple>Clyde_F.C. | manager | Barry_Ferguson</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Martin_(futbolista) | Club | Motherwell_Football_Club</striple>
+        <striple>Motherwell_Football_Club | Suelo | Fir_Park</striple>
+        <striple>Clyde_F.C. | Director | Barry_Ferguson</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Clyde_F.C.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Motherwell_FC</ctriple>
+        <ctriple>Motherwell_FC | Terra | Parc_de_Fers</ctriple>
+        <ctriple>Clyde_FC | Gerent | Barry_Ferguson</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Clyde_FC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Motherwell_F.C.</gtriple>
+        <gtriple>Motherwell_F.C. | Terra | Parque_de_abetos</gtriple>
+        <gtriple>Clyde_F.C. | Xestor | Barry_Ferguson</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Clyde_F.C.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Motherwell_F.C._futbol_taldearen_webgunea_(Ingelesez)</btriple>
+        <btriple>Motherwell_F.C._futbol_taldearen_webgunea_(Ingelesez) | Lurra | Zuhaitz-parkea.</btriple>
+        <btriple>Clyde_F.C. | Kudeatzailea | Barry_Ferguson_izan_zen.</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Clyde_F.C.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Martin is a member of Motherwell FC, with its grounds in Fir Park. He also belongs to Clyde FC club, managed by Barry Ferguson.</lex>
+      <lex lang="en" lid="Id2">Alan Martin played football for Motherwell F.C. whose home territory is Fir Park. Mr. Martin also played with the Clyde FC which is managed by Barry Ferguson.</lex>
+      <lex lang="en" lid="Id3">Barry Ferguson is the manager of Clyde F.C., the club Alan Martin played for. Martin also played football for Motherwell F.C. which play their home games at Fir Park.</lex>
+      <lex lang="es" lid="Id1">Alan Martin es socio del Motherwell FC, con sede en Fir Park. También pertenece al club Clyde FC, dirigido por Barry Ferguson.</lex>
+      <lex lang="es" lid="Id2">Alan Martin jugó al fútbol en el Motherwell F.C., cuyo estadio es Fir Park. El Sr. Martin también jugó en el Clyde FC, dirigido por Barry Ferguson.</lex>
+      <lex lang="es" lid="Id3">Barry Ferguson es el entrenador del Clyde F.C., el club en el que jugó Alan Martin. Martin también jugó al fútbol en el Motherwell F.C., que juega sus partidos como local en Fir Park.</lex>
+      <lex lang="ca" lid="Id1">Alan Martin és membre del Motherwell FC, amb el seu terreny a Fir Park. També pertany al club Clyde FC, dirigit per Barry Ferguson.</lex>
+      <lex lang="ca" lid="Id2">Alan Martin va jugar a futbol pel Motherwell F.C. el territori del qual és Fir Park. El Sr. Martin també va jugar amb el Clyde FC que és dirigit per Barry Ferguson.</lex>
+      <lex lang="ca" lid="Id3">Barry Ferguson és l'entrenador del Clyde F.C., el club per al qual va jugar Alan Martin. Martin també va jugar a futbol amb el Motherwell F.C., que juga els seus partits a casa al Fir Park.</lex>
+      <lex lang="eu" lid="Id1">Alan Martin Motherwell FC taldearen kidea da, bere zelaiak Fir Parken dituena, baita Barry Fergusonek zuzentzen duen Clyde FC taldearen kidea ere.</lex>
+      <lex lang="eu" lid="Id2">Alan Martinek Motherwell F.C. futbol-talderako jokatu zuen, eta bertako estadioa Fir Park da. Mr. Martinek Clyde F.C. talderako ere jokatu zuen, zeina Barry Ferguson-ek zuzentzen duen.</lex>
+      <lex lang="eu" lid="Id3">Barry Ferguson Clyde F.C. taldearen entrenatzailea da, bertan Alan Martin jokatu zuen. Martinek Motherwell F.C. taldean ere jokatu zuen, etxeko partidak Fir Park estadioan jokatzen dituena.</lex>
+      <lex lang="gl" lid="Id1">Alan Martin é membro do Motherwell FC, con sede en Fir Park. Tamén pertence ao club Clyde FC, dirixido por Barry Ferguson.</lex>
+      <lex lang="gl" lid="Id2">Alan Martin xogou ao fútbol para o Motherwell F. C. cuxa casa é Fir Park. O Sr. Martin tamén xogou co Clyde FC que é dirixido por Barry Ferguson.</lex>
+      <lex lang="gl" lid="Id3">Barry Ferguson é o adestrador do Clyde F. C., o club no que xogou Alan Martin. Martin tamén xogou no Motherwell F. C., que xoga os seus partidos como local no Fir Park.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Samtredia</otriple>
+        <otriple>Aleksandre_Guruli | team | FC_Dinamo_Batumi</otriple>
+        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Samtredia</otriple>
+        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
+        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Dinamo_Batumi</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | FC_Samtredia</mtriple>
+        <mtriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</mtriple>
+        <mtriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</mtriple>
+        <mtriple>Aleksandre_Guruli | club | FC_Dinamo_Batumi</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alexander_Guruli | Club | FC_Samtredia</striple>
+        <striple>FC_Samtredia | Suelo | Estadio_Erosi_Manjgaladze</striple>
+        <striple>Dinamo_Batumi | Director | Levan_Khomeriki</striple>
+        <striple>Alexander_Guruli | Club | Dinamo_Batumi</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandre_Guruli | Trèvols | SK_Samtredia</ctriple>
+        <ctriple>SK_Samtredia | Terra | Estadi_Erosi_Manjgaladze</ctriple>
+        <ctriple>SK_Dinamo_Batumi | Gerent | Levan_Khomeriki</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | SK_Dinamo_Batumi</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Samtredia</gtriple>
+        <gtriple>FC_Samtredia | Terra | Estadio_Erosi_Manjgaladze</gtriple>
+        <gtriple>FC_Dinamo_Batumi | Xestor | Levan_Khomeriki</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Dinamo_Batumi</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandre_Guruli | Klub | FC_Samtredia</btriple>
+        <btriple>FC_Samtredia | Lurra | Erosi_Manjgaladze_estadioa</btriple>
+        <btriple>FC_Dinamo_Batumi | Kudeatzailea | Levan_Khomeriki</btriple>
+        <btriple>Aleksandre_Guruli | Klub | FC_Dinamo_Batumi</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandre Guruli's club is FC Samtredia who play their home games at Erosi Manjgaladze stadium. Mr. Guruli also once played for the FC Dinamo Batumi that is managed by Levan Khomeriki.</lex>
+      <lex lang="en" lid="Id2">Aleksandre Guruli plays for FC Dinamo Batumi whose manager is Levan Khomeriki. He also plays for FC Samtredia whose ground is the Erosi Manjgaladze Stadium.</lex>
+      <lex lang="en" lid="Id3">Aleksandre Guruli plays for both FC Dinamo Batumi (managed by Levan Khomeriki) and FC Samtredia, ground of which is Erosi Manjgaladze Stadium.</lex>
+      <lex lang="es" lid="Id1">El club de Aleksandre Guruli es el FC Samtredia, que juega sus partidos como local en el estadio Erosi Manjgaladze. El Sr. Guruli también jugó en el FC Dinamo Batumi, dirigido por Levan Khomeriki.</lex>
+      <lex lang="es" lid="Id2">Aleksandre Guruli juega en el FC Dinamo Batumi, cuyo entrenador es Levan Khomeriki. También juega en el FC Samtredia, cuyo estadio es el Erosi Manjgaladze Stadium.</lex>
+      <lex lang="es" lid="Id3">Aleksandre Guruli juega tanto en el FC Dinamo Batumi (dirigido por Levan Khomeriki) como en el FC Samtredia, cuyo estadio es el Erosi Manjgaladze.</lex>
+      <lex lang="ca" lid="Id1">El club d'Aleksandre Guruli és el FC Samtredia, que juga els seus partits a casa a l'estadi Erosi Manjgaladze. El Sr. Guruli també va jugar una vegada amb el FC Dinamo Batumi, dirigit per Levan Khomeriki.</lex>
+      <lex lang="ca" lid="Id2">Aleksandre Guruli juga per al FC Dinamo Batumi, el manager del qual és Levan Khomeriki. També juga per al FC Samtredia, el terreny del qual és l'Estadi Erosi Manjgaladze.</lex>
+      <lex lang="ca" lid="Id3">Aleksandre Guruli juga tant pel FC Dinamo Batumi (gestionat per Levan Khomeriki) com pel FC Samtredia, el terreny del qual és l'Estadi Erosi Manjgaladze.</lex>
+      <lex lang="eu" lid="Id1">Aleksandre Guruliren taldea FC Samtredia da, bere etxeko partidak Erosi Manjgaladze estadioan jokatzen dituena. Guruli jaunak FC Dinamo Batumi taldean ere jokatu zuen, Levan Khomerikik zuzentzen duena.</lex>
+      <lex lang="eu" lid="Id2">Aleksandre Gurulik FC Dinamo Batumi taldean jokatzen du, Levan Khomeriki entrenatzailea duena, eta FC Samtredia taldean ere jokatzen du, Erosi Manjgaladze estadioan jokatzen duena.</lex>
+      <lex lang="eu" lid="Id3">Aleksandre Guruli-k FC Dinamo Batumi-n (Levan Khomeriki-ren gidaritzapean) eta FC Samtredia-n (Erosi Manjgaladze-ren estadioan) jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">O club de Aleksandre Guruli é o FC Samtredia, que xoga os seus partidos como local no estadio Erosi Manjgaladze. O Sr. Guruli tamén xogou unha vez co FC Dinamo Batumi, dirixido por Levan Khomeriki.</lex>
+      <lex lang="gl" lid="Id2">Aleksandre Guruli xoga para o FC Dinamo Batumi cuxo adestrador é Levan Khomeriki. Tamén xoga para o FC Samtredia cuxo campo é o Estadio Erosi Manjgaladze.</lex>
+      <lex lang="gl" lid="Id3">Aleksandre Guruli xoga tanto para o FC Dinamo Batumi (manexado por Levan Khomeriki) como para o FC Samtredia, cuxo campo é o Estadio Erosi Manjgaladze.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id11" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
+        <otriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</otriple>
+        <otriple>Aleksandre_Guruli | clubs | Olympique_Lyonnais</otriple>
+        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | Olympique_Lyonnais</otriple>
+        <otriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</otriple>
+        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Karpaty_Lviv</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | Olympique_Lyonnais</mtriple>
+        <mtriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</mtriple>
+        <mtriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</mtriple>
+        <mtriple>Aleksandre_Guruli | club | FC_Karpaty_Lviv</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alexander_Guruli | Club | Olympique_de_Lyon</striple>
+        <striple>Olympique_de_Lyon | Presidente | Jean-Michel_Aulas</striple>
+        <striple>Olympique_de_Lyon | Suelo | Parc_Olympique_lyonnais</striple>
+        <striple>Alexander_Guruli | Club | FK_Karpaty_Lviv</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandre_Guruli | Trèvols | Olympique_Lyonnais</ctriple>
+        <ctriple>Olympique_Lyonnais | President | Jean-Michel_Aulas</ctriple>
+        <ctriple>Olympique_Lyonnais | Terra | Parc_Olympique_Lyonnais</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | FC_Karpaty_Lviv</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandre_Guruli | Trevos | Olympique_Lyonnais</gtriple>
+        <gtriple>Olympique_Lyonnais | Presidente | Jean-Michel_Aulas</gtriple>
+        <gtriple>Olympique_Lyonnais | Terra | Parc_Olympique_Lyonnais</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Karpaty_Lviv</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandre_Guruli | Klub | Olympique_Lyonnais</btriple>
+        <btriple>Olympique_Lyonnais | Chairman | Jean-Michel_Aulas</btriple>
+        <btriple>Olympique_Lyonnais | Lurra | Lyoneko_Olinpiar_Parkea.</btriple>
+        <btriple>Aleksandre_Guruli | Klub | FC_Karpaty_Lviv</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Jean-Michel Aulas is the chairman of Olympique Lyonnais which play their home games at the Parc Olympique Lyonnais. Aleksandre Guruli, whose club is Olympique Lyonnais, used to play for FC Karpaty Lviv.</lex>
+      <lex lang="en" lid="Id2">Aleksandre Guruli, who plays for FC Karpaty Lviv club, used to play for the Olympique Lyonnais club, Jean-Michel Aulas is the chairman of Olympique Lyonnais, the home games of which, are played at the Parc Olympique Lyonnais.</lex>
+      <lex lang="en" lid="Id3">Aleksandre Guruli played for FC Karpaty Lviv and nw plays for Olympiquw Lyonnais which is based at the Parc Olympique Lyonnais Stadium and has jean-Michel Aulas as chairman.</lex>
+      <lex lang="es" lid="Id1">Jean-Michel Aulas es el Presidente del Olympique Lyonnais, que juega en casa en el Parc Olympique Lyonnais. Aleksandre Guruli, cuyo club es el Olympique Lyonnais, solía jugar en el FC Karpaty Lviv.</lex>
+      <lex lang="es" lid="Id2">Aleksandre Guruli, que juega en el FC Karpaty Lviv, jugó en el Olympique Lyonnais. Jean-Michel Aulas es el presidente del Olympique Lyonnais, que juega en casa en el Parc Olympique Lyonnais.</lex>
+      <lex lang="es" lid="Id3">Aleksandre Guruli jugó en el FC Karpaty Lviv y ahora juega en el Olympique Lyonnais, que tiene su sede en el estadio Parc Olympique Lyonnais y cuyo presidente es Jean-Michel Aulas.</lex>
+      <lex lang="ca" lid="Id1">Jean-Michel Aulas és el president de l'Olympique Lyonnais, que juga els seus partits a casa al Parc Olympique Lyonnais. Aleksandre Guruli, el club del qual és l'Olympique Lyonnais, solia jugar amb el FC Karpaty Lviv.</lex>
+      <lex lang="ca" lid="Id2">Aleksandre Guruli, que juga per al club FC Karpaty Lviv, va jugar pel club Olympique Lyonnais, Jean-Michel Aulas és el president de l'Olympique Lyonnais, els partits de casa del qual es juguen al Parc Olympique Lyonnais.</lex>
+      <lex lang="ca" lid="Id3">Aleksandre Guruli va jugar pel FC Karpaty Lviv i juga per l'Olympiquw Lyonnais, que té la seu al Parc Olympique Lyonnais i té a Jean-Michel Aulas com a president.</lex>
+      <lex lang="eu" lid="Id1">Jean-Michel Aulas Olympique Lyonnais taldearen presidentea da eta bere etxeko partidak Parc Olympique Lyonnais estadioan jokatzen ditu. Aleksandre Guruli, Olympique Lyonnais taldearen jokalaria, FC Karpaty Lviv taldean jokatzen zuen.</lex>
+      <lex lang="eu" lid="Id2">Aleksandre Guruli, FC Karpaty Lviv klubean jokatzen duena, Olympique Lyonnais klubean jokatzen zuen, Jean-Michel Aulas Olympique Lyonnaisen presidentea da, bere etxeko partiduak Parc Olympique Lyonnaisen jokatzen dira.</lex>
+      <lex lang="eu" lid="Id3">Aleksandre Gurulik FC Karpaty Lviv taldean jokatu zuen eta Olympiquw Lyonnais taldean jokatzen du, Parc Olympique Lyonnais estadioan dagoena eta Jean-Michel Aulas presidentea duena.</lex>
+      <lex lang="gl" lid="Id1">Jean- Michel Aulas é o presidente do Olympique Lyonnais, que xoga os seus partidos como local no Parc Olympique Lyonnais. Aleksandre Guruli, cuxo club é o Olympique Lyonnais, xogaba para o FC Karpaty Lviv.</lex>
+      <lex lang="gl" lid="Id2">Aleksandre Guruli, que xoga para o club FC Karpaty Lviv, xogaba para o club Olympique Lyonnais, Jean-Michel Aulas é o presidente do Olympique Lyonnais, cuxos partidos como local se xogan no Parc Olympique Lyonnais.</lex>
+      <lex lang="gl" lid="Id3">Aleksandre Guruli xogou para o FC Karpaty Lviv e agora xoga para o Olympiquw Lyonnais, que está baseado no estadio Parc Olympique Lyonnais e ten a Jean-Michel Aulas como presidente.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alex_Plante | placeOfBirth | Brandon,_Manitoba</otriple>
+        <otriple>Alex_Plante | birthYear | "1989"^^xsd:gYear</otriple>
+        <otriple>Alex_Plante | team | Anyang_Halla</otriple>
+        <otriple>Alex_Plante | dateOfBirth | "1989-05-09"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Plante | birthPlace | Brandon,_Manitoba</mtriple>
+        <mtriple>Alex_Plante | birthYear | 1989</mtriple>
+        <mtriple>Alex_Plante | club | Anyang_Halla</mtriple>
+        <mtriple>Alex_Plante | birthDate | 1989-05-09</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Plante | LugarDeNacimiento | Brandon,_Manitoba</striple>
+        <striple>Alex_Plante | AñoDeNacimiento | 1989</striple>
+        <striple>Alex_Plante | Club | Anyang_Halla</striple>
+        <striple>Alex_Plante | FechaDeNacimiento | 09-05-1989</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alex_Plante | LlocDeNaixement | Brandoncanada._kgm</ctriple>
+        <ctriple>Alex_Plante | AnyDeNaixement | 1989</ctriple>
+        <ctriple>Alex_Plante | Trèvols | Anyang_Halla</ctriple>
+        <ctriple>Alex_Plante | DataDeNaixement | 1989-05-09</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alex_Plante | LugarDeNacemento | Brandon,_Manitoba</gtriple>
+        <gtriple>Alex_Plante | AnoDeNacemento | 1989</gtriple>
+        <gtriple>Alex_Plante | Trevos | Anyang_Halla</gtriple>
+        <gtriple>Alex_Plante | DataDeNacemento | 1989-05-09</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alex_Plante_naiz. | JaiotzeLekua | Brandon,_Manitobakoa</btriple>
+        <btriple>Alex_Plante_naiz. | JaiotzaUrtea | 1989</btriple>
+        <btriple>Alex_Plante_naiz. | Klub | Anyang_Halla</btriple>
+        <btriple>Alex_Plante_naiz. | JaiotzeData | 1989-05-09</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alex Plante, who played for the club Anyang Halla, was born on May 9th 1989, in Brandon, Manitoba.</lex>
+      <lex lang="en" lid="Id2">Alex Plante, whose club is called Anyang Halla, was born on 1989-05-09, in Brandon, Manitoba.</lex>
+      <lex lang="en" lid="Id3">Born on 09/05/1989 in Brandon, Manitoba, Alex Plante participated in the Anyang Halla Club.</lex>
+      <lex lang="es" lid="Id1">Alex Plante, que jugó en el club Anyang Halla, nació el 9 de mayo de 1989 en Brandon, Manitoba.</lex>
+      <lex lang="es" lid="Id2">Alex Plante, cuyo club se llama Anyang Halla, nació el 09-05-1989, en Brandon, Manitoba.</lex>
+      <lex lang="es" lid="Id3">Nacido el 05/09/1989 en Brandon, Manitoba, Alex Plante participó en el Anyang Halla Club.</lex>
+      <lex lang="ca" lid="Id1">Alex Plante, que va jugar pel club Anyang Halla, va néixer el 9 de maig de 1989, a Brandon, Manitoba.</lex>
+      <lex lang="ca" lid="Id2">Alex Plante, el club del qual es diu Anyang Halla, va néixer el 1989-05-09, a Brandon, Manitoba.</lex>
+      <lex lang="ca" lid="Id3">Nascut el 9 de maig de 1989 a Brandon, Manitoba, Alex Plante va participar en el Anyang Halla Club.</lex>
+      <lex lang="eu" lid="Id1">Alex Plante, Anyang Halla klubean jokatu zuena, 1989ko maiatzaren 9an jaio zen, Brandonen, Manitoban.</lex>
+      <lex lang="eu" lid="Id2">Alex Plante, Anyang Halla izeneko taldean jokatzen duena, 1989ko maiatzaren 9an jaio zen Brandonen, Manitoban.</lex>
+      <lex lang="eu" lid="Id3">1989ko irailaren 5ean jaio zen Brandonen, Manitoban, eta Anyang Halla Club taldean parte hartu zuen.</lex>
+      <lex lang="gl" lid="Id1">Alex Plante, que xogou para o club Anyang Halla, naceu o 9 de maio de 1989, en Brandon, Manitoba.</lex>
+      <lex lang="gl" lid="Id2">Alex Plante, cuxo club se chama Anyang Halla, naceu o 09-05-1989, en Brandon, Manitoba.</lex>
+      <lex lang="gl" lid="Id3">Nacido o 09/05/1989 en Brandon, Manitoba, Alex Plante participou no Anyang Halla Club.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Canada | anthem | O_Canada</otriple>
+        <otriple>Canada | leaderName | Elizabeth_II</otriple>
+        <otriple>Canada | ethnicGroup | Black_Canadians</otriple>
+        <otriple>Alex_Plante | placeOfBirth | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | anthem | O_Canada</mtriple>
+        <mtriple>Canada | leader | Elizabeth_II</mtriple>
+        <mtriple>Canada | ethnicGroup | Black_Canadians</mtriple>
+        <mtriple>Alex_Plante | birthPlace | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Canadá | Himno | O_Canada</striple>
+        <striple>Canadá | Líder | Isabel_II_del_Reino_Unido</striple>
+        <striple>Canadá | GrupoÉtnico | Afrocanadienses</striple>
+        <striple>Alex_Plante | LugarDeNacimiento | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Canadà | Himne | O_Canada</ctriple>
+        <ctriple>Canadà | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        <ctriple>Canadà | GrupÈtnic | afrocanadencs</ctriple>
+        <ctriple>Alex_Plante | LlocDeNaixement | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Canadá | Himno | O_Canadá</gtriple>
+        <gtriple>Canadá | Líder | Elizabeth_II</gtriple>
+        <gtriple>Canadá | GrupoÉtnico | Canadenses_negros</gtriple>
+        <gtriple>Alex_Plante | LugarDeNacemento | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Kanariar_uharteak | AbestiBat. | Kanadari_buruz</btriple>
+        <btriple>Kanariar_uharteak | Buruzagia. | Elizabeth_II</btriple>
+        <btriple>Kanariar_uharteak | TaldeEtnikoa | Kanadako_beltzak</btriple>
+        <btriple>Alex_Plante_naiz. | JaiotzeLekua | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alex Plante was born in Canada where the anthem is, O Canada. Elizabeth II is the leader of Canada where Black Canadians are one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id2">Alex Plante was born in Canada, which is led by Elizabeth II, has an anthem known as "O Canada" and includes the ethnic group of Black Canadians.</lex>
+      <lex lang="en" lid="Id3">Alex Plante was born in Canada where one of the ethnic groups, are Black Canadians. Canada's anthem is, O Canada and leader is, Elizabeth II.</lex>
+      <lex lang="es" lid="Id1">Alex Plante nació en Canadá, donde el himno es O Canada. Isabel II es la líder de Canadá, donde los canadienses negros son uno de los grupos étnicos.</lex>
+      <lex lang="es" lid="Id2">Alex Plante nació en Canadá, país presidido por Isabel II, que tiene un himno conocido como "O Canada" e incluye a la etnia de los canadienses negros.</lex>
+      <lex lang="es" lid="Id3">Alex Plante nació en Canadá, donde uno de los grupos étnicos es el de los canadienses negros. El himno de Canadá es "O Canada" y su líder es "Elizabeth II".</lex>
+      <lex lang="ca" lid="Id1">Alex Plante va néixer al Canadà on l'himne és, O Canadà. Elisabet II és la líder del Canadà on els canadencs negres són un dels grups ètnics.</lex>
+      <lex lang="ca" lid="Id2">Alex Plante va néixer al Canadà, que està liderat per Elisabet II, té un himne conegut com "O Canada" i inclou el grup ètnic dels canadencs negres.</lex>
+      <lex lang="ca" lid="Id3">L'Alex Plante va néixer al Canadà, on un dels grups ètnics són els negres canadencs, l'himne del Canadà és "Oh Canadà" i la líder és Elisabet II.</lex>
+      <lex lang="eu" lid="Id1">Alex Plante Kanadan jaio zen, eta bertako ereserkia O Canada da. Elizabeth II.a da Kanadako liderra, eta kanadar beltzak bertako talde etnikoetako bat dira.</lex>
+      <lex lang="eu" lid="Id2">Alex Plante Kanadan jaio zen, Elisabet II.aren gidaritzapean, “O Canada” ereserkia du eta kanadar beltzen talde etnikoa ere barnean hartzen du.</lex>
+      <lex lang="eu" lid="Id3">Alex Plante Kanadan jaio zen, non talde etnikoetako bat, kanadar beltzak diren. Kanadako ereserkia, O Canada da eta buruzagia, Elisabet II.a.</lex>
+      <lex lang="gl" lid="Id1">Alex Plante naceu en Canadá onde o himno é, O Canadá. Isabel II é a líder de Canadá onde os canadenses negros son un dos grupos étnicos.</lex>
+      <lex lang="gl" lid="Id2">Alex Plante naceu no Canadá, que está liderado por Isabel II, ten un himno coñecido como "O Canadá" e inclúe o grupo étnico dos canadenses negros.</lex>
+      <lex lang="gl" lid="Id3">Alex Plante naceu en Canadá, onde un dos grupos étnicos son os canadenses negros. O himno de Canadá é O Canadá e a súa líder é Isabel II.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id14" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Canada | anthem | O_Canada</otriple>
+        <otriple>Canada | leaderName | Elizabeth_II</otriple>
+        <otriple>Canada | language | Slavey_language</otriple>
+        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | anthem | O_Canada</mtriple>
+        <mtriple>Canada | leader | Elizabeth_II</mtriple>
+        <mtriple>Canada | language | Slavey_language</mtriple>
+        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Canadá | Himno | O_Canada</striple>
+        <striple>Canadá | Líder | Isabel_II_del_Reino_Unido</striple>
+        <striple>Canadá | Idioma | slave</striple>
+        <striple>Aaron_Boogaard | LugarDeNacimiento | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Canadà | Himne | O_Canada</ctriple>
+        <ctriple>Canadà | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        <ctriple>Canadà | Llengua | Llengua_eslava</ctriple>
+        <ctriple>Aaron_Boogaard | LlocDeNaixement | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Canadá | Himno | O_Canadá</gtriple>
+        <gtriple>Canadá | Líder | Elizabeth_II</gtriple>
+        <gtriple>Canadá | Lingua | Lingua_eslava</gtriple>
+        <gtriple>Aaron_Boogaard | LugarDeNacemento | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Kanariar_uharteak | AbestiBat. | Kanadari_buruz</btriple>
+        <btriple>Kanariar_uharteak | Buruzagia. | Elizabeth_II</btriple>
+        <btriple>Kanariar_uharteak | Hizkuntza | Slavey_hizkuntza</btriple>
+        <btriple>Aaron_Boogaard | JaiotzeLekua | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Boogaard was born in Canada whose national anthem is called O Canada and its leader is Elizabeth II. Slavey is spoken in Canada.</lex>
+      <lex lang="en" lid="Id2">Elizabeth II is Canada's leader and the national anthem is "O Canada". It is home to Aaron Boogaard and the Slavey language is spoken.</lex>
+      <lex lang="en" lid="Id3">Aaron Boogaard was born in Canada, where one of the languages is, the Slavey language. The national anthem of Canada is O Canada. and the leader is, Elizabeth II.</lex>
+      <lex lang="es" lid="Id1">Aaron Boogaard nació en Canadá, cuyo himno nacional se llama O Canada y su líder es Isabel II. En Canadá se habla slavey.</lex>
+      <lex lang="es" lid="Id2">Isabel II es la líder de Canadá y el himno nacional es "O Canada". Es el hogar de Aaron Boogaard y se habla la lengua Slavey.</lex>
+      <lex lang="es" lid="Id3">Aaron Boogaard nació en Canadá, donde una de las lenguas es, la lengua Slavey. El himno nacional de Canadá es O Canada. y la líder es, Elizabeth II.</lex>
+      <lex lang="ca" lid="Id1">Aaron Boogaard va néixer al Canadà, l'himne nacional del qual s'anomena O Canada i el seu líder és Elizabeth II. L'eslau es parla al Canadà.</lex>
+      <lex lang="ca" lid="Id2">Elizabeth II és la líder del Canadà i l'himne nacional és "O Canada". És la llar d'Aaron Boogaard i es parla l'idioma Slavey.</lex>
+      <lex lang="ca" lid="Id3">Aaron Boogaard va néixer al Canadà, on una de les llengües és l'eslau. L'himne nacional del Canadà és O Canada. i el líder és Elisabet II.</lex>
+      <lex lang="eu" lid="Id1">Aaron Boogaard Kanadan jaio zen, eta bertako ereserkia O Canada da, eta bertako burua Elizabeth II.a da. Slaveya mintzatzen da Kanadan.</lex>
+      <lex lang="eu" lid="Id2">Elizabeth II.a da Kanadako buruzagia eta "O Canada" da himno nazionala. Aaron Boogaarden etxea da eta Slavey hizkuntza hitz egiten da.</lex>
+      <lex lang="eu" lid="Id3">Aaron Boogaard Kanadan jaio zen, non hizkuntza bat Slavey hizkuntza den. Kanadako ereserkia O Canada da. eta buruzagia Elizabeth II.a da.</lex>
+      <lex lang="gl" lid="Id1">Aaron Boogaard naceu no Canadá, cuxo himno nacional se chama O Canadá e o seu líder é Isabel II. En Canadá fálase o slavey.</lex>
+      <lex lang="gl" lid="Id2">Isabel II é a líder do Canadá e o himno nacional é "O Canadá". É o fogar de Aaron Boogaard e fálase a lingua Slavey.</lex>
+      <lex lang="gl" lid="Id3">Aaron Boogaard naceu en Canadá, onde unha das linguas é a lingua Slavey. O himno nacional de Canadá é O Canada. e o líder é Elizabeth II.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id15" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Clyde_F.C. | manager | Barry_Ferguson</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Clyde_F.C.</otriple>
+        <otriple>Clyde_F.C. | ground | Broadwood_Stadium</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Barrow"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Clyde_F.C. | manager | Barry_Ferguson</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Barrow_A.F.C.</otriple>
+        <otriple>Clyde_F.C. | ground | Broadwood_Stadium</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Clyde_F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Clyde_F.C. | manager | Barry_Ferguson</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
+        <mtriple>Clyde_F.C. | ground | Broadwood_Stadium</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Barrow_A.F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Clyde_F.C. | Director | Barry_Ferguson</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Clyde_F.C.</striple>
+        <striple>Clyde_F.C. | Suelo | Broadwood_Stadium</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Barrow_AFC</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Clyde_FC | Gerent | Barry_Ferguson</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Clyde_FC</ctriple>
+        <ctriple>Clyde_FC | Terra | Estadi_Broadwood</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Barrow_A.F.C.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Clyde_F.C. | Xestor | Barry_Ferguson</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Clyde_F.C.</gtriple>
+        <gtriple>Clyde_F.C. | Terra | Estadio_Broadwood</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Barrow_A.F.C._(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Clyde_F.C. | Kudeatzailea | Barry_Ferguson_izan_zen.</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Clyde_F.C.</btriple>
+        <btriple>Clyde_F.C. | Lurra | Broadwood_estadioa</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Barrow_A.F.C._futbol_taldearen_webgunea_(Ingelesez)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Martin is a footballer for the Clyde FC club but currently plays for Barrow A.F.C. Barry Ferguson is the manager of Clyde F.C. who play at the Broadwood Stadium.</lex>
+      <lex lang="en" lid="Id2">Alan Martin is a footballer who plays for Barrow AFC and also for Clyde FC which is managed by Barry Ferguson and has their ground at Broadwood Stadium.</lex>
+      <lex lang="en" lid="Id3">Alan Martin, played football for Clyde F.C. which is managed by, Barry Ferguson. Alan Martin plays football for Barrow A.F.C., the home ground of which, is Broadwood Stadium.</lex>
+      <lex lang="es" lid="Id1">Alan Martin es futbolista del club Clyde FC, pero actualmente juega en el Barrow A.F.C. Barry Ferguson es el entrenador del Clyde F.C., que juega en el Broadwood Stadium.</lex>
+      <lex lang="es" lid="Id2">Alan Martin es un futbolista que juega en el Barrow AFC y también en el Clyde FC, dirigido por Barry Ferguson y que tiene su campo en el Broadwood Stadium.</lex>
+      <lex lang="es" lid="Id3">Alan Martin jugó al fútbol en el Clyde F.C., dirigido por Barry Ferguson. Alan Martin juega al fútbol en el Barrow A.F.C., cuyo estadio es el Broadwood Stadium.</lex>
+      <lex lang="ca" lid="Id1">Alan Martin és un futbolista del club Clyde FC però actualment juga per Barrow A.F.C. Barry Ferguson és l'entrenador del Clyde FC que juga al Broadwood Stadium.</lex>
+      <lex lang="ca" lid="Id2">Alan Martin és un futbolista que juga pel Barrow AFC i també pel Clyde FC, que és dirigit per Barry Ferguson i té el seu terreny al Broadwood Stadium.</lex>
+      <lex lang="ca" lid="Id3">Alan Martin, va jugar a futbol pel Clyde F.C., que és dirigit per Barry Ferguson. Alan Martin juga a futbol pel Barrow A.F.C., el camp del qual és el Broadwood Stadium.</lex>
+      <lex lang="eu" lid="Id1">Alan Martin futbolaria da Clyde FC klubean, baina gaur egun Barrow A.F.C. taldean jokatzen du. Barry Ferguson da Broadwood Stadiumean jokatzen duen Clyde F.C. taldearen entrenatzailea.</lex>
+      <lex lang="eu" lid="Id2">Alan Martin Barrow AFC-ko jokalaria da, baita Clyde FC-ko jokalaria ere. Barry Ferguson-ek zuzentzen du eta Broadwood Stadiumean jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Clyde F.C. (izen osoa: Clyde Football Club) Ingalaterrako Barrow udalerrian egoitza duen futbol taldea da, Broadwood Stadium estadioan jokatzen duena.</lex>
+      <lex lang="gl" lid="Id1">Alan Martin é un futbolista do club Clyde FC pero actualmente xoga para o Barrow A.F.C. Barry Ferguson é o adestrador do Clyde F.C. que xoga no Broadwood Stadium.</lex>
+      <lex lang="gl" lid="Id2">Alan Martin é un futbolista que xoga para o Barrow AFC e tamén para o Clyde FC, que está dirixido por Barry Ferguson e ten o seu campo no Broadwood Stadium.</lex>
+      <lex lang="gl" lid="Id3">Alan Martin, xogou ao fútbol no Clyde F.C., que é dirixido por Barry Ferguson. Alan Martin xoga ao fútbol no Barrow A.F.C., que xoga no Broadwood Stadium.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id16" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Karpaty_Lviv | manager | Oleh_Luzhny</otriple>
+        <otriple>Aleksandre_Guruli | team | FC_Samtredia</otriple>
+        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Karpaty_Lviv</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
+        <otriple>FC_Karpaty_Lviv | manager | Oleh_Luzhny</otriple>
+        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Samtredia</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Karpaty_Lviv | manager | Oleh_Luzhny</mtriple>
+        <mtriple>Aleksandre_Guruli | club | FC_Samtredia</mtriple>
+        <mtriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</mtriple>
+        <mtriple>Aleksandre_Guruli | club | FC_Karpaty_Lviv</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>FK_Karpaty_Lviv | Director | Oleh_Luzhny</striple>
+        <striple>Alexander_Guruli | Club | FC_Samtredia</striple>
+        <striple>FC_Samtredia | Suelo | Estadio_Erosi_Manjgaladze</striple>
+        <striple>Alexander_Guruli | Club | FK_Karpaty_Lviv</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>FC_Karpaty_Lviv | Gerent | Per_Luzhny</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | SK_Samtredia</ctriple>
+        <ctriple>SK_Samtredia | Terra | Estadi_Erosi_Manjgaladze</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | FC_Karpaty_Lviv</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>FC_Karpaty_Lviv | Xestor | Por_Luzhny</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Samtredia</gtriple>
+        <gtriple>FC_Samtredia | Terra | Estadio_Erosi_Manjgaladze</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Karpaty_Lviv</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>FC_Karpaty_Lviv | Kudeatzailea | Oleh_Luzhny</btriple>
+        <btriple>Aleksandre_Guruli | Klub | FC_Samtredia</btriple>
+        <btriple>FC_Samtredia | Lurra | Erosi_Manjgaladze_estadioa</btriple>
+        <btriple>Aleksandre_Guruli | Klub | FC_Karpaty_Lviv</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandre Guruli is a member of FC Karpaty Lviv, managed by Oleh Luzhny. He is also a member of FC Samtredia, with its grounds at Erosi Manjgaladze Stadium.</lex>
+      <lex lang="en" lid="Id2">Aleksandre Guruli's club is FC Samtredia who have their home ground at Erosi Manjgaladze Stadium. He has also played for FC Karpaty Lviv who are managed by Oleh Luzhny.</lex>
+      <lex lang="en" lid="Id3">Aleksandre Guruli's club is FC Samtredia who have their ground at the Erosi Manjgaladze stadium. He also plays for FC Karpaty Lviv who are managed by Oleh Luzhny.</lex>
+      <lex lang="es" lid="Id1">Aleksandre Guruli milita en el FC Karpaty Lviv, dirigido por Oleh Luzhny. También forma parte del FC Samtredia, con sede en el estadio Erosi Manjgaladze.</lex>
+      <lex lang="es" lid="Id2">El club de Aleksandre Guruli es el FC Samtredia, que tiene su estadio en el Erosi Manjgaladze Stadium. También ha jugado en el FC Karpaty Lviv, dirigido por Oleh Luzhny.</lex>
+      <lex lang="es" lid="Id3">El club de Aleksandre Guruli es el FC Samtredia, que tiene su campo en el estadio Erosi Manjgaladze. También juega en el FC Karpaty Lviv, dirigido por Oleh Luzhny.</lex>
+      <lex lang="ca" lid="Id1">Aleksandre Guruli és membre del FC Karpaty Lviv, dirigit per Oleh Luzhny, i també és membre del FC Samtredia, amb seu a l'Estadi Erosi Manjgaladze.</lex>
+      <lex lang="ca" lid="Id2">El club d'Aleksandre Guruli és el FC Samtredia que té el seu estadi a l'Estadi Erosi Manjgaladze.També ha jugat pel FC Karpaty Lviv que són dirigits per Oleh Luzhny.</lex>
+      <lex lang="ca" lid="Id3">El club d'Aleksandre Guruli és el FC Samtredia, que juga a l'estadi Erosi Manjgaladze, i també juga pel FC Karpaty Lviv, dirigit per Oleh Luzhny.</lex>
+      <lex lang="eu" lid="Id1">Aleksandre Guruli FC Karpaty Lviv taldeko kidea da, Oleh Luzhnyk zuzendua, eta FC Samtredia taldeko kidea ere bada, bere zelaiak Erosi Manjgaladze estadioan dituena.</lex>
+      <lex lang="eu" lid="Id2">Aleksandre Guruliren taldea FC Samtredia da, etxeko partiduak Erosi Manjgaladze estadioan jokatzen dituena.FC Karpaty Lviv taldean ere jokatu du, Oleh Luzhnyk zuzentzen duena.</lex>
+      <lex lang="eu" lid="Id3">Aleksandre Guruliren taldea FC Samtredia da, Erosi Manjgaladze estadioan jokatzen duena.FC Karpaty Lviv taldean ere jokatzen du, Oleh Luzhnyk zuzentzen duena.</lex>
+      <lex lang="gl" lid="Id1">Aleksandre Guruli é membro do FC Karpaty Lviv, dirixido por Oleh Luzhny. Tamén é membro do FC Samtredia, que xoga no Estadio Erosi Manjgaladze.</lex>
+      <lex lang="gl" lid="Id2">O club de Aleksandre Guruli é o FC Samtredia, que xoga no Estadio Erosi Manjgaladze. Tamén xogou co FC Karpaty Lviv, dirixido por Oleh Luzhny.</lex>
+      <lex lang="gl" lid="Id3">O club de Aleksandre Guruli é o FC Samtredia que ten o seu campo no estadio Erosi Manjgaladze. Tamén xoga para o FC Karpaty Lviv que son dirixidos por Oleh Luzhny.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>FC_Torpedo_Moscú | Temporada | Liga_Premier_de_Rusia_2014/15</striple>
+        <striple>Aleksandr_Chumakov | Club | FC_Torpedo_Moscú</striple>
+        <striple>FC_Torpedo_Moscú | Director | Valeriy_Petrakov</striple>
+        <striple>FC_Torpedo_Moscú | Presidente | Aleksandr_Tukmanov</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>FC_Torpedo_Moscou | Temporada | 2014-15_Primera_Divisió_de_Rússia.</ctriple>
+        <ctriple>Aleksandr_Chumakov | Trèvols | FC_Torpedo_Moscou</ctriple>
+        <ctriple>FC_Torpedo_Moscou | Gerent | Valeri_Petrakov</ctriple>
+        <ctriple>FC_Torpedo_Moscou | President | Aleksandr_Tukmanov</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>FC_Torpedo_Moscova | Temporada | 201415_Russian_Premier_League</gtriple>
+        <gtriple>Aleksandr_Chumakov | Trevos | FC_Torpedo_Moscova</gtriple>
+        <gtriple>FC_Torpedo_Moscova | Xestor | Valery_Petrakov</gtriple>
+        <gtriple>FC_Torpedo_Moscova | Presidente | Aleksandr_Tukmanov</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>FC_Torpedo_Mosku | Denboraldia | 2014-15_Errusiako_Premier_Liga</btriple>
+        <btriple>Aleksandr_Chumakov | Klub | FC_Torpedo_Mosku</btriple>
+        <btriple>FC_Torpedo_Mosku | Kudeatzailea | Valeri_Petrakov.</btriple>
+        <btriple>FC_Torpedo_Mosku | Chairman | Aleksandr_Tukmanov</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
+      <lex lang="en" lid="Id2">FC Torpedo Moscow who are managed by Valery Petrakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
+      <lex lang="es" lid="Id1">Valery Petrakov es el entrenador del FC Torpedo de Moscú y su presidente es Aleksandr Tukmanov. Aleksandr Chumakov juega en el club, que pasó la temporada 2014-15 en la Premier League rusa.</lex>
+      <lex lang="es" lid="Id2">El FC Torpedo de Moscú, dirigido por Valery Petrakov y cuyo presidente es Aleksandr Tukmanov, jugó la temporada 2014-15 en la Premier League rusa. Aleksandr Chumakov ha jugado en el club.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Chumakov juega en el FC Torpedo de Moscú, que tiene un entrenador llamado Valery Petrakov y un presidente llamado Aleksandr Tukmanov. El FC Torpedo Moscow participó en la Premier League rusa en la temporada 2014-15.</lex>
+      <lex lang="ca" lid="Id1">Valery Petrakov és l'entrenador del FC Torpedo Moscou i el seu president és Aleksandr Tukmanov. Aleksandr Chumakov juga per al club que va passar la temporada 2014-15 a la Lliga Premier russa.</lex>
+      <lex lang="ca" lid="Id2">El FC Torpedo Moscou, que està dirigit per Valery Petrakov i el seu president és Aleksandr Tukmanov, va jugar la temporada 2014/15 a la Premier League russa.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Chumakov juga pel FC Torpedo Moscou, que té un entrenador anomenat Valery Petrakov i un president anomenat Aleksandr Tukmanov. El FC Torpedo Moscou va participar en la Lliga Premier russa durant la temporada 2014-15.</lex>
+      <lex lang="eu" lid="Id1">Valery Petrakov da FC Torpedo Mosku-ko managerra eta Aleksandr Tukmanov da klubaren presidentea. Aleksandr Chumakov-ek jokatzen du klubarentzat, eta Errusiako Premier Leaguen aritu zen 2014-15 denboraldian.</lex>
+      <lex lang="eu" lid="Id2">FC Torpedo Moskuk, Valery Petrakov-en gidaritzapean eta Aleksandr Tukmanov-en presidentearekin, Errusiako Premier League-an jokatu zuen 2014-15 denboraldian. Aleksandr Chumakov-ek jokatu zuen klubarentzat.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Chumakovek FC Torpedo Mosku taldean jokatzen du, eta Valery Petrakov du entrenatzaile eta Aleksandr Tukmanov du presidente. FC Torpedo Moskuk Errusiako Premier Leaguen parte hartu zuen 2014-15 denboraldian.</lex>
+      <lex lang="gl" lid="Id1">Valery Petrakov é o adestrador do FC Torpedo Moscova e o seu presidente é Aleksandr Tukmanov. Aleksandr Chumakov xoga para o club que pasou a tempada 2014-15 na Primeira Liga Rusa.</lex>
+      <lex lang="gl" lid="Id2">O FC Torpedo Moscova, que é xestionado por Valery Petrakov e cuxo presidente é Aleksandr Tukmanov, xogou a tempada 2014/15 na Premier League rusa.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Chumakov xoga para o FC Torpedo Moscova que ten un adestrador chamado Valery Petrakov e un presidente chamado Aleksandr Tukmanov. O FC Torpedo Moscova participou na Primeira Liga Rusa na tempada 2014-15.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id18" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Houston_Texans | owner | Bob_McNair</otriple>
+        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
+        <otriple>Akeem_Dent | formerTeam | Houston_Texans</otriple>
+        <otriple>Atlanta_Falcons | locationCity | Atlanta</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Houston_Texans | owner | Bob_McNair</mtriple>
+        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
+        <mtriple>Akeem_Dent | formerTeam | Houston_Texans</mtriple>
+        <mtriple>Atlanta_Falcons | city | Atlanta</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Houston_Texans | Propietario | Bob_McNair</striple>
+        <striple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</striple>
+        <striple>Akeem_Dent | AntiguoEquipo | Houston_Texans</striple>
+        <striple>Atlanta_Falcons | Ciudad | Atlanta</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Houston_Texans | Propietari | Bob_McNair</ctriple>
+        <ctriple>Akeem_Dent | DebutDeL'equip | Atlanta_Falcons</ctriple>
+        <ctriple>Akeem_Dent | AnticEquip | Houston_Texans</ctriple>
+        <ctriple>Atlanta_Falcons | Ciutat | Atlanta</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Houston_Texans | Propietario | Bob_McNair</gtriple>
+        <gtriple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</gtriple>
+        <gtriple>Akeem_Dent | AntigoEquipo | Houston_Texans</gtriple>
+        <gtriple>Atlanta_Falcons | Cidade | Atlantausa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Houston_Texasko_hiri_bat_da. | Jabea. | Bob_McNair_naiz_eta.</btriple>
+        <btriple>Akeem_Dent | DebutTaldea | Atlanta_Falcons_taldea</btriple>
+        <btriple>Akeem_Dent | TaldeOhia | Houston_Texasko_hiri_bat_da.</btriple>
+        <btriple>Atlanta_Falcons_taldea | Hiria | Atlantan_dago.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent debuted with the Atlanta Falcons in Atlanta city. He played prior to this for the Houston Texans which is owned by Bob McNair.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent's first team was the Atlanta Falcons which play in Atlanta. His former team was the Houston Texans which is owned by Bob McNair.</lex>
+      <lex lang="en" lid="Id3">Akeem Dent used to play for Houston Texans which is owned by Bob McNair. Akeem Dent's first team were the Atlanta Falcons which play in Atlanta.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent debutó con los Atlanta Falcons en la ciudad de Atlanta. Antes jugó en los Houston Texans, propiedad de Bob McNair.</lex>
+      <lex lang="es" lid="Id2">El primer equipo de Akeem Dent fueron los Atlanta Falcons, que juegan en Atlanta. Su antiguo equipo fueron los Houston Texans, propiedad de Bob McNair.</lex>
+      <lex lang="es" lid="Id3">Akeem Dent solía jugar para los Houston Texans, propiedad de Bob McNair. El primer equipo de Akeem Dent fueron los Atlanta Falcons, que juegan en Atlanta.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent va debutar amb els Atlanta Falcons a la ciutat d' Atlanta. Va jugar abans per als Houston Texans, propietat de Bob McNair.</lex>
+      <lex lang="ca" lid="Id2">El primer equip d'Akeem Dent va ser els Atlanta Falcons, que juguen a Atlanta. El seu equip anterior va ser els Houston Texans, que són propietat de Bob McNair.</lex>
+      <lex lang="ca" lid="Id3">Akeem Dent jugava pels Houston Texans, que són propietat de Bob McNair. El primer equip d' Akeem Dent van ser els Atlanta Falcons, que juguen a Atlanta.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dent-ek Atlanta Falcons-ekin egin zuen debuta Atlantako hirian. Aurretik, Bob McNair-en jabetzako Houston Texans-entzat jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Akeem Denten lehen taldea Atlanta Falcons izan zen, Atlantan jokatzen duena. Bere aurreko taldea Houston Texans izan zen, Bob McNair-en jabetzakoa.</lex>
+      <lex lang="eu" lid="Id3">Dent Houston Texans taldean jokatzen zuen, Bob McNairren jabetzakoa. Akeem Dent-en lehen taldea Atlanta Falcons izan zen, Atlantan jokatzen duena.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent debutou cos Atlanta Falcons na cidade de Atlanta. Xogou antes para os Houston Texans, propiedade de Bob McNair.</lex>
+      <lex lang="gl" lid="Id2">O primeiro equipo de Akeem Dent foi o Atlanta Falcons, que xoga en Atlanta. O seu anterior equipo foi o Houston Texans, propiedade de Bob McNair.</lex>
+      <lex lang="gl" lid="Id3">Akeem Dent xogaba para os Houston Texans que son propiedade de Bob McNair. O primeiro equipo de Akeem Dent foron os Atlanta Falcons que xogan en Atlanta.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>SV_Werder_Bremen | league | Bundesliga</otriple>
+        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen</otriple>
+        <otriple>Aaron_Hunt | team | SV_Werder_Bremen_II</otriple>
+        <otriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>SV_Werder_Bremen | league | Bundesliga</otriple>
+        <otriple>Aaron_Hunt | team | SV_Werder_Bremen</otriple>
+        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen_II</otriple>
+        <otriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SV_Werder_Bremen | league | Bundesliga</mtriple>
+        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen</mtriple>
+        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen_II</mtriple>
+        <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Werder_Bremen | Liga | Bundesliga</striple>
+        <striple>Aaron_Hunt | Club | Werder_Bremen</striple>
+        <striple>Aaron_Hunt | Club | SV_Werder_Bremen_II</striple>
+        <striple>Werder_Bremen | Director | Viktor_Skrypnyk</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Werder_Bremen | Lliga | Lliga_alemanya_de_futbol</ctriple>
+        <ctriple>Aaron_Hunt | Trèvols | Werder_Bremen</ctriple>
+        <ctriple>Aaron_Hunt | Trèvols | SV_Werder_Bremen_II</ctriple>
+        <ctriple>Werder_Bremen | Gerent | Viktor_Skripnik</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>SV_Werder_Bremen | LigaunitDescriptionInLists | Bundesliga</gtriple>
+        <gtriple>Aaron_Hunt | Trevos | SV_Werder_Bremen</gtriple>
+        <gtriple>Aaron_Hunt | Trevos | SV_Werder_Bremen_II</gtriple>
+        <gtriple>SV_Werder_Bremen | Xestor | Viktor_Skrypnyk</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>SV_Werder_Bremen | LigaBatDa. | Bundesliga</btriple>
+        <btriple>Aaron_Hunt | Klub | SV_Werder_Bremen</btriple>
+        <btriple>Aaron_Hunt | Klub | SV_Werder_Bremen_II</btriple>
+        <btriple>SV_Werder_Bremen | Kudeatzailea | Viktor_Skrypnyk</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Hunt played for the Bundesliga's SV Werder Bremen. He now plays for the club SV Werder Bremen II, where Viktor Skrypnyk is the manager.</lex>
+      <lex lang="en" lid="Id2">Aaron Hunt plays in the Bundesliga league for SV Werder Bremen II. The manager is Viktor Skrypnyk.</lex>
+      <lex lang="en" lid="Id3">Aaron Hunt plays for SV Werder Bremen in the Bundesliga. The team are managed by Viktor Skrypnyk. Aaron Hunter played for SV Werder Bremen II.</lex>
+      <lex lang="es" lid="Id1">Aaron Hunt jugó en el SV Werder Bremen de la Bundesliga. Ahora juega en el club SV Werder Bremen II, donde Viktor Skrypnyk es el entrenador.</lex>
+      <lex lang="es" lid="Id2">Aaron Hunt juega en la Bundesliga con el SV Werder Bremen II. El entrenador es Viktor Skrypnyk.</lex>
+      <lex lang="es" lid="Id3">Aaron Hunt juega en el SV Werder Bremen de la Bundesliga. El equipo es dirigido por Viktor Skrypnyk. Aaron Hunter jugó en el SV Werder Bremen II.</lex>
+      <lex lang="ca" lid="Id1">Aaron Hunt va jugar per l' SV Werder Bremen de la Bundesliga. Ara juga pel club SV Werder Bremen II, on Viktor Skrypnyk és l' entrenador.</lex>
+      <lex lang="ca" lid="Id2">Aaron Hunt juga a la Bundesliga pel SV Werder Bremen II. L'entrenador és Viktor Skrypnyk.</lex>
+      <lex lang="ca" lid="Id3">Aaron Hunt juga per SV Werder Bremen a la Bundesliga. L' equip és dirigit per Viktor Skrypnyk. Aaron Hunter juga per SV Werder Bremen II.</lex>
+      <lex lang="eu" lid="Id1">Aaron Hunt-ek Bundesligako SV Werder Bremen-en jokatu zuen. Orain SV Werder Bremen II klubean jokatzen du, Viktor Skrypnyk entrenatzailea baita.</lex>
+      <lex lang="eu" lid="Id2">Aaron Hunt Bundesligako SV Werder Bremen II taldean jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Aaron Hunt-ek SV Werder Bremen-entzat jokatzen du Bundesligan. Viktor Skrypnyk-ek zuzentzen du taldea. Aaron Hunter-ek SV Werder Bremen II-arentzat jokatzen zuen.</lex>
+      <lex lang="gl" lid="Id1">Aaron Hunt xogou para o SV Werder Bremen da Bundesliga. Agora xoga para o club SV Werder Bremen II, onde Viktor Skrypnyk é o adestrador.</lex>
+      <lex lang="gl" lid="Id2">Aaron Hunt xoga na Bundesliga para o SV Werder Bremen II. O adestrador é Viktor Skrypnyk.</lex>
+      <lex lang="gl" lid="Id3">Aaron Hunt xoga para o SV Werder Bremen na Bundesliga. O equipo está dirixido por Viktor Skrypnyk. Aaron Hunter xogou para o SV Werder Bremen II.</lex>
+      </entry>
+    </entries>
+  </benchmark>

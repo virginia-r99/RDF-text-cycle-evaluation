@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Hunt | team | VfL_Wolfsburg</otriple>
+        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen_II</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Hunt | club | VfL_Wolfsburg</mtriple>
+        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen_II</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Hunt | Club | VfL_Wolfsburgo</striple>
+        <striple>Aaron_Hunt | Club | SV_Werder_Bremen_II</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Hunt | Trèvols | VfL_Wolfsburg</ctriple>
+        <ctriple>Aaron_Hunt | Trèvols | SV_Werder_Bremen_II</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Hunt | Trevos | VfL_Wolfsburg</gtriple>
+        <gtriple>Aaron_Hunt | Trevos | SV_Werder_Bremen_II</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Hunt | Klub | VfL_Wolfsburg</btriple>
+        <btriple>Aaron_Hunt | Klub | SV_Werder_Bremen_II</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Hunt plays for Vfl Wolfsburg and used to play for SV Werder Bremen II.</lex>
+      <lex lang="en" lid="Id2">Aaron Hunt's club is VfL Wolfsburg and he plays for SV Werder Bremen II.</lex>
+      <lex lang="en" lid="Id3">Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen II.</lex>
+      <lex lang="es" lid="Id1">Aaron Hunt juega en el Vfl Wolfsburg y antes jugaba en el SV Werder Bremen II.</lex>
+      <lex lang="es" lid="Id2">El club de Aaron Hunt es el VfL Wolfsburg y juega en el SV Werder Bremen II.</lex>
+      <lex lang="es" lid="Id3">Aaron Hunt juega en el Vfl Wolfsburg y en el SV Werder Bremen II.</lex>
+      <lex lang="ca" lid="Id1">Aaron Hunt juga pel Vfl Wolfsburg i va jugar pel SV Werder Bremen II.</lex>
+      <lex lang="ca" lid="Id2">El club d'Aaron Hunt és el VfL Wolfsburg i juga pel SV Werder Bremen II.</lex>
+      <lex lang="ca" lid="Id3">Aaron Hunt juga pel Vfl Wolfsburg i el SV Werder Bremen II.</lex>
+      <lex lang="eu" lid="Id1">Aaron Hunt Vfl Wolfsburgon jokatzen du eta SV Werder Bremen IIn jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Aaron Hunt-en kluba VfL Wolfsburg da eta SV Werder Bremen II-rentzat jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Aaron Hunt Vfl Wolfsburgon eta SV Werder Bremen IIn jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">Aaron Hunt xoga para o Vfl Wolfsburg e xogaba para o SV Werder Bremen II.</lex>
+      <lex lang="gl" lid="Id2">O club de Aaron Hunt é o VfL Wolfsburg e xoga para o SV Werder Bremen II.</lex>
+      <lex lang="gl" lid="Id3">Aaron Hunt xoga co Vfl Wolfsburg e co SV Werder Bremen II.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abel_Hernández | team | U.S._Città_di_Palermo</otriple>
+        <otriple>Abel_Hernández | clubs | Peñarol</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
+        <mtriple>Abel_Hernández | club | Peñarol</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Hernández | Club | U.S._Città_di_Palermo</striple>
+        <striple>Abel_Hernández | Club | Club_Atlético_Peñarol</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | U.S._Città_di_Palermo</ctriple>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | Peñarol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abel_Hernández | Trevos | U.S._Città_di_Palermo</gtriple>
+        <gtriple>Abel_Hernández | Trevos | Peñarol</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abel_Hernández | Klub | U.S._Città_di_Palermo</btriple>
+        <btriple>Abel_Hernández | Klub | Peñarol</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abel Hernandez plays for the US Citta di Palermo club and also played for Penarol.</lex>
+      <lex lang="en" lid="Id2">Abel Hernandez's club is US Citta di Palermo and Penarol.</lex>
+      <lex lang="en" lid="Id3">Abel Hernández has played for the clubs US Città di Palermo and Penarol.</lex>
+      <lex lang="es" lid="Id1">Abel Hernández juega en el club US Citta di Palermo y también jugó en el Peñarol.</lex>
+      <lex lang="es" lid="Id2">Los clubes de Abel Hernández es US Citta di Palermo y Peñarol.</lex>
+      <lex lang="es" lid="Id3">Abel Hernández ha jugado en los clubes US Città di Palermo y Peñarol.</lex>
+      <lex lang="ca" lid="Id1">Abel Hernández juga per al club nord-americà Citta di Palermo i també va jugar per al Penarol.</lex>
+      <lex lang="ca" lid="Id2">El club d'Abel Hernández és US Citta di Palermo i Penarol.</lex>
+      <lex lang="ca" lid="Id3">Abel Hernández ha jugat pels clubs US Città di Palermo i Penarol.</lex>
+      <lex lang="eu" lid="Id1">Abel Hernandez-ek US Citta di Palermo klubean jokatzen du eta Penarol-en ere jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Abel Hernandezen kluba US Citta di Palermo eta Penarol dira.</lex>
+      <lex lang="eu" lid="Id3">Abel Hernandezek US Città di Palermo eta Penarol klubetan jokatu du.</lex>
+      <lex lang="gl" lid="Id1">Abel Hernández xoga para o club estadounidense Citta di Palermo e tamén xogou para o Penarol.</lex>
+      <lex lang="gl" lid="Id2">O club de Abel Hernández é o US Citta di Palermo e Penarol.</lex>
+      <lex lang="gl" lid="Id3">Abel Hernández xogou para os clubs US Città di Palermo e Penarol.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adam_Maher | clubs | PSV_Eindhoven</otriple>
+        <otriple>Adam_Maher | team | Netherlands_national_under-17_football_team</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
+        <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Maher | Club | PSV_Eindhoven</striple>
+        <striple>Adam_Maher | Club | selección_de_fútbol_sub-17_de_los_Países_Bajos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Adam_Maher | Trèvols | PSV_Eindhoven</ctriple>
+        <ctriple>Adam_Maher | Trèvols | Països_Baixos_sub-17</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Adam_Maher | Trevos | PSV_Eindhoven</gtriple>
+        <gtriple>Adam_Maher | Trevos | Selección_holandesa_de_fútbol_sub-17</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adam_Maher | Klub | PSV_Eindhoven</btriple>
+        <btriple>Adam_Maher | Klub | Holandako_futbol_talde_nazionala,_17_urtetik_beherakoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adam Maher's club is PSV Eindhoven and he played for the Netherlands national under-17 football team.</lex>
+      <lex lang="en" lid="Id2">Adam Maher played for PSV Eindhoven and represented the Netherlands under 17 football team.</lex>
+      <lex lang="en" lid="Id3">Adam Maher, whose club is PSV Eindhoven, plays for Netherlands National under 17 club.</lex>
+      <lex lang="es" lid="Id1">El club de Adam Maher es el PSV Eindhoven y jugó en la selección holandesa de fútbol sub-17.</lex>
+      <lex lang="es" lid="Id2">Adam Maher jugó en el PSV Eindhoven y representó a la selección holandesa de fútbol sub-17.</lex>
+      <lex lang="es" lid="Id3">Adam Maher, cuyo club es el PSV Eindhoven, juega en la selección holandesa sub-17.</lex>
+      <lex lang="ca" lid="Id1">El club d'Adam Maher és el PSV Eindhoven i va jugar per a l'equip nacional de futbol sub-17 dels Països Baixos.</lex>
+      <lex lang="ca" lid="Id2">Adam Maher va jugar pel PSV Eindhoven i va representar els Països Baixos en l'equip de futbol sub-17.</lex>
+      <lex lang="ca" lid="Id3">Adam Maher, el club del qual és el PSV Eindhoven, juga per la selecció neerlandesa sub-17.</lex>
+      <lex lang="eu" lid="Id1">Adam Maheren kluba PSV Eindhoven da eta Holandako 17 urtetik beherako futbol selekzioan jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Adam Maher-ek PSV Eindhoven-en jokatu zuen eta Herbehereetako 17 urtez azpiko futbol-taldea ordezkatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Adam Maher-ek, PSV Eindhoven-eko jokalaria, Herbehereetako 17 urte azpiko selekzioarekin jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">O club de Adam Maher é o PSV Eindhoven e xogou para a selección nacional de fútbol sub-17 dos Países Baixos.</lex>
+      <lex lang="gl" lid="Id2">Adam Maher xogou para o PSV Eindhoven e representou a Holanda no equipo de fútbol sub-17.</lex>
+      <lex lang="gl" lid="Id3">Adam Maher, cuxo club é o PSV Eindhoven, xoga para o club holandés sub-17.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Naft</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ahmad_Kadhim_Assad | Club | Steel_Azin_FC</striple>
+        <striple>Ahmad_Kadhim_Assad | Club | Al-Naft</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ahmad_Kadhim_Assad | Trèvols | Steel_Azin_FC</ctriple>
+        <ctriple>Ahmad_Kadhim_Assad | Trèvols | Al-_Naftalgeria._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ahmad_Kadhim_Assad | Trevos | Steel_Azin_F.C.</gtriple>
+        <gtriple>Ahmad_Kadhim_Assad | Trevos | Al-_Naftalgeria._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ahmad_Kadhim_Assad | Klub | Steel_Azin_Futbol_Taldea.</btriple>
+        <btriple>Ahmad_Kadhim_Assad | Klub | Al-_Naftalgeria._kgm</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ahmad Kadhim Assad in the Al-Naft club, plays for Steel Azin F.C.</lex>
+      <lex lang="en" lid="Id2">Ahmad Kadhim Assad plays for Al-Naft and formerly for Steel Azin FC.</lex>
+      <lex lang="en" lid="Id3">Ahmad Kadhim Assad of Al-Naft plays for Steel Azin F.C.</lex>
+      <lex lang="es" lid="Id1">Ahmad Kadhim Assad en el club Al-Naft, juega en el Steel Azin F.C.</lex>
+      <lex lang="es" lid="Id2">Ahmad Kadhim Assad juega en el Al-Naft y anteriormente en el Steel Azin FC.</lex>
+      <lex lang="es" lid="Id3">Ahmad Kadhim Assad, del Al-Naft, juega en el Steel Azin F.C.</lex>
+      <lex lang="ca" lid="Id1">Ahmad Kadhim Assad al club Al-Naft, juga pel Steel Azin F.C.</lex>
+      <lex lang="ca" lid="Id2">Ahmad Kadhim Assad juga per Al-Naft i anteriorment per Steel Azin FC.</lex>
+      <lex lang="ca" lid="Id3">Ahmad Kadhim Assad d'Al-Naft juga pel Steel Azin F.C.</lex>
+      <lex lang="eu" lid="Id1">Ahmad Kadhim Assad-ek Al-Naft klubean jokatzen du, Steel Azin F.C.-rako.</lex>
+      <lex lang="eu" lid="Id2">Ahmad Kadhim Assad Al-Naft taldean jokatzen du eta Steel Azin FC taldean jokatzen zuen.</lex>
+      <lex lang="eu" lid="Id3">Ahmad Kadhim Assad, Al-Naft taldekoa, Steel Azin FC taldean jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">Ahmad Kadhim Assad no club Al-Naft, xoga para o Steel Azin F.C.</lex>
+      <lex lang="gl" lid="Id2">Ahmad Kadhim Assad xoga no Al-Naft e anteriormente no Steel Azin FC.</lex>
+      <lex lang="gl" lid="Id3">Ahmad Kadhim Assad de Al-Naft xoga para o Steel Azin F.C.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Adams | Club | Ferencváros_T.C.</striple>
+        <striple>Ferencváros_T.C. | Director | Thomas_Doll</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Adams | Trèvols | Ferencvárosi_TC</ctriple>
+        <ctriple>Ferencvárosi_TC | Gerent | Thomas_Doll</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Adams | Trevos | Ferencvárosi_TC</gtriple>
+        <gtriple>Ferencvárosi_TC | Xestor | Thomas_Doll</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Adams_eta_bere_lagunak. | Klub | Ferencvárosi_TC</btriple>
+        <btriple>Ferencvárosi_TC | Kudeatzailea | Thomas_Doll</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Adams played for Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex lang="en" lid="Id2">Akeem Adams club is Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex lang="en" lid="Id3">Ferencvarosi TC is managed by Thomas Doll and is the club of Akeem Adams.</lex>
+      <lex lang="es" lid="Id1">Akeem Adams jugó en el Ferencvarosi TC, cuyo entrenador es Thomas Doll.</lex>
+      <lex lang="es" lid="Id2">El club de Akeem Adams es el Ferencvarosi TC, cuyo director es Thomas Doll.</lex>
+      <lex lang="es" lid="Id3">El Ferencvarosi TC está dirigido por Thomas Doll y es el club de Akeem Adams.</lex>
+      <lex lang="ca" lid="Id1">Akeem Adams va jugar pel Ferencvarosi TC, on l'entrenador és Thomas Doll.</lex>
+      <lex lang="ca" lid="Id2">El club d'Akeem Adams és el Ferencvarosi TC, on el seu entrenador és Thomas Doll.</lex>
+      <lex lang="ca" lid="Id3">El Ferencvarosi TC és dirigit per Thomas Doll i és el club d'Akeem Adams.</lex>
+      <lex lang="eu" lid="Id1">Akeem Adamsek Ferencvarosi TCn jokatu zuen, eta Thomas Doll izan zen entrenatzailea.</lex>
+      <lex lang="eu" lid="Id2">Akeem Adamsen kluba Ferencvarosi TC da, eta bertako entrenatzailea Thomas Doll da.</lex>
+      <lex lang="eu" lid="Id3">Ferencvarosi TC Thomas Doll-ek zuzentzen du eta Akeem Adams-en kluba da.</lex>
+      <lex lang="gl" lid="Id1">Akeem Adams xogou para o Ferencvarosi TC, onde o adestrador é Thomas Doll.</lex>
+      <lex lang="gl" lid="Id2">O club de Akeem Adams é o Ferencvarosi TC, onde o adestrador é Thomas Doll.</lex>
+      <lex lang="gl" lid="Id3">O Ferencvarosi TC está dirixido por Thomas Doll e é o club de Akeem Adams.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
+        <otriple>Akeem_Dent | dateOfBirth | "1987-09-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
+        <mtriple>Akeem_Dent | birthDate | 1987-09-27</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Dent | AñoDeNacimiento | 1987</striple>
+        <striple>Akeem_Dent | FechaDeNacimiento | 27-09-1987</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Dent | AnyDeNaixement | 1987</ctriple>
+        <ctriple>Akeem_Dent | DataDeNaixement | 1987-09-27</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Dent | AnoDeNacemento | 1987</gtriple>
+        <gtriple>Akeem_Dent | DataDeNacemento | 1987-09-27</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Dent | JaiotzaUrtea | 1987</btriple>
+        <btriple>Akeem_Dent | JaiotzeData | 1987-09-27</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent was born September 27, 1987.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent date of birth is the 27th September 1987.</lex>
+      <lex lang="en" lid="Id3">Akeem Dent was born on 27 September 1987.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent nació el 27-09-1987.</lex>
+      <lex lang="es" lid="Id2">La fecha de nacimiento de Akeem Dent es el 27-09-1987.</lex>
+      <lex lang="es" lid="Id3">Akeem Dent nació el 27-09-1987.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent va néixer el 27 de setembre de 1987.</lex>
+      <lex lang="ca" lid="Id2">Akeem Dent va néixer el 27 de setembre de 1987.</lex>
+      <lex lang="ca" lid="Id3">Akeem Dent va néixer el 27 de setembre de 1987.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dent 1987ko irailaren 27an jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Akeem Dent 1987ko irailaren 27an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Akeem Dent 1987ko irailaren 27an jaio zen.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent naceu o 27 de setembro de 1987.</lex>
+      <lex lang="gl" lid="Id2">Akeem Dent naceu o 27 de setembro de 1987.</lex>
+      <lex lang="gl" lid="Id3">Akeem Dent naceu o 27 de setembro de 1987.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
+        <otriple>Akeem_Dent | placeOfBirth | "Atlanta, Georgia"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
+        <mtriple>Akeem_Dent | birthPlace | "Atlanta, Georgia"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Dent | AñoDeNacimiento | 1987</striple>
+        <striple>Akeem_Dent | LugarDeNacimiento | Atlanta,_Georgia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Dent | AnyDeNaixement | 1987</ctriple>
+        <ctriple>Akeem_Dent | LlocDeNaixement | Atlanta,_Geòrgia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Dent | AnoDeNacemento | 1987</gtriple>
+        <gtriple>Akeem_Dent | LugarDeNacemento | Atlanta,_Xeorxiausa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Dent | JaiotzaUrtea | 1987</btriple>
+        <btriple>Akeem_Dent | JaiotzeLekua | Atlanta,_Georgia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent was born in Atlanta, Georgia in 1987.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent was born in Atlanta Georgia in 1987.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent nació en Atlanta (Georgia) en 1987.</lex>
+      <lex lang="es" lid="Id2">Akeem Dent nació en Atlanta, Georgia, en 1987.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent va néixer a Atlanta, Geòrgia el 1987.</lex>
+      <lex lang="ca" lid="Id2">Akeem Dent va néixer a Atlanta, Geòrgia, el 1987.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dent Atlanta, Georgian jaio zen 1987an.</lex>
+      <lex lang="eu" lid="Id2">Akeem Dent Atlantan jaio zen, Georgian, 1987an.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent naceu en Atlanta, Xeorxia, en 1987.</lex>
+      <lex lang="gl" lid="Id2">Akeem Dent naceu en Atlanta, Xeorxia, en 1987.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
+        <otriple>Atlanta_Falcons | owner | Arthur_Blank</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
+        <mtriple>Atlanta_Falcons | owner | Arthur_Blank</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</striple>
+        <striple>Atlanta_Falcons | Propietario | Arthur_Blank</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Dent | DebutDeL'equip | Atlanta_Falcons</ctriple>
+        <ctriple>Atlanta_Falcons | Propietari | Arthur_Blank</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</gtriple>
+        <gtriple>Atlanta_Falcons | Propietario | Arthur_Blank</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Dent | DebutTaldea | Atlanta_Falcons_taldea</btriple>
+        <btriple>Atlanta_Falcons_taldea | Jabea. | Arthur_Blank</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent started with the Atlanta Falcons which is owned by Arthur Blank.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons who are owned by Arthur Blank.</lex>
+      <lex lang="en" lid="Id3">Akeem Dent's first team were the Atlanta Falcons owned by Arthur Blank.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent empezó en los Atlanta Falcons, propiedad de Arthur Blank.</lex>
+      <lex lang="es" lid="Id2">Akeem Dent debutó con los Atlanta Falcons, que es propiedad de Arthur Blank.</lex>
+      <lex lang="es" lid="Id3">El primer equipo de Akeem Dent fueron los Atlanta Falcons, propiedad de Arthur Blank.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent va començar amb els Atlanta Falcons que són propietat d'Arthur Blank.</lex>
+      <lex lang="ca" lid="Id2">Akeem Dent va fer el seu debut amb els Atlanta Falcons que són propietat d'Arthur Blank.</lex>
+      <lex lang="ca" lid="Id3">El primer equip d'Akeem Dent van ser els Atlanta Falcons propietat d'Arthur Blank.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dent Arthur Blank-en jabetzako Atlanta Falcons-ekin hasi zen.</lex>
+      <lex lang="eu" lid="Id2">Akeem Dent-ek Arthur Blank-en jabetzako Atlanta Falcons-ekin egin zuen debuta.</lex>
+      <lex lang="eu" lid="Id3">Akeem Denten lehen taldea Atlanta Falcons izan zen, Arthur Blanken jabetzakoa.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent comezou cos Atlanta Falcons que son propiedade de Arthur Blank.</lex>
+      <lex lang="gl" lid="Id2">Akeem Dent fixo o seu debut cos Atlanta Falcons que son propiedade de Arthur Blank.</lex>
+      <lex lang="gl" lid="Id3">O primeiro equipo de Akeem Dent foron os Atlanta Falcons propiedade de Arthur Blank.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leaderName | Patrick_Allen_(politician)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Patrick_Allen_(politician)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+        <mtriple>Jamaica | leader | Patrick_Allen_(politician)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Priestley | LugarDeNacimiento | Jamaica</striple>
+        <striple>Jamaica | Líder | Patrick_Allen_(político)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Priestley | LlocDeNaixement | Jamaica</ctriple>
+        <ctriple>Jamaica | Líder | Patrick_Allen_(polític)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Priestley | LugarDeNacemento | Xamaica</gtriple>
+        <gtriple>Xamaica | Líder | Patrick_Allen_(político)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Priestley | JaiotzeLekua | Jamaika</btriple>
+        <btriple>Jamaika | Buruzagia. | Patrick_Allen_(politikaria)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Patrick Allen is a political leader in Jamaica which is the birthplace of Akeem Priestley.</lex>
+      <lex lang="en" lid="Id2">Akeem Priestley was born in Jamaica where the leader is Patrick Allen.</lex>
+      <lex lang="en" lid="Id3">Akeem Priestley was born in Jamaica whose political leader is Patrick Allen.</lex>
+      <lex lang="es" lid="Id1">Patrick Allen es un dirigente político de Jamaica, país natal de Akeem Priestley.</lex>
+      <lex lang="es" lid="Id2">Akeem Priestley nació en Jamaica, donde el líder es Patrick Allen.</lex>
+      <lex lang="es" lid="Id3">Akeem Priestley nació en Jamaica, cuyo líder político es Patrick Allen.</lex>
+      <lex lang="ca" lid="Id1">Patrick Allen és un líder polític a Jamaica, que és el lloc de naixement d'Akeem Priestley.</lex>
+      <lex lang="ca" lid="Id2">Akeem Priestley va néixer a Jamaica on el líder és Patrick Allen.</lex>
+      <lex lang="ca" lid="Id3">Akeem Priestley va néixer a Jamaica, el líder polític del qual és Patrick Allen.</lex>
+      <lex lang="eu" lid="Id1">Patrick Allen Jamaikako buruzagi politikoa da, Akeem Priestleyren jaioterria dena.</lex>
+      <lex lang="eu" lid="Id2">Akeem Priestley Jamaikan jaio zen, eta bere liderra Patrick Allen da.</lex>
+      <lex lang="eu" lid="Id3">Akeem Priestley Jamaikan jaio zen eta Patrick Allen da bere buruzagi politikoa.</lex>
+      <lex lang="gl" lid="Id1">Patrick Allen é un líder político en Xamaica, que é o lugar de nacemento de Akeem Priestley.</lex>
+      <lex lang="gl" lid="Id2">Akeem Priestley naceu en Xamaica onde o líder é Patrick Allen.</lex>
+      <lex lang="gl" lid="Id3">Akeem Priestley naceu en Xamaica cuxo líder político é Patrick Allen.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Al-Zawra'a_SC</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al-Zawra'a_SC</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Club_Shabab_Al-Ordon</striple>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Al-Zawra'a_SC</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Shabab_Al_Ordon_Al_Qadisiya</ctriple>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Al-Zawraa_SC_Bagdad</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Club_Shabab_Al-Ordon</gtriple>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Al-Zawra'a_SC</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alaa_Abdul-Zahra | Klub | Shabab_Al-Ordon_Kluba</btriple>
+        <btriple>Alaa_Abdul-Zahra | Klub | Al-Zawra'a_SC</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alaa Abdul-Zahra's clubs are the Shabab Al-Ordon Club and the Al-Zawra'a SC.</lex>
+      <lex lang="en" lid="Id2">Former clubs of Alaa Abdul-Zahra include Shabab Al-Ordon and Al-Zawra'a SC.</lex>
+      <lex lang="en" lid="Id3">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he formerly played for the club Al-Zawra'a SC.</lex>
+      <lex lang="es" lid="Id1">Los clubes de Alaa Abdul-Zahra son el Shabab Al-Ordon Club y el Al-Zawra'a SC.</lex>
+      <lex lang="es" lid="Id2">Entre los antiguos clubes de Alaa Abdul-Zahra figuran el Shabab Al-Ordon y el Al-Zawra'a SC.</lex>
+      <lex lang="es" lid="Id3">El club de Alaa Abdul-Zahra es el Shabab Al-Ordon Club y anteriormente jugó en el club Al-Zawra'a SC.</lex>
+      <lex lang="ca" lid="Id1">Els clubs d'Alaa Abdul-Zahra són el Shabab Al-Ordon Club i l'Al-Zawra'a SC.</lex>
+      <lex lang="ca" lid="Id2">Els antics clubs d'Alaa Abdul-Zahra inclouen Shabab Al-Ordon i Al-Zawra'a SC.</lex>
+      <lex lang="ca" lid="Id3">El club d'Alaa Abdul-Zahra és Shabab Al-Ordon Club i anteriorment va jugar pel club Al-Zawra'a SC.</lex>
+      <lex lang="eu" lid="Id1">Alaa Abdul-Zahra-ren klubak Shabab Al-Ordon Club eta Al-Zawra'a SC dira.</lex>
+      <lex lang="eu" lid="Id2">Alaa Abdul-Zahraren klub ohien artean Shabab Al-Ordon eta Al-Zawra'a SC daude.</lex>
+      <lex lang="eu" lid="Id3">Alaa Abdul-Zahrak Shabab Al-Ordon klubean jokatzen du eta Al-Zawra'a SC klubean jokatu zuen.</lex>
+      <lex lang="gl" lid="Id1">Os clubs de Alaa Abdul-Zahra son o Shabab Al-Ordon Club e o Al-Zawra'a SC.</lex>
+      <lex lang="gl" lid="Id2">Os antigos clubes de Alaa Abdul-Zahra inclúen Shabab Al-Ordon e Al-Zawra'a SC.</lex>
+      <lex lang="gl" lid="Id3">O club de Alaa Abdul-Zahra é o Shabab Al-Ordon Club e anteriormente xogou para o club Al-Zawra'a SC.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Hamilton_Academical_F.C.</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Barrow"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
+        <mtriple>Alan_Martin_(footballer) | club | Barrow_A.F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Martin_(futbolista) | Club | Hamilton_Academical_Football_Club</striple>
+        <striple>Alan_Martin_(futbolista) | Club | Barrow_AFC</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Hamilton_Academical_FC</ctriple>
+        <ctriple>Alan_Martin_(futbolista) | Trèvols | Barrow_A.F.C.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Hamilton_Academical_F.C._(en_inglés).</gtriple>
+        <gtriple>Alan_Martin_(futbolista) | Trevos | Barrow_A.F.C._(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Hamiltoneko_Futbol_Taldea.</btriple>
+        <btriple>Alan_Martin_(futbolaria) | Klub | Barrow_A.F.C._futbol_taldearen_webgunea_(Ingelesez)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Martin plays for Barrow AFC and Hamilton Academical FC.</lex>
+      <lex lang="en" lid="Id2">Alan Martin plays for Hamilton Academical F.C. and Barrow A.F.C.</lex>
+      <lex lang="en" lid="Id3">The footballer Alan Martin plays for Barrow AFC and also played for Hamilton Academical FC.</lex>
+      <lex lang="es" lid="Id1">Alan Martin juega en el Barrow AFC y en el Hamilton Academical FC.</lex>
+      <lex lang="es" lid="Id2">Alan Martin juega en el Hamilton Academical F.C. y en el Barrow A.F.C.</lex>
+      <lex lang="es" lid="Id3">El futbolista Alan Martin juega en el Barrow AFC y también jugó en el Hamilton Academical FC.</lex>
+      <lex lang="ca" lid="Id1">Alan Martin juga per Barrow AFC i Hamilton Academical FC.</lex>
+      <lex lang="ca" lid="Id2">Alan Martin juga per Hamilton Academical F.C. i Barrow A.F.C.</lex>
+      <lex lang="ca" lid="Id3">El futbolista Alan Martin juga pel Barrow AFC i també va jugar pel Hamilton Academical FC.</lex>
+      <lex lang="eu" lid="Id1">Alan Martinek Barrow AFC eta Hamilton Academical FC taldeetan jokatzen du.</lex>
+      <lex lang="eu" lid="Id2">Hamilton Academical F.C. eta Barrow A.F.C. taldeetan jokatzen du Alan Martinek.</lex>
+      <lex lang="eu" lid="Id3">Alan Martin futbol-jokalariak Barrow AFC taldean jokatzen du eta Hamilton Academical FC taldean ere jokatu du.</lex>
+      <lex lang="gl" lid="Id1">Alan Martin xoga para o Barrow AFC e o Hamilton Academical FC.</lex>
+      <lex lang="gl" lid="Id2">Alan Martin xoga para o Hamilton Academical F.C. e o Barrow A.F.C.</lex>
+      <lex lang="gl" lid="Id3">O futbolista Alan Martin xoga no Barrow AFC e tamén xogou no Hamilton Academical FC.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Chumakov | Club | FC_Torpedo_Moscú</striple>
+        <striple>FC_Torpedo_Moscú | Director | Valeriy_Petrakov</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Chumakov | Trèvols | FC_Torpedo_Moscou</ctriple>
+        <ctriple>FC_Torpedo_Moscou | Gerent | Valeri_Petrakov</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Chumakov | Trevos | FC_Torpedo_Moscova</gtriple>
+        <gtriple>FC_Torpedo_Moscova | Xestor | Valery_Petrakov</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Chumakov | Klub | FC_Torpedo_Mosku</btriple>
+        <btriple>FC_Torpedo_Mosku | Kudeatzailea | Valeri_Petrakov.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Chumakov has played for the club FC Torpedo Moscow, which is managed by Valery Petrakov.</lex>
+      <lex lang="en" lid="Id2">FC Torpedo Moscow, managed by Valery Petrakov, is a former club of Aleksandr Chumakov.</lex>
+      <lex lang="en" lid="Id3">FC Torpedo Moscow, managed by Valery Petrakov, is the former club of Aleksandr Chumakov.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Chumakov ha jugado en el club FC Torpedo de Moscú, que es dirigido por Valery Petrakov.</lex>
+      <lex lang="es" lid="Id2">El FC Torpedo de Moscú, dirigido por Valery Petrakov, es un antiguo club de Aleksandr Chumakov.</lex>
+      <lex lang="es" lid="Id3">El FC Torpedo de Moscú, dirigido por Valery Petrakov, es el antiguo club de Aleksandr Chumakov.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Chumakov ha jugat pel club FC Torpedo Moscou, que és dirigit per Valery Petrakov.</lex>
+      <lex lang="ca" lid="Id2">El FC Torpedo Moscou, dirigit per Valery Petrakov, és un antic club d'Aleksandr Chumakov.</lex>
+      <lex lang="ca" lid="Id3">El FC Torpedo Moscou, dirigit per Valery Petrakov, és l'antic club d'Aleksandr Chumakov.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Chumakov FC Torpedo Mosku klubean jokatu du, Valery Petrakovek zuzentzen duena.</lex>
+      <lex lang="eu" lid="Id2">FC Torpedo Mosku, Valery Petrakov-ek zuzendua, Aleksandr Chumakov-en klub ohia da.</lex>
+      <lex lang="eu" lid="Id3">FC Torpedo Mosku, Valery Petrakov-ek zuzendua, Aleksandr Chumakov-en klub ohia da.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Chumakov xogou para o club FC Torpedo Moscova, que está dirixido por Valery Petrakov.</lex>
+      <lex lang="gl" lid="Id2">O FC Torpedo Moscova, dirixido por Valery Petrakov, é un antigo club de Aleksandr Chumakov.</lex>
+      <lex lang="gl" lid="Id3">O FC Torpedo Moscova, dirixido por Valery Petrakov, é o antigo club de Aleksandr Chumakov.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Sergey_Naryshkin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leader | Sergey_Naryshkin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Chumakov | LugarDeLaMuerte | Rusia</striple>
+        <striple>Rusia | Líder | Serguéi_Narishkin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Chumakov | LlocDeLaMort | Rússia</ctriple>
+        <ctriple>Rússia | Líder | Sergey_Naryshkin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Chumakov | LugarDaMorte | Rusia</gtriple>
+        <gtriple>Rusia | Líder | Serxei_Naryshkin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Chumakov | HeriotzarenLekua | Errusia</btriple>
+        <btriple>Errusia | Buruzagia. | Sergey_Naryshkin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Russia is led by Sergey Naryshkin and is where Aleksandr Chumakov died.</lex>
+      <lex lang="en" lid="Id2">Aleksandr Chumakov died in Russia where the leader is Sergey Naryshkin.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Chumakov died in Russia, where the leader is Sergey Naryshkin.</lex>
+      <lex lang="es" lid="Id1">Rusia está dirigida por Sergey Naryshkin y es donde murió Aleksandr Chumakov.</lex>
+      <lex lang="es" lid="Id2">Aleksandr Chumakov murió en Rusia, donde el líder es Sergey Naryshkin.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Chumakov murió en Rusia donde el líder es Sergey Naryshkin.</lex>
+      <lex lang="ca" lid="Id1">Rússia està dirigida per Sergei Naryshkin i és on va morir Aleksandr Chumakov.</lex>
+      <lex lang="ca" lid="Id2">Aleksandr Chumakov va morir a Rússia on el líder és Sergey Naryshkin.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Chumakov va morir a Rússia, on el líder és Sergey Naryshkin.</lex>
+      <lex lang="eu" lid="Id1">Errusia Sergey Naryshkinek zuzentzen du eta bertan hil zen Aleksandr Chumakov.</lex>
+      <lex lang="eu" lid="Id2">Aleksandr Chumakov Errusian hil zen, non buruzagia Sergey Naryshkin den.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Chumakov Errusian hil zen, non buruzagia Sergey Naryshkin den.</lex>
+      <lex lang="gl" lid="Id1">Rusia está liderada por Sergey Naryshkin e é onde morreu Aleksandr Chumakov.</lex>
+      <lex lang="gl" lid="Id2">Aleksandr Chumakov morreu en Rusia onde o líder é Sergey Naryshkin.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Chumakov morreu en Rusia, onde o líder é Sergey Naryshkin.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Vladimir_Putin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leader | Vladimir_Putin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Chumakov | LugarDeLaMuerte | Rusia</striple>
+        <striple>Rusia | Líder | Vladímir_Putin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Chumakov | LlocDeLaMort | Rússia</ctriple>
+        <ctriple>Rússia | Líder | Vladímir_Putin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Chumakov | LugarDaMorte | Rusia</gtriple>
+        <gtriple>Rusia | Líder | Vladimir_Putin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Chumakov | HeriotzarenLekua | Errusia</btriple>
+        <btriple>Errusia | Buruzagia. | Vladimir_Putin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Chumakov died in Russia which is led by Vladimir Putin.</lex>
+      <lex lang="en" lid="Id2">Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Chumakov died in Russia where the leader is Vladimir Putin.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Chumakov murió en la Rusia dirigida por Vladimir Putin.</lex>
+      <lex lang="es" lid="Id2">Aleksandr Chumakov murió en Rusia, donde el líder es Vladimir Putin.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Chumakov murió en Rusia donde el líder es Vladimir Putin.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Chumakov va morir a Rússia, dirigida per Vladímir Putin.</lex>
+      <lex lang="ca" lid="Id2">Aleksandr Chumakov va morir a Rússia, on el líder és Vladímir Putin.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Chumakov va morir a Rússia, on el líder és Vladímir Putin.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Chumakov Errusian hil zen, Vladimir Putinen agintepean.</lex>
+      <lex lang="eu" lid="Id2">Aleksandr Chumakov Errusian hil zen, non Vladimir Putin da liderra.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Chumakov Errusian hil zen, Vladimir Putinen agindupean.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Chumakov morreu en Rusia, que está liderada por Vladimir Putin.</lex>
+      <lex lang="gl" lid="Id2">Aleksandr Chumakov morreu en Rusia, onde o líder é Vladimir Putin.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Chumakov morreu en Rusia onde o líder é Vladimir Putin.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | FC_Tom_Tomsk</otriple>
+        <otriple>FC_Tom_Tomsk | league | Russian_Football_National_League</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
+        <mtriple>FC_Tom_Tomsk | league | Russian_Football_National_League</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Prudnikov | Club | FC_Tom_Tomsk</striple>
+        <striple>FC_Tom_Tomsk | Liga | Liga_Nacional_de_Fútbol_de_Rusia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Prudnikov | Trèvols | FK_Tom_Tomsk</ctriple>
+        <ctriple>FK_Tom_Tomsk | Lliga | Lliga_nacional_de_futbol_de_Rússia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Prudnikov | Trevos | Tom_Tomskrussia__subjects._kgm</gtriple>
+        <gtriple>Tom_Tomskrussia__subjects._kgm | LigaunitDescriptionInLists | Liga_Nacional_de_Fútbol_de_Rusia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Prudnikov | Klub | FC_Tom_Tomsk</btriple>
+        <btriple>FC_Tom_Tomsk | LigaBatDa. | Errusiako_Futbol_Liga_Nazionala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Prudnikov plays for FC Tom Tomsk, which plays in the Russian National Football League.</lex>
+      <lex lang="en" lid="Id2">Aleksandr Prudnikov plays for FC Tom Tomsk which plays in the Russian Football National league.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Prudnikov is with the FC Tom Tomsk which is in the Russian Football National League.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Prudnikov juega en el FC Tom Tomsk, que milita en la Liga Nacional de Fútbol de Rusia.</lex>
+      <lex lang="es" lid="Id2">Aleksandr Prudnikov juega en el FC Tom Tomsk, que juega en la Liga Nacional de Fútbol de Rusia.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Prudnikov milita en el FC Tom Tomsk de la Liga Nacional de Fútbol de Rusia.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Prudnikov juga pel FC Tom Tomsk, que juga a la Lliga Nacional Russa de Futbol.</lex>
+      <lex lang="ca" lid="Id2">Aleksandr Prudnikov juga pel FC Tom Tomsk que juga a la Lliga Nacional de Futbol Russa.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Prudnikov és amb el FC Tom Tomsk que està a la Lliga Nacional de Futbol Russa.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Prudnikov FC Tom Tomsk taldean jokatzen du, Errusiako Futbol Liga Nazionalean jokatzen duena.</lex>
+      <lex lang="eu" lid="Id2">Aleksandr Prudnikov FC Tom Tomsk taldean jokatzen du, Errusiako Futbol Liga Nazionalean jokatzen duena.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Prudnikov FC Tom Tomsk taldean dago, Errusiako Futbol Liga Nazionalean.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Prudnikov xoga no FC Tom Tomsk, que xoga na Liga Nacional de Fútbol de Rusia.</lex>
+      <lex lang="gl" lid="Id2">Aleksandr Prudnikov xoga no FC Tom Tomsk, que xoga na liga nacional rusa de fútbol.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Prudnikov é co FC Tom Tomsk que está na Liga Nacional de Fútbol de Rusia.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
+        <otriple>Aleksandre_Guruli | clubs | "AS Lyon Duchère"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
+        <otriple>Aleksandre_Guruli | clubs | AS_Lyon-Duchère</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | FC_Karpaty_Lviv</mtriple>
+        <mtriple>Aleksandre_Guruli | club | AS_Lyon-Duchère</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alexander_Guruli | Club | FK_Karpaty_Lviv</striple>
+        <striple>Alexander_Guruli | Club | AS_Lyon-Duchère</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandre_Guruli | Trèvols | FC_Karpaty_Lviv</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | AS_Lyon-Duchère</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Karpaty_Lviv</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | AS_Lyon-Duchère</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandre_Guruli | Klub | FC_Karpaty_Lviv</btriple>
+        <btriple>Aleksandre_Guruli | Klub | AS_Lyon-Duchère</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandre Guruli's former clubs include FC Karpaty Lviv and AS Lyon-Duchère.</lex>
+      <lex lang="en" lid="Id2">Aleksandre Guruli plays for FC Karpaty Lviv and AS Lyon-Duchere.</lex>
+      <lex lang="es" lid="Id1">Entre los antiguos clubes de Aleksandre Guruli figuran el FC Karpaty Lviv y el AS Lyon-Duchère.</lex>
+      <lex lang="es" lid="Id2">Aleksandre Guruli juega en el FC Karpaty Lviv y en el AS Lyon-Duchere.</lex>
+      <lex lang="ca" lid="Id1">Els antics clubs d'Aleksandre Guruli inclouen el FC Karpaty Lviv i l'AS Lyon-Duchère.</lex>
+      <lex lang="ca" lid="Id2">Aleksandre Guruli juga pel FC Karpaty Lviv i l'AS Lyon-Duchere.</lex>
+      <lex lang="eu" lid="Id1">Aleksandre Guruli-ren klub ohiak FC Karpaty Lviv eta AS Lyon-Duchère dira.</lex>
+      <lex lang="eu" lid="Id2">Aleksandre Gurulik FC Karpaty Lviv eta AS Lyon-Duchere taldeetan jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">Os antigos clubs de Aleksandre Guruli inclúen o FC Karpaty Lviv e o AS Lyon-Duchère.</lex>
+      <lex lang="gl" lid="Id2">Aleksandre Guruli xoga no FC Karpaty Lviv e no AS Lyon-Duchere.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
+        <otriple>Aleksandre_Guruli | clubs | FC_Dinamo_Batumi</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | FC_Karpaty_Lviv</mtriple>
+        <mtriple>Aleksandre_Guruli | club | FC_Dinamo_Batumi</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alexander_Guruli | Club | FK_Karpaty_Lviv</striple>
+        <striple>Alexander_Guruli | Club | Dinamo_Batumi</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandre_Guruli | Trèvols | FC_Karpaty_Lviv</ctriple>
+        <ctriple>Aleksandre_Guruli | Trèvols | SK_Dinamo_Batumi</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Karpaty_Lviv</gtriple>
+        <gtriple>Aleksandre_Guruli | Trevos | FC_Dinamo_Batumi</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandre_Guruli | Klub | FC_Karpaty_Lviv</btriple>
+        <btriple>Aleksandre_Guruli | Klub | FC_Dinamo_Batumi</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandre Guruli played for FC Karpaty Lviv and FC Dinamo Batumi.</lex>
+      <lex lang="en" lid="Id2">Aleksandre Guruli's club is FC Karpaty Lviv and he also played for FC Dinamo Batumi.</lex>
+      <lex lang="en" lid="Id3">Aleksandre Guruli plays for FC Karpaty Lviv club and FC Dinamo Batumi.</lex>
+      <lex lang="es" lid="Id1">Aleksandre Guruli jugó en el FC Karpaty Lviv y en el FC Dinamo Batumi.</lex>
+      <lex lang="es" lid="Id2">El club de Aleksandre Guruli es el FC Karpaty Lviv y también jugó en el FC Dinamo Batumi.</lex>
+      <lex lang="es" lid="Id3">Aleksandre Guruli juega en el club FC Karpaty Lviv y en el FC Dinamo Batumi.</lex>
+      <lex lang="ca" lid="Id1">Aleksandre Guruli va jugar pel FC Karpaty Lviv i el FC Dinamo Batumi.</lex>
+      <lex lang="ca" lid="Id2">El club d'Aleksandre Guruli és el FC Karpaty Lviv i també va jugar per al FC Dinamo Batumi.</lex>
+      <lex lang="ca" lid="Id3">Aleksandre Guruli juga pel club FC Karpaty Lviv i el FC Dinamo Batumi.</lex>
+      <lex lang="eu" lid="Id1">Aleksandre Gurulik FC Karpaty Lviv eta FC Dinamo Batumin jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Aleksandre Guruliren kluba FC Karpaty Lviv da eta FC Dinamo Batumiko taldean ere jokatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Aleksandre Gurulik FC Karpaty Lviv klubean eta FC Dinamo Batumin jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">Aleksandre Guruli xogou no FC Karpaty Lviv e no FC Dinamo Batumi.</lex>
+      <lex lang="gl" lid="Id2">O club de Aleksandre Guruli é o FC Karpaty Lviv e tamén xogou para o FC Dinamo Batumi.</lex>
+      <lex lang="gl" lid="Id3">Aleksandre Guruli xoga para o club FC Karpaty Lviv e FC Dinamo Batumi.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
+        <otriple>Alessio_Romagnoli | position | Defender_(association_football)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
+        <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alessio_Romagnoli | Club | A.C._Milán</striple>
+        <striple>Alessio_Romagnoli | Posición | Defensa_(fútbol)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alessio_Romagnoli | Trèvols | A.C._Milan</ctriple>
+        <ctriple>Alessio_Romagnoli | Posició | Defensor_(futbol)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alessio_Romagnoli | Trevos | A.C._Milan</gtriple>
+        <gtriple>Alessio_Romagnoli | Posición | Defensor_(fútbol)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alessio_Romagnoli | Klub | A.C._Milan</btriple>
+        <btriple>Alessio_Romagnoli | Posizioa | Defendatzailea_(futbola)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alessio Romagnoli is a defender for A.C. Milan football club.</lex>
+      <lex lang="en" lid="Id2">Footballer Alessio Romagnoli plays for A.C. Milan as a Defender.</lex>
+      <lex lang="en" lid="Id3">Alessio Romagnoli was a defender in his club AC Milan.</lex>
+      <lex lang="es" lid="Id1">Alessio Romagnoli es defensa del club de fútbol A.C. Milan.</lex>
+      <lex lang="es" lid="Id2">El futbolista Alessio Romagnoli juega en el A.C. Milan como Defensor.</lex>
+      <lex lang="es" lid="Id3">Alessio Romagnoli era defensa en su club, el AC Milan.</lex>
+      <lex lang="ca" lid="Id1">Alessio Romagnoli és un defensa del club de futbol A.C. Milan.</lex>
+      <lex lang="ca" lid="Id2">El futbolista Alessio Romagnoli juga per l'AC Milan com a defensor.</lex>
+      <lex lang="ca" lid="Id3">Alessio Romagnoli va ser defensor al seu club AC Milan.</lex>
+      <lex lang="eu" lid="Id1">Alessio Romagnoli A.C. Milan futbol taldeko defendatzailea da.</lex>
+      <lex lang="eu" lid="Id2">Alessio Romagnoli futbolariak A.C. Milanen jokatzen du, atzelari gisa.</lex>
+      <lex lang="eu" lid="Id3">Alessio Romagnoli AC Milan taldeko atzelaria izan zen.</lex>
+      <lex lang="gl" lid="Id1">Alessio Romagnoli é un defensa do club de fútbol A.C. Milan.</lex>
+      <lex lang="gl" lid="Id2">O futbolista Alessio Romagnoli xoga para o A.C. Milan como Defensor.</lex>
+      <lex lang="gl" lid="Id3">Alessio Romagnoli foi un defensa no seu club AC Milan.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | youthclubs | A.S._Roma</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | youthclub | A.S._Roma</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alessio_Romagnoli | ClubJuvenil | A.S._Roma</striple>
+        <striple>A.S._Roma | Liga | Serie_A</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alessio_Romagnoli | ClubJuvenil | A.S._Roma</ctriple>
+        <ctriple>A.S._Roma | Lliga | Lliga_italiana_de_futbol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alessio_Romagnoli | ClubDeMocidade | A.S._Roma</gtriple>
+        <gtriple>A.S._Roma | LigaunitDescriptionInLists | Serie_A</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alessio_Romagnoli | GazteentzakoKluba | A.S._Erromatarra</btriple>
+        <btriple>A.S._Erromatarra | LigaBatDa. | Serie_A</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AS Roma play in the Serie A league and Alessio Romagnoli played for their youth team.</lex>
+      <lex lang="en" lid="Id2">A.S. Roma play in Serie A and Alessio Romagnoli plays for the club's youth team.</lex>
+      <lex lang="en" lid="Id3">A.S. Roma plays in the Serie A and Alessio Romagnoli played in their youth team.</lex>
+      <lex lang="es" lid="Id1">El AS Roma juega en la Serie A y Alessio Romagnoli jugó en su equipo juvenil.</lex>
+      <lex lang="es" lid="Id2">El A.S. Roma milita en la Serie A y Alessio Romagnoli juega en el equipo juvenil del club.</lex>
+      <lex lang="es" lid="Id3">El A.S. Roma juega en la Serie A y Alessio Romagnoli jugó en su equipo juvenil.</lex>
+      <lex lang="ca" lid="Id1">L'AS Roma juga a la lliga Serie A i Alessio Romagnoli va jugar pel seu equip juvenil.</lex>
+      <lex lang="ca" lid="Id2">L'AS Roma juga a la Sèrie A i Alessio Romagnoli juga per a l'equip juvenil del club.</lex>
+      <lex lang="ca" lid="Id3">L'A.S. Roma juga a la Serie A i Alessio Romagnoli va jugar al seu equip juvenil.</lex>
+      <lex lang="eu" lid="Id1">AS Romak Serie A ligan jokatzen du eta Alessio Romagnolik bere gaztetako taldean jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">A.S. Romak Serie An jokatzen du eta Alessio Romagnolik klubaren gazte taldean jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">A.S. Romak Serie An jokatzen du eta Alessio Romagnolik bere gaztetako taldean jokatu zuen.</lex>
+      <lex lang="gl" lid="Id1">AS Roma xoga na Serie A e Alessio Romagnoli xogou para o seu equipo xuvenil.</lex>
+      <lex lang="gl" lid="Id2">O A.S. Roma xoga na Serie A e Alessio Romagnoli xoga para o equipo xuvenil do club.</lex>
+      <lex lang="gl" lid="Id3">A.S. Roma xoga na Serie A e Alessio Romagnoli xogou no seu equipo xuvenil.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Plante | birthYear | "1989"^^xsd:gYear</otriple>
+        <otriple>Alex_Plante | placeOfBirth | Manitoba</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Plante | birthYear | 1989</mtriple>
+        <mtriple>Alex_Plante | birthPlace | Manitoba</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Plante | AñoDeNacimiento | 1989</striple>
+        <striple>Alex_Plante | LugarDeNacimiento | Manitoba</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alex_Plante | AnyDeNaixement | 1989</ctriple>
+        <ctriple>Alex_Plante | LlocDeNaixement | Manitoba</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alex_Plante | AnoDeNacemento | 1989</gtriple>
+        <gtriple>Alex_Plante | LugarDeNacemento | Manitobacanada._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alex_Plante_naiz. | JaiotzaUrtea | 1989</btriple>
+        <btriple>Alex_Plante_naiz. | JaiotzeLekua | Manitoba</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alex Plante was born in 1989 in Manitoba.</lex>
+      <lex lang="en" lid="Id2">Alex Plante was born in Manitoba in 1989.</lex>
+      <lex lang="es" lid="Id1">Alex Plante nació en 1989 en Manitoba.</lex>
+      <lex lang="es" lid="Id2">Alex Plante nació en Manitoba en 1989.</lex>
+      <lex lang="ca" lid="Id1">Alex Plante va néixer el 1989 a Manitoba.</lex>
+      <lex lang="ca" lid="Id2">Alex Plante va néixer a Manitoba el 1989.</lex>
+      <lex lang="eu" lid="Id1">Alex Plante 1989an jaio zen Manitoban.</lex>
+      <lex lang="eu" lid="Id2">Alex Plante Manitoban jaio zen 1989an.</lex>
+      <lex lang="gl" lid="Id1">Alex Plante naceu en 1989 en Manitoba.</lex>
+      <lex lang="gl" lid="Id2">Alex Plante naceu en Manitoba en 1989.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
+        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Tyus | Club | Pallacanestro_Cantù</striple>
+        <striple>Alex_Tyus | FechaDeNacimiento | 08-01-1988</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alex_Tyus | Trèvols | Pallacanestro_Cantù</ctriple>
+        <ctriple>Alex_Tyus | DataDeNaixement | 1988-01-08</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alex_Tyus | Trevos | Pallacanestro_Cantù</gtriple>
+        <gtriple>Alex_Tyus | DataDeNacemento | 1988-01-08</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alex_Tyus | Klub | Pallacanestro_Cantù</btriple>
+        <btriple>Alex_Tyus | JaiotzeData | 1988-01-08</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alex Tyus was born on the 8th January 1988 and plays for the club Pallacanestro Cantu.</lex>
+      <lex lang="en" lid="Id2">Born on January 8th 1988, Alex Tyus plays for the club Pallacanestro Cantu.</lex>
+      <lex lang="en" lid="Id3">Alex Tyus was born on the 8th January 1988 and his club is Pallacanestro Cantu.</lex>
+      <lex lang="es" lid="Id1">Alex Tyus nació el 8 de enero de 1988 y juega en el club Pallacanestro Cantu.</lex>
+      <lex lang="es" lid="Id2">Nacido el 8 de enero de 1988, Alex Tyus juega en el club Pallacanestro Cantu.</lex>
+      <lex lang="es" lid="Id3">Alex Tyus nació el 8 de enero de 1988 y su club es el Pallacanestro Cantu.</lex>
+      <lex lang="ca" lid="Id1">Alex Tyus va néixer el 8 de gener de 1988 i juga pel club Pallacanestro Cantu.</lex>
+      <lex lang="ca" lid="Id2">Nascut el 8 de gener de 1988, Alex Tyus juga pel club Pallacanestro Cantu.</lex>
+      <lex lang="ca" lid="Id3">Alex Tyus va néixer el 8 de gener de 1988 i el seu club és el Pallacanestro Cantu.</lex>
+      <lex lang="eu" lid="Id1">Alex Tyus 1988ko urtarrilaren 8an jaio zen eta Pallacanestro Cantu klubean jokatzen du.</lex>
+      <lex lang="eu" lid="Id2">1988ko urtarrilaren 8an jaioa, Alex Tyus Pallacanestro Cantu taldean jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Alex Tyus 1988ko urtarrilaren 8an jaio zen eta bere kluba Pallacanestro Cantu da.</lex>
+      <lex lang="gl" lid="Id1">Alex Tyus naceu o 8 de xaneiro de 1988 e xoga para o club Pallacanestro Cantu.</lex>
+      <lex lang="gl" lid="Id2">Nacido o 8 de xaneiro de 1988, Alex Tyus xoga no club Pallacanestro Cantu.</lex>
+      <lex lang="gl" lid="Id3">Alex Tyus naceu o 8 de xaneiro de 1988 e o seu club é o Pallacanestro Cantu.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Canada | language | English_language</otriple>
+        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | language | English_language</mtriple>
+        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Canadá | Idioma | inglés</striple>
+        <striple>Aaron_Boogaard | LugarDeNacimiento | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Canadà | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Aaron_Boogaard | LlocDeNaixement | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Canadá | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Aaron_Boogaard | LugarDeNacemento | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Kanariar_uharteak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Aaron_Boogaard | JaiotzeLekua | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Canada uses the spoken language of English and is the birthplace of Aaron Boogaard.</lex>
+      <lex lang="en" lid="Id2">Canada uses the English language and is the birthplace of Aaron Boogaard.</lex>
+      <lex lang="en" lid="Id3">Aaron Boogaard was born in Canada, where the English language is spoken.</lex>
+      <lex lang="es" lid="Id1">Canadá utiliza la lengua hablada inglesa y es el lugar de nacimiento de Aaron Boogaard.</lex>
+      <lex lang="es" lid="Id2">Canadá utiliza la lengua inglesa y es el lugar de nacimiento de Aaron Boogaard.</lex>
+      <lex lang="es" lid="Id3">Aaron Boogaard nació en Canadá, donde se habla inglés.</lex>
+      <lex lang="ca" lid="Id1">Canadà utilitza la llengua parlada de l'anglès i és el lloc de naixement d'Aaron Boogaard.</lex>
+      <lex lang="ca" lid="Id2">El Canadà utilitza la llengua anglesa i és el lloc de naixement d'Aaron Boogaard.</lex>
+      <lex lang="ca" lid="Id3">Aaron Boogaard va néixer al Canadà, on es parla l'anglès.</lex>
+      <lex lang="eu" lid="Id1">Kanadak ingelesez mintzatzen du eta Aaron Boogaard-en jaioterria da.</lex>
+      <lex lang="eu" lid="Id2">Kanadak ingelesa erabiltzen du eta Aaron Boogaarden jaioterria da.</lex>
+      <lex lang="eu" lid="Id3">Aaron Boogaard Kanadan jaio zen, non ingelesa mintzatzen den.</lex>
+      <lex lang="gl" lid="Id1">Canadá usa a lingua falada do inglés e é o lugar de nacemento de Aaron Boogaard.</lex>
+      <lex lang="gl" lid="Id2">Canadá usa a lingua inglesa e é o lugar de nacemento de Aaron Boogaard.</lex>
+      <lex lang="gl" lid="Id3">Aaron Boogaard naceu en Canadá, onde se fala inglés.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Canada | language | English_language</otriple>
+        <otriple>Adam_McQuaid | placeOfBirth | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | language | English_language</mtriple>
+        <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Canadá | Idioma | inglés</striple>
+        <striple>Adam_McQuaid | LugarDeNacimiento | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Canadà | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Adam_McQuaid | LlocDeNaixement | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Canadá | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Adam_McQuaid | LugarDeNacemento | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Kanariar_uharteak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Adam_McQuaid | JaiotzeLekua | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adam McQuaid was born in Canada where the English language is spoken.</lex>
+      <lex lang="en" lid="Id2">The English language is spoken in Canada which is the birthplace of Adam McQuaid.</lex>
+      <lex lang="es" lid="Id1">Adam McQuaid nació en Canadá, donde se habla inglés.</lex>
+      <lex lang="es" lid="Id2">La lengua inglesa se habla en Canadá, país natal de Adam McQuaid.</lex>
+      <lex lang="ca" lid="Id1">Adam McQuaid va néixer al Canadà, on es parla l'anglès.</lex>
+      <lex lang="ca" lid="Id2">L'anglès es parla al Canadà, que és el lloc de naixement d'Adam McQuaid.</lex>
+      <lex lang="eu" lid="Id1">Adam McQuaid Kanadan jaio zen, ingelesa hitz egiten den lekuan.</lex>
+      <lex lang="eu" lid="Id2">Ingelesa Kanadan hitz egiten da, Adam McQuaiden jaioterrian.</lex>
+      <lex lang="gl" lid="Id1">Adam McQuaid naceu en Canadá, onde se fala inglés.</lex>
+      <lex lang="gl" lid="Id2">A lingua inglesa fálase en Canadá, que é o lugar de nacemento de Adam McQuaid.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Hull_City_A.F.C. | manager | Steve_Bruce</otriple>
+        <otriple>Abel_Hernández | team | Hull_City_A.F.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hull_City_A.F.C. | manager | Steve_Bruce</mtriple>
+        <mtriple>Abel_Hernández | club | Hull_City_A.F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hull_City_Association_Football_Club | Director | Steve_Bruce</striple>
+        <striple>Abel_Hernández | Club | Hull_City_Association_Football_Club</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hull_City_AFC | Gerent | Steve_Bruce</ctriple>
+        <ctriple>Abel_Mathías_Hernández_Platero | Trèvols | Hull_City_AFC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hull_City_A.F.C._(en_inglés). | Xestor | Steve_Bruce</gtriple>
+        <gtriple>Abel_Hernández | Trevos | Hull_City_A.F.C._(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hull_Cityko_futbol_taldea. | Kudeatzailea | Steve_Bruce</btriple>
+        <btriple>Abel_Hernández | Klub | Hull_Cityko_futbol_taldea.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abel Hernandez plays for Hull City AFC who are managed by Steve Bruce.</lex>
+      <lex lang="en" lid="Id2">Abel Hernandez plays for Hull City AFC where the manager is Steve Bruce.</lex>
+      <lex lang="en" lid="Id3">Steve Bruce is the manager of Hull City AFC, where one of the players is Abel Hernández.</lex>
+      <lex lang="es" lid="Id1">Abel Hernández juega en el Hull City AFC dirigido por Steve Bruce.</lex>
+      <lex lang="es" lid="Id2">Abel Hernández juega en el Hull City AFC, cuyo entrenador es Steve Bruce.</lex>
+      <lex lang="es" lid="Id3">Steve Bruce es el entrenador del Hull City AFC, donde uno de los jugadores es Abel Hernández.</lex>
+      <lex lang="ca" lid="Id1">Abel Hernandez juga per Hull City AFC que són dirigits per Steve Bruce.</lex>
+      <lex lang="ca" lid="Id2">Abel Hernandez juga pel Hull City AFC on l'entrenador és Steve Bruce.</lex>
+      <lex lang="ca" lid="Id3">Steve Bruce és l'entrenador del Hull City AFC, on un dels jugadors és Abel Hernández.</lex>
+      <lex lang="eu" lid="Id1">Abel Hernandez Hull City AFC taldean jokatzen du eta Steve Bruce da entrenatzailea.</lex>
+      <lex lang="eu" lid="Id2">Abel Hernandez Hull City AFC taldean jokatzen du eta Steve Bruce da entrenatzailea.</lex>
+      <lex lang="eu" lid="Id3">Steve Bruce Hull City AFCko zuzendaria da, non jokalarietako bat Abel Hernández da.</lex>
+      <lex lang="gl" lid="Id1">Abel Hernández xoga para o Hull City AFC que son dirixidos por Steve Bruce.</lex>
+      <lex lang="gl" lid="Id2">Abel Hernández xoga para o Hull City AFC onde o adestrador é Steve Bruce.</lex>
+      <lex lang="gl" lid="Id3">Steve Bruce é o adestrador do Hull City AFC, onde un dos xogadores é Abel Hernández.</lex>
+      </entry>
+    </entries>
+  </benchmark>

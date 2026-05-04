@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id1" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
+        <otriple>Akeem_Dent | formerTeam | Houston_Texans</otriple>
+        <otriple>Houston_Texans | locationCity | Houston</otriple>
+        <otriple>Atlanta_Falcons | owner | Arthur_Blank</otriple>
+        <otriple>Atlanta_Falcons | city | Atlanta</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
+        <mtriple>Akeem_Dent | formerTeam | Houston_Texans</mtriple>
+        <mtriple>Houston_Texans | city | Houston</mtriple>
+        <mtriple>Atlanta_Falcons | owner | Arthur_Blank</mtriple>
+        <mtriple>Atlanta_Falcons | city | Atlanta</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</striple>
+        <striple>Akeem_Dent | AntiguoEquipo | Houston_Texans</striple>
+        <striple>Houston_Texans | Ciudad | Houston</striple>
+        <striple>Atlanta_Falcons | Propietario | Arthur_Blank</striple>
+        <striple>Atlanta_Falcons | Ciudad | Atlanta</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akeem_Dent | DebutDeL'equip | Atlanta_Falcons</ctriple>
+        <ctriple>Akeem_Dent | AnticEquip | Houston_Texans</ctriple>
+        <ctriple>Houston_Texans | Ciutat | Houston</ctriple>
+        <ctriple>Atlanta_Falcons | Propietari | Arthur_Blank</ctriple>
+        <ctriple>Atlanta_Falcons | Ciutat | Atlanta</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akeem_Dent | EquipoDebutante | Atlanta_Falcons</gtriple>
+        <gtriple>Akeem_Dent | AntigoEquipo | Houston_Texans</gtriple>
+        <gtriple>Houston_Texans | Cidade | Houston_.</gtriple>
+        <gtriple>Atlanta_Falcons | Propietario | Arthur_Blank</gtriple>
+        <gtriple>Atlanta_Falcons | Cidade | Atlantausa._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akeem_Dent | DebutTaldea | Atlanta_Falcons_taldea</btriple>
+        <btriple>Akeem_Dent | TaldeOhia | Houston_Texasko_hiri_bat_da.</btriple>
+        <btriple>Houston_Texasko_hiri_bat_da. | Hiria | Houston</btriple>
+        <btriple>Atlanta_Falcons_taldea | Jabea. | Arthur_Blank</btriple>
+        <btriple>Atlanta_Falcons_taldea | Hiria | Atlantan_dago.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Dent made his debut with the Atlanta Falcons who play in Atlanta and are owned by Arthur Blank. He used to play in Houston for the Houston Texans.</lex>
+      <lex lang="en" lid="Id2">Akeem Dent's debut team was the Atlanta Falcons in Atlanta and whose team owner is Arthur Blank. He also played for Houston Texans out of Houston.</lex>
+      <lex lang="en" lid="Id3">The Atlanta Falcons of Atlanta was Akeem Dent's debut team. They are owned by Arthur Blank. Mr. Dent also played with the Houston Texans out of Houston.</lex>
+      <lex lang="es" lid="Id1">Akeem Dent debutó con los Atlanta Falcons, que juegan en Atlanta y son propiedad de Arthur Blank. Antes jugaba en Houston con los Houston Texans.</lex>
+      <lex lang="es" lid="Id2">El equipo con el que debutó Akeem Dent fueron los Atlanta Falcons de Atlanta y cuyo propietario es Arthur Blank. También jugó en los Houston Texans de Houston.</lex>
+      <lex lang="es" lid="Id3">Los Atlanta Falcons de Atlanta fueron el equipo de debut de Akeem Dent. Son propiedad de Arthur Blank. El Sr. Dent también jugó con los Houston Texans de Houston.</lex>
+      <lex lang="ca" lid="Id1">Akeem Dent va fer el seu debut amb els Atlanta Falcons que juguen a Atlanta i són propietat d'Arthur Blank. Va jugar a Houston pels Houston Texans.</lex>
+      <lex lang="ca" lid="Id2">L'equip de debut d'Akeem Dent va ser els Atlanta Falcons d'Atlanta i el propietari de l'equip és Arthur Blank. També va jugar pels Houston Texans fora de Houston.</lex>
+      <lex lang="ca" lid="Id3">Els Atlanta Falcons d'Atlanta van ser l'equip de debut d'Akeem Dent. Són propietat d'Arthur Blank. El Sr. Dent també va jugar amb els Houston Texans fora de Houston.</lex>
+      <lex lang="eu" lid="Id1">Akeem Dentek Atlanta Falcons taldean egin zuen debuta, Atlantan jokatzen dutena eta Arthur Blanken jabetzakoa. Houstonen jokatzen zuen Houston Texans taldean.</lex>
+      <lex lang="eu" lid="Id2">Akeem Denten lehen taldea Atlanta Falcons izan zen, Atlantan, eta taldearen jabea Arthur Blank da. Houston Texansen ere jokatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Atlantako Atlanta Falcons izan zen Akeem Dent-en lehen taldea. Arthur Blank-en jabetzakoak dira. Dent jaunak Houston Texans-ekin ere jokatu zuen Houstonetik kanpo.</lex>
+      <lex lang="gl" lid="Id1">Akeem Dent fixo o seu debut cos Atlanta Falcons que xogan en Atlanta e son propiedade de Arthur Blank. Xogaba en Houston para os Houston Texans.</lex>
+      <lex lang="gl" lid="Id2">O equipo de estrea de Akeem Dent foron os Atlanta Falcons en Atlanta e o propietario do equipo é Arthur Blank. Tamén xogou para os Houston Texans de Houston.</lex>
+      <lex lang="gl" lid="Id3">Os Atlanta Falcons de Atlanta foron o primeiro equipo de Akeem Dent. Son propiedade de Arthur Blank. O Sr. Dent tamén xogou cos Houston Texans de Houston.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</otriple>
+        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
+        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
+        <otriple>Alaa_Abdul-Zahra | team | Al_Kharaitiyat_SC</otriple>
+        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</mtriple>
+        <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
+        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
+        <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Al-Kharitiyath_SC | Liga | Liga_de_fútbol_de_Catar</striple>
+        <striple>Al-Kharitiyath_SC | Suelo | Jor</striple>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Club_Shabab_Al-Ordon</striple>
+        <striple>Alaa_Abdul-Zahra_Khashan | Club | Al-Kharitiyath_SC</striple>
+        <striple>Al-Kharitiyath_SC | Director | Amar_Osim</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Al_Kharaitiyat_SC | Lliga | Lliga_qatariana_de_futbol</ctriple>
+        <ctriple>Al_Kharaitiyat_SC | Terra | Al_Khor_(municipi)</ctriple>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Shabab_Al_Ordon_Al_Qadisiya</ctriple>
+        <ctriple>Alaa_Abdul-Zahra | Trèvols | Al_Kharaitiyat_SC</ctriple>
+        <ctriple>Al_Kharaitiyat_SC | Gerent | Amar_Osim</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Al_Kharaitiyat_SC | LigaunitDescriptionInLists | Liga_de_Estrelas_de_Qatar</gtriple>
+        <gtriple>Al_Kharaitiyat_SC | Terra | Al_Khor</gtriple>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Club_Shabab_Al-Ordon</gtriple>
+        <gtriple>Alaa_Abdul-Zahra | Trevos | Al_Kharaitiyat_SC</gtriple>
+        <gtriple>Al_Kharaitiyat_SC | Xestor | Amar_Osim</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Al_Kharaitiyat_SC | LigaBatDa. | Qatar_Stars_Liga</btriple>
+        <btriple>Al_Kharaitiyat_SC | Lurra | Al_Khor</btriple>
+        <btriple>Alaa_Abdul-Zahra | Klub | Shabab_Al-Ordon_Kluba</btriple>
+        <btriple>Alaa_Abdul-Zahra | Klub | Al_Kharaitiyat_SC</btriple>
+        <btriple>Al_Kharaitiyat_SC | Kudeatzailea | Amar_Osim</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alaa Abdul-Zahra's plays for the Shabab Al-Ordon Club and the AL Kharaitiyat SC. Al Kharaitiyat SC (home ground Al Khor) play in the Qatar Stars League and is managed by Amar Osim.</lex>
+      <lex lang="en" lid="Id2">Alaa Abdul-Zahra's clubs are Shabab Al-Ordon Club and Al Kharaitiyat SC. The latter team have their ground at Al Khor, are managed by Amar Osim and play in the Qatar Stars League.</lex>
+      <lex lang="en" lid="Id3">Alaa Abdul Zahra's club is Shabab Al-Ordon and he also plays for Al Kharaitiyat SC. This latter club plays in the Qatar Stars league, is located in Al Khor and is managed by Amar Osim.</lex>
+      <lex lang="es" lid="Id1">Alaa Abdul-Zahra juega en el Shabab Al-Ordon Club y en el AL Kharaitiyat SC. El Al Kharaitiyat SC (campo del Al Khor) juega en la Qatar Stars League y está dirigido por Amar Osim.</lex>
+      <lex lang="es" lid="Id2">Los clubes de Alaa Abdul-Zahra son el Shabab Al-Ordon Club y el Al Kharaitiyat SC. Este último tiene su campo en Al Khor, está dirigido por Amar Osim y juega en la Qatar Stars League.</lex>
+      <lex lang="es" lid="Id3">El club de Alaa Abdul Zahra es el Shabab Al-Ordon y también juega en el Al Kharaitiyat SC. Este último club juega en la liga Qatar Stars, está situado en Al Khor y lo dirige Amar Osim.</lex>
+      <lex lang="ca" lid="Id1">Alaa Abdul-Zahra juga pel Shabab Al-Ordon Club i l'AL Kharaitiyat SC.Al Kharaitiyat SC (camp de joc d'Al Khor) juga a la Qatar Stars League i és dirigit per Amar Osim.</lex>
+      <lex lang="ca" lid="Id2">Els clubs d'Alaa Abdul-Zahra són el Shabab Al-Ordon Club i l'Al Kharaitiyat SC. Aquest últim equip té el seu estadi a Al Khor, és dirigit per Amar Osim i juga a la Qatar Stars League.</lex>
+      <lex lang="ca" lid="Id3">El club d'Alaa Abdul Zahra és Shabab Al-Ordon i també juga per Al Kharaitiyat SC. Aquest últim club juga a la lliga Qatar Stars, està situat a Al Khor i està dirigit per Amar Osim.</lex>
+      <lex lang="eu" lid="Id1">Alaa Abdul-Zahra-k Shabab Al-Ordon Club eta AL Kharaitiyat SC taldeetan jokatzen du. Al Kharaitiyat SC-k (Al Khor-en etxean jokatzen du) Qatar Stars League-an jokatzen du eta Amar Osim-ek entrenatzen du.</lex>
+      <lex lang="eu" lid="Id2">Alaa Abdul-Zahra-ren klubak Shabab Al-Ordon Club eta Al Kharaitiyat SC dira. Azken talde horrek Al Khor-en dauka zelaia, Amar Osim-ek kudeatzen du eta Qatar Stars League-n jokatzen du.</lex>
+      <lex lang="eu" lid="Id3">Alaa Abdul Zahra-ren kluba Shabab Al-Ordon da eta Al Kharaitiyat SC-n ere jokatzen du. Azken klub horrek Qatar Stars ligan jokatzen du, Al Khor-en dago eta Amar Osim-ek kudeatzen du.</lex>
+      <lex lang="gl" lid="Id1">Alaa Abdul-Zahra xoga para o Shabab Al-Ordon Club e o AL Kharaitiyat SC. Al Kharaitiyat SC (campo de Al Khor) xoga na Qatar Stars League e é dirixido por Amar Osim.</lex>
+      <lex lang="gl" lid="Id2">Os clubs de Alaa Abdul-Zahra son o Shabab Al-Ordon Club e o Al Kharaitiyat SC. Este último equipo ten o seu campo en Al Khor, é dirixido por Amar Osim e xoga na Qatar Stars League.</lex>
+      <lex lang="gl" lid="Id3">O club de Alaa Abdul Zahra é o Shabab Al-Ordon e tamén xoga para o Al Kharaitiyat SC. Este último club xoga na liga Qatar Stars, está situado en Al Khor e está dirixido por Amar Osim.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Valentina_Matviyenko</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leader | Valentina_Matviyenko</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leader | Valentina_Matviyenko</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Chumakov | LugarDeLaMuerte | Rusia</striple>
+        <striple>Rusia | Líder | Valentina_Matviyenko</striple>
+        <striple>Aleksandr_Chumakov | Club | FC_Torpedo_Moscú</striple>
+        <striple>Aleksandr_Chumakov | Club | Selección_de_fútbol_de_la_Unión_Soviética</striple>
+        <striple>FC_Torpedo_Moscú | Director | Valeriy_Petrakov</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Chumakov | LlocDeLaMort | Rússia</ctriple>
+        <ctriple>Rússia | Líder | Valentina_Matvienko</ctriple>
+        <ctriple>Aleksandr_Chumakov | Trèvols | FC_Torpedo_Moscou</ctriple>
+        <ctriple>Aleksandr_Chumakov | Trèvols | Equip_nacional_de_futbol_de_la_Unió_Soviètica</ctriple>
+        <ctriple>FC_Torpedo_Moscou | Gerent | Valeri_Petrakov</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Chumakov | LugarDaMorte | Rusia</gtriple>
+        <gtriple>Rusia | Líder | Valentina_Matviyenko</gtriple>
+        <gtriple>Aleksandr_Chumakov | Trevos | FC_Torpedo_Moscova</gtriple>
+        <gtriple>Aleksandr_Chumakov | Trevos | Selección_de_fútbol_da_Unión_Soviética</gtriple>
+        <gtriple>FC_Torpedo_Moscova | Xestor | Valery_Petrakov</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Chumakov | HeriotzarenLekua | Errusia</btriple>
+        <btriple>Errusia | Buruzagia. | Valentina_Matviyenko</btriple>
+        <btriple>Aleksandr_Chumakov | Klub | FC_Torpedo_Mosku</btriple>
+        <btriple>Aleksandr_Chumakov | Klub | Sobietar_Batasuneko_futbol-talde_nazionala</btriple>
+        <btriple>FC_Torpedo_Mosku | Kudeatzailea | Valeri_Petrakov.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Chumakov, who died in Russia, belonged to FC Torpedo Moscow and the Soviet Union national football team. FC Torpedo is managed by Valery Petrakov. Valentina Matviyenko is a Russian leader.</lex>
+      <lex lang="en" lid="Id2">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Valentina Matviyenko. FC Torpedo Moscow, managed by Valery Petrakov, once signed Aleksandr Chumakov.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Chumakov died in Russia where Valentina Matviyenko is a leader. He belongs to the Soviet Union national football team and has played for FC Torpedo Moscow under the manager Valery Petrakov.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Chumakov, fallecido en Rusia, perteneció al FC Torpedo de Moscú y a la selección nacional de fútbol de la Unión Soviética. El FC Torpedo está dirigido por Valery Petrakov. Valentina Matviyenko es una dirigente rusa.</lex>
+      <lex lang="es" lid="Id2">El ex futbolista internacional de la Unión Soviética Aleksandr Chumakov murió en Rusia, donde la dirigente es Valentina Matviyenko. El FC Torpedo de Moscú, dirigido por Valery Petrakov, fichó en su día a Aleksandr Chumakov.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Chumakov murió en Rusia, donde es dirigente Valentina Matviyenko. Pertenece a la selección nacional de fútbol de la Unión Soviética y ha jugado en el FC Torpedo de Moscú bajo las órdenes del entrenador Valery Petrakov.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Chumakov, que va morir a Rússia, va pertànyer al FC Torpedo Moscou i a l'equip nacional de futbol de la Unió Soviètica. El FC Torpedo està dirigit per Valery Petrakov. Valentina Matviyenko és una líder russa.</lex>
+      <lex lang="ca" lid="Id2">L'exfutbolista internacional de la Unió Soviètica Aleksandr Chumakov va morir a Rússia, on el líder és Valentina Matviyenko. FC Torpedo Moscou, dirigit per Valery Petrakov, va signar una vegada Aleksandr Chumakov.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Chumakov va morir a Rússia, on Valentina Matviyenko és una líder. Pertany a l'equip nacional de futbol de la Unió Soviètica i ha jugat per al FC Torpedo Moscou sota l'entrenador Valery Petrakov.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Chumakov, Errusian hil zena, FC Torpedo Moskuko eta Sobietar Batasuneko futbol selekzio nazionaleko kidea zen. FC Torpedo Valery Petrakovek zuzentzen du. Valentina Matviyenko errusiar buruzagia da.</lex>
+      <lex lang="eu" lid="Id2">Sobietar Batasuneko futbolari ohia Aleksandr Chumakov Errusian hil zen, non Valentina Matviyenko da liderra. FC Torpedo Mosku, Valery Petrakovek zuzendua, behin Aleksandr Chumakov sinatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Chumakov Errusian hil zen, non Valentina Matviyenko liderra den. Sobietar Batasuneko futbol selekzio nazionaleko kidea da eta FC Torpedo Moskun jokatu du Valery Petrakov entrenatzailearen pean.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Chumakov, que faleceu en Rusia, pertencía ao FC Torpedo Moscova e ao equipo nacional de fútbol da Unión Soviética. O FC Torpedo está dirixido por Valery Petrakov. Valentina Matviyenko é unha dirixente rusa.</lex>
+      <lex lang="gl" lid="Id2">O antigo futbolista internacional da Unión Soviética Aleksandr Chumakov morreu en Rusia, onde a líder é Valentina Matviyenko. O FC Torpedo Moscova, dirixido por Valery Petrakov, firmou unha vez con Aleksandr Chumakov.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Chumakov morreu en Rusia, onde Valentina Matviyenko é unha líder. Pertence á selección nacional de fútbol da Unión Soviética e xogou para o FC Torpedo Moscova baixo o adestrador Valery Petrakov.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
+        <otriple>FC_Terek_Grozny | ground | Grozny</otriple>
+        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
+        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
+        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
+        <mtriple>FC_Terek_Grozny | ground | Grozny</mtriple>
+        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
+        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandr_Prudnikov | Club | FC_Amkar_Perm</striple>
+        <striple>FC_Terek_Grozny | Suelo | Grozni</striple>
+        <striple>Aleksandr_Prudnikov | ClubJuvenil | FC_Spartak_de_Moscú</striple>
+        <striple>Aleksandr_Prudnikov | Club | FC_Terek_Grozny</striple>
+        <striple>FC_Terek_Grozny | Director | Rashid_Rajímov</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aleksandr_Prudnikov | Trèvols | FK_Amkar_Perm</ctriple>
+        <ctriple>FC_Terek_Grozny | Terra | Grozni</ctriple>
+        <ctriple>Aleksandr_Prudnikov | ClubJuvenil | FC_Spartak_Moscou</ctriple>
+        <ctriple>Aleksandr_Prudnikov | Trèvols | FC_Terek_Grozny</ctriple>
+        <ctriple>FC_Terek_Grozny | Gerent | Rashid_Rakhimov</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aleksandr_Prudnikov | Trevos | FC_Amkar_Perm</gtriple>
+        <gtriple>FC_Terek_Grozny | Terra | Grozny</gtriple>
+        <gtriple>Aleksandr_Prudnikov | ClubDeMocidade | FC_Spartak_Moscova</gtriple>
+        <gtriple>Aleksandr_Prudnikov | Trevos | FC_Terek_Grozny</gtriple>
+        <gtriple>FC_Terek_Grozny | Xestor | Rashid_Rakhimov</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aleksandr_Prudnikov | Klub | FC_Amkar_Perm</btriple>
+        <btriple>FC_Terek_Grozny | Lurra | Grozny</btriple>
+        <btriple>Aleksandr_Prudnikov | GazteentzakoKluba | FC_Spartak_Mosku</btriple>
+        <btriple>Aleksandr_Prudnikov | Klub | FC_Terek_Grozny</btriple>
+        <btriple>FC_Terek_Grozny | Kudeatzailea | Rashid_Rakhimov,_zure_izena_da.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Prudnikov is an associate of the youth side of FC Spartak Moscow. He plays for the Amkar Perm football club and the Terek Grozny FC which is managed by Rashid Rakhimov. The latter football club is in Grozny.</lex>
+      <lex lang="en" lid="Id2">Aleksandr Prudnikov once played for FC Spartak Moscow's youth team. He plays with the FC Amkar Perm and the FC Terek Grozny which is managed by Rashid Rakhimov and has its home territory in Grozny.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Prudnikov, who represented FC Spartak Moscow at youth level, later played for Grozny based FC Terek Grozny - managed by Rashid Rakhimov - and FC Amkar Perm football club.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Prudnikov pertenece a las categorías inferiores del FC Spartak de Moscú. Juega en el club de fútbol Amkar Perm y en el Terek Grozny FC, dirigido por Rashid Rajimov. Este último club de fútbol se encuentra en Grozny.</lex>
+      <lex lang="es" lid="Id2">Aleksandr Prudnikov jugó una vez en el equipo juvenil del FC Spartak de Moscú. Juega en el FC Amkar Perm y en el FC Terek Grozny, dirigido por Rashid Rakhimov y con sede en Grozny.</lex>
+      <lex lang="es" lid="Id3">Aleksandr Prudnikov, que representó al FC Spartak de Moscú en las categorías inferiores, jugó posteriormente en el FC Terek Grozny de Grozny -dirigido por Rashid Rajimov- y en el FC Amkar Perm.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Prudnikov és un associat del costat juvenil del FC Spartak Moscow. Juga amb el club de futbol Amkar Perm i amb el Terek Grozny FC, que està dirigit per Rashid Rakhimov. Aquest últim club de futbol es troba a Grozny.</lex>
+      <lex lang="ca" lid="Id2">Aleksandr Prudnikov una vegada va jugar per l'equip juvenil del FC Spartak Moscou. Juga amb el FC Amkar Perm i el FC Terek Grozny, que és dirigit per Rashid Rakhimov i té la seva seu a Grozny.</lex>
+      <lex lang="ca" lid="Id3">Aleksandr Prudnikov, que va representar el FC Spartak Moscou a nivell juvenil, més tard va jugar per al FC Terek Grozny de Grozny - dirigit per Rashid Rakhimov - i el club de futbol FC Amkar Perm.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Prudnikov FC Spartak Moskuko gazte taldearen kidea da. Amkar Perm futbol taldean eta Rashid Rakhimovek zuzentzen duen Terek Grozny FC taldean jokatzen du. Azken hau Groznyko futbol taldea da.</lex>
+      <lex lang="eu" lid="Id2">Aleksandr Prudnikov-ek FC Spartak Mosku-ko gazte-taldean jokatu zuen behin. FC Amkar Perm-ekin eta FC Terek Grozny-rekin jokatzen du, zeina Rashid Rakhimov-ek kudeatzen duen eta Grozny-n du egoitza.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Prudnikovek, FC Spartak Mosku ordezkatu zuen gaztetxoen mailan, geroago Groznyko FC Terek Grozny-n jokatu zuen - Rashid Rakhimov-ek zuzendua - eta FC Amkar Perm futbol klubean.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Prudnikov é un asociado do equipo xuvenil do FC Spartak Moscova. Xoga para o club de fútbol Amkar Perm e o Terek Grozny FC que é dirixido por Rashid Rakhimov. Este último club de fútbol está en Grozny.</lex>
+      <lex lang="gl" lid="Id2">Aleksandr Prudnikov xogou no equipo xuvenil do FC Spartak Moscova. Xoga no FC Amkar Perm e no FC Terek Grozny, que é dirixido por Rashid Rakhimov e ten a súa sede en Grozny.</lex>
+      <lex lang="gl" lid="Id3">Aleksandr Prudnikov, que representou ao FC Spartak Moscova a nivel xuvenil, máis tarde xogou para o FC Terek Grozny con sede en Grozny - xestionado por Rashid Rakhimov - e o club de fútbol FC Amkar Perm.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | team | A.C._Milan</otriple>
+        <otriple>A.C._Milan | league | Serie_A</otriple>
+        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
+        <otriple>A.C._Milan | chairman | Silvio_Berlusconi</otriple>
+        <otriple>Alessio_Romagnoli | clubs | "→ Sampdoria"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
+        <mtriple>A.C._Milan | league | Serie_A</mtriple>
+        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
+        <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
+        <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alessio_Romagnoli | Club | A.C._Milán</striple>
+        <striple>A.C._Milán | Liga | Serie_A</striple>
+        <striple>A.C._Milán | Director | Siniša_Mihajlović</striple>
+        <striple>A.C._Milán | Presidente | Silvio_Berlusconi</striple>
+        <striple>Alessio_Romagnoli | Club | U.C._Sampdoria</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alessio_Romagnoli | Trèvols | A.C._Milan</ctriple>
+        <ctriple>A.C._Milan | Lliga | Lliga_italiana_de_futbol</ctriple>
+        <ctriple>A.C._Milan | Gerent | Siniša_Mihajlović</ctriple>
+        <ctriple>A.C._Milan | President | Berlusca</ctriple>
+        <ctriple>Alessio_Romagnoli | Trèvols | UC_Sampdoria</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alessio_Romagnoli | Trevos | A.C._Milan</gtriple>
+        <gtriple>A.C._Milan | LigaunitDescriptionInLists | Serie_A</gtriple>
+        <gtriple>A.C._Milan | Xestor | Siniša_Mihajlović</gtriple>
+        <gtriple>A.C._Milan | Presidente | Silvio_Berlusconi</gtriple>
+        <gtriple>Alessio_Romagnoli | Trevos | U.C._Sampdoria</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alessio_Romagnoli | Klub | A.C._Milan</btriple>
+        <btriple>A.C._Milan | LigaBatDa. | Serie_A</btriple>
+        <btriple>A.C._Milan | Kudeatzailea | Siniša_Mihajlović</btriple>
+        <btriple>A.C._Milan | Chairman | Silvio_Berlusconi</btriple>
+        <btriple>Alessio_Romagnoli | Klub | U.C._Sampdoria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alessio Romagnoli is connected to UC Sampdoria and plays for the club A.C. Milan. AC Milan, which is in Serie A league, is managed by Siniša Mihajlović and chaired by, Silvio Berlusconi.</lex>
+      <lex lang="en" lid="Id2">Alessio Romagnoli has played for UC Sampdoria and more recently for Serie A side AC Milan, which is managed by Siniša Mihajlović and has the chairman Silvio Berlusconi.</lex>
+      <lex lang="en" lid="Id3">Alessio Romagnoli is connected to UC Sampdoria and also plays for the AC Milan who are in the Serie A league. AC Milan is managed by Sinisa Mihajlovic and chaired by Silvio Berlusconi.</lex>
+      <lex lang="es" lid="Id1">Alessio Romagnoli está vinculado a la UC Sampdoria y juega en el club A.C. Milan. El AC Milan, que milita en la Serie A, está dirigido por Siniša Mihajlović y presidido por Silvio Berlusconi.</lex>
+      <lex lang="es" lid="Id2">Alessio Romagnoli ha jugado en la Sampdoria UC y, más recientemente, en el AC Milan de la Serie A, que dirige Siniša Mihajlović y preside Silvio Berlusconi.</lex>
+      <lex lang="es" lid="Id3">Alessio Romagnoli está vinculado a la UC Sampdoria y también juega en el AC Milan, que milita en la Serie A. El AC Milan está dirigido por Sinisa Mihajlovic y presidido por Silvio Berlusconi.</lex>
+      <lex lang="ca" lid="Id1">Alessio Romagnoli està connectat a UC Sampdoria i juga pel club AC Milan. AC Milan, que està a la lliga Serie A, és dirigit per Siniša Mihajlović i presidit per Silvio Berlusconi.</lex>
+      <lex lang="ca" lid="Id2">Alessio Romagnoli ha jugat per l'UC Sampdoria i més recentment per l'AC Milan de la Serie A, que està dirigida per Siniša Mihajlović i té el president Silvio Berlusconi.</lex>
+      <lex lang="ca" lid="Id3">Alessio Romagnoli està connectat amb l'UC Sampdoria i també juga per l'AC Milan que estan a la lliga de la Serie A. L'AC Milan és dirigit per Sinisa Mihajlovic i presidit per Silvio Berlusconi.</lex>
+      <lex lang="eu" lid="Id1">Alessio Romagnoli UC Sampdoriarekin lotuta dago eta A.C. Milan klubean jokatzen du. Serie A ligako AC Milan-a Siniša Mihajlovic-ek zuzentzen du eta Silvio Berlusconi da presidentea.</lex>
+      <lex lang="eu" lid="Id2">Alessio Romagnolik UC Sampdorian jokatu du eta azken aldian Serie Ako AC Milan taldean, Siniša Mihajlovićek zuzendua eta Silvio Berlusconi presidentea duena.</lex>
+      <lex lang="eu" lid="Id3">Milango AC (italieraz: AC Milan) Italiako Milan hirian egoitza duen futbol talde profesionala da, Serie A ligan jokatzen duena, Silvio Berlusconi presidentea eta Sinisa Mihajlovic entrenatzailea dituelarik.</lex>
+      <lex lang="gl" lid="Id1">Alessio Romagnoli está vinculado ao UC Sampdoria e xoga para o club AC Milan. O AC Milan, que compite na Serie A, está dirixido por Siniša Mihajlović e presidido por Silvio Berlusconi.</lex>
+      <lex lang="gl" lid="Id2">Alessio Romagnoli xogou para o UC Sampdoria e máis recentemente para o AC Milan da Serie A, que está dirixido por Siniša Mihajlović e ten o presidente Silvio Berlusconi.</lex>
+      <lex lang="gl" lid="Id3">Alessio Romagnoli está ligado á UC Sampdoria e tamén xoga para o AC Milan que están na liga Serie A. O AC Milan está dirixido por Sinisa Mihajlovic e presidido por Silvio Berlusconi.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alessio_Romagnoli | currentclub | A.C._Milan</otriple>
+        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
+        <otriple>A.C._Milan | chairman | Silvio_Berlusconi</otriple>
+        <otriple>Alessio_Romagnoli | team | Italy_national_under-17_football_team</otriple>
+        <otriple>Alessio_Romagnoli | clubs | "→ Sampdoria"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alessio_Romagnoli | currentclub | A.C._Milan</mtriple>
+        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
+        <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
+        <mtriple>Alessio_Romagnoli | club | Italy_national_under-17_football_team</mtriple>
+        <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alessio_Romagnoli | ClubActual | A.C._Milán</striple>
+        <striple>A.C._Milán | Director | Siniša_Mihajlović</striple>
+        <striple>A.C._Milán | Presidente | Silvio_Berlusconi</striple>
+        <striple>Alessio_Romagnoli | Club | selección_de_fútbol_sub-17_de_Italia</striple>
+        <striple>Alessio_Romagnoli | Club | U.C._Sampdoria</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alessio_Romagnoli | Currentclub | A.C._Milan</ctriple>
+        <ctriple>A.C._Milan | Gerent | Siniša_Mihajlović</ctriple>
+        <ctriple>A.C._Milan | President | Berlusca</ctriple>
+        <ctriple>Alessio_Romagnoli | Trèvols | Itàlia_sub-17</ctriple>
+        <ctriple>Alessio_Romagnoli | Trèvols | UC_Sampdoria</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alessio_Romagnoli | Actualclub | A.C._Milan</gtriple>
+        <gtriple>A.C._Milan | Xestor | Siniša_Mihajlović</gtriple>
+        <gtriple>A.C._Milan | Presidente | Silvio_Berlusconi</gtriple>
+        <gtriple>Alessio_Romagnoli | Trevos | Selección_nacional_de_fútbol_sub-17_de_Italia</gtriple>
+        <gtriple>Alessio_Romagnoli | Trevos | U.C._Sampdoria</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alessio_Romagnoli | GaurEgungoKluba. | A.C._Milan</btriple>
+        <btriple>A.C._Milan | Kudeatzailea | Siniša_Mihajlović</btriple>
+        <btriple>A.C._Milan | Chairman | Silvio_Berlusconi</btriple>
+        <btriple>Alessio_Romagnoli | Klub | Italiako_17_urtez_azpiko_futbol-taldea</btriple>
+        <btriple>Alessio_Romagnoli | Klub | U.C._Sampdoria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alessio Romagnoli belongs to A.C. Milan and plays for U.C. Sampdoria and Italy's national under-17 football team. A C Milan is managed by Siniša Mihajlović and includes chairman Silvio Berlusconi.</lex>
+      <lex lang="en" lid="Id2">Alessio Romagnoli is a member of the Italian national under 17 football team and has represented the club U.C. Sampdoria. He is presently with the AC Milan that is managed by Siniša Mihajlović and whose chairman is Silvio Berlusconi.</lex>
+      <lex lang="es" lid="Id1">Alessio Romagnoli pertenece al A.C. Milan y juega en la U.C. Sampdoria y en la selección nacional de fútbol sub-17 de Italia. El A C Milan está dirigido por Siniša Mihajlović y cuenta con el presidente Silvio Berlusconi.</lex>
+      <lex lang="es" lid="Id2">Alessio Romagnoli es miembro de la selección italiana de fútbol sub 17 y ha representado al club U.C. Sampdoria. Actualmente milita en el AC Milan, dirigido por Siniša Mihajlović y presidido por Silvio Berlusconi.</lex>
+      <lex lang="ca" lid="Id1">Alessio Romagnoli pertany a l'AC Milan i juga amb la U.C. Sampdoria i l'equip nacional de futbol sub-17 d'Itàlia. L'AC Milan està dirigit per Siniša Mihajlović i inclou el president Silvio Berlusconi.</lex>
+      <lex lang="ca" lid="Id2">Alessio Romagnoli és membre de l'equip nacional italià de futbol sub-17 i ha representat el club U.C. Sampdoria. Actualment està amb l'AC Milan, que és dirigit per Siniša Mihajlović i el president del qual és Silvio Berlusconi.</lex>
+      <lex lang="eu" lid="Id1">Alessio Romagnoli (Milan, Italia, 1990eko urtarrilaren 16a) italiar futbolaria da, Milango AC taldean jokatzen duena. Siniša Mihajlović da Milango AC taldearen entrenatzailea, eta Silvio Berlusconi da presidentea.</lex>
+      <lex lang="eu" lid="Id2">Alessio Romagnoli Italiako 17 urtez azpiko futbol-talde nazionaleko kidea da eta U.C. Sampdoria kluba ordezkatu du. Gaur egun, Siniša Mihajlović-ek zuzentzen duen eta Silvio Berlusconi presidentea duen AC Milanen dago.</lex>
+      <lex lang="gl" lid="Id1">Alessio Romagnoli pertence ao A. C. Milan e xoga para o U. C. Sampdoria e a selección nacional de fútbol sub- 17 de Italia. O A. C. Milan está dirixido por Siniša Mihajlović e inclúe ao presidente Silvio Berlusconi.</lex>
+      <lex lang="gl" lid="Id2">Alessio Romagnoli é membro da selección italiana de fútbol sub- 17 e representou ao club U. C. Sampdoria. Actualmente está co AC Milan que está dirixido por Siniša Mihajlović e cuxo presidente é Silvio Berlusconi.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>FC_Terek_Grozny | ground | Grozny</otriple>
+        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
+        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
+        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | FC_Dynamo_Moscow</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Terek_Grozny | ground | Grozny</mtriple>
+        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
+        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
+        <mtriple>Aleksandr_Prudnikov | club | FC_Dynamo_Moscow</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>FC_Terek_Grozny | Suelo | Grozni</striple>
+        <striple>Aleksandr_Prudnikov | ClubJuvenil | FC_Spartak_de_Moscú</striple>
+        <striple>Aleksandr_Prudnikov | Club | FC_Terek_Grozny</striple>
+        <striple>FC_Terek_Grozny | Director | Rashid_Rajímov</striple>
+        <striple>Aleksandr_Prudnikov | Club | FC_Dinamo_Moscú</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>FC_Terek_Grozny | Terra | Grozni</ctriple>
+        <ctriple>Aleksandr_Prudnikov | ClubJuvenil | FC_Spartak_Moscou</ctriple>
+        <ctriple>Aleksandr_Prudnikov | Trèvols | FC_Terek_Grozny</ctriple>
+        <ctriple>FC_Terek_Grozny | Gerent | Rashid_Rakhimov</ctriple>
+        <ctriple>Aleksandr_Prudnikov | Trèvols | FC_Dinamo_Moscou</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>FC_Terek_Grozny | Terra | Grozny</gtriple>
+        <gtriple>Aleksandr_Prudnikov | ClubDeMocidade | FC_Spartak_Moscova</gtriple>
+        <gtriple>Aleksandr_Prudnikov | Trevos | FC_Terek_Grozny</gtriple>
+        <gtriple>FC_Terek_Grozny | Xestor | Rashid_Rakhimov</gtriple>
+        <gtriple>Aleksandr_Prudnikov | Trevos | FC_Dinamo_Moscova</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>FC_Terek_Grozny | Lurra | Grozny</btriple>
+        <btriple>Aleksandr_Prudnikov | GazteentzakoKluba | FC_Spartak_Mosku</btriple>
+        <btriple>Aleksandr_Prudnikov | Klub | FC_Terek_Grozny</btriple>
+        <btriple>FC_Terek_Grozny | Kudeatzailea | Rashid_Rakhimov,_zure_izena_da.</btriple>
+        <btriple>Aleksandr_Prudnikov | Klub | FC_Dynamo_Mosku</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aleksandr Prudnikov played for FC Spartak Moscow's youth team and later for FC Dynamo Moscow. He has also been signed to Grozy based FC Terek Grozny, who are managed by Rashid Rakhimov.</lex>
+      <lex lang="en" lid="Id2">Aleksandr Prudnikov once played for FC Spartak Moscow's youth team but now plays for the FC Dynamo Moscow and the FC Terek Grozny out of Grozny. The FC Terek Grozny sees a manager in Rashid Rakhimov.</lex>
+      <lex lang="en" lid="Id3">Aleksandr Prudnikov's club is FC Dynamo Moscow although he previously played for FC Spartak Moscow's youth team. He is currently in the Grozny based FC Terek Grozny club under their manager, Rashid Rakhimov.</lex>
+      <lex lang="es" lid="Id1">Aleksandr Prudnikov jugó en el equipo juvenil del FC Spartak de Moscú y posteriormente en el FC Dynamo de Moscú. También ha fichado por el FC Terek Grozny de Grozy, dirigido por Rashid Rakhimov.</lex>
+      <lex lang="es" lid="Id2">Aleksandr Prudnikov jugó en el equipo juvenil del FC Spartak de Moscú, pero ahora milita en el FC Dynamo de Moscú y en el FC Terek Grozny de Grozny. El FC Terek Grozny tiene como entrenador a Rashid Rakhimov.</lex>
+      <lex lang="es" lid="Id3">El club de Aleksandr Prudnikov es el FC Dynamo de Moscú, aunque anteriormente jugó en el equipo juvenil del FC Spartak de Moscú. Actualmente milita en el club FC Terek Grozny, con sede en Grozny, bajo las órdenes de su entrenador, Rashid Rakhimov.</lex>
+      <lex lang="ca" lid="Id1">Aleksandr Prudnikov va jugar amb l'equip juvenil del FC Spartak Moscou i més tard amb el FC Dynamo Moscou. També ha estat fitxat pel FC Terek Grozny, dirigit per Rashid Rakhimov.</lex>
+      <lex lang="ca" lid="Id2">Aleksandr Prudnikov va jugar un cop amb l'equip juvenil del FC Spartak Moscow, però ara juga amb el FC Dynamo Moscow i el FC Terek Grozny de Grozny. El FC Terek Grozny té un entrenador anomenat Rashid Rakhimov.</lex>
+      <lex lang="ca" lid="Id3">El club d'Aleksandr Prudnikov és el FC Dynamo Moscou, tot i que anteriorment va jugar a l'equip juvenil del FC Spartak Moscou. Actualment està al club FC Terek Grozny, amb seu a Grozny, sota la direcció del seu entrenador, Rashid Rakhimov.</lex>
+      <lex lang="eu" lid="Id1">Aleksandr Prudnikov-ek FC Spartak Mosku-ko gazte-taldean jokatu zuen eta, geroago, FC Dynamo Mosku-koan. Halaber, Grozy-n egoitza duen FC Terek Grozny-rako sinatu du, Rashid Rakhimov-en gidaritzapean.</lex>
+      <lex lang="eu" lid="Id2">Aleksandr Prudnikov-ek FC Spartak Mosku-ko gazte-taldean jokatu zuen behin, baina orain FC Dynamo Mosku-rako eta FC Terek Grozny-rako jokatzen du, Grozny-tik kanpo. FC Terek Grozny-k Rashid Rakhimov du entrenatzaile.</lex>
+      <lex lang="eu" lid="Id3">Aleksandr Prudnikov-en kluba FC Dynamo Mosku da, nahiz eta aurrez FC Spartak Mosku-ko gazte-taldean jokatu zuen. Gaur egun, Grozny-n egoitza duen FC Terek Grozny-ko klubean dago, Rashid Rakhimov-en gidaritzapean.</lex>
+      <lex lang="gl" lid="Id1">Aleksandr Prudnikov xogou no equipo xuvenil do FC Spartak Moscova e máis tarde no FC Dynamo Moscova. Tamén asinou co FC Terek Grozny, baseado en Grozy, que é dirixido por Rashid Rakhimov.</lex>
+      <lex lang="gl" lid="Id2">Aleksandr Prudnikov xogou no equipo xuvenil do FC Spartak Moscova pero agora xoga para o FC Dynamo Moscova e o FC Terek Grozny de Grozny. O FC Terek Grozny ten como adestrador a Rashid Rakhimov.</lex>
+      <lex lang="gl" lid="Id3">O club de Aleksandr Prudnikov é o FC Dynamo Moscow, aínda que anteriormente xogou no equipo xuvenil do FC Spartak Moscow. Actualmente forma parte do club FC Terek Grozny, con sede en Grozny, baixo as ordes do seu adestrador Rashid Rakhimov.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ferencváros_T.C. | Director | Thomas_Doll</striple>
+        <striple>United_Petrotrin | Suelo | Palo_Seco</striple>
+        <striple>Akeem_Adams | Club | Ferencváros_T.C.</striple>
+        <striple>Ferencváros_T.C. | Presidente | Gábor_Kubatov</striple>
+        <striple>Akeem_Adams | Club | United_Petrotrin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ferencvárosi_TC | Gerent | Thomas_Doll</ctriple>
+        <ctriple>United_Petrotrin | Terra | Palo_Seco</ctriple>
+        <ctriple>Akeem_Adams | Trèvols | Ferencvárosi_TC</ctriple>
+        <ctriple>Ferencvárosi_TC | President | Gábor_Kubatov</ctriple>
+        <ctriple>Akeem_Adams | Trèvols | United_Petrotrin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ferencvárosi_TC | Xestor | Thomas_Doll</gtriple>
+        <gtriple>United_Petrotrin_F.C. | Terra | Palo_Seco</gtriple>
+        <gtriple>Akeem_Adams | Trevos | Ferencvárosi_TC</gtriple>
+        <gtriple>Ferencvárosi_TC | Presidente | Gábor_Kubatov</gtriple>
+        <gtriple>Akeem_Adams | Trevos | United_Petrotrin_F.C.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ferencvárosi_TC | Kudeatzailea | Thomas_Doll</btriple>
+        <btriple>United_Petrotrin_F.C. | Lurra | Palo_Seco</btriple>
+        <btriple>Akeem_Adams_eta_bere_lagunak. | Klub | Ferencvárosi_TC</btriple>
+        <btriple>Ferencvárosi_TC | Chairman | Gábor_Kubatov</btriple>
+        <btriple>Akeem_Adams_eta_bere_lagunak. | Klub | United_Petrotrin_F.C.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Adams' former clubs include United Petrotrin FC, who play at Palo Seco, and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.</lex>
+      <lex lang="en" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club and also Ferencvarosi TC. The latter club, whose ground is Palo Seco, is chaired by Gabor Kubatov and managed by Thomas Doll.</lex>
+      <lex lang="en" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club who have their ground at Palo Seco. He plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov.</lex>
+      <lex lang="es" lid="Id1">Entre los antiguos clubes de Akeem Adams figuran el United Petrotrin FC, que juega en Palo Seco, y el Ferencvarosi TC, donde Thomas Doll es el entrenador y Gabor Kubatov el presidente.</lex>
+      <lex lang="es" lid="Id2">Akeem Adams es miembro del club United Petrotrin F.C. y también del Ferencvarosi TC. Este último club, cuyo campo es Palo Seco, está presidido por Gabor Kubatov y dirigido por Thomas Doll.</lex>
+      <lex lang="es" lid="Id3">Akeem Adams es miembro del club United Petrotrin F.C. que tiene su campo en Palo Seco. Juega en el Ferencvarosi TC, dirigido por Thomas Doll y presidido por Gabor Kubatov.</lex>
+      <lex lang="ca" lid="Id1">Els antics clubs d'Akeem Adams inclouen United Petrotrin FC, que juga a Palo Seco, i Ferencvarosi TC, on Thomas Doll és l'entrenador i Gabor Kubatov és el president.</lex>
+      <lex lang="ca" lid="Id2">Akeem Adams és membre del club United Petrotrin F.C. i també del Ferencvarosi TC. Aquest últim club, amb seu a Palo Seco, està presidit per Gabor Kubatov i dirigit per Thomas Doll.</lex>
+      <lex lang="ca" lid="Id3">Akeem Adams és membre del club United Petrotrin F.C. que té el seu estadi a Palo Seco. Juga pel Ferencvarosi TC que és dirigit per Thomas Doll i presidit per Gabor Kubatov.</lex>
+      <lex lang="eu" lid="Id1">Akeem Adams-en klub ohiak honako hauek dira: United Petrotrin FC, Palo Secon jokatzen duena, eta Ferencvarosi TC, Thomas Doll entrenatzailea eta Gabor Kubatov presidentea dituena.</lex>
+      <lex lang="eu" lid="Id2">United Petrotrin F.C. eta Ferencvaros TC taldeetako kidea da, azken hau, Palo Seco estadioan jokatzen duena, Gabor Kubatov presidentea eta Thomas Doll zuzendaria duena.</lex>
+      <lex lang="eu" lid="Id3">Akeem Adams Palo Secon dagoen United Petrotrin F.C. taldeko jokalaria da. Thomas Doll-ek entrenatzen duen eta Gabor Kubatov-ek zuzentzen duen Ferencvarosi TC-ko jokalaria da.</lex>
+      <lex lang="gl" lid="Id1">Os antigos clubs de Akeem Adams inclúen o United Petrotrin FC, que xoga no Palo Seco, e o Ferencvarosi TC, onde Thomas Doll é o adestrador e Gabor Kubatov é o presidente.</lex>
+      <lex lang="gl" lid="Id2">Akeem Adams é membro do club United Petrotrin F.C. e tamén do Ferencvarosi TC. Este último club, cuxo campo é Palo Seco, está presidido por Gabor Kubatov e xestionado por Thomas Doll.</lex>
+      <lex lang="gl" lid="Id3">Akeem Adams é membro do club United Petrotrin F.C., que ten o seu campo en Palo Seco. Xoga para o Ferencvarosi TC, dirixido por Thomas Doll e presidido por Gabor Kubatov.</lex>
+      </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Los_Angeles_Rams | city | Los_Angeles_Memorial_Coliseum</otriple>
+        <otriple>Los_Angeles_Rams | locationCity | Los_Angeles</otriple>
+        <otriple>Akeem_Ayers | formerTeam | Los_Angeles_Rams</otriple>
+        <otriple>Tennessee_Titans | coach | Mike_Mularkey</otriple>
+        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Los_Angeles_Rams | city | Los_Angeles</otriple>
+        <otriple>Akeem_Ayers | formerTeam | Los_Angeles_Rams</otriple>
+        <otriple>Tennessee_Titans | coach | Mike_Mularkey</otriple>
+        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
+        <otriple>Los_Angeles_Rams | locationCity | Los_Angeles_Memorial_Coliseum</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Los_Angeles_Rams | city | Los_Angeles</mtriple>
+        <mtriple>Akeem_Ayers | formerTeam | Los_Angeles_Rams</mtriple>
+        <mtriple>Tennessee_Titans | coach | Mike_Mularkey</mtriple>
+        <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
+        <mtriple>Los_Angeles_Rams | city | Los_Angeles_Memorial_Coliseum</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Los_Angeles_Rams | Ciudad | Los_Ángeles</striple>
+        <striple>Akeem_Ayers | AntiguoEquipo | Los_Angeles_Rams</striple>
+        <striple>Tennessee_Titans | Entrenador | Mike_Mularkey</striple>
+        <striple>Akeem_Ayers | EquipoDebutante | Tennessee_Titans</striple>
+        <striple>Los_Angeles_Rams | Ciudad | Los_Angeles_Memorial_Coliseum</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Los_Angeles_Rams | Ciutat | Los_Angeles</ctriple>
+        <ctriple>Akeem_Ayers | AnticEquip | Los_Angeles_Rams</ctriple>
+        <ctriple>Tennessee_Titans | Entrenador | Mike_Mularkey</ctriple>
+        <ctriple>Akeem_Ayers | DebutDeL'equip | Tennessee_Titans</ctriple>
+        <ctriple>Los_Angeles_Rams | Ciutat | Los_Angeles_Memorial_Coliseum</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Los_Angeles_Rams | Cidade | Los_Ángeles</gtriple>
+        <gtriple>Akeem_Ayers | AntigoEquipo | Los_Angeles_Rams</gtriple>
+        <gtriple>Tennessee_Titans | Entrenador | Mike_Mularkey</gtriple>
+        <gtriple>Akeem_Ayers | EquipoDebutante | Tennessee_Titans</gtriple>
+        <gtriple>Los_Angeles_Rams | Cidade | O_Coliseo_Memorial_de_Los_Ángeles</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Los_Angeles_Rams | Hiria | Los_Angeles</btriple>
+        <btriple>Akeem_Ayers | TaldeOhia | Los_Angeles_Rams</btriple>
+        <btriple>Tennessee_Titans_taldea | Entrenatzailea. | Mike_Mularkey_izan_zen.</btriple>
+        <btriple>Akeem_Ayers | DebutTaldea | Tennessee_Titans_taldea</btriple>
+        <btriple>Los_Angeles_Rams | Hiria | Los_Angeles_Memorial_Coliseum_estadioa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Akeem Ayers' former team was the Los Angeles Rams who are based in LA and play their home matches at the Los Angeles Memorial Coliseum. His debut team were the Tennessee Titans who are coached by Mike Mularkey.</lex>
+      <lex lang="en" lid="Id2">Akeem Ayers debuted with the Tennessee Titans and played with, Los Angeles based, Los Angeles Rams, who play at the Los Angeles Memorial Coliseum. The Titans are coached by Mike Mularkey.</lex>
+      <lex lang="en" lid="Id3">The debut team of Akeem Ayers was the Tennessee Titans (Mike Mularkey coach) and also played for the L.A. based Los Angeles Rams. The LA Memorial Coliseum is the Rams home grounds.</lex>
+      <lex lang="es" lid="Id1">El antiguo equipo de Akeem Ayers eran Los Angeles Rams, que tienen su sede en Los Ángeles y juegan sus partidos como locales en el Los Angeles Memorial Coliseum. Su primer equipo fueron los Tennessee Titans, entrenados por Mike Mularkey.</lex>
+      <lex lang="es" lid="Id2">Akeem Ayers debutó con los Tennessee Titans y jugó con Los Angeles Rams, que juegan en el Los Angeles Memorial Coliseum. Los Titans son entrenados por Mike Mularkey.</lex>
+      <lex lang="es" lid="Id3">El equipo de debut de Akeem Ayers fueron los Tennessee Titans (entrenador Mike Mularkey) y también jugó en Los Angeles Rams, con sede en Los Ángeles. El LA Memorial Coliseum es el campo de los Rams.</lex>
+      <lex lang="ca" lid="Id1">L'antic equip d'Akeem Ayers van ser els Los Angeles Rams, que tenen la seu a Los Angeles i juguen els partits a casa al Los Angeles Memorial Coliseum. El seu primer equip van ser els Tennessee Titans, entrenats per Mike Mularkey.</lex>
+      <lex lang="ca" lid="Id2">Akeem Ayers va debutar amb els Tennessee Titans i va jugar amb els Los Angeles Rams, que juguen al Los Angeles Memorial Coliseum. Els Titans són entrenats per Mike Mularkey.</lex>
+      <lex lang="ca" lid="Id3">L'equip de debut d'Akeem Ayers va ser els Tennessee Titans (amb l'entrenador Mike Mularkey) i també va jugar amb els Los Angeles Rams, amb seu a Los Angeles. El LA Memorial Coliseum és la seu dels Rams.</lex>
+      <lex lang="eu" lid="Id1">Akeem Ayersen lehen taldea Los Angeles Rams izan zen, Los Angelesen egoitza duena eta etxeko partidak Los Angeles Memorial Coliseumen jokatzen dituena. Bere lehen taldea Tennessee Titans izan zen, Mike Mularkeyren gidaritzapean.</lex>
+      <lex lang="eu" lid="Id2">Akeem Ayers-ek Tennessee Titans-ekin egin zuen debuta eta Los Angeles-en egoitza duten Los Angeles Rams-ekin jokatu zuen, Los Angeles Memorial Coliseum-en jokatzen dutenak. Mike Mularkey-k entrenatzen ditu Titans-ak.</lex>
+      <lex lang="eu" lid="Id3">Akeem Ayers-en lehen taldea Tennessee Titans izan zen (Mike Mularkey entrenatzailea), eta Los Angeles Rams-en ere jokatu zuen, L.A.-n. Rams-en etxeko zelaia LA Memorial Coliseum da.</lex>
+      <lex lang="gl" lid="Id1">O equipo anterior de Akeem Ayers foi o Los Angeles Rams, que ten a súa base en Los Angeles e xoga os seus partidos como local no Los Angeles Memorial Coliseum. O seu equipo debut foi o Tennessee Titans, que é adestrado por Mike Mularkey.</lex>
+      <lex lang="gl" lid="Id2">Akeem Ayers debutou cos Tennessee Titans e xogou cos Los Angeles Rams, baseados nos Ánxeles, que xogan no Los Angeles Memorial Coliseum. Os Titans son adestrados por Mike Mularkey.</lex>
+      <lex lang="gl" lid="Id3">O equipo de debut de Akeem Ayers foron os Tennessee Titans (adestrador Mike Mularkey) e tamén xogou para os Los Angeles Rams. O LA Memorial Coliseum é o campo de xogo dos Rams.</lex>
+      </entry>
+    </entries>
+  </benchmark>

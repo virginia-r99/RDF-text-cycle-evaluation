@@ -1,0 +1,1140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
+        <otriple>1634:_The_Baltic_War | author | David_Weber</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II</otriple>
+        <otriple>Ring_of_Fire_II | language | English_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
+        <mtriple>1634:_The_Baltic_War | author | David_Weber</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II</mtriple>
+        <mtriple>Ring_of_Fire_II | language | English_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1634:_La_crisis_bávara | PrecedidoPor | 1634:_Guerra_del_Báltico</striple>
+        <striple>1634:_Guerra_del_Báltico | Autor | David_Weber</striple>
+        <striple>1634:_La_crisis_bávara | SeguidoDe | Anillo_de_fuego_II</striple>
+        <striple>Anillo_de_fuego_II | Idioma | inglés</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>1634:_La_crisi_de_Baviera | PreceditPer | 1634:_La_guerra_del_Bàltic</ctriple>
+        <ctriple>1634:_La_guerra_del_Bàltic | Autor | David_Weber</ctriple>
+        <ctriple>1634:_La_crisi_de_Baviera | SeguitPer | Anell_de_foc_II</ctriple>
+        <ctriple>Anell_de_foc_II | Llengua | Llengua_anglesa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1634:_A_crise_bávara | PrecedidoPor | 1634:_A_guerra_do_Báltico</gtriple>
+        <gtriple>1634:_A_guerra_do_Báltico | Autor | David_Weber</gtriple>
+        <gtriple>1634:_A_crise_bávara | SeguidoPor | Anel_de_Fogo_II</gtriple>
+        <gtriple>Anel_de_Fogo_II | Lingua | Lingua_inglesa</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1634:_Bavariako_krisia | AurretikBy | 1634:_Baltikoko_gerra</btriple>
+        <btriple>1634:_Baltikoko_gerra | Egilea | David_Weber</btriple>
+        <btriple>1634:_Bavariako_krisia | Jarraituta | Suzko_Eraztuna_II.</btriple>
+        <btriple>Suzko_Eraztuna_II. | Hizkuntza | Ingelesa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1634: The Bavarian Crisis was preceded by 1634: The Baltic War (author: David Weber) and followed by Ring of Fire II which is written in English.</lex>
+      <lex lang="en" lid="Id2">1634: The Baltic War, written by David Weber, has two sequels, 1634: The Bavarian Crisis and Ring of Fire II (written in English).</lex>
+      <lex lang="es" lid="Id1">1634: La crisis bávara fue precedida por 1634: La guerra del Báltico (autor: David Weber) y seguida por Ring of Fire II, que está escrita en inglés.</lex>
+      <lex lang="es" lid="Id2">1634: La guerra del Báltico, escrita por David Weber, tiene dos secuelas, 1634: La crisis bávara y Ring of Fire II (escrita en inglés).</lex>
+      <lex lang="ca" lid="Id1">1634: La crisi bavaresa va ser precedida per 1634: La guerra del Bàltic (autor: David Weber) i seguida per Ring of Fire II que està escrita en anglès.</lex>
+      <lex lang="ca" lid="Id2">1634: The Baltic War, escrita per David Weber, té dues seqüeles, 1634: The Bavarian Crisis i Ring of Fire II (escrita en anglès).</lex>
+      <lex lang="eu" lid="Id1">1634: Bavariako Krisiaren aurretik 1634: Baltikoko Gerra (idazlea: David Weber) eta ondoren Ingelesez idatzitako Suzko Eraztun II.a.</lex>
+      <lex lang="eu" lid="Id2">1634: The Baltic War, David Weber-ek idatzia, bi jarraipen ditu: 1634: The Bavarian Crisis eta Ring of Fire II (ingelesez idatzia).</lex>
+      <lex lang="gl" lid="Id1">1634: A crise bávara foi precedida por 1634: The Baltic War (autor: David Weber) e seguida por Ring of Fire II que está escrito en inglés.</lex>
+      <lex lang="gl" lid="Id2">1634: The Baltic War, escrita por David Weber, ten dúas secuelas, 1634: The Bavarian Crisis e Ring of Fire II (escrita en inglés).</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | numberOfPages | "512"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | isbnNumber | "1-4165-2060-0"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1634:_Rebelión_de_los_Carneros | TipoDeMedio | Libro_electrónico</striple>
+        <striple>1634:_Rebelión_de_los_Carneros | NúmeroDePáginas | 512</striple>
+        <striple>1634:_Rebelión_de_los_Carneros | Autor | Virginia_Easley_Demarce</striple>
+        <striple>1634:_Rebelión_de_los_Carneros | NúmeroIsbn | 1-4165-2060-0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>1634:_La_rebel·lió_de_Ram | TipusDeMitjans | Llibre_electrònic</ctriple>
+        <ctriple>1634:_La_rebel·lió_de_Ram | NombreDePàgines | 512</ctriple>
+        <ctriple>1634:_La_rebel·lió_de_Ram | Autor | Virginia_DeMarce</ctriple>
+        <ctriple>1634:_La_rebel·lió_de_Ram | NúmeroIsbn | 1-4165-2060-0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1634:_A_rebelión_de_Ram | TipoDeMedios | Libro_electrónico</gtriple>
+        <gtriple>1634:_A_rebelión_de_Ram | NúmeroDePáxinas | 512</gtriple>
+        <gtriple>1634:_A_rebelión_de_Ram | Autor | Virginia_DeMarce</gtriple>
+        <gtriple>1634:_A_rebelión_de_Ram | NúmeroDeIsbn | 1-4165-2060-0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1634:_Otsoen_matxinada | EuskarriMota | Liburu_elektronikoa</btriple>
+        <btriple>1634:_Otsoen_matxinada | OrrialdeKopurua | 512</btriple>
+        <btriple>1634:_Otsoen_matxinada | Egilea | Virginia_DeMarce</btriple>
+        <btriple>1634:_Otsoen_matxinada | IsbnZenbakia | 1-4165-2060-0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1634: The Ram Rebellion was written by Virginia DeMarce and has 512 pages. It can be found as an ebook and has the ISBN number of 1-4165-2060-0.</lex>
+      <lex lang="en" lid="Id2">The author of the novel 1634 The Ram Rebellions author is Virginia DeMarce, it is 512 pages long (also can be found as an e-book) and has an ISBN number 1-4165-2060-0.</lex>
+      <lex lang="en" lid="Id3">Virginia DeMarce is the author of 1634: The Ram Rebellion, which has 512 pages, the ISBN number 1-4165-2060-0 and is available as an e book.</lex>
+      <lex lang="es" lid="Id1">1634: La Rebelión de los Carneros fue escrito por Virginia DeMarce y tiene 512 páginas. Se puede encontrar como ebook y tiene el número ISBN de 1-4165-2060-0.</lex>
+      <lex lang="es" lid="Id2">La autora de la novela 1634 The Ram Rebellions es Virginia DeMarce, tiene 512 páginas (también se puede encontrar como Libro electrónico) y un número de ISBN 1-4165-2060-0.</lex>
+      <lex lang="es" lid="Id3">Virginia DeMarce es la autora de 1634: La rebelión de los carneros, que tiene 512 páginas, el número de ISBN 1-4165-2060-0 y está disponible como Libro electrónico.</lex>
+      <lex lang="ca" lid="Id1">1634: The Ram Rebellion va ser escrit per Virginia DeMarce i té 512 pàgines. Es pot trobar com a llibre electrònic i té el número ISBN 1-4165-2060-0.</lex>
+      <lex lang="ca" lid="Id2">L'autora de la novel·la 1634 The Ram Rebellions és Virginia DeMarce, té 512 pàgines (també es pot trobar com a llibre electrònic) i té un número ISBN 1-4165-2060-0.</lex>
+      <lex lang="ca" lid="Id3">Virginia DeMarce és l'autora de 1634: The Ram Rebellion, que té 512 pàgines, el número ISBN 1-4165-2060-0 i està disponible com a llibre electrònic.</lex>
+      <lex lang="eu" lid="Id1">1634: The Ram Rebellion Virginia DeMarce-k idatzi zuen eta 512 orrialde ditu. Ebook gisa aurki daiteke eta ISBN 1-4165-2060-0 zenbakia dauka.</lex>
+      <lex lang="eu" lid="Id2">1634 The Ram Rebellions eleberriaren egilea Virginia DeMarce da, 512 orrialde luze ditu (e-book gisa ere aurki daiteke) eta ISBN zenbakia 1-4165-2060-0 du.</lex>
+      <lex lang="eu" lid="Id3">Virginia DeMarce 1634: The Ram Rebellion liburuaren egilea da, 512 orrialde dituena, ISBN 1-4165-2060-0 zenbakia duena eta e-liburu moduan eskuragarri dagoena.</lex>
+      <lex lang="gl" lid="Id1">1634: The Ram Rebellion foi escrito por Virginia DeMarce e ten 512 páxinas. Está dispoñible como libro electrónico e ten o número ISBN 1-4165-2060-0.</lex>
+      <lex lang="gl" lid="Id2">A autora da novela 1634 The Ram Rebellions é Virginia DeMarce, ten 512 páxinas (tamén se pode atopar como un libro electrónico) e ten un número ISBN 1-4165-2060-0.</lex>
+      <lex lang="gl" lid="Id3">Virginia DeMarce é a autora de 1634: The Ram Rebellion, que ten 512 páxinas, ISBN 1-4165-2060-0 e está dispoñible como libro electrónico.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDS_(revista) | País | Reino_Unido</striple>
+        <striple>Reino_Unido | Capital | Londres</striple>
+        <striple>AIDS_(revista) | Editor | Lippincott_Williams_&amp;_Wilkins</striple>
+        <striple>Reino_Unido | Líder | Isabel_II_del_Reino_Unido</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AIDS_(journal) | País | Regne_Unit</ctriple>
+        <ctriple>Regne_Unit | Capital | Londres</ctriple>
+        <ctriple>AIDS_(journal) | Editor | Lippincott_Williams_&amp;_Wilkins</ctriple>
+        <ctriple>Regne_Unit | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Diario_(en_castelán) | País | Reino_Unido</gtriple>
+        <gtriple>Reino_Unido | Capital | Londres</gtriple>
+        <gtriple>Diario_(en_castelán) | Editor | Lippincott_Williams_&amp;_Wilkins</gtriple>
+        <gtriple>Reino_Unido | Líder | Elizabeth_II</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AIDS_(aldizkaria) | Herrialdea | Erresuma_Batua</btriple>
+        <btriple>Erresuma_Batua | Kapitala | Londres</btriple>
+        <btriple>AIDS_(aldizkaria) | Argitaratzailea | Lippincott_Williams_&amp;_Wilkins</btriple>
+        <btriple>Erresuma_Batua | Buruzagia. | Elizabeth_II</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The capital of the country is London and its leader is Elizabeth II.</lex>
+      <lex lang="en" lid="Id2">The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins. The UK is governed by Elizabeth II and its capital is London.</lex>
+      <lex lang="en" lid="Id3">Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, the capital of the UK is London and the head of state is Elizabeth II.</lex>
+      <lex lang="es" lid="Id1">La revista AIDS es publicada por Lippincott, Williams &amp; Wilkins en el Reino Unido. La capital del país es Londres y su dirigente Isabel II.</lex>
+      <lex lang="es" lid="Id2">La revista AIDS fue publicada en el Reino Unido por Lippincott, Williams &amp; Wilkins. El Reino Unido está gobernado por Isabel II y su capital es Londres.</lex>
+      <lex lang="es" lid="Id3">Publicada por Lippincott Williams &amp; Wilkins, la revista sobre el sida se editó en el Reino Unido, cuya capital es Londres y cuya jefa de Estado es Isabel II.</lex>
+      <lex lang="ca" lid="Id1">La revista AIDS és publicada per Lippincott, Williams &amp; Wilkins al Regne Unit. La capital del país és Londres i el seu líder és Elisabet II.</lex>
+      <lex lang="ca" lid="Id2">La revista AIDS va ser publicada al Regne Unit per Lippincott, Williams &amp; Wilkins. El Regne Unit és governat per Elisabet II i la seva capital és Londres.</lex>
+      <lex lang="ca" lid="Id3">Publicat per Lippincott Williams &amp; Wilkins, la revista SIDA es va publicar al Regne Unit, la capital del Regne Unit és Londres i el cap d'estat és Elisabet II.</lex>
+      <lex lang="eu" lid="Id1">AIDS aldizkaria Lippincott, Williams &amp; Wilkins-ek argitaratzen du Erresuma Batuan. Herrialdeko hiriburua Londres da eta Elizabeth II.a da bertako erregina.</lex>
+      <lex lang="eu" lid="Id2">Lippincott, Williams &amp; Wilkins argitaletxeak argitaratu zuen Erresuma Batuan. Erresuma Batua Elisabet II.ak gobernatzen du eta bere hiriburua Londres da.</lex>
+      <lex lang="eu" lid="Id3">Lippincott Williams &amp; Wilkins-ek argitaratua, HIESaren aldizkaria Erresuma Batuan argitaratu zen, Erresuma Batuko hiriburua Londres da eta Estatuaren burua Elizabeth II.a da.</lex>
+      <lex lang="gl" lid="Id1">A revista AIDS é publicada por Lippincott, Williams &amp; Wilkins no Reino Unido. A capital do país é Londres e o seu líder é Isabel II.</lex>
+      <lex lang="gl" lid="Id2">A revista AIDS foi publicada no Reino Unido por Lippincott, Williams &amp; Wilkins. O Reino Unido está gobernado por Isabel II e a súa capital é Londres.</lex>
+      <lex lang="gl" lid="Id3">Publicado por Lippincott Williams &amp; Wilkins, a revista SIDA foi publicada no Reino Unido, a capital do Reino Unido é Londres e o xefe de estado é Isabel II.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | "51969173"</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | "Print"</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | oclcNumber | 51969173</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | isbnNumber | "0-7653-0633-6"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Una_fortaleza_de_hielo_gris | Autor | J._V._Jones</striple>
+        <striple>Una_fortaleza_de_hielo_gris | TipoDeMedio | Print</striple>
+        <striple>Una_fortaleza_de_hielo_gris | NúmeroOclc | 51969173</striple>
+        <striple>Una_fortaleza_de_hielo_gris | NúmeroIsbn | 0-7653-0633-6</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_fortalesa_de_gel_gris | Autor | J._V._Jones</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | TipusDeMitjans | estampa</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | NúmeroOclc | 51969173</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | NúmeroIsbn | 0-7653-0633-6</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Unha_fortaleza_de_xeo_gris | Autor | J._V._Jones</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | TipoDeMedios | Imprimir</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | NúmeroOclc | 51969173</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | NúmeroDeIsbn | 0-7653-0633-6</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Izotz_grisaren_gotorleku_bat | Egilea | J._V._Jones</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | EuskarriMota | Inprimatu</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | OCLCZenbakia | 51969173</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | IsbnZenbakia | 0-7653-0633-6</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and is available in print. The book has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.</lex>
+      <lex lang="en" lid="Id2">The author of A Fortress of Grey Ice, available in print, is J.V. Jones and has an OCLC number of 51969173 and the ISBN number is 0-7653-0633-6.</lex>
+      <lex lang="en" lid="Id3">J.V. Jones authored A Fortress of Grey Ice, made available in print. Its OCLC and ISBN numbers are 51969173 and 0-7653-0633-6 respectively.</lex>
+      <lex lang="es" lid="Id1">A Fortress of Grey Ice fue escrito por J. V. Jones y está disponible en versión impresa. El libro tiene el número ISBN 0-7653-0633-6. También tiene el número OCLC 51969173.</lex>
+      <lex lang="es" lid="Id2">El autor de Una fortaleza de hielo gris, disponible en versión impresa, es J.V. Jones y tiene un número OCLC de 51969173 y el número ISBN es 0-7653-0633-6.</lex>
+      <lex lang="es" lid="Id3">J.V. Jones es autor de Una fortaleza de hielo gris, disponible en versión impresa. Sus números OCLC e ISBN son 51969173 y 0-7653-0633-6 respectivamente.</lex>
+      <lex lang="ca" lid="Id1">A Fortress of Grey Ice va ser escrit per J. V. Jones i està disponible en format imprès. El llibre té el número ISBN 0-7653-0633-6. També té el número OCLC 51969173.</lex>
+      <lex lang="ca" lid="Id2">L'autor de A Fortress of Grey Ice, disponible en impressió, és J.V. Jones i té un número OCLC de 51969173 i el número ISBN és 0-7653-0633-6.</lex>
+      <lex lang="ca" lid="Id3">J. V. Jones és l'autor d'A Fortress of Grey Ice, disponible en versió impresa. Els seus números OCLC i ISBN són 51969173 i 0- 7653- 0633- 6 respectivament.</lex>
+      <lex lang="eu" lid="Id1">A Fortress of Grey Ice J. V. Jones-ek idatzi zuen eta inprimatuta dago. Liburuaren ISBN zenbakia 0-7653-0633-6 da eta OCLC zenbakia 51969173.</lex>
+      <lex lang="eu" lid="Id2">A Fortress of Grey Ice liburuaren egilea J.V. Jones da, 51969173 OCLC zenbakia eta 0-7653-0633-6 ISBN zenbakia dituena.</lex>
+      <lex lang="eu" lid="Id3">J.V. Jonesek A Fortress of Grey Ice liburua idatzi zuen, inprimatua. OCLC eta ISBN zenbakiak 51969173 eta 0-7653-0633-6 dira, hurrenez hurren.</lex>
+      <lex lang="gl" lid="Id1">A Fortress of Grey Ice foi escrita por J. V. Jones e está dispoñible en papel. O libro ten o número ISBN 0-7653-0633-6. Tamén ten o número OCLC 51969173.</lex>
+      <lex lang="gl" lid="Id2">O autor de A Fortress of Grey Ice, dispoñible en impresión, é J.V. Jones e ten un número OCLC de 51969173 e o número ISBN é 0-7653-0633-6.</lex>
+      <lex lang="gl" lid="Id3">J.V. Jones é autor de A Fortress of Grey Ice, dispoñible en impresión. Os seus números OCLC e ISBN son 51969173 e 0-7653-0633-6 respectivamente.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | previousWork | Annie_Dunne</otriple>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_largo_camino | PrecedidoPor | Annie_Dunne</striple>
+        <striple>Un_largo_camino | País | isla_de_Irlanda</striple>
+        <striple>Un_largo_camino | Editor | Viking_Press</striple>
+        <striple>Un_largo_camino | SeguidoDe | La_Escritura_Secreta</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_llarg_llarg_camí | PreceditPer | Annie_Dunne</ctriple>
+        <ctriple>Un_llarg_llarg_camí | País | Irlanda</ctriple>
+        <ctriple>Un_llarg_llarg_camí | Editor | Viking_Press</ctriple>
+        <ctriple>Un_llarg_llarg_camí | SeguitPer | L'Escriptura_Secreta</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_longo_longo_camiño | PrecedidoPor | Annie_Dunne</gtriple>
+        <gtriple>Un_longo_longo_camiño | País | Irlanda</gtriple>
+        <gtriple>Un_longo_longo_camiño | Editor | Viking_Press</gtriple>
+        <gtriple>Un_longo_longo_camiño | SeguidoPor | A_Escritura_Secreta</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bide_luzea. | AurretikBy | Annie_Dunne</btriple>
+        <btriple>Bide_luzea. | Herrialdea | Irlanda</btriple>
+        <btriple>Bide_luzea. | Argitaratzailea | Vitoria-Gasteizko_Udalaren_webgunea</btriple>
+        <btriple>Bide_luzea. | Jarraituta | Eskritura_sekretua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
+      <lex lang="en" lid="Id2">A Long Long Way, written in Ireland and published by Viking Press, was preceded by Annie Dunne, and followed by The Secret Scripture.</lex>
+      <lex lang="en" lid="Id3">A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
+      <lex lang="es" lid="Id1">Publicada por Viking Press, la novela irlandesa A Long Long Way fue precedida por Annie Dunne y seguida por The Secret Scripture.</lex>
+      <lex lang="es" lid="Id2">A Long Long Way, escrita en Irlanda y publicada por Viking Press, fue precedida por Annie Dunne y seguida por The Secret Scripture.</lex>
+      <lex lang="es" lid="Id3">A Long Long Way fue escrito en Irlanda y publicado por Viking Press. Fue precedida por Annie Dunne y seguida por The Secret Scripture.</lex>
+      <lex lang="ca" lid="Id1">Publicada per Viking Press, la novel·la irlandesa A Long Long Way va ser precedida per Annie Dunne i seguida per The Secret Scripture.</lex>
+      <lex lang="ca" lid="Id2">A Long Long Way, escrita a Irlanda i publicada per Viking Press, va ser precedida per Annie Dunne, i seguida per The Secret Scripture.</lex>
+      <lex lang="ca" lid="Id3">A Long Long Way va ser escrit a Irlanda i publicat per Viking Press. Va ser precedit per Annie Dunne i seguit per The Secret Scripture.</lex>
+      <lex lang="eu" lid="Id1">Viking Press-ek argitaratua, A Long Long Way eleberri irlandarra Annie Dunne-k aurreratu zuen eta The Secret Scripture-k jarraitu zuen.</lex>
+      <lex lang="eu" lid="Id2">A Long Long Way, Irlandan idatzia eta Viking Press-ek argitaratua, Annie Dunne-k idatzia izan zen, eta The Secret Scripture-k jarraitu zion.</lex>
+      <lex lang="eu" lid="Id3">A Long Long Way Irlandan idatzi eta Viking Press-ek argitaratu zuen, Annie Dunne-ren aurretik eta The Secret Scripture-ren ondoren.</lex>
+      <lex lang="gl" lid="Id1">Publicado por Viking Press, a novela irlandesa A Long Long Way foi precedida por Annie Dunne e seguida por The Secret Scripture.</lex>
+      <lex lang="gl" lid="Id2">A Long Long Way, escrita en Irlanda e publicada por Viking Press, foi precedida por Annie Dunne, e seguida por The Secret Scripture.</lex>
+      <lex lang="gl" lid="Id3">A Long Long Way foi escrito en Irlanda e publicado por Viking Press. Foi precedido por Annie Dunne e seguido por The Secret Scripture.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | congress | "PS3523.E55 S4 1982"@en</otriple>
+        <otriple>A_Severed_Wasp | mediaType | "Print"@en</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | oclcNumber | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | libraryofCongressClassification | "PS3523.E55 S4 1982"</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
+        <mtriple>A_Severed_Wasp | isbnNumber | "0-374-26131-8"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Una_avispa_cortada | NúmeroOclc | 8805735</striple>
+        <striple>Una_avispa_cortada | ClasificaciónDeLaBibliotecaDelCongreso | PS3523.E55_S4_1982</striple>
+        <striple>Una_avispa_cortada | TipoDeMedio | Print</striple>
+        <striple>Una_avispa_cortada | NúmeroIsbn | 0-374-26131-8</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_vespa_tallada | NúmeroOclc | 8805735</ctriple>
+        <ctriple>Una_vespa_tallada | ClassificacióDeLaBibliotecaDelCongrés | PS3523.E55_S4_1982</ctriple>
+        <ctriple>Una_vespa_tallada | TipusDeMitjans | estampa</ctriple>
+        <ctriple>Una_vespa_tallada | NúmeroIsbn | 0-374-26131-8</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Unha_vespa_cortada | NúmeroOclc | 8805735</gtriple>
+        <gtriple>Unha_vespa_cortada | ClasificaciónDaBibliotecaDoCongreso | PS3523.E55_S4_1982</gtriple>
+        <gtriple>Unha_vespa_cortada | TipoDeMedios | Imprimir</gtriple>
+        <gtriple>Unha_vespa_cortada | NúmeroDeIsbn | 0-374-26131-8</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Zuhaixka_moztua | OCLCZenbakia | 8805735</btriple>
+        <btriple>Zuhaixka_moztua | KongresukoLiburutegiarenSailkapena | PS3523.E55_S4_1982</btriple>
+        <btriple>Zuhaixka_moztua | EuskarriMota | Inprimatu</btriple>
+        <btriple>Zuhaixka_moztua | IsbnZenbakia | 0-374-26131-8</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Severed Wasp is available in print, with The Library of Congress Classification PS3523.E55 S4 1982. Its ISBN number is 0-374-26131-8, and its OCLC number is 8805735.</lex>
+      <lex lang="en" lid="Id2">The Book A Severed Wasp (ISBN number 0-374-26131-8) is available in print and has the OCLC number 8805735. It has the Library of Congress Classification PS3523.E55 S4 1982.</lex>
+      <lex lang="en" lid="Id3">A Severed Wasp is in print and has the OCLC number of 8805735 and the ISBN number 0-374-26131-8. The Library of Congress Classification is PS3523.E55 S4 1982.</lex>
+      <lex lang="es" lid="Id1">A Severed Wasp está disponible en versión impresa, con la Clasificación de la Biblioteca del Congreso PS3523.E55 S4 1982. Su número ISBN es 0-374-26131-8, y su número OCLC es 8805735.</lex>
+      <lex lang="es" lid="Id2">El libro Una avispa cortada (ISBN número 0-374-26131-8) está disponible en versión impresa y tiene el número OCLC 8805735. Tiene la Clasificación de la Biblioteca del Congreso PS3523.E55 S4 1982.</lex>
+      <lex lang="es" lid="Id3">A Severed Wasp está en imprenta y tiene el número OCLC de 8805735 y el número ISBN 0-374-26131-8. La clasificación de la Biblioteca del Congreso es PS3523.E55 S4 1982.</lex>
+      <lex lang="ca" lid="Id1">A Severed Wasp està disponible en impressió, amb The Library of Congress Classification PS3523.E55 S4 1982. El seu número ISBN és 0-374-26131-8, i el seu número OCLC és 8805735.</lex>
+      <lex lang="ca" lid="Id2">El llibre A Severed Wasp (número ISBN 0-374-26131-8) està disponible en versió impresa i té el número OCLC 8805735. Té la classificació de la Biblioteca del Congrés PS3523.E55 S4 1982.</lex>
+      <lex lang="ca" lid="Id3">A Severed Wasp està imprès i té el número OCLC 8805735 i el número ISBN 0-374-26131-8. La classificació de la Biblioteca del Congrés és PS3523.E55 S4 1982.</lex>
+      <lex lang="eu" lid="Id1">A Severed Wasp inprimatuta dago, The Library of Congress Classification PS3523.E55 S4 1982. bere ISBN zenbakia 0-374-26131-8 da, eta bere OCLC zenbakia 8805735.</lex>
+      <lex lang="eu" lid="Id2">A Severed Wasp liburua (ISBN zenbakia 0-374-26131-8) inprimatuta dago eta OCLC zenbakia 8805735 du. Library of Congress Classification PS3523.E55 S4 1982 du.</lex>
+      <lex lang="eu" lid="Id3">A Severed Wasp inprimatuta dago eta 8805735 OCLC zenbakia eta 0-374-26131-8 ISBN zenbakia ditu. Kongresuko Liburutegiaren sailkapena PS3523.E55 S4 1982 da.</lex>
+      <lex lang="gl" lid="Id1">A Severed Wasp está dispoñible en formato impreso coa clasificación PS3523.E55 S4 1982 da Biblioteca do Congreso. O seu número ISBN é 0-374-26131-8 e o seu número OCLC é 8805735.</lex>
+      <lex lang="gl" lid="Id2">O libro A Severed Wasp (ISBN número 0-374-26131-8) está dispoñible en formato impreso e ten o número OCLC 8805735. Ten a clasificación da Biblioteca do Congreso PS3523.E55 S4 1982.</lex>
+      <lex lang="gl" lid="Id3">A Severed Wasp está impresa e ten o número OCLC 8805735 e o número ISBN 0-374-26131-8. A clasificación da Biblioteca do Congreso é PS3523.E55 S4 1982.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Una_avispa_cortada | Idioma | inglés</striple>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Una_avispa_cortada | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_vespa_tallada | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Una_vespa_tallada | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Unha_vespa_cortada | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>Unha_vespa_cortada | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Zuhaixka_moztua | Hizkuntza | Ingelesa</btriple>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>Zuhaixka_moztua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afrikar_amerikarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">English is spoken in Great Britain and is the language used in A Severed Wasp. The book originates from the United States where the African Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">A Severed Wasp was written in English (the language originated in Great Britain) in the United States. The US has many ethnic groups, including African American.</lex>
+      <lex lang="es" lid="Id1">El inglés se habla en Gran Bretaña y es el idioma utilizado en A Severed Wasp. El libro procede de Estados Unidos, donde los afroamericanos son un grupo étnico.</lex>
+      <lex lang="es" lid="Id2">A Severed Wasp se escribió en inglés (lengua originaria de Gran Bretaña) en Estados Unidos. En Estados Unidos hay muchos grupos étnicos, entre ellos los afroamericanos.</lex>
+      <lex lang="ca" lid="Id1">L'anglès es parla a Gran Bretanya i és la llengua utilitzada a A Severed Wasp. El llibre prové dels Estats Units, on els afroamericans són un grup ètnic.</lex>
+      <lex lang="ca" lid="Id2">A Severed Wasp va ser escrita en anglès (la llengua originària de Gran Bretanya) als Estats Units. Els Estats Units tenen molts grups ètnics, incloent-hi afroamericans.</lex>
+      <lex lang="eu" lid="Id1">Ingelesa Britainia Handian mintzatzen da eta A Severed Wasp-en erabiltzen den hizkuntza da. Liburua Estatu Batuetatik dator eta afroamerikarrak talde etniko bat dira bertan.</lex>
+      <lex lang="eu" lid="Id2">A Severed Wasp ingelesez idatzi zen (hizkuntza Britainia Handian sortu zen), Estatu Batuetan. Estatu Batuek talde etniko asko dituzte, afroamerikarrak barne.</lex>
+      <lex lang="gl" lid="Id1">O inglés é falado en Gran Bretaña e é a lingua empregada en A Severed Wasp. O libro ten a súa orixe nos Estados Unidos, onde os afroamericanos son un grupo étnico.</lex>
+      <lex lang="gl" lid="Id2">A Severed Wasp foi escrito en inglés (a lingua orixinaria de Gran Bretaña) nos Estados Unidos. Os Estados Unidos teñen moitos grupos étnicos, incluíndo afroamericanos.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
+        <mtriple>A_Severed_Wasp | oclcNumber | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | isbnNumber | "0-374-26131-8"</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Una_avispa_cortada | NúmeroDePáginas | 388</striple>
+        <striple>Una_avispa_cortada | NúmeroOclc | 8805735</striple>
+        <striple>Una_avispa_cortada | NúmeroIsbn | 0-374-26131-8</striple>
+        <striple>Una_avispa_cortada | TipoDeMedio | cartoné</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Una_vespa_tallada | NombreDePàgines | 388</ctriple>
+        <ctriple>Una_vespa_tallada | NúmeroOclc | 8805735</ctriple>
+        <ctriple>Una_vespa_tallada | NúmeroIsbn | 0-374-26131-8</ctriple>
+        <ctriple>Una_vespa_tallada | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Unha_vespa_cortada | NúmeroDePáxinas | 388</gtriple>
+        <gtriple>Unha_vespa_cortada | NúmeroOclc | 8805735</gtriple>
+        <gtriple>Unha_vespa_cortada | NúmeroDeIsbn | 0-374-26131-8</gtriple>
+        <gtriple>Unha_vespa_cortada | TipoDeMedios | Capa_dura</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Zuhaixka_moztua | OrrialdeKopurua | 388</btriple>
+        <btriple>Zuhaixka_moztua | OCLCZenbakia | 8805735</btriple>
+        <btriple>Zuhaixka_moztua | IsbnZenbakia | 0-374-26131-8</btriple>
+        <btriple>Zuhaixka_moztua | EuskarriMota | Azala_gogorra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Severed Wasp was published in hardback and has 388 pages. The OCLC number of A Severed Wasp is 8805735 and the ISBN number of "0-374-26131-8".</lex>
+      <lex lang="en" lid="Id2">A Severed Wasp, published in hardback, has 388 pages. Its OCLC number is 8805735, and ISBN number is 0-374-26131-8.</lex>
+      <lex lang="en" lid="Id3">A Severed Wasp is a hardcover book with 388 pages. Its OCLC number is 8805735 and the ISBN number is 0-374-26131-8.</lex>
+      <lex lang="es" lid="Id1">A Severed Wasp fue publicado en cartoné y tiene 388 páginas. El número OCLC de A Severed Wasp es 8805735 y el número ISBN "0-374-26131-8".</lex>
+      <lex lang="es" lid="Id2">A Severed Wasp, publicado en cartoné, tiene 388 páginas. Su número OCLC es 8805735, y su número ISBN es 0-374-26131-8.</lex>
+      <lex lang="es" lid="Id3">A Severed Wasp es un libro cartoné con 388 páginas. Su número OCLC es 8805735 y su número ISBN es 0-374-26131-8.</lex>
+      <lex lang="ca" lid="Id1">A Severed Wasp es va publicar en tapa dura i té 388 pàgines. El número OCLC d'A Severed Wasp és 8805735 i el número ISBN de "0-374-26131-8".</lex>
+      <lex lang="ca" lid="Id2">A Severed Wasp, publicat en tapa dura, té 388 pàgines. El seu número OCLC és 8805735, i el número ISBN és 0-374-26131-8.</lex>
+      <lex lang="ca" lid="Id3">A Severed Wasp és un llibre de tapa dura amb 388 pàgines. El seu número OCLC és 8805735 i el número ISBN és 0-374-26131-8.</lex>
+      <lex lang="eu" lid="Id1">A Severed Wasp liburuak 388 orrialde ditu. OCLC zenbakia 8805735 da eta ISBN zenbakia "0-374-26131-8" da.</lex>
+      <lex lang="eu" lid="Id2">A Severed Wasp-ek 388 orrialde ditu eta OCLC 8805735 eta ISBN 0-374-26131-8 zenbakiak ditu.</lex>
+      <lex lang="eu" lid="Id3">A Severed Wasp 388 orrialde ditu. OCLC zenbakia 8805735 da eta ISBN zenbakia 0-374-26131-8 da.</lex>
+      <lex lang="gl" lid="Id1">A A Severed Wasp foi publicada en tapa dura e ten 388 páxinas. O número OCLC de A Severed Wasp é 8805735 e o número ISBN de "0-374-26131-8".</lex>
+      <lex lang="gl" lid="Id2">A Severed Wasp, publicada en tapa dura, ten 388 páxinas. O seu número OCLC é 8805735, e o número ISBN é 0-374-26131-8.</lex>
+      <lex lang="gl" lid="Id3">A Severed Wasp é un libro de tapa dura con 388 páxinas. O seu número OCLC é 8805735 e o número ISBN é 0-374-26131-8.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | "318875313"</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | oclcNumber | 318875313</mtriple>
+        <mtriple>A_Wizard_of_Mars | isbnNumber | "978-0-15-204770-2"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Un_mago_de_Marte | TipoDeMedio | cartoné</striple>
+        <striple>Un_mago_de_Marte | Autor | Diane_Duane</striple>
+        <striple>Un_mago_de_Marte | NúmeroOclc | 318875313</striple>
+        <striple>Un_mago_de_Marte | NúmeroIsbn | 978-0-15-204770-2</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Un_mag_de_Mart | TipusDeMitjans | enquadernació_cartoné</ctriple>
+        <ctriple>Un_mag_de_Mart | Autor | Diane_Duane</ctriple>
+        <ctriple>Un_mag_de_Mart | NúmeroOclc | 318875313</ctriple>
+        <ctriple>Un_mag_de_Mart | NúmeroIsbn | 978-0-15-204770-2</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Un_mago_de_Marte | TipoDeMedios | Capa_dura</gtriple>
+        <gtriple>Un_mago_de_Marte | Autor | Diane_Duane</gtriple>
+        <gtriple>Un_mago_de_Marte | NúmeroOclc | 318875313</gtriple>
+        <gtriple>Un_mago_de_Marte | NúmeroDeIsbn | 978-0-15-204770-2</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Marteko_aztia | EuskarriMota | Azala_gogorra</btriple>
+        <btriple>Marteko_aztia | Egilea | Diane_Duane</btriple>
+        <btriple>Marteko_aztia | OCLCZenbakia | 318875313</btriple>
+        <btriple>Marteko_aztia | IsbnZenbakia | 978-0-15-204770-2</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Wizard of Mars, written by Diane Duane, is available in hardcover, has the ISBN number 978-0-15-204770-2 and the OCLC number 318875313.</lex>
+      <lex lang="en" lid="Id2">A Wizard of Mars, OCLC number 318875313, ISBN number 978-0-15-204770-2, was written by Diane Duane and published in hardback.</lex>
+      <lex lang="en" lid="Id3">A Wizard of Mars, ISBN number is "978-0-15-204770-2", OCLC number 318875313, was written by Diane Duane and published in hardback.</lex>
+      <lex lang="es" lid="Id1">A Wizard of Mars, escrito por Diane Duane, está disponible en cartoné, tiene el número ISBN 978-0-15-204770-2 y el número OCLC 318875313.</lex>
+      <lex lang="es" lid="Id2">A Wizard of Mars, número de OCLC 318875313, número de ISBN 978-0-15-204770-2, fue escrito por Diane Duane y publicado en cartoné.</lex>
+      <lex lang="es" lid="Id3">Un mago de Marte, cuyo número ISBN es "978-0-15-204770-2", número OCLC 318875313, fue escrito por Diane Duane y publicado en cartoné.</lex>
+      <lex lang="ca" lid="Id1">A Wizard of Mars, escrit per Diane Duane, està disponible en tapa dura, té el número ISBN 978-0-15-204770-2 i el número OCLC 318875313.</lex>
+      <lex lang="ca" lid="Id2">A Wizard of Mars, OCLC número 318875313, ISBN número 978-0-15-204770-2, va ser escrit per Diane Duane i publicat en tapa dura.</lex>
+      <lex lang="ca" lid="Id3">A Wizard of Mars, número ISBN "978-0-15-204770-2", número OCLC 318875313, va ser escrit per Diane Duane i publicat en tapa dura.</lex>
+      <lex lang="eu" lid="Id1">A Wizard of Mars, Diane Duane-k idatzia, estalki gogorrean eskuragarri dago, ISBN zenbakia 978-0-15-204770-2 eta OCLC zenbakia 318875313 ditu.</lex>
+      <lex lang="eu" lid="Id2">A Wizard of Mars, OCLC zenbakia 318875313, ISBN zenbakia 978-0-15-204770-2, Diane Duane-k idatzia eta paperean argitaratua.</lex>
+      <lex lang="eu" lid="Id3">A Wizard of Mars, ISBN zenbakia "978-0-15-204770-2" da, OCLC zenbakia 318875313, Diane Duane-k idatzia eta paperean argitaratua.</lex>
+      <lex lang="gl" lid="Id1">A Wizard of Mars, escrita por Diane Duane, está dispoñible en tapa dura, ten o número ISBN 978-0-15-204770-2 e o número OCLC 318875313.</lex>
+      <lex lang="gl" lid="Id2">A Wizard of Mars, OCLC número 318875313, ISBN número 978-0-15-204770-2, foi escrito por Diane Duane e publicado en tapa dura.</lex>
+      <lex lang="gl" lid="Id3">A Wizard of Mars, número ISBN é "978-0-15-204770-2", número OCLC 318875313, foi escrito por Diane Duane e publicado en tapa dura.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | academicDiscipline | Addiction</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+        <mtriple>Addiction_(journal) | issnNumber | "1360-0443"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Addiction_(revista) | DisciplinaAcadémica | adicción</striple>
+        <striple>Addiction_(revista) | LCCNNúmero | 93645978</striple>
+        <striple>Addiction_(revista) | Abreviatura | adicción</striple>
+        <striple>Addiction_(revista) | NúmeroIssn | 1360-0443</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Addiction_(journal) | DisciplinaAcadèmica | Addicció</ctriple>
+        <ctriple>Addiction_(journal) | NúmeroLCCN | 93645978</ctriple>
+        <ctriple>Addiction_(journal) | Abreviació | Addicció</ctriple>
+        <ctriple>Addiction_(journal) | NúmeroIssn | 1360-0443</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Adicción_(revista) | DisciplinaAcadémica | Adicción</gtriple>
+        <gtriple>Adicción_(revista) | NúmeroLCCN | 93645978</gtriple>
+        <gtriple>Adicción_(revista) | Abreviatura | Adicción</gtriple>
+        <gtriple>Adicción_(revista) | NúmeroIssn | 1360-0443</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Addiction_(aldizkaria) | DiziplinaAkademikoa | Mendekotasuna</btriple>
+        <btriple>Addiction_(aldizkaria) | LCCNZenbakia | 93645978</btriple>
+        <btriple>Addiction_(aldizkaria) | Laburdura | Mendekotasuna</btriple>
+        <btriple>Addiction_(aldizkaria) | ISSNZenbakia | 1360-0443</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Addiction journal concerns the topic of Addiction and has the LCCN number 93645978. The abbreviated name is "Addiction" and the ISSN number is 1360-0443.</lex>
+      <lex lang="en" lid="Id2">Addiction is the abbreviated version of the Addiction journal and is about Addiction. The LCCN number is 93645978 and the ISSN number is 1360-0443.</lex>
+      <lex lang="en" lid="Id3">The ISSN number of Addiction (journal), which is about addiction, is 1360-0443. Addiction (journal) has the abbreviation of Addiction and the LCCN number 93645978.</lex>
+      <lex lang="es" lid="Id1">La revista Addiction trata el tema de la adicción y tiene el número LCCN 93645978. El nombre abreviado es "Addiction" y el número ISSN es 1360-0443.</lex>
+      <lex lang="es" lid="Id2">Addiction es la versión abreviada de la revista Addiction y trata sobre la adicción. El número LCCN es 93645978 y el número ISSN es 1360-0443.</lex>
+      <lex lang="es" lid="Id3">El número ISSN de Addiction (revista), que trata sobre la adicción, es 1360-0443. Addiction (revista) tiene la abreviatura de Addiction y el número LCCN 93645978.</lex>
+      <lex lang="ca" lid="Id1">La revista Addiction tracta sobre el tema de l'addicció i té el número LCCN 93645978. El nom abreujat és "Addiction" i el número ISSN és 1360-0443.</lex>
+      <lex lang="ca" lid="Id2">Addiction és la versió abreujada de la revista Addiction i tracta sobre addiccions. El número LCCN és 93645978 i el número ISSN és 1360-0443.</lex>
+      <lex lang="ca" lid="Id3">El número ISSN d'Addiction (revista), que tracta sobre addicció, és 1360-0443. Addiction (revista) té l'abreviatura d'Addiction i el número LCCN 93645978.</lex>
+      <lex lang="eu" lid="Id1">Addiction aldizkariak adiskidetasunaren gaia jorratzen du eta LCCN zenbakia 93645978 du. Izena laburtuta "Addiction" da eta ISSN zenbakia 1360-0443.</lex>
+      <lex lang="eu" lid="Id2">Addiction Addiction aldizkariaren bertsio laburtua da eta Addiction-i buruzkoa da. LCCN zenbakia 93645978 da eta ISSN zenbakia 1360-0443.</lex>
+      <lex lang="eu" lid="Id3">Addiction (aldizkariaren) ISSN zenbakia 1360-0443 da. Addiction (aldizkariaren) laburdura Addiction da eta LCCN zenbakia 93645978.</lex>
+      <lex lang="gl" lid="Id1">A revista Addiction trata o tema da adicción e ten o número LCCN 93645978. O nome abreviado é "Addiction" e o número ISSN é 1360-0443.</lex>
+      <lex lang="gl" lid="Id2">Addiction é a versión abreviada da revista Addiction e trata sobre Addiction. O número LCCN é 93645978 e o número ISSN é 1360-0443.</lex>
+      <lex lang="gl" lid="Id3">O número ISSN de Addiction (revista), que trata sobre a adicción, é 1360-0443. Addiction (revista) ten a abreviatura de Addiction e o número LCCN 93645978.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Administration_Science_Quarterly | Editor | Universidad_Cornell</striple>
+        <striple>Universidad_Cornell | Afiliación | Asociación_de_Universidades_Americanas</striple>
+        <striple>Universidad_Cornell | Estado | New_York</striple>
+        <striple>Universidad_Cornell | Ciudad | Ithaca</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ciències_administratives_trimestralment | Editor | Universitat_Cornell</ctriple>
+        <ctriple>Universitat_Cornell | Afiliació | Associació_d'Universitats_Americanes</ctriple>
+        <ctriple>Universitat_Cornell | Estat | Nova_York</ctriple>
+        <ctriple>Universitat_Cornell | Ciutat | Ítaca,_Nova_York</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ciencias_administrativas_trimestral | Editor | Universidade_de_Cornell</gtriple>
+        <gtriple>Universidade_de_Cornell | Afiliación | Asociación_de_Universidades_Americanas</gtriple>
+        <gtriple>Universidade_de_Cornell | Estado | Nova_York</gtriple>
+        <gtriple>Universidade_de_Cornell | Cidade | Ithaca,_Nova_York</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(Gaztelaniaz)_Administrazio_Zientziak | Argitaratzailea | Cornell_Unibertsitatea</btriple>
+        <btriple>Cornell_Unibertsitatea | Afiliazioa | Ameriketako_Unibertsitateen_Elkartea</btriple>
+        <btriple>Cornell_Unibertsitatea | Egoera | New_York</btriple>
+        <btriple>Cornell_Unibertsitatea | Hiria | Ithaca,_New_York</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Cornell University in Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities.</lex>
+      <lex lang="en" lid="Id2">Cornell University is located in Ithaca, New York state. It is affiliated with the Association of American Universities and publishes the Administrative Science Quarterly.</lex>
+      <lex lang="en" lid="Id3">Cornell University is located in the city of Ithaca, New York, it's affiliated with the Association of American Universities and publishes the Administrative Science Quarterly.</lex>
+      <lex lang="es" lid="Id1">La Universidad Cornell de Ithaca, Nueva York, es la editora de Administrative Science Quarterly. La Universidad está afiliada a la Asociación de Universidades Americanas.</lex>
+      <lex lang="es" lid="Id2">La Universidad de Cornell está situada en Ithaca, en el estado de Nueva York. Está afiliada a la Asociación de Universidades Americanas y publica la revista Administrative Science Quarterly.</lex>
+      <lex lang="es" lid="Id3">La Universidad de Cornell está situada en la ciudad de Ithaca, Nueva York, está afiliada a la Asociación de Universidades Americanas y publica la revista Administrative Science Quarterly.</lex>
+      <lex lang="ca" lid="Id1">La Universitat Cornell a Ithaca, Nova York és l'editora de l'Administrative Science Quarterly. La Universitat està afiliada a l'Associació d'Universitats Americanes.</lex>
+      <lex lang="ca" lid="Id2">La Universitat Cornell es troba a Ithaca, a l' estat de Nova York. Està afiliada a l' Associació d' Universitats Americanes i publica l' Administrative Science Quarterly.</lex>
+      <lex lang="ca" lid="Id3">La Universitat Cornell es troba a la ciutat d'Ithaca, Nova York, està afiliada a l'Associació d'Universitats Americanes i publica l'Administrative Science Quarterly.</lex>
+      <lex lang="eu" lid="Id1">Cornell Unibertsitateak (Ithaca, New York) argitaratzen du Administrative Science Quarterly aldizkaria, eta Amerikako Unibertsitateen Elkarteko kide da.</lex>
+      <lex lang="eu" lid="Id2">Cornell Unibertsitatea Ithacan dago, New York estatuan.</lex>
+      <lex lang="eu" lid="Id3">Cornell Unibertsitatea Ithaca hirian dago, New Yorken, Amerikako Unibertsitateen Elkartearekin afiliatuta dago eta Administrazio Zientziako Hiruhilekoa argitaratzen du.</lex>
+      <lex lang="gl" lid="Id1">A Universidade de Cornell en Ithaca, Nova York, é a editora de Administrative Science Quarterly. A Universidade está afiliada á Asociación de Universidades Americanas.</lex>
+      <lex lang="gl" lid="Id2">A Universidade Cornell está situada en Ithaca, estado de Nova York. Está afiliada á Asociación de Universidades Americanas e publica o Administrative Science Quarterly.</lex>
+      <lex lang="gl" lid="Id3">A Universidade de Cornell está situada na cidade de Ithaca, Nova York, está afiliada á Asociación de Universidades Americanas e publica o Administrative Science Quarterly.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | Idioma | inglés</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Estados_Unidos | Capital | Washington,_D.C.</gtriple>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | Hizkuntza | Ingelesa</btriple>
+        <btriple>Estatu_Batuak | Kapitala | Washington_D.C.</btriple>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afrikar_amerikarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
+      <lex lang="es" lid="Id1">El libro Alcatraz Versus the Evil Librarians está escrito en inglés y procede de Estados Unidos, donde la capital es Washington DC y los afroamericanos son un grupo étnico.</lex>
+      <lex lang="es" lid="Id2">Alcatraz contra los malvados bibliotecarios es un libro inglés escrito en Estados Unidos, donde los afroamericanos son un grupo étnico y la capital es Washington.</lex>
+      <lex lang="ca" lid="Id1">El llibre Alcatraz Versus the Evil Librarians va ser escrit en anglès i prové dels Estats Units, on la capital és Washington DC i els afroamericans són un grup ètnic.</lex>
+      <lex lang="ca" lid="Id2">Alcatraz Versus the Evil Librarians és un llibre en anglès escrit als EUA, on els afroamericans són un grup ètnic i la capital és Washington.</lex>
+      <lex lang="eu" lid="Id1">Alcatraz Versus the Evil Librarians liburua ingelesez idatzi zen eta Ameriketako Estatu Batuetatik dator, Washington DC hiriburua eta afroamerikarrak talde etnikoa baitira.</lex>
+      <lex lang="eu" lid="Id2">Alcatraz Versus the Evil Librarians AEBetan idatzitako liburu ingeles bat da, non afroamerikarrak talde etniko bat diren eta hiriburua Washington den.</lex>
+      <lex lang="gl" lid="Id1">O libro Alcatraz Versus the Evil Librarians foi escrito en inglés e provén dos Estados Unidos onde a capital é Washington DC e os afroamericanos son un grupo étnico.</lex>
+      <lex lang="gl" lid="Id2">Alcatraz Versus the Evil Librarians é un libro en inglés escrito nos Estados Unidos onde os afroamericanos son un grupo étnico e a capital é Washington.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."@en</otriple>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | frequency | "Bimonthly"@en</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | "1080-6377"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</mtriple>
+        <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
+        <mtriple>American_Journal_of_Mathematics | frequency | "Bimonthly"</mtriple>
+        <mtriple>American_Journal_of_Mathematics | issnNumber | "1080-6377"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>American_Journal_of_Mathematics | Abreviatura | Am._J._Math.</striple>
+        <striple>American_Journal_of_Mathematics | DisciplinaAcadémica | matemáticas</striple>
+        <striple>American_Journal_of_Mathematics | Frecuencia | Bimestral</striple>
+        <striple>American_Journal_of_Mathematics | NúmeroIssn | 1080-6377</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>American_Journal_of_Mathematics | Abreviació | Am._J._Math._(en_anglès).</ctriple>
+        <ctriple>American_Journal_of_Mathematics | DisciplinaAcadèmica | matemàtiques</ctriple>
+        <ctriple>American_Journal_of_Mathematics | Freqüència | bimestral</ctriple>
+        <ctriple>American_Journal_of_Mathematics | NúmeroIssn | 1080-6377</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | Abreviatura | Am._J._Matemáticas.</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | DisciplinaAcadémica | Matemáticas</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | Frecuencia | Bimestralmente</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | NúmeroIssn | 1080-6377</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Matematika_aldizkari_estatubatuarra | Laburdura | Matematika_ikaslea_naiz.</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | DiziplinaAkademikoa | Matematika</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | Maiztasuna | Bi_hilean_behin.</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | ISSNZenbakia | 1080-6377</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The American Journal of Mathematics is abbreviated to Am. J. Math. and comes under the discipline of Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
+      <lex lang="en" lid="Id2">The American Journal of Mathematics studies mathematics and is abbreviated to Am. J. Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
+      <lex lang="en" lid="Id3">The American Journal of Mathematics, aka Am. J. Math., is a bi-monthly journal about Mathematics, ISBN number 1080-6377.</lex>
+      <lex lang="es" lid="Id1">La revista American Journal of Mathematics se abrevia Am. J. Math. y pertenece a la disciplina de Matemáticas. Se publica cada dos meses y tiene el número ISSN 1080-6377.</lex>
+      <lex lang="es" lid="Id2">El American Journal of Mathematics estudia las matemáticas y se abrevia Am. J. Math. Se publica bimestralmente y tiene el número ISSN 1080-6377.</lex>
+      <lex lang="es" lid="Id3">El American Journal of Mathematics, también conocido como Am. J. Math., es una revista bimensual sobre Matemáticas, con número de ISBN 1080-6377.</lex>
+      <lex lang="ca" lid="Id1">L'American Journal of Mathematics és abreujat com a Am. J. Math. i està sota la disciplina de Matemàtiques. Es publica bimestralment i té el número ISSN 1080-6377.</lex>
+      <lex lang="ca" lid="Id2">L'American Journal of Mathematics estudia matemàtiques i s'abreuja com Am. J. Math. Es publica bimestralment i té el número ISSN 1080-6377.</lex>
+      <lex lang="ca" lid="Id3">The American Journal of Mathematics, també conegut com Am. J. Math., és una revista bimensual sobre matemàtiques, ISBN número 1080-6377.</lex>
+      <lex lang="eu" lid="Id1">American Journal of Mathematics-en laburdura da Am. J. Math. eta Matematika diziplinaren azpian dago. Bi hilean behin argitaratzen da eta 1080-6377 ISSN zenbakia du.</lex>
+      <lex lang="eu" lid="Id2">American Journal of Mathematics matematikak aztertzen ditu eta Am. J. Math izen laburpena du. Bi hilean behin argitaratzen da eta 1080-6377 ISSN zenbakia du.</lex>
+      <lex lang="eu" lid="Id3">The American Journal of Mathematics, edo Am. J. Math., Matematikari buruzko bi hilean behingo aldizkaria da, ISBN zenbakia 1080-6377.</lex>
+      <lex lang="gl" lid="Id1">O American Journal of Mathematics é abreviado como Am. J. Math. e pertence á disciplina das matemáticas. Publicase cada dous meses e ten o número ISSN 1080- 6377.</lex>
+      <lex lang="gl" lid="Id2">O American Journal of Mathematics estuda as matemáticas e abreviase como Am. J. Math. Publicase cada dous meses e ten o número ISSN 1080- 6377.</lex>
+      <lex lang="gl" lid="Id3">O American Journal of Mathematics, tamén coñecido como Am. J. Math., é unha revista bimensual sobre matemáticas, ISBN 1080-6377.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."@en</otriple>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | "1080-6377"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
+        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | "1080-6377"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
+        <mtriple>American_Journal_of_Mathematics | firstPublicationYear | 1878</mtriple>
+        <mtriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</mtriple>
+        <mtriple>American_Journal_of_Mathematics | issnNumber | "1080-6377"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>American_Journal_of_Mathematics | DisciplinaAcadémica | matemáticas</striple>
+        <striple>American_Journal_of_Mathematics | PrimerAñoDePublicación | 1878</striple>
+        <striple>American_Journal_of_Mathematics | Abreviatura | Am._J._Math.</striple>
+        <striple>American_Journal_of_Mathematics | NúmeroIssn | 1080-6377</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>American_Journal_of_Mathematics | DisciplinaAcadèmica | matemàtiques</ctriple>
+        <ctriple>American_Journal_of_Mathematics | PrimerAnyDePublicació | 1878</ctriple>
+        <ctriple>American_Journal_of_Mathematics | Abreviació | Am._J._Math._(en_anglès).</ctriple>
+        <ctriple>American_Journal_of_Mathematics | NúmeroIssn | 1080-6377</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | DisciplinaAcadémica | Matemáticas</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | PrimeiroAnoDePublicación | 1878</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | Abreviatura | Am._J._Matemáticas.</gtriple>
+        <gtriple>American_Journal_of_Mathematics_(Revista_Americana_de_Matemáticas) | NúmeroIssn | 1080-6377</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Matematika_aldizkari_estatubatuarra | DiziplinaAkademikoa | Matematika</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | LehenengoArgitalpenUrtea | 1878</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | Laburdura | Matematika_ikaslea_naiz.</btriple>
+        <btriple>Matematika_aldizkari_estatubatuarra | ISSNZenbakia | 1080-6377</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The academic discipline of the American Journal of Mathematics is Mathematics; it was first published in 1878. Its acronym is "Am. J. Math." and its ISSN number is 1080-6377.</lex>
+      <lex lang="en" lid="Id2">The American Journal of Mathematics, abbreviated to Am. J. Math, studies mathematics. It was first published in 1878 and has an ISSN number of 1080-6377.</lex>
+      <lex lang="en" lid="Id3">The American Journal of Mathematics was first published in 1878 and has the ISSN number 1080-6377. It falls under the academic discipline of Math and the abbreviated title is Am. J. Math.</lex>
+      <lex lang="es" lid="Id1">La disciplina académica del American Journal of Mathematics es Matemáticas; se publicó por primera vez en 1878. Su acrónimo es "Am. J. Math." y su número ISSN es 1080-6377.</lex>
+      <lex lang="es" lid="Id2">El American Journal of Mathematics, abreviado Am. J. Math, estudia las matemáticas. Se publicó por primera vez en 1878 y tiene el número ISSN 1080-6377.</lex>
+      <lex lang="es" lid="Id3">El American Journal of Mathematics se publicó por primera vez en 1878 y tiene el número ISSN 1080-6377. Pertenece a la disciplina académica de Matemáticas y su título abreviado es Am. J. Math.</lex>
+      <lex lang="ca" lid="Id1">La disciplina acadèmica de l' American Journal of Mathematics és Matemàtiques; es va publicar per primera vegada el 1878. El seu acrònim és "Am. J. Math." i el seu número ISSN és 1080- 6377.</lex>
+      <lex lang="ca" lid="Id2">L'American Journal of Mathematics, abreujat com a Am. J. Math, estudia matemàtiques. Va ser publicat per primera vegada el 1878 i té un número ISSN de 1080-6377.</lex>
+      <lex lang="ca" lid="Id3">L' American Journal of Mathematics es va publicar per primera vegada el 1878 i té el número ISSN 1080- 6377. Pertany a la disciplina acadèmica de les matemàtiques i el títol abreujat és Am. J. Math.</lex>
+      <lex lang="eu" lid="Id1">American Journal of Mathematics aldizkariaren diziplina akademikoa matematika da; 1878an argitaratu zen lehen aldiz. Bere akronimoa "Am. J. Math." da eta bere ISSN zenbakia 1080-6377 da.</lex>
+      <lex lang="eu" lid="Id2">The American Journal of Mathematics, Am. J. Math laburtuta, matematikak aztertzen ditu. 1878an argitaratu zen lehen aldiz eta ISSN zenbakia 1080-6377 da.</lex>
+      <lex lang="eu" lid="Id3">American Journal of Mathematics 1878an argitaratu zen lehen aldiz eta ISSN zenbakia 1080-6377 du. Matematika diziplinaren barruan dago eta izenburu laburtua Am. J. Math. da.</lex>
+      <lex lang="gl" lid="Id1">A disciplina académica do American Journal of Mathematics é Matemáticas; publicouse por primeira vez en 1878. O seu acrónimo é "Am. J. Math." e o seu número ISSN é 1080- 6377.</lex>
+      <lex lang="gl" lid="Id2">O American Journal of Mathematics, abreviado como Am. J. Math, estuda matemáticas. Foi publicado por primeira vez en 1878 e ten un número ISSN de 1080-6377.</lex>
+      <lex lang="gl" lid="Id3">O American Journal of Mathematics publicouse por primeira vez en 1878 e ten o número ISSN 1080- 6377. Pertence á disciplina académica de Matemáticas e o título abreviado é Am. J. Math.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id15" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Un_bailarín_de_carácter_leal | Editor | Soho_Press</striple>
+        <striple>Soho_Press | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Una_ballarina_de_caràcter_lleial | Editor | Soho_Press</ctriple>
+        <ctriple>Soho_Press | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>A_Loyal_Character_Dancer | Editor | Soho_Press</gtriple>
+        <gtriple>Soho_Press | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>A_Loyal_Character_Dancer | Argitaratzailea | Soho_Press</btriple>
+        <btriple>Soho_Press | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">English is the language in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press in the United States.</lex>
+      <lex lang="en" lid="Id2">English is spoken in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press which are based in the United States.</lex>
+      <lex lang="en" lid="Id3">A Loyal Character Dancer is published by Soho Press which is based in the United States. The language spoken in the U.S., and in Great Britain, is English.</lex>
+      <lex lang="es" lid="Id1">El inglés es el idioma en Gran Bretaña y Estados Unidos. A Loyal Character Dancer fue publicado por Soho Press en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El inglés se habla en Gran Bretaña y Estados Unidos. A Loyal Character Dancer fue publicado por Soho Press, que tiene su sede en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">A Loyal Character Dancer está publicado por Soho Press, que tiene su sede en Estados Unidos. La lengua hablada en Estados Unidos, y en Gran Bretaña, es el inglés.</lex>
+      <lex lang="ca" lid="Id1">L' anglès és l' idioma de la Gran Bretanya i dels Estats Units. A Loyal Character Dancer va ser publicat per Soho Press als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">L' anglès es parla a Gran Bretanya i als Estats Units. A Loyal Character Dancer va ser publicat per Soho Press, amb seu als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">A Loyal Character Dancer és publicat per Soho Press, amb seu als Estats Units. L'idioma parlat als Estats Units, i a Gran Bretanya, és l'anglès.</lex>
+      <lex lang="eu" lid="Id1">Ingelesa da Britainia Handiko eta Estatu Batuetako hizkuntza. A Loyal Character Dancer Soho Press-ek argitaratu zuen Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id2">Ingelesa Britainia Handian eta Estatu Batuetan mintzatzen da. A Loyal Character Dancer Estatu Batuetan egoitza duen Soho Press-ek argitaratu zuen.</lex>
+      <lex lang="eu" lid="Id3">A Loyal Character Dancer Soho Press-ek argitaratzen du, Estatu Batuetan eta Britainia Handian hitz egiten den hizkuntza ingelesa da.</lex>
+      <lex lang="gl" lid="Id1">O inglés é a lingua do Reino Unido e dos Estados Unidos. A Loyal Character Dancer foi publicado por Soho Press nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O inglés fálase en Gran Bretaña e nos Estados Unidos. A Loyal Character Dancer foi publicada por Soho Press, con sede nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">A Loyal Character Dancer é publicado por Soho Press, con sede nos Estados Unidos. A lingua que se fala nos EE. UU. e en Gran Bretaña é o inglés.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id16" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Una_avispa_cortada | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Una_vespa_tallada | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Asiáticos_americanos</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Unha_vespa_cortada | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Asiar_amerikarrak</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Zuhaixka_moztua | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The language of the United States and Great Britain is English. The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from.</lex>
+      <lex lang="en" lid="Id2">English is the language of Great Britain and the United States. The country is the origin of A Severed Wasp and includes many Asian Americans.</lex>
+      <lex lang="en" lid="Id3">A Severed Wasp is from the English speaking (also spoken in Great Britain) United States. The United States is home to the Asian American ethnic group.</lex>
+      <lex lang="es" lid="Id1">El idioma de Estados Unidos y Gran Bretaña es el inglés. Estados Unidos tiene un grupo étnico llamado asiático-americanos y es de donde procede A severed Wasp.</lex>
+      <lex lang="es" lid="Id2">El inglés es la lengua de Gran Bretaña y Estados Unidos. El país es el origen de A Severed Wasp e incluye a muchos asiático-americanos.</lex>
+      <lex lang="es" lid="Id3">A Severed Wasp es de Estados Unidos, de habla inglesa (también se habla en Gran Bretaña). En Estados Unidos vive la etnia asiático-americana.</lex>
+      <lex lang="ca" lid="Id1">La llengua dels Estats Units i la Gran Bretanya és l'anglès. Els Estats Units tenen un grup ètnic anomenat americans d'origen asiàtic i és d'on prové l'A severed Wasp.</lex>
+      <lex lang="ca" lid="Id2">L'anglès és la llengua de la Gran Bretanya i els Estats Units. El país és l'origen d'A Severed Wasp i inclou molts asiàtics americans.</lex>
+      <lex lang="ca" lid="Id3">Una vespa tallada és dels Estats Units, on es parla anglès (també es parla a la Gran Bretanya). Els Estats Units són la llar del grup ètnic asiàtic americà.</lex>
+      <lex lang="eu" lid="Id1">Ameriketako Estatu Batuek eta Britainia Handiak ingelesa erabiltzen dute hizkuntza gisa. Amerikako Estatu Batuek talde etniko bat dute, Asiar Estatubatuarrak izenekoa, eta bertan sortu zen A severed Wasp.</lex>
+      <lex lang="eu" lid="Id2">Ingelesa da Britainia Handiko eta Ameriketako Estatu Batuetako hizkuntza. Herrialde hau A Severed Wasp-en jatorria da eta asiar-amerikar asko ditu.</lex>
+      <lex lang="eu" lid="Id3">A Severed Wasp Ameriketako Estatu Batuetako ingeles hiztun (Britainia Handian ere hitz egiten da) bat da. Ameriketako Estatu Batuak Asiako amerikar talde etnikoaren etxea da.</lex>
+      <lex lang="gl" lid="Id1">A lingua dos Estados Unidos e Gran Bretaña é o inglés. Os Estados Unidos teñen un grupo étnico chamado asiáticos americanos e é de aí de onde procede A Vespa cortada.</lex>
+      <lex lang="gl" lid="Id2">O inglés é a lingua de Gran Bretaña e dos Estados Unidos. O país é a orixe de A Severed Wasp e inclúe moitos asiáticos americanos.</lex>
+      <lex lang="gl" lid="Id3">A Severed Wasp é dos Estados Unidos de fala inglesa (tamén falada en Gran Bretaña). Os Estados Unidos son o fogar do grupo étnico asiático- americano.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Alcatraz_Contra_los_Bibliotecarios_Malvados | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Alcatraz_contra_els_malvats_bibliotecaris | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Alcatraz_contra_os_malvados_bibliotecarios | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Nativos_americanos_nos_Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Alcatraz_eta_liburuzain_gaiztoak. | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Amerindiarrak_Estatu_Batuetan</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans. The English language is spoken in the US as well as Great Britain.</lex>
+      <lex lang="en" lid="Id2">The Book Alcatraz Versus the Evil Librarians originated in the U.S. where Native Americans make up many of the countries ethnic groups. English is the national language of both Great Britain and the United States.</lex>
+      <lex lang="en" lid="Id3">English is spoken in Great Britain and is also the language of the United States, of which Native Americans are one of its ethnic groups and from where Alcatraz Versus the Evil Librarians has come.</lex>
+      <lex lang="es" lid="Id1">Alcatraz Versus the Evil Librarians es de Estados Unidos, donde uno de los grupos étnicos son los nativos americanos. La lengua inglesa se habla tanto en Estados Unidos como en Gran Bretaña.</lex>
+      <lex lang="es" lid="Id2">El libro Alcatraz contra los malvados bibliotecarios tiene su origen en Estados Unidos, donde los nativos americanos constituyen muchos de los grupos étnicos del país. El inglés es la lengua nacional tanto de Gran Bretaña como de Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El inglés se habla en Gran Bretaña y es también la lengua de Estados Unidos, del que los nativos americanos son uno de sus grupos étnicos y de donde ha salido Alcatraz contra los bibliotecarios malvados.</lex>
+      <lex lang="ca" lid="Id1">Alcatraz Versus the Evil Librarians és dels Estats Units, on un dels grups ètnics són els nadius americans. L'anglès es parla tant als Estats Units com a Gran Bretanya.</lex>
+      <lex lang="ca" lid="Id2">El llibre Alcatraz Versus the Evil Librarians es va originar als Estats Units, on els nadius americans formen part de molts dels grups ètnics del país. L'anglès és la llengua nacional tant de la Gran Bretanya com dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">L'anglès es parla a la Gran Bretanya i també és la llengua dels Estats Units, dels quals els nadius americans són un dels seus grups ètnics i d'on ha vingut Alcatraz Versus the Evil Librarians.</lex>
+      <lex lang="eu" lid="Id1">Alcatraz Versus the Evil Librarians Ameriketako Estatu Batuetakoa da, non talde etnikoetako bat amerikar natiboak diren. Ingelesa AEBetan eta Britainia Handian ere hitz egiten da.</lex>
+      <lex lang="eu" lid="Id2">Alcatraz Versus the Evil Librarians liburua Ameriketako Estatu Batuetan sortu zen, non amerikar natiboak herrialdeko talde etniko asko osatzen duten. Ingelesa da Britainia Handiko eta Ameriketako Estatu Batuetako hizkuntza nazionala.</lex>
+      <lex lang="eu" lid="Id3">Ingelesa (ingelesez: English) Britainia Handian hitz egiten den hizkuntza da, baita Estatu Batuetakoa ere, non amerikar natiboak bere talde etnikoetako bat diren eta Alcatraz Versus the Evil Librarians filmaren jatorria den.</lex>
+      <lex lang="gl" lid="Id1">Alcatraz Versus the Evil Librarians é dos Estados Unidos, onde un dos grupos étnicos son os nativos americanos. A lingua inglesa fálase nos EE. UU. e en Gran Bretaña.</lex>
+      <lex lang="gl" lid="Id2">O libro Alcatraz Versus the Evil Librarians ten a súa orixe nos Estados Unidos, onde os nativos americanos conforman moitos dos grupos étnicos do país. O inglés é a lingua nacional tanto de Gran Bretaña como dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O inglés falase en Gran Bretaña e tamén é a lingua dos Estados Unidos, dos que os nativos americanos son un dos seus grupos étnicos e de onde Alcatraz Versus the Evil Librarians vén.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id18" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+        <otriple>United_Kingdom | leader | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leader | David_Cameron</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Reino_Unido | Líder | David_Cameron</striple>
+        <striple>AIDS_(revista) | País | Reino_Unido</striple>
+        <striple>AIDS_(revista) | Editor | Lippincott_Williams_&amp;_Wilkins</striple>
+        <striple>Reino_Unido | Líder | Isabel_II_del_Reino_Unido</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Regne_Unit | Líder | David_Cameron</ctriple>
+        <ctriple>AIDS_(journal) | País | Regne_Unit</ctriple>
+        <ctriple>AIDS_(journal) | Editor | Lippincott_Williams_&amp;_Wilkins</ctriple>
+        <ctriple>Regne_Unit | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Reino_Unido | Líder | David_Cameron</gtriple>
+        <gtriple>Diario_(en_castelán) | País | Reino_Unido</gtriple>
+        <gtriple>Diario_(en_castelán) | Editor | Lippincott_Williams_&amp;_Wilkins</gtriple>
+        <gtriple>Reino_Unido | Líder | Elizabeth_II</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Erresuma_Batua | Buruzagia. | David_Cameron</btriple>
+        <btriple>AIDS_(aldizkaria) | Herrialdea | Erresuma_Batua</btriple>
+        <btriple>AIDS_(aldizkaria) | Argitaratzailea | Lippincott_Williams_&amp;_Wilkins</btriple>
+        <btriple>Erresuma_Batua | Buruzagia. | Elizabeth_II</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">In the United Kingdom, the Prime Minister is David Cameron and the queen is Elizabeth II. The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins.</lex>
+      <lex lang="en" lid="Id2">AIDS Journal, published by Lippincott Williams and Wilkins, is from the United Kingdom. The leader of the UK was David Cameron and Elizabeth II is the Queen.</lex>
+      <lex lang="en" lid="Id3">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the United Kingdom, the two leaders of this country are David Cameron and Elizabeth II.</lex>
+      <lex lang="es" lid="Id1">En el Reino Unido, el Primer Ministro es David Cameron y la reina es Isabel II. La revista AIDS fue publicada en el Reino Unido por Lippincott, Williams &amp; Wilkins.</lex>
+      <lex lang="es" lid="Id2">La revista AIDS Journal, publicada por Lippincott Williams and Wilkins, es del Reino Unido. El líder del Reino Unido era David Cameron e Isabel II es la Reina.</lex>
+      <lex lang="es" lid="Id3">El sida (revista) lo publica Lippincott Williams &amp; Wilkins en el Reino Unido, los dos líderes de este país son David Cameron e Isabel II.</lex>
+      <lex lang="ca" lid="Id1">Al Regne Unit, el primer ministre és David Cameron i la reina és Elizabeth II. La revista AIDS va ser publicada al Regne Unit per Lippincott, Williams &amp; Wilkins.</lex>
+      <lex lang="ca" lid="Id2">AIDS Journal, publicat per Lippincott Williams i Wilkins, és del Regne Unit. El líder del Regne Unit va ser David Cameron i Elizabeth II és la reina.</lex>
+      <lex lang="ca" lid="Id3">La revista AIDS és publicada per Lippincott Williams &amp; Wilkins al Regne Unit, els dos líders d'aquest país són David Cameron i Elizabeth II.</lex>
+      <lex lang="eu" lid="Id1">Erresuma Batuko lehen ministroa David Cameron da eta Erresuma Batuko erregina Elisabet II.a. ↑ (Ingelesez) Lippincott, Williams &amp; Wilkins.</lex>
+      <lex lang="eu" lid="Id2">AIDS Journal, Lippincott Williams and Wilkins-ek argitaratua, Erresuma Batukoa da. Erresuma Batuko buruzagia David Cameron da eta Elisabet II.a erregina da.</lex>
+      <lex lang="eu" lid="Id3">AIDS (aldizkari) Lippincott Williams &amp; Wilkins-ek argitaratzen du Erresuma Batuan, herrialde honetako bi buruzagiak David Cameron eta Elizabeth II.a dira.</lex>
+      <lex lang="gl" lid="Id1">No Reino Unido, o primeiro ministro é David Cameron e a raíña é Isabel II. A revista AIDS foi publicada no Reino Unido por Lippincott, Williams &amp; Wilkins.</lex>
+      <lex lang="gl" lid="Id2">AIDS Journal, publicado por Lippincott Williams e Wilkins, é do Reino Unido. O líder do Reino Unido foi David Cameron e Isabel II é a raíña.</lex>
+      <lex lang="gl" lid="Id3">A revista AIDS é publicada por Lippincott Williams &amp; Wilkins no Reino Unido, os dous líderes deste país son David Cameron e Isabel II.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Una_fortaleza_de_hielo_gris | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericanos</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afrikar_amerikarrak</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Fortress of Grey Ice is from the United states where African American is an ethnic group and English is spoken like in Great Britain.</lex>
+      <lex lang="en" lid="Id2">English is spoken in Great Britain and the United States. A Fortress of Grey Ice is from the United States where one of the ethnic groups are African Americans.</lex>
+      <lex lang="en" lid="Id3">A Fortress of Grey Ice is from the United States where the African Americans are an ethnic group. English is spoken in the United States and also in Great Britain.</lex>
+      <lex lang="es" lid="Id1">Una Fortaleza de Hielo Gris es de Estados Unidos, donde los afroamericanos son un grupo étnico y se habla inglés como en Gran Bretaña.</lex>
+      <lex lang="es" lid="Id2">El inglés se habla en Gran Bretaña y Estados Unidos. Una fortaleza de hielo gris es de Estados Unidos, donde uno de los grupos étnicos son los afroamericanos.</lex>
+      <lex lang="es" lid="Id3">Una fortaleza de hielo gris es de Estados Unidos, donde los afroamericanos son un grupo étnico. El inglés se habla en Estados Unidos y también en Gran Bretaña.</lex>
+      <lex lang="ca" lid="Id1">A Fortress of Grey Ice és dels Estats Units on els afroamericans són un grup ètnic i es parla anglès com a Gran Bretanya.</lex>
+      <lex lang="ca" lid="Id2">L' anglès es parla a Gran Bretanya i als Estats Units. A Fortress of Grey Ice és dels Estats Units, on un dels grups ètnics són els afroamericans.</lex>
+      <lex lang="ca" lid="Id3">A Fortress of Grey Ice és dels Estats Units, on els afroamericans són un grup ètnic. L'anglès es parla als Estats Units i també a la Gran Bretanya.</lex>
+      <lex lang="eu" lid="Id1">A Fortress of Grey Ice Ameriketako Estatu Batuetakoa da, non afrikar-amerikar talde etnikoa den eta ingelesa Britainia Handian bezala hitz egiten den.</lex>
+      <lex lang="eu" lid="Id2">Ingelesa Britainia Handian eta Estatu Batuetan mintzatzen da. A Fortress of Grey Ice Estatu Batuetakoa da, eta bertako talde etnikoetako bat afroamerikarra da.</lex>
+      <lex lang="eu" lid="Id3">A Fortress of Grey Ice (euskaraz Izotz Griseko Gotorlekua) Ameriketako Estatu Batuetako telesaila bat da, non afroamerikarrak talde etniko bat diren. Ingelesez hitz egiten da Estatu Batuetan eta baita Erresuma Batuan ere.</lex>
+      <lex lang="gl" lid="Id1">A fortaleza de xeo gris é dos Estados Unidos, onde os afroamericanos son un grupo étnico e fálase inglés como en Gran Bretaña.</lex>
+      <lex lang="gl" lid="Id2">O inglés fálase en Gran Bretaña e nos Estados Unidos. A fortaleza de xeo gris provén dos Estados Unidos, onde un dos grupos étnicos son os afroamericanos.</lex>
+      <lex lang="gl" lid="Id3">A fortaleza de xeo gris é dos Estados Unidos, onde os afroamericanos son un grupo étnico. O inglés fálase nos Estados Unidos e tamén en Gran Bretaña.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id20" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>inglés | HabladoEn | Gran_Bretaña</striple>
+        <striple>Una_fortaleza_de_hielo_gris | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Llengua_anglesa | ParlatEn | Gran_Bretanya</ctriple>
+        <ctriple>Una_fortalesa_de_gel_gris | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Asiáticos_americanos</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Lingua_inglesa | FaladoEn | Gran_Bretaña</gtriple>
+        <gtriple>Unha_fortaleza_de_xeo_gris | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Asiar_amerikarrak</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Ingelesa | HitzEginIn | Britainia_Handia</btriple>
+        <btriple>Izotz_grisaren_gotorleku_bat | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A Fortress of Grey Ice is from the United States. That country has an ethnic group called Asian Americans and they speak English, same as in Great Britain.</lex>
+      <lex lang="en" lid="Id2">In Great Britain English is the language spoken. The same is true for the United States where there are many Asian Americans. It is also where A Fortress of Grey Ice is from.</lex>
+      <lex lang="en" lid="Id3">Asian Americans are one of the ethnic groups in the United States of which A Fortress of Grey Ice is also, the English language is spoken in both the United States and in Great Britain.</lex>
+      <lex lang="es" lid="Id1">Una Fortaleza de Hielo Gris es de Estados Unidos. Ese país tiene un grupo étnico llamado asiático-americanos y hablan inglés, igual que en Gran Bretaña.</lex>
+      <lex lang="es" lid="Id2">En Gran Bretaña se habla inglés. Lo mismo ocurre en Estados Unidos, donde hay muchos asiático-americanos. También de allí procede Una fortaleza de hielo gris.</lex>
+      <lex lang="es" lid="Id3">Los asiático-americanos son uno de los grupos étnicos de Estados Unidos de los que también se habla Una fortaleza de hielo gris, la lengua inglesa tanto en Estados Unidos como en Gran Bretaña.</lex>
+      <lex lang="ca" lid="Id1">A Fortress of Grey Ice és dels Estats Units. Aquest país té un grup ètnic anomenat americans asiàtics i parlen anglès, igual que a Gran Bretanya.</lex>
+      <lex lang="ca" lid="Id2">A la Gran Bretanya, l' anglès és la llengua parlada. El mateix passa als Estats Units, on hi ha molts asiàtics americans. També és d' aquí d' on ve A Fortress of Grey Ice.</lex>
+      <lex lang="ca" lid="Id3">Els americans asiàtics són un dels grups ètnics dels Estats Units del qual també és A Fortress of Grey Ice, la llengua anglesa es parla tant als Estats Units com a Gran Bretanya.</lex>
+      <lex lang="eu" lid="Id1">A Fortress of Grey Ice Ameriketako Estatu Batuetakoa da. Herrialde horrek talde etniko bat du, asiar-amerikarrak, eta ingelesez hitz egiten dute, Britainia Handian bezala.</lex>
+      <lex lang="eu" lid="Id2">Britainia Handian ingelesa hitz egiten da. Gauza bera gertatzen da Ameriketako Estatu Batuetan, non asiar asko dauden. Hortik dator A Fortress of Grey Ice ere.</lex>
+      <lex lang="eu" lid="Id3">Ingelesa (ingelesez: English edo English language) Ameriketako Estatu Batuetako hizkuntza ofiziala da, bai Estatu Batuetan eta baita Britainia Handian ere, eta munduko hizkuntzarik erabilienetako bat da.</lex>
+      <lex lang="gl" lid="Id1">Unha fortaleza de xeo gris é dos Estados Unidos. Ese país ten un grupo étnico chamado asiáticos americanos e falan inglés, igual que en Gran Bretaña.</lex>
+      <lex lang="gl" lid="Id2">En Gran Bretaña o inglés é a lingua falada. O mesmo vale para os Estados Unidos onde hai moitos asiático-americanos. Tamén é de onde vén A Fortaleza do Xeo Cinza.</lex>
+      <lex lang="gl" lid="Id3">Os asiáticoamericanos son un dos grupos étnicos dos Estados Unidos dos que tamén forma parte A Fortaleza do Xeo Cinza, a lingua inglesa é falada tanto nos Estados Unidos como en Gran Bretaña.</lex>
+      </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Líder | Barack_Obama</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Una_avispa_cortada | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Barack_Obama</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Una_vespa_tallada | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Estados_Unidos | Líder | Barack_Obama</gtriple>
+        <gtriple>Estados_Unidos | Lingua | Lingua_inglesa</gtriple>
+        <gtriple>Unha_vespa_cortada | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Estatu_Batuak | Buruzagia. | Barack_Obama_izan_zen.</btriple>
+        <btriple>Estatu_Batuak | Hizkuntza | Ingelesa</btriple>
+        <btriple>Zuhaixka_moztua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afrikar_amerikarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A severed Wasp originates from the United States where the leader is Barack Obama. The English language is spoken in the US where one of the ethnic groups is African American.</lex>
+      <lex lang="en" lid="Id2">The President of the United States is Barack Obama who is African American, which makes up one of the many ethnic groups in the United States. The national language spoken in the U.S. is English. The book A Severed Wasp originated in the U.S.</lex>
+      <lex lang="es" lid="Id1">Una Avispa cortada es originaria de Estados Unidos, donde el líder es Barack Obama. Se habla inglés en Estados Unidos, donde uno de los grupos étnicos es el afroamericano.</lex>
+      <lex lang="es" lid="Id2">El Presidente de Estados Unidos es Barack Obama, que es afroamericano, lo que constituye uno de los muchos grupos étnicos de Estados Unidos. La lengua nacional hablada en Estados Unidos es el inglés. El libro A Severed Wasp se originó en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Una vespa esquarterada prové dels Estats Units, on el líder és Barack Obama. L' anglès es parla als Estats Units, on un dels grups ètnics és l' afroamericà.</lex>
+      <lex lang="ca" lid="Id2">El president dels Estats Units és Barack Obama, un afroamericà que forma part d'un dels molts grups ètnics dels Estats Units. La llengua nacional parlada als Estats Units és l'anglès. El llibre A Severed Wasp es va originar als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Ameriketako Estatu Batuetatik dator, non liderra Barack Obama den. Ingelesez hitz egiten da Estatu Batuetan, non etnia bat afrikar-amerikarra den.</lex>
+      <lex lang="eu" lid="Id2">Ameriketako Estatu Batuetako presidentea Barack Obama da, afroamerikarra, Estatu Batuetako talde etniko ugarietako bat osatzen duena. Estatu Batuetan hitz egiten den hizkuntza nazionala ingelesa da. A Severed Wasp liburua Estatu Batuetan sortu zen.</lex>
+      <lex lang="gl" lid="Id1">Unha Vespa cortada ten a súa orixe nos Estados Unidos, onde o líder é Barack Obama. A lingua inglesa fálase nos Estados Unidos, onde un dos grupos étnicos é o afroamericano.</lex>
+      <lex lang="gl" lid="Id2">O presidente dos Estados Unidos é Barack Obama que é afroamericano, que forma parte dun dos moitos grupos étnicos dos Estados Unidos. A lingua nacional falada nos Estados Unidos é o inglés. O libro A Severed Wasp ten a súa orixe nos Estados Unidos.</lex>
+      </entry>
+    </entries>
+  </benchmark>

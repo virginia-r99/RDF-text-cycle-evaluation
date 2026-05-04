@@ -1,0 +1,1174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id1" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</otriple>
+        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
+        <otriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</otriple>
+        <otriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"@en</otriple>
+        <otriple>Adenan_Satem | almaMater | University_of_Adelaide</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</mtriple>
+        <mtriple>Adenan_Satem | almaMater | University_of_Adelaide</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdul_Taib_Mahmud | Sucesor | Adenan_Satem</striple>
+        <striple>Abdul_Taib_Mahmud | Fiesta | Parti_Pesaka_Bumiputera_Bersatu</striple>
+        <striple>Abdul_Taib_Mahmud | LugarDeNacimiento | Reino_de_Sarawak</striple>
+        <striple>Abdul_Taib_Mahmud | Residencia | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</striple>
+        <striple>Adenan_Satem | AlmaMáter | Universidad_de_Adelaida</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abdul_Taib_Mahmud | Successor | Adenan_Satem</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Festa | Parti_Pesaka_Bumiputera_Bersatu</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | LlocDeNaixement | Regne_de_Sarawak</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Residència | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</ctriple>
+        <ctriple>Adenan_Satem | AlmaMater | Universitat_d'Adelaide</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abdul_Taib_Mahmud | Sucesor | Adenan_Satem</gtriple>
+        <gtriple>Abdul_Taib_Mahmud | Partido | Parti_Pesaka_Bumiputera_Bersatu</gtriple>
+        <gtriple>Abdul_Taib_Mahmud | LugarDeNacemento | Reino_de_Sarawak</gtriple>
+        <gtriple>Abdul_Taib_Mahmud | Residencia | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</gtriple>
+        <gtriple>Adenan_Satem | AlmaMater | Universidade_de_Adelaide</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abdul_Taib_Mahmud_izan_zen. | Ondorengoa | Adenan_Satem</btriple>
+        <btriple>Abdul_Taib_Mahmud_izan_zen. | FestaBat. | Parti_Pesaka_Bumiputera_Bersatu</btriple>
+        <btriple>Abdul_Taib_Mahmud_izan_zen. | JaiotzeLekua | Sarawak_erresuma</btriple>
+        <btriple>Abdul_Taib_Mahmud_izan_zen. | Egoitza | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</btriple>
+        <btriple>Adenan_Satem | AlmaMater | Adelaideko_Unibertsitatea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his residence was Demak Jaya, Jalan Bako, Kuching, Sarawak. He was a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem who had attended the University of Adelaide.</lex>
+      <lex lang="en" lid="Id2">Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak. He is a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by the University of Adelaide educated Adenan Satem.</lex>
+      <lex lang="en" lid="Id3">Abdul Taib Mahmud was born in the Kingdom of Sarawak, lives in Demak Jaya, Jalan Bako, Kuching, Sarawak and is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who studied at the University of Adelaide.</lex>
+      <lex lang="es" lid="Id1">El lugar de nacimiento de Abdul Taib Mahmud fue el Reino de Sarawak y su residencia Demak Jaya, Jalan Bako, Kuching, Sarawak. Era miembro del Parti Pesaka Bumiputera Bersatu y le sucedió Adenan Satem, que había estudiado en la Universidad de Adelaida.</lex>
+      <lex lang="es" lid="Id2">Abdul Taib Mahmud nació en el Reino de Sarawak y vive en Demak Jaya, Jalan Bako, Kuching, Sarawak. Es miembro del Parti Pesaka Bumiputera Bersatu y le sucedió Adenan Satem, educado en la Universidad de Adelaida.</lex>
+      <lex lang="es" lid="Id3">Abdul Taib Mahmud nació en el Reino de Sarawak, vive en Demak Jaya, Jalan Bako, Kuching, Sarawak, y es miembro del Parti Pesaka Bumiputera Bersatu. Le sucedió Adenan Satem, que estudió en la Universidad de Adelaida.</lex>
+      <lex lang="ca" lid="Id1">El lloc de naixement d'Abdul Taib Mahmud era el Regne de Sarawak i la seva residència era Demak Jaya, Jalan Bako, Kuching, Sarawak. Era membre del Parti Pesaka Bumiputera Bersatu i va ser succeït per Adenan Satem, que havia assistit a la Universitat d'Adelaida.</lex>
+      <lex lang="ca" lid="Id2">Abdul Taib Mahmud va néixer al Regne de Sarawak i viu a Demak Jaya, Jalan Bako, Kuching, Sarawak. És membre del Parti Pesaka Bumiputera Bersatu i va ser succeït per Adenan Satem, educat a la Universitat d'Adelaida.</lex>
+      <lex lang="ca" lid="Id3">Abdul Taib Mahmud va néixer al Regne de Sarawak, viu a Demak Jaya, Jalan Bako, Kuching, Sarawak i és membre del Parti Pesaka Bumiputera Bersatu. El va succeir Adenan Satem, que va estudiar a la Universitat d'Adelaida.</lex>
+      <lex lang="eu" lid="Id1">Bere jaioterria Sarawakeko Erresuma izan zen eta bere bizilekua Demak Jaya, Jalan Bako, Kuching, Sarawak izan zen. Parti Pesaka Bumiputera Bersatu-ko kidea zen eta Adenan Satem-ek ordezkatu zuen, Adelaideko Unibertsitatean ikasi zuena.</lex>
+      <lex lang="eu" lid="Id2">Abdul Taib Mahmud Sarawakeko erresuman jaio zen eta Demak Jaya, Jalan Bako, Kuching, Sarawaken bizi da.</lex>
+      <lex lang="eu" lid="Id3">Abdul Taib Mahmud Sarawakeko Erresuman jaio zen, Demak Jaya, Jalan Bako, Kuching, Sarawaken bizi da eta Parti Pesaka Bumiputera Bersatu-ko kidea da. Bere oinordekoa Adenan Satem izan zen, Adelaideko Unibertsitatean ikasi zuena.</lex>
+      <lex lang="gl" lid="Id1">O lugar de nacemento de Abdul Taib Mahmud foi o Reino de Sarawak e a súa residencia foi Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex lang="gl" lid="Id2">Abdul Taib Mahmud naceu no Reino de Sarawak e vive en Demak Jaya, Jalan Bako, Kuching, Sarawak. É membro do Parti Pesaka Bumiputera Bersatu e foi sucedido por Adenan Satem, formado na Universidade de Adelaida.</lex>
+      <lex lang="gl" lid="Id3">Abdul Taib Mahmud naceu no Reino de Sarawak, vive en Demak Jaya, Jalan Bako, Kuching, Sarawak e é membro do Parti Pesaka Bumiputera Bersatu. Foi sucedido por Adenan Satem, que estudou na Universidade de Adelaida.</lex>
+      </entry>
+    <entry category="Politician" eid="Id2" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</otriple>
+        <otriple>Abdulsalami_Abubakar | vicePresident | Mike_Akhigbe</otriple>
+        <otriple>Abdulsalami_Abubakar | activeYearsEndDate | "1999-05-29"^^xsd:date</otriple>
+        <otriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</otriple>
+        <otriple>Mike_Akhigbe | predecessor | Oladipo_Diya</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</mtriple>
+        <mtriple>Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe</mtriple>
+        <mtriple>Abdulsalami_Abubakar | activeYearsEndDate | 1999-05-29</mtriple>
+        <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</mtriple>
+        <mtriple>Mike_Akhigbe | predecessor | Oladipo_Diya</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdulsalami_Abubakar | Sucesor | Olusegun_Obasanjo</striple>
+        <striple>Abdulsalami_Abubakar | EnElCargoMientrasElVicepresidente | Mike_Akhigbe</striple>
+        <striple>Abdulsalami_Abubakar | AñosActivosFechaFin | 29-05-1999</striple>
+        <striple>Abdulsalami_Abubakar | RamaMilitar | Ejército_de_Nigeria</striple>
+        <striple>Mike_Akhigbe | Predecesor | Oladipo_Diya</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abdulsalami_Abubakar | Successor | Olusegun_Obasanjo</ctriple>
+        <ctriple>Abdulsalami_Abubakar | AL'oficinaMentreElVicepresident | Mike_Akhigbe</ctriple>
+        <ctriple>Abdulsalami_Abubakar | DataDeFinalitzacióD'anysActiva | 1999-05-29</ctriple>
+        <ctriple>Abdulsalami_Abubakar | BrancaMilitar | Exèrcit_de_Nigèria</ctriple>
+        <ctriple>Mike_Akhigbe | Predecessor | Oladipo_Diya</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abdulsalami_Abubakar | Sucesor | Olusegun_Obasanjo</gtriple>
+        <gtriple>Abdulsalami_Abubakar | EnFunciónsMentresVicepresidente | Mike_Akhigbe</gtriple>
+        <gtriple>Abdulsalami_Abubakar | DataDeRemateDosAnosActivos | 1999-05-29</gtriple>
+        <gtriple>Abdulsalami_Abubakar | BrancaMilitar | Exército_nigeriano</gtriple>
+        <gtriple>Mike_Akhigbe | Predecesor | Oladipo_Diya</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abdulsalami_Abubakar | Ondorengoa | Olusegun_Obasanjo</btriple>
+        <btriple>Abdulsalami_Abubakar | LehendakariordeaDenBitartean | Mike_Akhigbe</btriple>
+        <btriple>Abdulsalami_Abubakar | UrteAktiboenAmaieraData | 1999-05-29</btriple>
+        <btriple>Abdulsalami_Abubakar | AdarraMilitarra | Nigeriako_armada</btriple>
+        <btriple>Mike_Akhigbe | Aurrekoa | Oladipo_Diya</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abdulsalami Abubakar served in the Nigerian Army and was in office whilst Mike Akhigbe (the successor to Oladipo Diya) was Vice President. His career ended on 29 May 1999 and he was succeeded by Olusegun Obasanjo.</lex>
+      <lex lang="en" lid="Id2">Abdulsalami Abubakar, who served in the Nigerian Army, ended his career on May 29th, 1999 and served in office while Mike Akhigbe was the Vice President. Akhigbe succeeded Oladipo Diya while Olusegun Obasanjo took over from Abubaka when he left office.</lex>
+      <lex lang="en" lid="Id3">Olusegun Obasanjo succeeded Abdulsalami Abubakar, who served in the Nigerian Army and ended his career on 1999-05-2. Abdulsalami Abubakar was in office while Mike Akhigbe, who succeeded Oladipo Diya, was Vice President.</lex>
+      <lex lang="es" lid="Id1">Abdulsalami Abubakar sirvió en el ejército nigeriano y ocupó el cargo mientras Mike Akhigbe (sucesor de Oladipo Diya) era Vicepresidente. Su carrera terminó el 29-05-1999 y le sucedió Olusegun Obasanjo.</lex>
+      <lex lang="es" lid="Id2">Abdulsalami Abubakar, que sirvió en el ejército nigeriano, terminó su carrera el 29-05-1999 y ocupó el cargo mientras Mike Akhigbe era Vicepresidente. Akhigbe sucedió a Oladipo Diya, mientras que Olusegun Obasanjo tomó el relevo de Abubaka cuando éste dejó el cargo.</lex>
+      <lex lang="es" lid="Id3">Olusegun Obasanjo sucedió a Abdulsalami Abubakar, que sirvió en el ejército nigeriano y terminó su carrera el 2 de mayo de 1999. Abdulsalami Abubakar ocupó el cargo mientras Mike Akhigbe, que sucedió a Oladipo Diya, era Vicepresidente.</lex>
+      <lex lang="ca" lid="Id1">Abdulsalami Abubakar va servir a l'exèrcit nigerià i va ocupar el càrrec mentre Mike Akhigbe (el successor d'Oladipo Diya) era vicepresident. La seva carrera va acabar el 29 de maig de 1999 i va ser succeït per Olusegun Obasanjo.</lex>
+      <lex lang="ca" lid="Id2">Abdulsalami Abubakar, que va servir a l'exèrcit nigerià, va acabar la seva carrera el 29 de maig de 1999 i va servir en el càrrec mentre Mike Akhigbe era el vicepresident. Akhigbe va succeir Oladipo Diya mentre Olusegun Obasanjo va prendre el relleu d'Abubaka quan va deixar el càrrec.</lex>
+      <lex lang="ca" lid="Id3">Olusegun Obasanjo va succeir Abdulsalami Abubakar, que va servir a l'exèrcit nigerià i va acabar la seva carrera el 2 de maig de 1999. Abdulsalami Abubakar era al càrrec mentre que Mike Akhigbe, que va succeir Oladipo Diya, era el vicepresident.</lex>
+      <lex lang="eu" lid="Id1">Abdulsalami Abubakar-ek Nigeriako armadan egin zuen lan eta Oladipo Diya-ren ondorengo izan zen Mike Akhigbe-k presidenteordetza izan zuen bitartean. Bere karrera 1999ko maiatzaren 29an amaitu zen eta Olusegun Obasanjo-k ordezkatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Nigeriako armadan lan egin zuen Abdulsalami Abubakar-ek 1999ko maiatzaren 29an amaitu zuen bere karrera, eta Mike Akhigbe presidenteordea izan zen bitartean egon zen karguan. Akhigbe-k Oladipo Diya-ren lekua hartu zuen, eta Olusegun Obasanjo-k Abubaka-rena, honek kargua utzi zuenean.</lex>
+      <lex lang="eu" lid="Id3">Olusegun Obasanjok Abdulsalami Abubakar ordezkatu zuen, Nigeriako armadan zerbitzatu zuena eta bere karrera 1999ko maiatzaren 2an amaitu zuena. Abdulsalami Abubakar karguan zegoen bitartean, Mike Akhigbe, Oladipo Diya ordezkatu zuena, presidenteordea izan zen.</lex>
+      <lex lang="gl" lid="Id1">Abdulsalami Abubakar serviu no Exército nigeriano e estivo no cargo mentres Mike Akhigbe (o sucesor de Oladipo Diya) era vicepresidente. A súa carreira rematou o 29 de maio de 1999 e foi sucedido por Olusegun Obasanjo.</lex>
+      <lex lang="gl" lid="Id2">Abdulsalami Abubakar, que serviu no exército nigeriano, terminou a súa carreira o 29 de maio de 1999 e ocupou o cargo mentres Mike Akhigbe era vicepresidente, sucedendo a Oladipo Diya mentres Olusegun Obasanjo sucedeu a Abubaka cando este deixou o cargo.</lex>
+      <lex lang="gl" lid="Id3">Olusegun Obasanjo sucedeu a Abdulsalami Abubakar, que serviu no exército nigeriano e rematou a súa carreira o 2 de maio de 1999. Abdulsalami Abubakar estaba no cargo mentres Mike Akhigbe, que sucedeu a Oladipo Diya, era vicepresidente.</lex>
+      </entry>
+    <entry category="Politician" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</otriple>
+        <otriple>Abraham_A._Ribicoff | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Abraham_A._Ribicoff | deathPlace | New_York_City</otriple>
+        <otriple>Abraham_A._Ribicoff | birthPlace | Connecticut</otriple>
+        <otriple>Abraham_A._Ribicoff | nationality | United_States</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</otriple>
+        <otriple>Abraham_A._Ribicoff | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Abraham_A._Ribicoff | deathPlace | New_York_City</otriple>
+        <otriple>Abraham_A._Ribicoff | birthPlace | Connecticut</otriple>
+        <otriple>Abraham_A._Ribicoff | nationality | "American"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</mtriple>
+        <mtriple>Abraham_A._Ribicoff | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Abraham_A._Ribicoff | deathPlace | New_York_City</mtriple>
+        <mtriple>Abraham_A._Ribicoff | birthPlace | Connecticut</mtriple>
+        <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abraham_A._Ribicoff | Oficina | Secretario_de_Sanidad,_Educación_y_Bienestar_Social_de_Estados_Unidos</striple>
+        <striple>Abraham_A._Ribicoff | Fiesta | Partido_Demócrata_(Estados_Unidos)</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeLaMuerte | Nueva_York</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeNacimiento | Connecticut</striple>
+        <striple>Abraham_A._Ribicoff | Nacionalidad | American</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abraham_A._Ribicoff | Oficina | Secretari_de_Salut,_Educació_i_Benestar_dels_Estats_Units</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Festa | Partit_Demòcrata_(Estats_Units)</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeLaMort | Nova_York</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeNaixement | Connecticut</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Nacionalitat | Americà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abraham_A._Ribicoff | Oficina | Secretario_de_Saúde,_Educación_e_Benestar_dos_Estados_Unidos</gtriple>
+        <gtriple>Abraham_A._Ribicoff | Partido | Partido_Demócrata_(Estados_Unidos)</gtriple>
+        <gtriple>Abraham_A._Ribicoff | LugarDaMorte | Nueva_York</gtriple>
+        <gtriple>Abraham_A._Ribicoff | LugarDeNacemento | Connecticut</gtriple>
+        <gtriple>Abraham_A._Ribicoff | Nacionalidade | Americano</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abraham_A._Ribicoff | Bulegoa | Ameriketako_Estatu_Batuetako_Osasun,_Hezkuntza_eta_Ongizate_ministroa.</btriple>
+        <btriple>Abraham_A._Ribicoff | FestaBat. | Alderdi_Demokrata_(Estatu_Batuak)</btriple>
+        <btriple>Abraham_A._Ribicoff | HeriotzarenLekua | New_York_City</btriple>
+        <btriple>Abraham_A._Ribicoff | JaiotzeLekua | Connecticutekoak.</btriple>
+        <btriple>Abraham_A._Ribicoff | Nazionalitatea | Amerikarra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abraham A Ribicoff was a US national born in Connecticut and dying in New York City. He was a member of the Democratic Party in the U.S.A. and worked as the United States Secretary of Health, Education, and Welfare.</lex>
+      <lex lang="en" lid="Id2">Abraham A. Ribicoff who was born in Connecticut, United States, worked as the United States Secretary of Health, Education, and Welfare and he was a member of the Democratic Party in the United States. He died in New York City.</lex>
+      <lex lang="en" lid="Id3">Democrat Abraham A. Ribicoff was born in Connecticut, US and died in New York City. He worked as the United States Secretary of Health, Education and Welfare.</lex>
+      <lex lang="es" lid="Id1">Abraham A Ribicoff fue un ciudadano estadounidense nacido en Connecticut y fallecido en Nueva York. Fue miembro del Partido Demócrata de EE.UU. y trabajó como Secretario de Sanidad, Educación y Bienestar de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Abraham A. Ribicoff, nacido en Connecticut (Estados Unidos), fue Secretario de Sanidad, Educación y Bienestar Social y miembro del Partido Demócrata de Estados Unidos. Murió en Nueva York.</lex>
+      <lex lang="es" lid="Id3">El demócrata Abraham A. Ribicoff nació en Connecticut (EE.UU.) y murió en Nueva York. Fue Secretario de Sanidad, Educación y Bienestar Social de los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Abraham A. Ribicoff va ser un ciutadà nord-americà nascut a Connecticut i mort a la ciutat de Nova York. Va ser membre del Partit Demòcrata dels Estats Units i va treballar com a Secretari de Salut, Educació i Benestar dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Abraham A. Ribicoff va néixer a Connecticut, Estats Units, va treballar com a Secretari de Salut, Educació i Benestar dels Estats Units i va ser membre del Partit Demòcrata dels Estats Units. Va morir a la ciutat de Nova York.</lex>
+      <lex lang="ca" lid="Id3">El demòcrata Abraham A. Ribicoff va néixer a Connecticut, EUA, i va morir a la ciutat de Nova York. Va treballar com a Secretari de Salut, Educació i Benestar dels EUA.</lex>
+      <lex lang="eu" lid="Id1">Abraham A. Ribicoff Connecticuten jaio eta New Yorken hil zen estatubatuar bat izan zen. AEBetako Alderdi Demokratako kide izan zen eta Estatu Batuetako Osasun, Hezkuntza eta Ongizate idazkari gisa lan egin zuen.</lex>
+      <lex lang="eu" lid="Id2">Abraham A. Ribicoff (Connecticut, Ameriketako Estatu Batuak, 1930eko urtarrilaren 10a - New York, Ameriketako Estatu Batuak, 2009ko urtarrilaren 10a) Ameriketako Estatu Batuetako Osasun, Hezkuntza eta Ongizateko idazkaria izan zen, eta Alderdi Demokratako kidea.</lex>
+      <lex lang="eu" lid="Id3">Abraham A. Ribicoff demokrata Connecticuten jaio zen, AEBetan, eta New York hirian hil zen. Ameriketako Estatu Batuetako Osasun, Hezkuntza eta Ongizate idazkaria izan zen.</lex>
+      <lex lang="gl" lid="Id1">Abraham A. Ribicoff naceu en Connecticut e morreu en Nova York. Foi membro do Partido Demócrata dos Estados Unidos e traballou como Secretario de Saúde, Educación e Benestar dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Abraham A. Ribicoff que naceu en Connecticut, Estados Unidos, traballou como Secretario de Saúde, Educación e Benestar dos Estados Unidos e foi membro do Partido Demócrata nos Estados Unidos. Morreu na cidade de Nova York.</lex>
+      <lex lang="gl" lid="Id3">O demócrata Abraham A. Ribicoff naceu en Connecticut, EE. UU., e morreu en Nova York. Traballou como secretario de saúde, educación e benestar dos EE. UU.</lex>
+      </entry>
+    <entry category="Politician" eid="Id4" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</otriple>
+        <otriple>Casey_Ribicoff | birthPlace | Chicago</otriple>
+        <otriple>Abraham_A._Ribicoff | deathPlace | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Abraham_A._Ribicoff | nationality | "American"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</mtriple>
+        <mtriple>Casey_Ribicoff | birthPlace | Chicago</mtriple>
+        <mtriple>Abraham_A._Ribicoff | deathPlace | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abraham_A._Ribicoff | Cónyuge | Casey_Ribicoff</striple>
+        <striple>Casey_Ribicoff | LugarDeNacimiento | Chicago</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeLaMuerte | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Abraham_A._Ribicoff | Nacionalidad | American</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abraham_A._Ribicoff | Cònjuge | Casey_Ribicoff</ctriple>
+        <ctriple>Casey_Ribicoff | LlocDeNaixement | Chicago</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeLaMort | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Nacionalitat | Americà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abraham_A._Ribicoff | Cónxuxe | Casey_Ribicoff</gtriple>
+        <gtriple>Casey_Ribicoff | LugarDeNacemento | Chicago</gtriple>
+        <gtriple>Abraham_A._Ribicoff | LugarDaMorte | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Nativos_americanos_nos_Estados_Unidos</gtriple>
+        <gtriple>Abraham_A._Ribicoff | Nacionalidade | Americano</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abraham_A._Ribicoff | Ezkontidea | Casey_Ribicoffekin_hitz_egin_dut.</btriple>
+        <btriple>Casey_Ribicoffekin_hitz_egin_dut. | JaiotzeLekua | Chicago</btriple>
+        <btriple>Abraham_A._Ribicoff | HeriotzarenLekua | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Amerindiarrak_Estatu_Batuetan</btriple>
+        <btriple>Abraham_A._Ribicoff | Nazionalitatea | Amerikarra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">American Abraham A. Ribicoff died in the United States and was married to Casey Ribicoff who was born in Chicago. Native Americans are one of several ethnic groups in the U.S.</lex>
+      <lex lang="en" lid="Id2">Abraham A Ribicoff was born and died in the United States, a country where one of the ethnic groups are the Native Americans. He was married to Casey Ribicoff who was born in Chicago.</lex>
+      <lex lang="en" lid="Id3">Native Americans are the ethnic group in the United States, the country Abraham A. Ribicoff was a national of. Bornin Chicago, Casey Ribicoff was the wife of Abraham A. Ribcoff, who died in the United States.</lex>
+      <lex lang="es" lid="Id1">El estadounidense Abraham A. Ribicoff murió en Estados Unidos y estaba casado con Casey Ribicoff, nacida en Chicago. Los nativos Americanos son uno de los varios grupos étnicos de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Abraham A Ribicoff nació y murió en Estados Unidos, país en el que uno de los grupos étnicos son los nativos Americanos. Estaba casado con Casey Ribicoff, nacida en Chicago.</lex>
+      <lex lang="es" lid="Id3">Los nativos Americanos son el grupo étnico de Estados Unidos, país del que era nacional Abraham A. Ribicoff. Nacida en Chicago, Casey Ribicoff era la esposa de Abraham A. Ribcoff, fallecido en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">L'americà Abraham A. Ribicoff va morir als Estats Units i estava casat amb Casey Ribicoff, que va néixer a Chicago. Els nadius americans són un dels diversos grups ètnics dels EUA.</lex>
+      <lex lang="ca" lid="Id2">Abraham A Ribicoff va néixer i va morir als Estats Units, un país on un dels grups ètnics són els nadius americans. Es va casar amb Casey Ribicoff, que va néixer a Chicago.</lex>
+      <lex lang="ca" lid="Id3">Els natius americans són el grup ètnic dels Estats Units, el país del qual era nacional Abraham A. Ribicoff. Nascut a Chicago, Casey Ribicoff era l'esposa d'Abraham A. Ribcoff, que va morir als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Abraham A. Ribicoff estatubatuarra Estatu Batuetan hil zen eta Casey Ribicoffekin ezkondu zen, Chicagon jaioa. Ameriketako Estatu Batuetako hainbat talde etnikoetako bat dira.</lex>
+      <lex lang="eu" lid="Id2">Abraham A. Ribicoff Ameriketako Estatu Batuetan jaio zen eta bertan hil zen. Casey Ribicoff-ekin ezkondu zen, Chicagon jaioa, eta bi seme-alaba izan zituzten.</lex>
+      <lex lang="eu" lid="Id3">Amerikar natiboak Ameriketako Estatu Batuetako talde etnikoa dira, Abraham A. Ribicoff herritarra zen herrialdea.</lex>
+      <lex lang="gl" lid="Id1">O estadounidense Abraham A. Ribicoff faleceu nos Estados Unidos e estivo casado con Casey Ribicoff, que naceu en Chicago. Os nativos americanos son un dos varios grupos étnicos dos EE. UU.</lex>
+      <lex lang="gl" lid="Id2">Abraham A Ribicoff naceu e morreu nos Estados Unidos, un país onde un dos grupos étnicos son os nativos americanos. Casou con Casey Ribicoff que naceu en Chicago.</lex>
+      <lex lang="gl" lid="Id3">Os nativos americanos son o grupo étnico dos Estados Unidos, o país do que Abraham A. Ribicoff era nacional. Nacida en Chicago, Casey Ribicoff era a esposa de Abraham A. Ribicoff, que faleceu nos Estados Unidos.</lex>
+      </entry>
+    <entry category="Politician" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Adam_Holloway | birthPlace | Kent</otriple>
+        <otriple>Adam_Holloway | office | "for Gravesham"@en</otriple>
+        <otriple>Adam_Holloway | activeYearsStartDate | "2005-05-05"^^xsd:date</otriple>
+        <otriple>Adam_Holloway | branch | Grenadier_Guards</otriple>
+        <otriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | birthPlace | Kent</mtriple>
+        <mtriple>Adam_Holloway | office | Member_of_Parliament_for_Gravesham</mtriple>
+        <mtriple>Adam_Holloway | activeYearsStartDate | 2005-05-05</mtriple>
+        <mtriple>Adam_Holloway | militaryBranch | Grenadier_Guards</mtriple>
+        <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Holloway | LugarDeNacimiento | Kent</striple>
+        <striple>Adam_Holloway | Oficina | Diputado_por_Gravesham</striple>
+        <striple>Adam_Holloway | AñosActivosFechaDeInicio | 05-05-2005</striple>
+        <striple>Adam_Holloway | RamaMilitar | Grenadier_Guards</striple>
+        <striple>Adam_Holloway | AlmaMáter | Magdalene_College,_Cambridge</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Adam_Holloway | LlocDeNaixement | Kent</ctriple>
+        <ctriple>Adam_Holloway | Oficina | Membre_del_Parlament_per_Gravesham</ctriple>
+        <ctriple>Adam_Holloway | AnysActiusDataD'inici | 2005-05-05</ctriple>
+        <ctriple>Adam_Holloway | BrancaMilitar | Grenadier_Guards</ctriple>
+        <ctriple>Adam_Holloway | AlmaMater | Magdalene_College,_Cambridge_(anglès)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Adam_Holloway | LugarDeNacemento | Kent</gtriple>
+        <gtriple>Adam_Holloway | Oficina | Membro_do_Parlamento_por_Gravesham</gtriple>
+        <gtriple>Adam_Holloway | AnosActivosDataDeInicio | 2005-05-05</gtriple>
+        <gtriple>Adam_Holloway | BrancaMilitar | Garda_de_granadeiros</gtriple>
+        <gtriple>Adam_Holloway | AlmaMater | Magdalene_College,_Cambridge_(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adam_Holloway | JaiotzeLekua | Kent,_zer_gertatzen_da?</btriple>
+        <btriple>Adam_Holloway | Bulegoa | Gravesham-eko_Parlamentuko_kidea</btriple>
+        <btriple>Adam_Holloway | UrteAktiboakHasierakoData | 2005-05-05</btriple>
+        <btriple>Adam_Holloway | AdarraMilitarra | Grenadier_Guards</btriple>
+        <btriple>Adam_Holloway | AlmaMater | Magdalene_College,_Cambridgeko_Unibertsitatea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adam Holloway was born in Kent and attended Magdalene College in Cambridge. He began his career on 5 May 2005 and served in the Grenadier Guards and became a member of parliament for Gravesham.</lex>
+      <lex lang="en" lid="Id2">Gravesham Parliament member and Magdalene College Cambridge alum Adam Holloway, was born in Kent. A Grenadier Guard, he began his career 05/05/2005.</lex>
+      <lex lang="en" lid="Id3">Adam Holloway was born in Kent, and began his career on the 5th May 2005. He served in the Grenadier guards and was a MP for Gravesham. His alma mater is Magdalene College, Cambridge.</lex>
+      <lex lang="es" lid="Id1">Adam Holloway nació en Kent y estudió en el Magdalene College de Cambridge. Comenzó su carrera el 05-05-2005, sirvió en la Guardia de Granaderos y fue diputado por Gravesham.</lex>
+      <lex lang="es" lid="Id2">Adam Holloway, miembro del Parlamento de Gravesham y antiguo alumno del Magdalene College de Cambridge, nació en Kent. Guardia de Granaderos, comenzó su carrera el 05/05/2005.</lex>
+      <lex lang="es" lid="Id3">Adam Holloway nació en Kent y comenzó su carrera el 05-05-2005. Sirvió en la Guardia de Granaderos y fue diputado por Gravesham. Su alma mater es el Magdalene College de Cambridge.</lex>
+      <lex lang="ca" lid="Id1">Adam Holloway va néixer a Kent i va anar al Magdalene College de Cambridge. Va començar la seva carrera el 5 de maig de 2005 i va servir a les Guàrdies de Granaders i va esdevenir membre del parlament per Gravesham.</lex>
+      <lex lang="ca" lid="Id2">Adam Holloway, membre del Parlament de Gravesham i exalumne del Magdalene College de Cambridge, va néixer a Kent.</lex>
+      <lex lang="ca" lid="Id3">Adam Holloway va néixer a Kent, i va començar la seva carrera el 5 de maig de 2005. Va servir a la Guàrdia Granadera i va ser diputat per Gravesham. La seva alma mater és el Magdalene College, Cambridge.</lex>
+      <lex lang="eu" lid="Id1">Adam Holloway Kent-en jaio zen eta Cambridge-ko Magdalene College-an ikasi zuen. Bere karrera 2005eko maiatzaren 5ean hasi zuen eta Grenadier Guards-en zerbitzatu zuen eta Gravesham-eko parlamentuko kide bihurtu zen.</lex>
+      <lex lang="eu" lid="Id2">Gravesham-eko Parlamentuko kidea eta Cambridge-ko Magdalene College-ko ikasle ohia, Adam Holloway Kent-en jaio zen. Grenadier Guard-en hasi zuen bere karrera 2005eko maiatzaren 5ean.</lex>
+      <lex lang="eu" lid="Id3">Adam Holloway Kent-en jaio zen, eta bere karrera 2005eko maiatzaren 5ean hasi zuen. Granadier Guardian zerbitzatu zuen eta Gravesham-eko diputatu izan zen. Bere alma mater-a Magdalene College da, Cambridge-n.</lex>
+      <lex lang="gl" lid="Id1">Adam Holloway naceu en Kent e asistiu ao Magdalene College en Cambridge. Comezou a súa carreira o 5 de maio de 2005 e serviu na Garda de Granadeiros e converteuse en membro do parlamento por Gravesham.</lex>
+      <lex lang="gl" lid="Id2">Adam Holloway, membro do Parlamento de Gravesham e ex-alumno do Magdalene College de Cambridge, naceu en Kent.</lex>
+      <lex lang="gl" lid="Id3">Adam Holloway naceu en Kent e comezou a súa carreira o 5 de maio de 2005. Serviu nas Gardas Grenadier e foi deputado por Gravesham. A súa alma mater é o Magdalene College, Cambridge.</lex>
+      </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Agnes_Kant | nationality | Netherlands</otriple>
+        <otriple>Netherlands | leaderName | Mark_Rutte</otriple>
+        <otriple>Agnes_Kant | office | House_of_Representatives_(Netherlands)</otriple>
+        <otriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</otriple>
+        <otriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agnes_Kant | nationality | Netherlands</otriple>
+        <otriple>Netherlands | leaderName | Mark_Rutte</otriple>
+        <otriple>Agnes_Kant | office | "House of Representatives (Netherlands)"@en</otriple>
+        <otriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</otriple>
+        <otriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | nationality | Netherlands</mtriple>
+        <mtriple>Netherlands | leader | Mark_Rutte</mtriple>
+        <mtriple>Agnes_Kant | office | House_of_Representatives_(Netherlands)</mtriple>
+        <mtriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</mtriple>
+        <mtriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agnes_Kant | Nacionalidad | Países_Bajos</striple>
+        <striple>Países_Bajos | Líder | Mark_Rutte</striple>
+        <striple>Agnes_Kant | Oficina | Segunda_Cámara_de_los_Estados_Generales_(Países_Bajos)</striple>
+        <striple>Partido_Socialista | Líder | Emile_Roemer</striple>
+        <striple>Agnes_Kant | Fiesta | Partido_Socialista</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Agnes_Kant | Nacionalitat | Països_Baixos</ctriple>
+        <ctriple>Països_Baixos | Líder | Mark_Rutte</ctriple>
+        <ctriple>Agnes_Kant | Oficina | Cambra_de_Representants_(Països_Baixos)</ctriple>
+        <ctriple>Partit_Socialista_(Països_Baixos) | Líder | Emile_Roemer</ctriple>
+        <ctriple>Agnes_Kant | Festa | Partit_Socialista_(Països_Baixos)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agnes_Kant | Nacionalidade | Países_Baixos</gtriple>
+        <gtriple>Países_Baixos | Líder | Mark_Rutte</gtriple>
+        <gtriple>Agnes_Kant | Oficina | Cámara_de_Representantes_(Países_Baixos)</gtriple>
+        <gtriple>Partido_Socialista_(Países_Baixos) | Líder | Emile_Roemer</gtriple>
+        <gtriple>Agnes_Kant | Partido | Partido_Socialista_(Países_Baixos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agnes_Kant | Nazionalitatea | Herbehereak</btriple>
+        <btriple>Herbehereak | Buruzagia. | Mark_Rutte_izan_zen.</btriple>
+        <btriple>Agnes_Kant | Bulegoa | Ordezkarien_Etxea_(Herbehereak)</btriple>
+        <btriple>Alderdi_Sozialista_(Herbehereak) | Buruzagia. | Emile_Roemer</btriple>
+        <btriple>Agnes_Kant | FestaBat. | Alderdi_Sozialista_(Herbehereak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agnes Kant is a national of the Netherlands which is led by Mark Rutte. She worked at the House of Representatives and is a member of the Socialist Party led by Emile Roemer.</lex>
+      <lex lang="en" lid="Id2">Agnes Kant is from the Netherlands, where Mark Rutte is the leader. She worked at the House of Representatives in the Netherlands and is a member of the Netherlands Socialist Party, whose leader is Emile Roemer.</lex>
+      <lex lang="es" lid="Id1">Agnes Kant es una ciudadana de los Países Bajos dirigidos por Mark Rutte. Trabajó en la Cámara de Representantes y es miembro del Partido Socialista dirigido por Emile Roemer.</lex>
+      <lex lang="es" lid="Id2">Agnes Kant es de los Países Bajos, donde Mark Rutte es el líder. Trabajó en la Cámara de Representantes de los Países Bajos y es miembro del Partido Socialista de los Países Bajos, cuyo líder es Emile Roemer.</lex>
+      <lex lang="ca" lid="Id1">Agnes Kant és una ciutadana dels Països Baixos liderats per Mark Rutte. Va treballar a la Cambra de Representants i és membre del Partit Socialista liderat per Emile Roemer.</lex>
+      <lex lang="ca" lid="Id2">Agnes Kant és dels Països Baixos, on Mark Rutte és el líder. Va treballar a la Cambra de Representants dels Països Baixos i és membre del Partit Socialista dels Països Baixos, el líder del qual és Emile Roemer.</lex>
+      <lex lang="eu" lid="Id1">Agnes Kant Herbehereetako herritarra da, Mark Rutte buru duena. Ordezkarien Ganberan lan egin zuen eta Emile Roemer buru duen Alderdi Sozialistako kidea da.</lex>
+      <lex lang="eu" lid="Id2">Agnes Kant Herbehereetakoa da, eta Mark Rutte da hango liderra. Herbehereetako Ordezkarien Ganberan lan egin zuen, eta Herbehereetako Alderdi Sozialistako kidea da; Emile Roemer da hango liderra.</lex>
+      <lex lang="gl" lid="Id1">Agnes Kant é unha cidadá dos Países Baixos liderada por Mark Rutte. Traballou na Cámara de Representantes e é membro do Partido Socialista liderado por Emile Roemer.</lex>
+      <lex lang="gl" lid="Id2">Agnes Kant é dos Países Baixos, onde Mark Rutte é o líder. Traballou na Cámara de Representantes dos Países Baixos e é membro do Partido Socialista dos Países Baixos, cuxo líder é Emile Roemer.</lex>
+      </entry>
+    <entry category="Politician" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Agnes_Kant | nationality | Netherlands</otriple>
+        <otriple>Netherlands | leaderName | Mark_Rutte</otriple>
+        <otriple>Agnes_Kant | office | Parliamentary_group_leader</otriple>
+        <otriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</otriple>
+        <otriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | nationality | Netherlands</mtriple>
+        <mtriple>Netherlands | leader | Mark_Rutte</mtriple>
+        <mtriple>Agnes_Kant | office | Parliamentary_group_leader</mtriple>
+        <mtriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</mtriple>
+        <mtriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agnes_Kant | Nacionalidad | Países_Bajos</striple>
+        <striple>Países_Bajos | Líder | Mark_Rutte</striple>
+        <striple>Agnes_Kant | Oficina | Jefe_de_grupo_parlamentario</striple>
+        <striple>Partido_Socialista | Líder | Emile_Roemer</striple>
+        <striple>Agnes_Kant | Fiesta | Partido_Socialista</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Agnes_Kant | Nacionalitat | Països_Baixos</ctriple>
+        <ctriple>Països_Baixos | Líder | Mark_Rutte</ctriple>
+        <ctriple>Agnes_Kant | Oficina | líder_del_grup_parlamentari</ctriple>
+        <ctriple>Partit_Socialista_(Països_Baixos) | Líder | Emile_Roemer</ctriple>
+        <ctriple>Agnes_Kant | Festa | Partit_Socialista_(Països_Baixos)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agnes_Kant | Nacionalidade | Países_Baixos</gtriple>
+        <gtriple>Países_Baixos | Líder | Mark_Rutte</gtriple>
+        <gtriple>Agnes_Kant | Oficina | Líder_do_grupo_parlamentario</gtriple>
+        <gtriple>Partido_Socialista_(Países_Baixos) | Líder | Emile_Roemer</gtriple>
+        <gtriple>Agnes_Kant | Partido | Partido_Socialista_(Países_Baixos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agnes_Kant | Nazionalitatea | Herbehereak</btriple>
+        <btriple>Herbehereak | Buruzagia. | Mark_Rutte_izan_zen.</btriple>
+        <btriple>Agnes_Kant | Bulegoa | Talde_parlamentarioaren_burua</btriple>
+        <btriple>Alderdi_Sozialista_(Herbehereak) | Buruzagia. | Emile_Roemer</btriple>
+        <btriple>Agnes_Kant | FestaBat. | Alderdi_Sozialista_(Herbehereak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agnes Kant, from the Netherlands, where the leader is Mark Rutte, worked as a Parliamentary group leader. She is a member of the Netherlands Socialist Party, whose leader is Emile Roemer.</lex>
+      <lex lang="en" lid="Id2">Agnes Kant, of Netherlands, is a member of the country's Socialist Party which is led by Emile Roemer. Kant was a Parliamentary group leader. in the country which is led by Mark Rutte.</lex>
+      <lex lang="es" lid="Id1">Agnes Kant, de los Países Bajos, cuyo líder es Mark Rutte, trabajó como jefa de grupo parlamentario. Es miembro del Partido Socialista de los Países Bajos, cuyo líder es Emile Roemer.</lex>
+      <lex lang="es" lid="Id2">Agnes Kant, de los Países Bajos, es miembro del Partido Socialista del país, dirigido por Emile Roemer. Kant fue jefa de grupo parlamentario en el país dirigido por Mark Rutte.</lex>
+      <lex lang="ca" lid="Id1">Agnes Kant, dels Països Baixos, on el líder és Mark Rutte, va treballar com a líder de grup parlamentari. És membre del Partit Socialista dels Països Baixos, el líder del qual és Emile Roemer.</lex>
+      <lex lang="ca" lid="Id2">Agnes Kant, dels Països Baixos, és membre del Partit Socialista del país, liderat per Emile Roemer. Kant va ser líder del grup parlamentari al país liderat per Mark Rutte.</lex>
+      <lex lang="eu" lid="Id1">Agnes Kant, Herbehereetakoa, non Mark Rutte da buruzagia, talde parlamentarioko buruzagi bezala lan egin zuen. Herbehereetako Alderdi Sozialistako kidea da, Emile Roemer buru duena.</lex>
+      <lex lang="eu" lid="Id2">Agnes Kant, Herbehereetakoa, herrialdeko Alderdi Sozialistako kidea da, Emile Roemerrek zuzentzen duena.</lex>
+      <lex lang="gl" lid="Id1">Agnes Kant, dos Países Baixos, onde o líder é Mark Rutte, traballou como líder do grupo parlamentario. É membro do Partido Socialista dos Países Baixos, cuxo líder é Emile Roemer.</lex>
+      <lex lang="gl" lid="Id2">Agnes Kant, dos Países Baixos, é membro do Partido Socialista do país, liderado por Emile Roemer. Kant foi líder do grupo parlamentario no país, liderado por Mark Rutte.</lex>
+      </entry>
+    <entry category="Politician" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Agnes_Kant | nationality | Netherlands</otriple>
+        <otriple>Netherlands | leaderName | Mark_Rutte</otriple>
+        <otriple>Socialist_Party_(Netherlands) | colour | Red</otriple>
+        <otriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</otriple>
+        <otriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | nationality | Netherlands</mtriple>
+        <mtriple>Netherlands | leader | Mark_Rutte</mtriple>
+        <mtriple>Socialist_Party_(Netherlands) | colour | Red</mtriple>
+        <mtriple>Socialist_Party_(Netherlands) | leader | Emile_Roemer</mtriple>
+        <mtriple>Agnes_Kant | party | Socialist_Party_(Netherlands)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agnes_Kant | Nacionalidad | Países_Bajos</striple>
+        <striple>Países_Bajos | Líder | Mark_Rutte</striple>
+        <striple>Partido_Socialista | Color | rojo</striple>
+        <striple>Partido_Socialista | Líder | Emile_Roemer</striple>
+        <striple>Agnes_Kant | Fiesta | Partido_Socialista</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Agnes_Kant | Nacionalitat | Països_Baixos</ctriple>
+        <ctriple>Països_Baixos | Líder | Mark_Rutte</ctriple>
+        <ctriple>Partit_Socialista_(Països_Baixos) | Color | Red</ctriple>
+        <ctriple>Partit_Socialista_(Països_Baixos) | Líder | Emile_Roemer</ctriple>
+        <ctriple>Agnes_Kant | Festa | Partit_Socialista_(Països_Baixos)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agnes_Kant | Nacionalidade | Países_Baixos</gtriple>
+        <gtriple>Países_Baixos | Líder | Mark_Rutte</gtriple>
+        <gtriple>Partido_Socialista_(Países_Baixos) | Cor | Vermello</gtriple>
+        <gtriple>Partido_Socialista_(Países_Baixos) | Líder | Emile_Roemer</gtriple>
+        <gtriple>Agnes_Kant | Partido | Partido_Socialista_(Países_Baixos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agnes_Kant | Nazionalitatea | Herbehereak</btriple>
+        <btriple>Herbehereak | Buruzagia. | Mark_Rutte_izan_zen.</btriple>
+        <btriple>Alderdi_Sozialista_(Herbehereak) | Kolorea | Gorria</btriple>
+        <btriple>Alderdi_Sozialista_(Herbehereak) | Buruzagia. | Emile_Roemer</btriple>
+        <btriple>Agnes_Kant | FestaBat. | Alderdi_Sozialista_(Herbehereak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agnes Kant is a national of the Netherlands which is led by Mark Rutte. She is a member of the Socialist Party which uses the colour red and is led by Emile Roemer.</lex>
+      <lex lang="en" lid="Id2">Associated with the colour red, The Socialist Party of The Netherlands, is led by Emile Roemer. Agnes Kant is a member of the Socialist Party in the Netherlands. The nationality of Agnes Kant is Netherlands, the leader of which is, Mark Rutte.</lex>
+      <lex lang="en" lid="Id3">Agnes Kant is a member of the Socialist Party in the Netherlands which is led by Emile Roemer and makes use of the colour red. She is a national of the Netherlands which is led by Mark Rutte.</lex>
+      <lex lang="es" lid="Id1">Agnes Kant es una ciudadana de los Países Bajos dirigidos por Mark Rutte. Es miembro del Partido Socialista, que utiliza el color rojo y está dirigido por Emile Roemer.</lex>
+      <lex lang="es" lid="Id2">Asociado al color rojo, el Partido Socialista de los Países Bajos está dirigido por Emile Roemer. Agnes Kant es miembro del Partido Socialista de los Países Bajos. La nacionalidad de Agnes Kant es neerlandesa, cuyo líder es Mark Rutte.</lex>
+      <lex lang="es" lid="Id3">Agnes Kant es miembro del Partido Socialista de los Países Bajos, dirigido por Emile Roemer y que utiliza el color rojo. Tiene la nacionalidad de los Países Bajos dirigidos por Mark Rutte.</lex>
+      <lex lang="ca" lid="Id1">Agnes Kant és una ciutadana dels Països Baixos liderats per Mark Rutte. És membre del Partit Socialista que utilitza el color vermell i està liderat per Emile Roemer.</lex>
+      <lex lang="ca" lid="Id2">Associat amb el color vermell, el Partit Socialista dels Països Baixos està liderat per Emile Roemer. Agnes Kant és membre del Partit Socialista dels Països Baixos. La nacionalitat d'Agnes Kant és neerlandesa, el líder de la qual és Mark Rutte.</lex>
+      <lex lang="ca" lid="Id3">Agnes Kant és membre del Partit Socialista dels Països Baixos, liderat per Emile Roemer, i fa servir el color vermell. És ciutadana dels Països Baixos, liderats per Mark Rutte.</lex>
+      <lex lang="eu" lid="Id1">Agnes Kant Herbehereetako herritar bat da, Mark Rutte buru duena. Alderdi Sozialistako kidea da, kolore gorria erabiltzen duena eta Emile Roemer buru duena.</lex>
+      <lex lang="eu" lid="Id2">Emile Roemer-ek gidatzen du Herbehereetako Alderdi Sozialista, kolore gorriarekin lotua. Agnes Kant Herbehereetako Alderdi Sozialistako kidea da. Agnes Kanten nazionalitatea Herbehereetakoa da, eta haren liderra Mark Rutte da.</lex>
+      <lex lang="eu" lid="Id3">Agnes Kant Herbehereetako Alderdi Sozialistako kidea da, Emile Roemer buru duena eta kolore gorria erabiltzen duena. Herbehereetako herritarra da, Mark Rutte buru duena.</lex>
+      <lex lang="gl" lid="Id1">Agnes Kant é unha nacional dos Países Baixos que está liderada por Mark Rutte. É membro do Partido Socialista que usa a cor vermella e está liderada por Emile Roemer.</lex>
+      <lex lang="gl" lid="Id2">Associado coa cor vermella, o Partido Socialista dos Países Baixos, liderado por Emile Roemer. Agnes Kant é membro do Partido Socialista dos Países Baixos. A nacionalidade de Agnes Kant son os Países Baixos, cuxo líder é Mark Rutte.</lex>
+      <lex lang="gl" lid="Id3">Agnes Kant é membro do Partido Socialista dos Países Baixos, liderado por Emile Roemer, e usa a cor vermella. É nacional dos Países Baixos, liderados por Mark Rutte. Name</lex>
+      </entry>
+    <entry category="Politician" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
+        <otriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</otriple>
+        <otriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</otriple>
+        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
+        <otriple>William_M._O._Dawson | placeOfBirth | Bloomington,_Maryland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
+        <mtriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</mtriple>
+        <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
+        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
+        <mtriple>William_M._O._Dawson | birthPlace | Bloomington,_Maryland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albert_B._White | Cónyuge | Agnes_Ward_White</striple>
+        <striple>Agnes_Ward_White | LugarDeNacimiento | Marietta</striple>
+        <striple>Albert_B._White | LugarDeLaMuerte | Parkersburg,_Virginia_Occidental</striple>
+        <striple>Albert_B._White | Sucesor | William_M._O._Dawson</striple>
+        <striple>William_M._O._Dawson | LugarDeNacimiento | Bloomington</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Albert_B._White | Cònjuge | Agnes_Ward_White</ctriple>
+        <ctriple>Agnes_Ward_White | LlocDeNaixement | Marietta,_Ohio</ctriple>
+        <ctriple>Albert_B._White | LlocDeLaMort | Parkersburg,_Virgínia_Occidental</ctriple>
+        <ctriple>Albert_B._White | Successor | William_M._O._Dawson</ctriple>
+        <ctriple>William_M._O._Dawson | LlocDeNaixement | Bloomington,_Maryland</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Albert_B._White | Cónxuxe | Agnes_Ward_White</gtriple>
+        <gtriple>Agnes_Ward_White | LugarDeNacemento | Marietta,_Ohio</gtriple>
+        <gtriple>Albert_B._White | LugarDaMorte | Parkersburg,_Virxinia_Occidental</gtriple>
+        <gtriple>Albert_B._White | Sucesor | William_M._O._Dawson</gtriple>
+        <gtriple>William_M._O._Dawson | LugarDeNacemento | Bloomington,_Maryland</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Albert_B._Whitek_esan_zuen: | Ezkontidea | Agnes_Ward_zuria</btriple>
+        <btriple>Agnes_Ward_zuria | JaiotzeLekua | Marietta,_Ohio</btriple>
+        <btriple>Albert_B._Whitek_esan_zuen: | HeriotzarenLekua | Parkersburg,_Mendebaldeko_Virginia</btriple>
+        <btriple>Albert_B._Whitek_esan_zuen: | Ondorengoa | William_M._O._Dawson</btriple>
+        <btriple>William_M._O._Dawson | JaiotzeLekua | Bloomington,_Maryland</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Albert B White was married to Agnes Ward White who was born in Marietta, Ohio . Before he died in Parkersburg, West Virginia he was succeeded by William M O Dawson whose birthplace was Bloomington Maryland.</lex>
+      <lex lang="en" lid="Id2">Born in Marietta, Ohio, Agnes Ward White was married to Albert B. White. He died in Parkersburg, West Virginia and was succeeded by William M O Dawson. The birthplace of William M. O. Dawson was Bloomington Maryland.</lex>
+      <lex lang="en" lid="Id3">Agnes Ward White was born in Marietta, Ohio and became the spouse of Albert B White who died at Parkersburg, West Virginia. He had been succeeded by William M O Dawson whose birthplace was Bloomington Maryland.</lex>
+      <lex lang="es" lid="Id1">Albert B White estaba casado con Agnes Ward White que nació en Marietta, Ohio . Antes de morir en Parkersburg, West Virginia fue sucedido por William M O Dawson cuyo lugar de nacimiento fue Bloomington Maryland.</lex>
+      <lex lang="es" lid="Id2">Nacida en Marietta, Ohio, Agnes Ward White estuvo casada con Albert B. White. Murió en Parkersburg, Virginia Occidental, y le sucedió William M O Dawson. El lugar de nacimiento de William M. O. Dawson fue Bloomington Maryland.</lex>
+      <lex lang="es" lid="Id3">Agnes Ward White nació en Marietta, Ohio, y fue cónyuge de Albert B White, fallecido en Parkersburg, Virginia Occidental. Le sucedió William M O Dawson cuyo lugar de nacimiento fue Bloomington Maryland.</lex>
+      <lex lang="ca" lid="Id1">Albert B White es va casar amb Agnes Ward White, que va néixer a Marietta, Ohio. Abans de morir a Parkersburg, Virgínia Occidental, va ser succeït per William M O Dawson, que va néixer a Bloomington, Maryland.</lex>
+      <lex lang="ca" lid="Id2">Nascuda a Marietta, Ohio, Agnes Ward White es va casar amb Albert B. White. Va morir a Parkersburg, Virgínia Occidental i va ser succeïda per William M. O. Dawson. El lloc de naixement de William M. O. Dawson va ser Bloomington Maryland.</lex>
+      <lex lang="ca" lid="Id3">Agnes Ward White va néixer a Marietta, Ohio, i es va casar amb Albert B White, que va morir a Parkersburg, Virgínia Occidental. El va succeir William M O Dawson, que va néixer a Bloomington, Maryland.</lex>
+      <lex lang="eu" lid="Id1">Albert B. White Agnes Ward White-rekin ezkondu zen, Marietta, Ohio-n jaioa.</lex>
+      <lex lang="eu" lid="Id2">Marietta, Ohion jaioa, Agnes Ward White Albert B. Whiterekin ezkondu zen. White Parkersburgen hil zen, Mendebaldeko Virginian, eta William M. O. Dawson izan zen haren oinordekoa. William M. O. Dawson Bloomington Marylanden jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Agnes Ward White Marietta-n (Ohio) jaio zen eta West Virginiako Parkersburg-en hil zen Albert B. Whiteren emaztea izan zen. Haren oinordekoa William M. O. Dawson izan zen, Bloomington-en (Maryland) jaioa.</lex>
+      <lex lang="gl" lid="Id1">Albert B. White casou con Agnes Ward White, que naceu en Marietta, Ohio. Antes de morrer en Parkersburg, West Virginia, foi sucedido por William M. O. Dawson, que naceu en Bloomington, Maryland.</lex>
+      <lex lang="gl" lid="Id2">Nacida en Marietta, Ohio, Agnes Ward White casou con Albert B. White. Morreu en Parkersburg, Virxinia Occidental e foi sucedida por William M O Dawson. O lugar de nacemento de William M O Dawson foi Bloomington Maryland.</lex>
+      <lex lang="gl" lid="Id3">Agnes Ward White naceu en Marietta, Ohio e casou con Albert B White, que faleceu en Parkersburg, Virxinia Occidental. Sucedeulle William M O Dawson, que naceu en Bloomington, Maryland.</lex>
+      </entry>
+    <entry category="Politician" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | deathPlace | Buenos_Aires</otriple>
+        <otriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</otriple>
+        <otriple>Alberto_Teisaire | nationality | Argentina</otriple>
+        <otriple>Buenos_Aires | leaderName | Gabriela_Michetti</otriple>
+        <otriple>Argentina | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | deathPlace | Buenos_Aires</mtriple>
+        <mtriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</mtriple>
+        <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
+        <mtriple>Buenos_Aires | leader | Gabriela_Michetti</mtriple>
+        <mtriple>Argentina | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alberto_Teisseire | LugarDeLaMuerte | Buenos_Aires</striple>
+        <striple>Buenos_Aires | ÓrganoRector | Legislatura_de_la_Ciudad_Autónoma_de_Buenos_Aires</striple>
+        <striple>Alberto_Teisseire | Nacionalidad | Argentina</striple>
+        <striple>Buenos_Aires | Líder | Gabriela_Michetti</striple>
+        <striple>Argentina | Idioma | español</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alberto_Teisaire | LlocDeLaMort | Buenos_Aires</ctriple>
+        <ctriple>Buenos_Aires | ÒrganDeGovern | Legislatura_de_la_Ciutat_de_Buenos_Aires</ctriple>
+        <ctriple>Alberto_Teisaire | Nacionalitat | Argentina</ctriple>
+        <ctriple>Buenos_Aires | Líder | Gabriela_Michetti</ctriple>
+        <ctriple>Argentina | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alberto_Teisaire | LugarDaMorte | Buenos_Aires</gtriple>
+        <gtriple>Buenos_Aires | ÓrganoDeGoberno | Legislatura_da_cidade_de_Buenos_Aires</gtriple>
+        <gtriple>Alberto_Teisaire | Nacionalidade | Arxentina</gtriple>
+        <gtriple>Buenos_Aires | Líder | Gabriela_Michetti</gtriple>
+        <gtriple>Arxentina | Lingua | Idioma_español</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alberto_Teisaire | HeriotzarenLekua | Buenos_Aires</btriple>
+        <btriple>Buenos_Aires | KontseiluZuzendaria | Buenos_Airesko_Legebiltzarra</btriple>
+        <btriple>Alberto_Teisaire | Nazionalitatea | Argentina</btriple>
+        <btriple>Buenos_Aires | Buruzagia. | Gabriela_Michetti</btriple>
+        <btriple>Argentina | Hizkuntza | Espainiera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alberto Teisaire was from Argentina where Spanish is spoken. He died in Buenos Aires, where the leader is Gabriela Michetti and the governing body is the Buenos Aires City Legislature.</lex>
+      <lex lang="en" lid="Id2">The language of Argentina is Spanish. Argentinian, Alberto Teisaire, died in Buenos Aires. The city is led by Gabriela Michetti and is governed by the Buenos Aires City Legislature.</lex>
+      <lex lang="en" lid="Id3">Alberto Teisaire was Argentinian and died in Buenos Aires. The governing body in Buenos Aires is the Buenos Aires City Legislature and the leader is Gabriela Michetti. The language of Argentina is Spanish.</lex>
+      <lex lang="es" lid="Id1">Alberto Teisaire era de Argentina, donde se habla español. Murió en Buenos Aires, donde la líder es Gabriela Michetti y el órgano de gobierno es la Legislatura de la Ciudad de Buenos Aires.</lex>
+      <lex lang="es" lid="Id2">El idioma de Argentina es el español. El argentino Alberto Teisaire murió en Buenos Aires. La ciudad está dirigida por Gabriela Michetti y gobernada por la Legislatura de la Ciudad de Buenos Aires.</lex>
+      <lex lang="es" lid="Id3">Alberto Teisaire era argentino y murió en Buenos Aires. El órgano de gobierno de Buenos Aires es la Legislatura de la Ciudad de Buenos Aires y su líder es Gabriela Michetti. El idioma de Argentina es el español.</lex>
+      <lex lang="ca" lid="Id1">Alberto Teisaire era d'Argentina on es parla castellà. Va morir a Buenos Aires, on el líder és Gabriela Michetti i l'òrgan de govern és la Legislatura de la ciutat de Buenos Aires.</lex>
+      <lex lang="ca" lid="Id2">L'idioma de l'Argentina és l'espanyol. L'argentí Alberto Teisaire va morir a Buenos Aires. La ciutat està dirigida per Gabriela Michetti i és governada per la legislatura de la ciutat de Buenos Aires.</lex>
+      <lex lang="ca" lid="Id3">Alberto Teisaire va ser argentí i va morir a Buenos Aires. L'òrgan de govern a Buenos Aires és la Legislatura de la Ciutat de Buenos Aires i el líder és Gabriela Michetti. L'idioma de l'Argentina és l'espanyol.</lex>
+      <lex lang="eu" lid="Id1">Alberto Teisaire Argentinakoa zen, eta gaztelaniaz mintzatzen zen. Buenos Airesen hil zen, non gobernuburua Gabriela Michetti den eta gobernu-organoa Buenos Aires Hiriko Legegilea.</lex>
+      <lex lang="eu" lid="Id2">Argentinako hizkuntza gaztelania da. Argentinarra, Alberto Teisaire, Buenos Airesen hil zen.</lex>
+      <lex lang="eu" lid="Id3">Alberto Teisaire argentinarra zen eta Buenos Airesen hil zen. Buenos Airesko gobernu-organoa Buenos Aires Hiriko Legegilea da eta bertako burua Gabriela Michetti da. Argentinako hizkuntza gaztelania da.</lex>
+      <lex lang="gl" lid="Id1">Alberto Teisaire era de Arxentina, onde se fala español. Morreu en Buenos Aires, onde o líder é Gabriela Michetti e o órgano gobernante é a lexislatura da cidade de Buenos Aires.</lex>
+      <lex lang="gl" lid="Id2">A lingua oficial de Arxentina é o castelán. O argentino Alberto Teisaire morreu en Buenos Aires. A cidade está liderada por Gabriela Michetti e é gobernada pola Asemblea Lexislativa da cidade de Buenos Aires.</lex>
+      <lex lang="gl" lid="Id3">Alberto Teisaire era arxentino e morreu en Buenos Aires. O corpo gobernante en Buenos Aires é a Lexislatura da Cidade de Buenos Aires e o líder é Gabriela Michetti. A lingua da Arxentina é o castelán.</lex>
+      </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | deathPlace | Buenos_Aires</otriple>
+        <otriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</otriple>
+        <otriple>Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta</otriple>
+        <otriple>Alberto_Teisaire | nationality | Argentina</otriple>
+        <otriple>Argentina | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | deathPlace | Buenos_Aires</mtriple>
+        <mtriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</mtriple>
+        <mtriple>Buenos_Aires | leader | Horacio_Rodríguez_Larreta</mtriple>
+        <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
+        <mtriple>Argentina | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alberto_Teisseire | LugarDeLaMuerte | Buenos_Aires</striple>
+        <striple>Buenos_Aires | ÓrganoRector | Legislatura_de_la_Ciudad_Autónoma_de_Buenos_Aires</striple>
+        <striple>Buenos_Aires | Líder | Horacio_Rodríguez_Larreta</striple>
+        <striple>Alberto_Teisseire | Nacionalidad | Argentina</striple>
+        <striple>Argentina | Idioma | español</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alberto_Teisaire | LlocDeLaMort | Buenos_Aires</ctriple>
+        <ctriple>Buenos_Aires | ÒrganDeGovern | Legislatura_de_la_Ciutat_de_Buenos_Aires</ctriple>
+        <ctriple>Buenos_Aires | Líder | Horacio_Rodríguez_Larreta</ctriple>
+        <ctriple>Alberto_Teisaire | Nacionalitat | Argentina</ctriple>
+        <ctriple>Argentina | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alberto_Teisaire | LugarDaMorte | Buenos_Aires</gtriple>
+        <gtriple>Buenos_Aires | ÓrganoDeGoberno | Legislatura_da_cidade_de_Buenos_Aires</gtriple>
+        <gtriple>Buenos_Aires | Líder | Horacio_Rodríguez_Larreta</gtriple>
+        <gtriple>Alberto_Teisaire | Nacionalidade | Arxentina</gtriple>
+        <gtriple>Arxentina | Lingua | Idioma_español</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alberto_Teisaire | HeriotzarenLekua | Buenos_Aires</btriple>
+        <btriple>Buenos_Aires | KontseiluZuzendaria | Buenos_Airesko_Legebiltzarra</btriple>
+        <btriple>Buenos_Aires | Buruzagia. | Horacio_Rodríguez_Larreta</btriple>
+        <btriple>Alberto_Teisaire | Nazionalitatea | Argentina</btriple>
+        <btriple>Argentina | Hizkuntza | Espainiera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The governing body in Buenos Aires is the Buenos Aires City Legislature and the city is led by Horacio Rodríguez Larreta. It is the death place of the Alberto Teisaire who was from Argentina where the language spoken is Spanish.</lex>
+      <lex lang="en" lid="Id2">Spanish is spoken in Argentina the country Alberto Teisaire came from. He died in Buenos Aires, where the governing body is, the Buenos Aires City Legislature. The leader of Buenos Aires is Horacio Rodríguez Larreta.</lex>
+      <lex lang="en" lid="Id3">Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature.</lex>
+      <lex lang="es" lid="Id1">El órgano de gobierno de Buenos Aires es la Legislatura de la Ciudad Autónoma de Buenos Aires y la ciudad está dirigida por Horacio Rodríguez Larreta. Es el lugar de fallecimiento del argentino Alberto Teisaire y el idioma que se habla es el español.</lex>
+      <lex lang="es" lid="Id2">En Argentina, país de origen de Alberto Teisaire, se habla español. Murió en Buenos Aires, donde el órgano de gobierno es la Legislatura de la Ciudad de Buenos Aires. El líder de Buenos Aires es Horacio Rodríguez Larreta.</lex>
+      <lex lang="es" lid="Id3">Alberto Teisaire era argentino y murió en Buenos Aires, donde hablan español. El líder de Buenos Aires es Horacio Rodríguez Larreta y la ciudad está gobernada por la Legislatura de la Ciudad de Buenos Aires.</lex>
+      <lex lang="ca" lid="Id1">L'òrgan de govern de Buenos Aires és la Legislatura de la Ciutat de Buenos Aires i la ciutat està dirigida per Horacio Rodríguez Larreta. És la ciutat natal d'Alberto Teisaire, que era de l'Argentina, on es parla espanyol.</lex>
+      <lex lang="ca" lid="Id2">L'espanyol es parla a l'Argentina, el país d'origen d'Alberto Teisaire. Va morir a Buenos Aires, on es troba l'òrgan de govern, la Legislatura de la ciutat de Buenos Aires. El líder de Buenos Aires és Horacio Rodríguez Larreta.</lex>
+      <lex lang="ca" lid="Id3">Alberto Teisaire era argentí i va morir a Buenos Aires, on parlen castellà.</lex>
+      <lex lang="eu" lid="Id1">Buenos Airesko gobernu organoa Buenos Airesko Legebiltzarra da eta hiria Horacio Rodríguez Larretak zuzentzen du. Alberto Teisaireren heriotza lekua da, Argentinatik zetorrena, non espainieraz hitz egiten den.</lex>
+      <lex lang="eu" lid="Id2">Argentinan mintzatzen da espainola, Alberto Teisaire-ren jaioterrian. Buenos Aires-en hil zen, gobernu-erakundearen egoitzan, Buenos Aires-eko Hiriko Legegilean. Horacio Rodríguez Larreta da Buenos Aires-eko gobernuburua.</lex>
+      <lex lang="eu" lid="Id3">Alberto Teisaire argentinarra zen, eta Buenos Airesen hil zen, gaztelaniaz mintzatzen den hirian. Horacio Rodríguez Larreta da Buenos Aireseko burua, eta Buenos Aires Hiriko Legegileak gobernatzen du hiria.</lex>
+      <lex lang="gl" lid="Id1">O órgano de goberno en Buenos Aires é a Lexislatura da Cidade de Buenos Aires e a cidade está dirixida por Horacio Rodríguez Larreta. É o lugar de falecemento de Alberto Teisaire, que era de Arxentina, onde se fala español.</lex>
+      <lex lang="gl" lid="Id2">O español fálase en Arxentina, o país do que procedía Alberto Teisaire. Faleceu en Buenos Aires, onde se atopa o órgano de goberno, a lexislatura da cidade de Buenos Aires. O líder de Buenos Aires é Horacio Rodríguez Larreta.</lex>
+      <lex lang="gl" lid="Id3">Alberto Teisaire era arxentino e morreu en Buenos Aires, onde se fala español. O líder en Buenos Aires é Horacio Rodríguez Larreta e a cidade está gobernada pola lexislatura da cidade de Buenos Aires.</lex>
+      </entry>
+    <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | successor | Isaac_Rojas</otriple>
+        <otriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</otriple>
+        <otriple>Alberto_Teisaire | office | List_of_Provisional_Presidents_of_Argentine_Senate</otriple>
+        <otriple>Alberto_Teisaire | profession | "Rear Admiral in the Argentine Navy"@en</otriple>
+        <otriple>Alberto_Teisaire | dateOfBirth | "1891-05-20"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | office | "Provisional President of the Argentine Senate"</otriple>
+        <otriple>Alberto_Teisaire | successor | Isaac_Rojas</otriple>
+        <otriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</otriple>
+        <otriple>Alberto_Teisaire | profession | "Rear Admiral in the Argentine Navy"@en</otriple>
+        <otriple>Alberto_Teisaire | dateOfBirth | "1891-05-20"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | office | "Provisional President of the Argentine Senate"</mtriple>
+        <mtriple>Alberto_Teisaire | successor | Isaac_Rojas</mtriple>
+        <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
+        <mtriple>Alberto_Teisaire | profession | "Rear Admiral in the Argentine Navy"</mtriple>
+        <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alberto_Teisseire | Oficina | Presidente_provisional_del_Senado_argentino</striple>
+        <striple>Alberto_Teisseire | Sucesor | Isaac_Francisco_Rojas</striple>
+        <striple>Alberto_Teisseire | LugarDeNacimiento | Mendoza</striple>
+        <striple>Alberto_Teisseire | Profesión | Contraalmirante_de_la_Armada_Argentina</striple>
+        <striple>Alberto_Teisseire | FechaDeNacimiento | 20-05-1891</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alberto_Teisaire | Oficina | President_provisional_del_Senat_argentí</ctriple>
+        <ctriple>Alberto_Teisaire | Successor | Isaac_Rojas</ctriple>
+        <ctriple>Alberto_Teisaire | LlocDeNaixement | Mendoza,_Argentina</ctriple>
+        <ctriple>Alberto_Teisaire | Professió | Contraalmirall_de_l'Armada_Argentina</ctriple>
+        <ctriple>Alberto_Teisaire | DataDeNaixement | 1891-05-20</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alberto_Teisaire | Oficina | Presidente_provisional_do_Senado_argentino</gtriple>
+        <gtriple>Alberto_Teisaire | Sucesor | Isaac_Rojas</gtriple>
+        <gtriple>Alberto_Teisaire | LugarDeNacemento | Mendoza,_Argentina</gtriple>
+        <gtriple>Alberto_Teisaire | Profesión | Contraalmirante_da_Armada_Arxentina.</gtriple>
+        <gtriple>Alberto_Teisaire | DataDeNacemento | 1891-05-20</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alberto_Teisaire | Bulegoa | Argentinako_Senatuko_behin-behineko_presidentea</btriple>
+        <btriple>Alberto_Teisaire | Ondorengoa | Isaac_Rojas</btriple>
+        <btriple>Alberto_Teisaire | JaiotzeLekua | Mendoza,_Argentina</btriple>
+        <btriple>Alberto_Teisaire | Lanbidea | Argentinako_Itsas_Armadako_almirantea_izan_zen.</btriple>
+        <btriple>Alberto_Teisaire | JaiotzeData | 1891-05-20</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alberto Teisaire, born on 20th May 1891 in Mendoza, Argentina was a Rear Admiral in the Argentine Navy. He worked as a Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.</lex>
+      <lex lang="en" lid="Id2">Alberto Teisaire was born in Mendoza, Argentina on May 20th 1891 and served as a Rear Admiral in the Argentine Navy. He worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.</lex>
+      <lex lang="en" lid="Id3">Alberto Teisaire was born in Mendoza, Argentina on May 20th, 1891. He was a Rear Admiral in the Argentine Navy, worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.</lex>
+      <lex lang="es" lid="Id1">Alberto Teisaire, nacido el 20-05-1891 en Mendoza, Argentina, fue Contralmirante de la Armada Argentina. Trabajó como Presidente Provisional del Senado argentino y fue sucedido por Isaac Rojas.</lex>
+      <lex lang="es" lid="Id2">Alberto Teisaire nació en Mendoza (Argentina) el 20-05-1891 y fue contralmirante de la Armada Argentina. Ejerció como Presidente Provisional del Senado argentino y fue sucedido por Isaac Rojas.</lex>
+      <lex lang="es" lid="Id3">Alberto Teisaire nació en Mendoza, Argentina, el 20-05-1891. Fue Contralmirante de la Armada Argentina, ejerció como Presidente Provisional del Senado Argentino y fue sucedido por Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id1">Alberto Teisaire, nascut el 20 de maig de 1891 a Mendoza, Argentina, va ser contralmirall de la Marina argentina. Va treballar com a president provisional del Senat argentí i va ser succeït per Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id2">Alberto Teisaire va néixer a Mendoza, Argentina el 20 de maig de 1891 i va servir com a contraalmirall a la Marina argentina. Va treballar com a president provisional del Senat argentí i va ser succeït per Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id3">Alberto Teisaire va néixer a Mendoza, Argentina, el 20 de maig de 1891. Va ser contraalmirall a la Marina Argentina, va treballar com a president provisional del Senat argentí i va ser succeït per Isaac Rojas.</lex>
+      <lex lang="eu" lid="Id1">Alberto Teisaire (Mendoza, Argentina, 1891ko maiatzaren 20a) Argentinako Itsas Armadako kontraalmirantea izan zen. Argentinako Senatuko behin-behineko presidentea izan zen eta Isaac Rojas izan zen haren ondorengoa.</lex>
+      <lex lang="eu" lid="Id2">Alberto Teisaire Mendozan jaio zen, Argentinan, 1891ko maiatzaren 20an. Argentinako Itsas Armadako kontraalmirantea izan zen. Argentinako Senatuko behin-behineko presidentea izan zen eta Isaac Rojas izan zen haren ondorengoa.</lex>
+      <lex lang="eu" lid="Id3">Alberto Teisaire Mendozan jaio zen, Argentinan, 1891ko maiatzaren 20an, Argentinako Itsas Armadako kontraalmirantea izan zen, Argentinako Senatuko behin-behineko presidentea izan zen eta Isaac Rojas izan zen haren ondorengoa.</lex>
+      <lex lang="gl" lid="Id1">Alberto Teisaire, nado o 20 de maio de 1891 en Mendoza, Arxentina, foi un contraalmirante da Armada Arxentina. Traballou como Presidente Provisional do Senado Arxentino e foi sucedido por Isaac Rojas.</lex>
+      <lex lang="gl" lid="Id2">Alberto Teisaire naceu en Mendoza, Arxentina, o 20 de maio de 1891 e serviu como contraalmirante na Armada Arxentina. Traballou como Presidente Provisional do Senado Arxentino e foi sucedido por Isaac Rojas.</lex>
+      <lex lang="gl" lid="Id3">Alberto Teisaire naceu en Mendoza, Arxentina, o 20 de maio de 1891. Foi contraalmirante na Armada Arxentina, traballou como presidente provisional do Senado da Arxentina e foi sucedido por Isaac Rojas.</lex>
+      </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | activeYearsStartDate | "1853-03-04"^^xsd:date</otriple>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | state | Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | activeYearsStartDate | 1853-03-04</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | state | Vermont</mtriple>
+        <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | AñosActivosFechaDeInicio | 04-03-1853</striple>
+        <striple>Alvah_Sabin | Región | 3er_distrito_electoral_de_Vermont</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        <striple>Alvah_Sabin | Estado | Vermont</striple>
+        <striple>Alvah_Sabin | LugarDeLaMuerte | Sycamore</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | AnysActiusDataD'inici | 1853-03-04</ctriple>
+        <ctriple>Alvah_Sabin | Regió | 3r_districte_congressional_de_Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | Estat | Vermont</ctriple>
+        <ctriple>Alvah_Sabin | LlocDeLaMort | Sycamore,_Illinois</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alvah_Sabin | AnosActivosDataDeInicio | 1853-03-04</gtriple>
+        <gtriple>Alvah_Sabin | Rexión | Terceiro_distrito_congresual_de_Vermont</gtriple>
+        <gtriple>Vermont | CidadeMáisGrande | Burlington,_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | Estado | Vermont</gtriple>
+        <gtriple>Alvah_Sabin | LugarDaMorte | Sycamore,_Illinois</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alvah_Sabin | UrteAktiboakHasierakoData | 1853-03-04</btriple>
+        <btriple>Alvah_Sabin | Eskualdea | Vermont_estatuko_3._barrutia_da.</btriple>
+        <btriple>Vermont | HiririkHandiena | Burlington,_Vermont</btriple>
+        <btriple>Alvah_Sabin | Egoera | Vermont</btriple>
+        <btriple>Alvah_Sabin | HeriotzarenLekua | Sycamore,_Illinois</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Burlington is the largest city in Vermont, which is where Alvah Sabin is from. He started active service on 1853-03-04 and represented Vermont's 3rd Congressional District. Alvah Sabin died in Sycamore, Illinois.</lex>
+      <lex lang="en" lid="Id2">Alvah Sabin was from Vermont and represented Vermont's 3rd congressional district where Burlington is the largest city. He started active service on 03/04/1853 and died in Sycamore, Illinois.</lex>
+      <lex lang="en" lid="Id3">Before dying in Sycamore, Illinois, Alvah Sabin represented Vermont's 3rd Congressional District. He started active service on 1853-03-04 and his state was Vermont, the largest city of which is, Burlington.</lex>
+      <lex lang="es" lid="Id1">Burlington es la ciudad más grande de Vermont, de donde es originario Alvah Sabin. Comenzó el servicio activo en 04-03-1853 y representó al 3er distrito del Congreso de Vermont. Alvah Sabin falleció en Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id2">Alvah Sabin era de Vermont y representaba al 3er distrito congresual de Vermont, donde Burlington es la ciudad más grande. Comenzó el servicio activo el 03/04/1853 y murió en Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id3">Antes de morir en Sycamore, Illinois, Alvah Sabin representó al 3er distrito congresual de Vermont. Comenzó el servicio activo en 04-03-1853 y su estado era Vermont, cuya ciudad más grande es, Burlington.</lex>
+      <lex lang="ca" lid="Id1">Burlington és la ciutat més gran de Vermont, d'on és Alvah Sabin. Va començar el servei actiu el 4 de març de 1853 i va representar el 3r districte del Congrés de Vermont. Alvah Sabin va morir a Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id2">Alvah Sabin era de Vermont i va representar el 3r districte congressional de Vermont, on Burlington és la ciutat més gran. Va començar el servei actiu el 4 de març de 1853 i va morir a Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id3">Abans de morir a Sycamore, Illinois, Alvah Sabin va representar el tercer districte del Congrés de Vermont. va començar el servei actiu el 1853-03-04 i el seu estat era Vermont, la ciutat més gran del qual és Burlington.</lex>
+      <lex lang="eu" lid="Id1">Burlington Vermont-eko hiri handiena da, eta Alvah Sabin-en jaioterria da. Zerbitzu aktiboa 1853-03-04an hasi zuen eta Vermont-eko 3. Kongresu Barrutia ordezkatu zuen. Alvah Sabin Sycamore-n (Illinois) hil zen.</lex>
+      <lex lang="eu" lid="Id2">Alvah Sabin Vermont-ekoa zen eta Vermont-eko 3. barrutia ordezkatzen zuen, non Burlington da hiri handiena. 1853ko martxoaren 4an hasi zen lanean eta Sycamore-n (Illinois) hil zen.</lex>
+      <lex lang="eu" lid="Id3">Sycamore-n, Illinois-en, hil aurretik, Alvah Sabin-ek Vermont-eko 3. barrutia ordezkatu zuen Kongresuan. 1853-03-04an hasi zen lanean eta bere estatua Vermont zen, eta hiririk handiena Burlington.</lex>
+      <lex lang="gl" lid="Id1">Burlington é a cidade máis grande de Vermont, de onde é Alvah Sabin. Comezou o servizo activo o 04- 03- 1853 e representou o 3º Distrito do Congreso de Vermont. Alvah Sabin morreu en Sycamore, Illinois.</lex>
+      <lex lang="gl" lid="Id2">Alvah Sabin era de Vermont e representou o terceiro distrito do Congreso de Vermont, onde Burlington é a cidade máis grande. Comezou o servizo activo o 3 de abril de 1853 e morreu en Sycamore, Illinois.</lex>
+      <lex lang="gl" lid="Id3">Antes de morrer en Sycamore, Illinois, Alvah Sabin representou o Terceiro Distrito do Congreso de Vermont. Comezou o seu servizo activo o 04-03-1853 e o seu estado era Vermont, cuxa cidade máis grande é Burlington.</lex>
+      </entry>
+    <entry category="Politician" eid="Id14" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
+        <otriple>Alvah_Sabin | office | Secretary_of_State_of_Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | state | Vermont</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | office | "Secretary of State of Vermont"</otriple>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | state | Vermont</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | office | Secretary_of_State_of_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</mtriple>
+        <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | state | Vermont</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | Oficina | Secretario_de_Estado_de_Vermont</striple>
+        <striple>Alvah_Sabin | Región | 3er_distrito_electoral_de_Vermont</striple>
+        <striple>Alvah_Sabin | LugarDeNacimiento | Georgia</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        <striple>Alvah_Sabin | Estado | Vermont</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | Oficina | Secretari_d'Estat_de_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | Regió | 3r_districte_congressional_de_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | LlocDeNaixement | Georgia,_Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | Estat | Vermont</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alvah_Sabin | Oficina | Secretaria_de_Estado_de_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | Rexión | Terceiro_distrito_congresual_de_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | LugarDeNacemento | Georgia,_Vermont</gtriple>
+        <gtriple>Vermont | CidadeMáisGrande | Burlington,_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | Estado | Vermont</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alvah_Sabin | Bulegoa | Vermont-eko_estatu-idazkaria</btriple>
+        <btriple>Alvah_Sabin | Eskualdea | Vermont_estatuko_3._barrutia_da.</btriple>
+        <btriple>Alvah_Sabin | JaiotzeLekua | Georgia,_Vermont</btriple>
+        <btriple>Vermont | HiririkHandiena | Burlington,_Vermont</btriple>
+        <btriple>Alvah_Sabin | Egoera | Vermont</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
+      <lex lang="en" lid="Id2">Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).</lex>
+      <lex lang="en" lid="Id3">Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. He was from Vermont, which has the largest city of Burlington and worked as the Secretary of State of Vermont.</lex>
+      <lex lang="es" lid="Id1">Alvah Sabin, que nació en Georgia (Vermont), trabajó como secretario del estado y representó al 3er distrito congresual de Vermont. La ciudad más grande de Vermont es Burlington.</lex>
+      <lex lang="es" lid="Id2">Alvah Sabin, Secretario de Estado de Vermont y representante del distrito 3 del Congreso, nació en Georgia, Vermont (la ciudad más grande: Burlington).</lex>
+      <lex lang="es" lid="Id3">Alvah Sabin nació en Georgia (Vermont) y representó al 3er distrito congresual de Vermont. Era de Vermont, que tiene la ciudad más grande de Burlington y trabajó como Secretario de Estado de Vermont.</lex>
+      <lex lang="ca" lid="Id1">Alvah Sabin, que va néixer a Georgia, Vermont, va treballar com a secretari d'Estat i va representar el 3r districte del Congrés de Vermont.</lex>
+      <lex lang="ca" lid="Id2">El secretari d'Estat de Vermont i representant del 3r districte del Congrés Alvah Sabin va néixer a Geòrgia, Vermont (ciutat més gran: Burlington).</lex>
+      <lex lang="ca" lid="Id3">Alvah Sabin va néixer a Geòrgia, Vermont, i va representar el 3r districte del Congrés de Vermont. Era de Vermont, que té la ciutat més gran de Burlington, i va treballar com a Secretari d'Estat de Vermont.</lex>
+      <lex lang="eu" lid="Id1">Vermont-eko Alvah Sabin-ek estatuko idazkari gisa lan egin zuen eta Vermont-eko 3. Kongresu Barrutia ordezkatu zuen. Vermont-eko hiri handiena Burlington da.</lex>
+      <lex lang="eu" lid="Id2">Vermont-eko Estatu Idazkaria eta 3. Kongresu Barrutiko ordezkaria, Alvah Sabin, Georgian jaio zen (Vermont-eko hiri handiena: Burlington).</lex>
+      <lex lang="eu" lid="Id3">Alvah Sabin Georgian jaio zen, Vermont estatuan, eta Vermonteko 3. barrutia ordezkatu zuen Kongresuan. Vermontekoa zen, Burlington hiririk handiena duena, eta Vermonteko Estatu Idazkari bezala lan egin zuen.</lex>
+      <lex lang="gl" lid="Id1">Alvah Sabin, que naceu en Xeorxia, Vermont, traballou como secretario do estado e representou o terceiro distrito do Congreso de Vermont.</lex>
+      <lex lang="gl" lid="Id2">O secretario de Estado de Vermont e representante do 3o Distrito do Congreso Alvah Sabin naceu en Xeorxia, Vermont (a cidade máis grande: Burlington).</lex>
+      <lex lang="gl" lid="Id3">Alvah Sabin naceu en Xeorxia, Vermont e representou o Terceiro Distrito do Congreso de Vermont. Era de Vermont, que ten a cidade máis grande de Burlington e traballou como Secretario de Estado de Vermont.</lex>
+      </entry>
+    <entry category="Politician" eid="Id15" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Henry_Clay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | placeOfDeath | Sycamore,_Illinois</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Henry_Clay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestcity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Henry_Clay</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | party | Whig_Party_(United_States)</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
+        <mtriple>Whig_Party_(United_States) | leader | Henry_Clay</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | Fiesta | Partido_Whig_(Estados_Unidos)</striple>
+        <striple>Alvah_Sabin | Región | Vermont</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        <striple>Alvah_Sabin | LugarDeLaMuerte | Sycamore</striple>
+        <striple>Partido_Whig_(Estados_Unidos) | Líder | Henry_Clay</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | Festa | Partit_Whig_(Estats_Units)</ctriple>
+        <ctriple>Alvah_Sabin | Regió | Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | LlocDeLaMort | Sycamore,_Illinois</ctriple>
+        <ctriple>Partit_Whig_(Estats_Units) | Líder | Henry_Clay</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alvah_Sabin | Partido | Partido_Whig_(Estados_Unidos)</gtriple>
+        <gtriple>Alvah_Sabin | Rexión | Vermont</gtriple>
+        <gtriple>Vermont | CidadeMáisGrande | Burlington,_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | LugarDaMorte | Sycamore,_Illinois</gtriple>
+        <gtriple>Partido_Whig_(Estados_Unidos) | Líder | Henry_Clay</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alvah_Sabin | FestaBat. | Whig_alderdia_(Estatu_Batuak)</btriple>
+        <btriple>Alvah_Sabin | Eskualdea | Vermont</btriple>
+        <btriple>Vermont | HiririkHandiena | Burlington,_Vermont</btriple>
+        <btriple>Alvah_Sabin | HeriotzarenLekua | Sycamore,_Illinois</btriple>
+        <btriple>Whig_alderdia_(Estatu_Batuak) | Buruzagia. | Henry_Clay</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alvah Sabin represented Vermont and was a member of the Whig Party in the United States. The largest city in Vermont is Burlington. Alvah Sabin died in Sycamore, Illinois and Henry Clay was the leader of the Whig Party.</lex>
+      <lex lang="en" lid="Id2">Alvah Sabin belongs to the Whig Party of the United States which is led by Henry Clay. Sabin represented Vermont, where the largest city is Burlington and eventually died in Sycamore, Illinois.</lex>
+      <lex lang="en" lid="Id3">Burlington is the largest city in Vermont, the state, Alvah Sabin represented. He was a member of the Whig Party of the United States (led by Henry Clay) and died in Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id1">Alvah Sabin representó a Vermont y fue miembro del Partido Whig en Estados Unidos. La ciudad más grande de Vermont es Burlington. Alvah Sabin murió en Sycamore, Illinois, y Henry Clay fue el líder del Partido Whig.</lex>
+      <lex lang="es" lid="Id2">Alvah Sabin pertenece al Partido Whig de Estados Unidos, liderado por Henry Clay. Sabin representó a Vermont, donde la ciudad más grande es Burlington y finalmente murió en Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id3">Burlington es la ciudad más grande de Vermont, estado al que representaba Alvah Sabin. Fue miembro del Partido Whig de Estados Unidos (liderado por Henry Clay) y murió en Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id1">Alvah Sabin va representar Vermont i va ser membre del Partit Whig als Estats Units. La ciutat més gran de Vermont és Burlington. Alvah Sabin va morir a Sycamore, Illinois i Henry Clay va ser el líder del Partit Whig.</lex>
+      <lex lang="ca" lid="Id2">Alvah Sabin pertany al Partit Whig dels Estats Units, liderat per Henry Clay. Sabin va representar Vermont, on la ciutat més gran és Burlington i finalment va morir a Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id3">Burlington és la ciutat més gran de Vermont, l'estat que va representar Alvah Sabin. Era membre del Partit Whig dels Estats Units (liderat per Henry Clay) i va morir a Sycamore, Illinois.</lex>
+      <lex lang="eu" lid="Id1">Alvah Sabin Ameriketako Estatu Batuetako Alderdi Whig-eko kidea izan zen. Vermonteko hiririk handiena Burlington da. Alvah Sabin Sycamore-n (Illinois) hil zen eta Henry Clay Alderdi Whig-eko buruzagia izan zen.</lex>
+      <lex lang="eu" lid="Id2">Alvah Sabin Ameriketako Estatu Batuetako Alderdi Whig-eko kidea zen, Henry Clay-k zuzendua. Sabin Vermont-eko ordezkaria zen, non hiririk handiena Burlington den. Azkenean Sycamore-n hil zen, Illinois-en.</lex>
+      <lex lang="eu" lid="Id3">Burlington Vermont estatuko hiririk handiena da, Alvah Sabin ordezkatzen zuen estatua. Estatu Batuetako Alderdi Whig-eko kidea izan zen (Henry Clayren gidaritzapean) eta Sycamore-n hil zen, Illinoisen.</lex>
+      <lex lang="gl" lid="Id1">Alvah Sabin representou a Vermont e foi membro do Partido Whig nos Estados Unidos. A cidade máis grande de Vermont é Burlington. Alvah Sabin morreu en Sycamore, Illinois e Henry Clay foi o líder do Partido Whig.</lex>
+      <lex lang="gl" lid="Id2">Alvah Sabin pertence ao Partido Whig dos Estados Unidos, liderado por Henry Clay. Sabin representaba a Vermont, onde a cidade máis grande é Burlington, e morreu en Sycamore, Illinois.</lex>
+      <lex lang="gl" lid="Id3">Burlington é a cidade máis grande de Vermont, o estado que representou Alvah Sabin. Foi membro do Partido Whig dos Estados Unidos (liderado por Henry Clay) e morreu en Sycamore, Illinois.</lex>
+      </entry>
+    <entry category="Politician" eid="Id16" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Daniel_Webster</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Daniel_Webster</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestcity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Daniel_Webster</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | placeOfDeath | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | party | Whig_Party_(United_States)</mtriple>
+        <mtriple>Whig_Party_(United_States) | leader | Daniel_Webster</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | Fiesta | Partido_Whig_(Estados_Unidos)</striple>
+        <striple>Partido_Whig_(Estados_Unidos) | Líder | Daniel_Webster</striple>
+        <striple>Alvah_Sabin | Región | Vermont</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        <striple>Alvah_Sabin | LugarDeLaMuerte | Sycamore</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | Festa | Partit_Whig_(Estats_Units)</ctriple>
+        <ctriple>Partit_Whig_(Estats_Units) | Líder | Daniel_Webster</ctriple>
+        <ctriple>Alvah_Sabin | Regió | Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | LlocDeLaMort | Sycamore,_Illinois</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alvah_Sabin | Partido | Partido_Whig_(Estados_Unidos)</gtriple>
+        <gtriple>Partido_Whig_(Estados_Unidos) | Líder | Daniel_Webster</gtriple>
+        <gtriple>Alvah_Sabin | Rexión | Vermont</gtriple>
+        <gtriple>Vermont | CidadeMáisGrande | Burlington,_Vermont</gtriple>
+        <gtriple>Alvah_Sabin | LugarDaMorte | Sycamore,_Illinois</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alvah_Sabin | FestaBat. | Whig_alderdia_(Estatu_Batuak)</btriple>
+        <btriple>Whig_alderdia_(Estatu_Batuak) | Buruzagia. | Daniel_Webster</btriple>
+        <btriple>Alvah_Sabin | Eskualdea | Vermont</btriple>
+        <btriple>Vermont | HiririkHandiena | Burlington,_Vermont</btriple>
+        <btriple>Alvah_Sabin | HeriotzarenLekua | Sycamore,_Illinois</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Burlington is the largest city in Vermont, which is the state Alvah Sabin represented. Alvah Sabin (died in Sycamore, Illinois) was a member of the United States Whig Party, which was led by Daniel Webster.</lex>
+      <lex lang="en" lid="Id2">Vermont, where the largest city is Burlington, was represented by Alvah Sabin who died in Sycamore, Illinois. He belonged to the Whig Party (United States) which is led by Daniel Webster.</lex>
+      <lex lang="en" lid="Id3">Burlington is the largest city in Vermont, the state that Alvah Sabin represented. He was a member of the United States Whig Party, which was led by Daniel Webster. Alvah Sabin died in Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id1">Burlington es la ciudad más grande de Vermont, estado al que representaba Alvah Sabin. Alvah Sabin (fallecido en Sycamore, Illinois) fue miembro del Partido Whig de Estados Unidos, liderado por Daniel Webster.</lex>
+      <lex lang="es" lid="Id2">Vermont, cuya ciudad más grande es Burlington, estaba representada por Alvah Sabin, fallecido en Sycamore, Illinois. Pertenecía al Partido Whig (Estados Unidos), liderado por Daniel Webster.</lex>
+      <lex lang="es" lid="Id3">Burlington es la ciudad más grande de Vermont, estado al que representaba Alvah Sabin. Fue miembro del Partido Whig de Estados Unidos, liderado por Daniel Webster. Alvah Sabin murió en Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id1">Burlington és la ciutat més gran de Vermont, estat representat per Alvah Sabin. Alvah Sabin (mort a Sycamore, Illinois) va ser membre del Partit Whig dels Estats Units, liderat per Daniel Webster.</lex>
+      <lex lang="ca" lid="Id2">Vermont, on la ciutat més gran és Burlington, va ser representat per Alvah Sabin, que va morir a Sycamore, Illinois. Va pertànyer al Partit Whig (Estats Units), liderat per Daniel Webster.</lex>
+      <lex lang="ca" lid="Id3">Burlington és la ciutat més gran de Vermont, l'estat que representava Alvah Sabin. Era membre del Partit Whig dels Estats Units, liderat per Daniel Webster. Alvah Sabin va morir a Sycamore, Illinois.</lex>
+      <lex lang="eu" lid="Id1">Alvah Sabin (Sycamore, Illinois) Estatu Batuetako Whig alderdiko kidea izan zen, Daniel Websterrek zuzentzen zuena.</lex>
+      <lex lang="eu" lid="Id2">Vermont, non hiririk handiena Burlington den, Alvah Sabin-ek ordezkatu zuen, Sycamore-n (Illinois) hil zena, Daniel Webster-ek zuzentzen duen Alderdi Whig (Estatu Batuak)ko kidea zena.</lex>
+      <lex lang="eu" lid="Id3">Burlington Vermont-eko hiri handiena da, Alvah Sabinek ordezkatzen zuen estatua. Daniel Webster-en gidaritzapean zegoen Ameriketako Estatu Batuetako Whig Alderdiaren kide izan zen. Alvah Sabin Sycamore-n hil zen, Illinois-en.</lex>
+      <lex lang="gl" lid="Id1">Burlington é a cidade máis grande de Vermont, que é o estado representado por Alvah Sabin. Alvah Sabin (falecido en Sycamore, Illinois) foi membro do Partido Whig dos Estados Unidos, que foi liderado por Daniel Webster.</lex>
+      <lex lang="gl" lid="Id2">Vermont, onde a cidade máis grande é Burlington, estivo representado por Alvah Sabin que morreu en Sycamore, Illinois. Pertenceu ao Partido Whig (Estados Unidos) liderado por Daniel Webster.</lex>
+      <lex lang="gl" lid="Id3">Burlington é a cidade máis grande de Vermont, o estado que Alvah Sabin representaba. Era membro do Partido Whig dos Estados Unidos, liderado por Daniel Webster. Alvah Sabin morreu en Sycamore, Illinois.</lex>
+      </entry>
+    <entry category="Politician" eid="Id17" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Antonis_Samaras | birthPlace | Athens</otriple>
+        <otriple>Adonis_Georgiadis | primeminister | Antonis_Samaras</otriple>
+        <otriple>Antonis_Samaras | primeMinister | Konstantinos_Mitsotakis</otriple>
+        <otriple>Antonis_Samaras | deputy | Evangelos_Venizelos</otriple>
+        <otriple>Adonis_Georgiadis | successor | Makis_Voridis</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antonis_Samaras | birthPlace | Athens</mtriple>
+        <mtriple>Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras</mtriple>
+        <mtriple>Antonis_Samaras | inOfficeWhilePrimeMinister | Konstantinos_Mitsotakis</mtriple>
+        <mtriple>Antonis_Samaras | hasDeputy | Evangelos_Venizelos</mtriple>
+        <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antonis_Samarás | LugarDeNacimiento | Atenas</striple>
+        <striple>Adonis_Georgiades | EnElCargoMientrasElPrimerMinistro | Antonis_Samarás</striple>
+        <striple>Antonis_Samarás | EnElCargoMientrasElPrimerMinistro | Konstantínos_Mitsotákis</striple>
+        <striple>Antonis_Samarás | TieneAdjunto | Evángelos_Venizelos</striple>
+        <striple>Adonis_Georgiades | Sucesor | Makis_Voridis</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Antonis_Samaràs | LlocDeNaixement | Athens</ctriple>
+        <ctriple>Adonis_Georgiadis | EnCàrrecMentrePrimerMinistre | Antonis_Samaràs</ctriple>
+        <ctriple>Antonis_Samaràs | EnCàrrecMentrePrimerMinistre | Konstantinos_Mitsotakis</ctriple>
+        <ctriple>Antonis_Samaràs | TéUnAdjunt | Evànguelos_Venizelos</ctriple>
+        <ctriple>Adonis_Georgiadis | Successor | Makis_Voridis</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Antonis_Samaras | LugarDeNacemento | Atenas</gtriple>
+        <gtriple>Adonis_Georgiadis | NoCargoDePrimeiroMinistro | Antonis_Samaras</gtriple>
+        <gtriple>Antonis_Samaras | NoCargoDePrimeiroMinistro | Konstantinos_Mitsotakis</gtriple>
+        <gtriple>Antonis_Samaras | TenDeputado | Evangelos_Venizelos</gtriple>
+        <gtriple>Adonis_Georgiadis | Sucesor | Makis_Voridis</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Antonis_Samaras | JaiotzeLekua | Atenas</btriple>
+        <btriple>Adonis_Georgiadis | Bulean,LehenMinistroIzanZenBitartean | Antonis_Samaras</btriple>
+        <btriple>Antonis_Samaras | Bulean,LehenMinistroIzanZenBitartean | Konstantinos_Mitsotakis</btriple>
+        <btriple>Antonis_Samaras | OrdezkariaDu | Evangelos_Venizelos</btriple>
+        <btriple>Adonis_Georgiadis | Ondorengoa | Makis_Voridis</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister. Athens born Samaras, who had the deputy Evangelos Venizelos, was in office while Konstantinos Mitsotakis was Prime Minister.</lex>
+      <lex lang="en" lid="Id2">Antonis Samaras, born in Athens, was Prime Minister and served with Adonis Georgiadis. Samaras, whose deputy is Evangelos Venizelos, served also when K. Mitsotakis was Prime Minister. Georgiadis was succeeded by Makis Voridis.</lex>
+      <lex lang="en" lid="Id3">Adonis Georgiadis was in office while Athens-born Antonis Samaras was Prime Minister. In turn, Samaras was in office while Konstantinos Mitsotakis was Prime Minister. Samaras' deputy is Evangelos Venizelos and Georgiadis was succeeded by Makis Voridis.</lex>
+      <lex lang="es" lid="Id1">Adonis Georgiadis, al que sucedió Makis Voridis, ocupó el cargo mientras Antonis Samaras era Primer Ministro. El ateniense Samarás, que tuvo como suplente a Evangelos Venizelos, ocupó el cargo mientras Konstantinos Mitsotakis era Primer Ministro.</lex>
+      <lex lang="es" lid="Id2">Antonis Samaras, nacido en Atenas, fue Primer Ministro y ocupó el cargo con Adonis Georgiadis. Samaras, cuyo suplente es Evangelos Venizelos, ocupó también el cargo cuando K. Mitsotakis era Primer Ministro. A Georgiadis le sucedió Makis Voridis.</lex>
+      <lex lang="es" lid="Id3">Adonis Georgiadis ocupó el cargo mientras el ateniense Antonis Samaras era Primer Ministro. A su vez, Samaras ocupó el cargo mientras Konstantinos Mitsotakis era Primer Ministro. El sustituto de Samaras es Evangelos Venizelos y a Georgiadis le sucedió Makis Voridis.</lex>
+      <lex lang="ca" lid="Id1">Adonis Georgiadis, que va ser succeït per Makis Voridis, va ocupar el càrrec mentre Antonis Samaras era primer ministre. Samaras, nascut a Atenes, que tenia el diputat Evangelos Venizelos, va ocupar el càrrec mentre Konstantinos Mitsotakis era primer ministre.</lex>
+      <lex lang="ca" lid="Id2">Antonis Samaras, nascut a Atenes, va ser primer ministre i va servir amb Adonis Georgiadis. Samaras, el diputat del qual és Evangelos Venizelos, també va servir quan K. Mitsotakis va ser primer ministre. Georgiadis va ser succeït per Makis Voridis.</lex>
+      <lex lang="ca" lid="Id3">Adonis Georgiadis va ocupar el càrrec mentre Antonis Samaras, nascut a Atenes, era primer ministre. Al seu torn, Samaras va ocupar el càrrec mentre Konstantinos Mitsotakis era primer ministre. El diputat de Samaras és Evangelos Venizelos i Georgiadis va ser succeït per Makis Voridis.</lex>
+      <lex lang="eu" lid="Id1">Adonis Georgiadis, Makis Voridis-ek ordezkatu zuena, Antonis Samaras Lehen Ministroa zen bitartean egon zen karguan, eta Atenasen jaiotako Samaras, Evangelos Venizelos ordezkaria zuena, Konstantinos Mitsotakis Lehen Ministroa zen bitartean egon zen karguan.</lex>
+      <lex lang="eu" lid="Id2">Antonis Samaras Atenasen jaio zen, eta lehen ministro izan zen Adonis Georgiadis-ekin batera. Samaras-en ordezkoa Evangelos Venizelos da, eta K. Mitsotakis-en ordezkoa izan zen. Georgiadis-en ordezkoa Makis Voridis izan zen.</lex>
+      <lex lang="eu" lid="Id3">Atenasen jaiotako Antonis Samaras lehen ministroa zen bitartean Adonis Georgiadis izan zen karguan, eta Konstantinos Mitsotakis lehen ministroa zen bitartean Samaras izan zen karguan. Samarasen ordezkoa Evangelos Venizelos da eta Georgiadisen oinordekoa Makis Voridis izan zen.</lex>
+      <lex lang="gl" lid="Id1">Adonis Georgiadis, que foi substituído por Makis Voridis, ocupou o cargo mentres Antonis Samaras era primeiro ministro. Samaras, nacido en Atenas, que tiña como deputado a Evangelos Venizelos, ocupou o cargo mentres Konstantinos Mitsotakis era primeiro ministro.</lex>
+      <lex lang="gl" lid="Id2">Antonis Samaras, nado en Atenas, foi primeiro ministro e serviu con Adonis Georgiadis.</lex>
+      <lex lang="gl" lid="Id3">Adonis Georgiadis estivo no cargo mentres Antonis Samaras, nado en Atenas, era primeiro ministro. Á súa vez, Samaras estivo no cargo mentres Konstantinos Mitsotakis era primeiro ministro. O vicepresidente de Samaras é Evangelos Venizelos e Georgiadis foi sucedido por Makis Voridis.</lex>
+      </entry>
+    <entry category="Politician" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Austria | leaderName | Doris_Bures</otriple>
+        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
+        <otriple>Alfons_Gorbach | birthPlace | Imst</otriple>
+        <otriple>Austria | language | Austrian_German</otriple>
+        <otriple>Alfons_Gorbach | placeOfBirth | Austria</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Austria | leaderName | Doris_Bures</otriple>
+        <otriple>Alfons_Gorbach | placeOfBirth | Imst</otriple>
+        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
+        <otriple>Austria | language | Austrian_German</otriple>
+        <otriple>Alfons_Gorbach | birthPlace | Austria</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austria | leader | Doris_Bures</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
+        <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
+        <mtriple>Austria | language | Austrian_German</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Austria | Líder | Doris_Bures</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Imst</striple>
+        <striple>Alfons_Gorbach | LugarDeLaMuerte | Graz</striple>
+        <striple>Austria | Idioma | alemán_de_Austria</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Austria</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Àustria | Líder | Doris_Bures</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Imst</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeLaMort | Graz</ctriple>
+        <ctriple>Àustria | Llengua | alemany_austríac</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Àustria</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Austria | Líder | Doris_Bures</gtriple>
+        <gtriple>Alfons_Gorbach | LugarDeNacemento | Imstaustria._kgm</gtriple>
+        <gtriple>Alfons_Gorbach | LugarDaMorte | Graz</gtriple>
+        <gtriple>Austria | Lingua | Alemán_austríaco</gtriple>
+        <gtriple>Alfons_Gorbach | LugarDeNacemento | Austria</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Austria | Buruzagia. | Doris_Buresekin_hitz_egin_dut.</btriple>
+        <btriple>Alfons_Gorbach | JaiotzeLekua | Oraintxe_bertan.</btriple>
+        <btriple>Alfons_Gorbach | HeriotzarenLekua | Graz</btriple>
+        <btriple>Austria | Hizkuntza | Austriako_alemana</btriple>
+        <btriple>Alfons_Gorbach | JaiotzeLekua | Austria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfons Gorbach was born in Imst in Austria and died in Graz. Austrian German is the language of Austria and the leader there is Doris Bures.</lex>
+      <lex lang="en" lid="Id2">Alfons Gorbach was born in Imst, Austria and died in Graz. Austrian German speaking Austria is led by Doris Bures.</lex>
+      <lex lang="en" lid="Id3">Austrian German is the language in Austria, the leader of which, is Doris Bures. Alfons Gorbach, was born in Imst, Austria and died in Graz.</lex>
+      <lex lang="es" lid="Id1">Alfons Gorbach nació en Imst (Austria) y murió en Graz. El alemán Austriaco es la lengua de Austria y su líder es Doris Bures.</lex>
+      <lex lang="es" lid="Id2">Alfons Gorbach nació en Imst (Austria) y murió en Graz. Austria germanófona está dirigida por Doris Bures.</lex>
+      <lex lang="es" lid="Id3">El alemán Austriaco es la lengua de Austria. Alfons Gorbach, nació en Imst (Austria) y murió en Graz.</lex>
+      <lex lang="ca" lid="Id1">Alfons Gorbach va néixer a Imst a Àustria i va morir a Graz. L' alemany austríac és la llengua d' Àustria i el seu líder és Doris Bures.</lex>
+      <lex lang="ca" lid="Id2">Alfons Gorbach va néixer a Imst, Àustria i va morir a Graz. L' Àustria de parla alemanya és dirigida per Doris Bures.</lex>
+      <lex lang="ca" lid="Id3">L' alemany austríac és la llengua a Àustria, el líder de la qual, és Doris Bures. Alfons Gorbach, va néixer a Imst, Àustria i va morir a Graz.</lex>
+      <lex lang="eu" lid="Id1">Alfons Gorbach Imst-en jaio zen, Austrian, eta Graz-en hil zen. Austriako alemana da Austriako hizkuntza, eta bertan Doris Bures da buruzagia.</lex>
+      <lex lang="eu" lid="Id2">Alfons Gorbach Imst hirian jaio zen, Austrian, eta Graz hirian hil zen, Austrian.</lex>
+      <lex lang="eu" lid="Id3">Austriako alemana Austrian mintzatzen den hizkuntza da, eta Doris Bures da bertako liderra. Alfons Gorbach Imsten jaio zen, Austrian, eta Grazen hil zen.</lex>
+      <lex lang="gl" lid="Id1">Alfons Gorbach naceu en Imst en Austria e morreu en Graz. O alemán austríaco é a lingua de Austria e o líder é Doris Bures.</lex>
+      <lex lang="gl" lid="Id2">Alfons Gorbach naceu en Imst, Austria e morreu en Graz. A Austria de fala alemá está liderada por Doris Bures.</lex>
+      <lex lang="gl" lid="Id3">O alemán austríaco é a lingua en Austria, cuxa líder é Doris Bures. Alfons Gorbach, naceu en Imst, Austria e morreu en Graz.</lex>
+      </entry>
+    <entry category="Politician" eid="Id19" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Netherlands | currency | Euro</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+        <otriple>Ab_Klink | nationality | Netherlands</otriple>
+        <otriple>Netherlands | leader | Mark_Rutte</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Netherlands | currency | Euro</mtriple>
+        <mtriple>Ab_Klink | party | Christian_Democratic_Appeal</mtriple>
+        <mtriple>Ab_Klink | birthPlace | Stellendam</mtriple>
+        <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
+        <mtriple>Netherlands | leader | Mark_Rutte</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Países_Bajos | Divisa | euro</striple>
+        <striple>Ab_Klink | Fiesta | Llamada_Democristiana</striple>
+        <striple>Ab_Klink | LugarDeNacimiento | Stellendam</striple>
+        <striple>Ab_Klink | Nacionalidad | Países_Bajos</striple>
+        <striple>Países_Bajos | Líder | Mark_Rutte</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Països_Baixos | Moneda | euro</ctriple>
+        <ctriple>Ab_Klink | Festa | Crida_Demòcrata_Cristiana</ctriple>
+        <ctriple>Ab_Klink | LlocDeNaixement | Stellendam</ctriple>
+        <ctriple>Ab_Klink | Nacionalitat | Països_Baixos</ctriple>
+        <ctriple>Països_Baixos | Líder | Mark_Rutte</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Países_Baixos | Moeda | Euro</gtriple>
+        <gtriple>Ab_Klink | Partido | Apelación_Democrática_Cristiá</gtriple>
+        <gtriple>Ab_Klink | LugarDeNacemento | Stellendam</gtriple>
+        <gtriple>Ab_Klink | Nacionalidade | Países_Baixos</gtriple>
+        <gtriple>Países_Baixos | Líder | Mark_Rutte</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Herbehereak | Dibisa | Euroa</btriple>
+        <btriple>Ab_Klink,_zure_izena_da. | FestaBat. | Alderdi_Demokrata-Kristaua</btriple>
+        <btriple>Ab_Klink,_zure_izena_da. | JaiotzeLekua | Stellendam-en_dago.</btriple>
+        <btriple>Ab_Klink,_zure_izena_da. | Nazionalitatea | Herbehereak</btriple>
+        <btriple>Herbehereak | Buruzagia. | Mark_Rutte_izan_zen.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ab Klink is a national of the Netherlands, where the currency is the Euro and Mark Rutte is the leader, Ab Klink was born in Stellendam and belongs to the Christian Democratic Appeal party.</lex>
+      <lex lang="en" lid="Id2">Ab Klink was born in Stellendam, Netherlands. He belongs to the Christian Democratic Appeal party. The leader of the Netherland is Mark Rutte and the currency is the euro.</lex>
+      <lex lang="es" lid="Id1">Ab Klink es ciudadano de los Países Bajos, donde la moneda es el euro y Mark Rutte es el líder, Ab Klink nació en Stellendam y pertenece al partido Christian Democratic Appeal.</lex>
+      <lex lang="es" lid="Id2">Ab Klink nació en Stellendam, Países Bajos. Pertenece al partido Apelación Demócrata Cristiana. El líder de los Países Bajos es Mark Rutte y la moneda es el euro.</lex>
+      <lex lang="ca" lid="Id1">Ab Klink és nacional dels Països Baixos, on la moneda és l'euro i Mark Rutte és el líder, Ab Klink va néixer a Stellendam i pertany al partit Apel·lació Democràtica Cristiana.</lex>
+      <lex lang="ca" lid="Id2">Ab Klink va néixer a Stellendam, Països Baixos. Pertany al partit Apel·lació Democràtica Cristiana. El líder dels Països Baixos és Mark Rutte i la moneda és l'euro.</lex>
+      <lex lang="eu" lid="Id1">Ab Klink Herbehereetako herritarra da, non euroa den moneda eta Mark Rutte liderra den. Ab Klink Stellendam-en jaio zen eta Apel Demokrata Kristauaren alderdiko kidea da.</lex>
+      <lex lang="eu" lid="Id2">Ab Klink Stellendam-en jaio zen, Herbehereetan. Alderdi Demokrata-Kristauaren kidea da. Herbehereetako burua Mark Rutte da eta moneta euroa da.</lex>
+      <lex lang="gl" lid="Id1">Ab Klink é nacional dos Países Baixos, onde a moeda é o euro e Mark Rutte é o líder, Ab Klink naceu en Stellendam e pertence ao partido Christian Democratic Appeal.</lex>
+      <lex lang="gl" lid="Id2">Ab Klink naceu en Stellendam, Países Baixos. Pertence ao partido Christian Democratic Appeal. O líder dos Países Baixos é Mark Rutte e a moeda é o euro.</lex>
+      </entry>
+    </entries>
+  </benchmark>

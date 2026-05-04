@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | "100"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | País | Suiza</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Decano | Mario_Botta</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Ciudad | Mendrisio</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | NúmeroDeEstudiantes | 600</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | NúmeroDeProfesores | 100</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | País | Suïssa</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Dean | Mario_Botta</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Ciutat | Mendrisio</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | NombreD'estudiants | 600</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | MidaDelPersonalAcadèmic | 100</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | País | Suíza</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Dean | Mario_Botta</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Cidade | Mendrisio</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | NúmeroDeEstudantes | 600</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | TamañoDoPersoalAcadémico | 100</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Herrialdea | Suitza</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Dean | Mario_Botta</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Hiria | Mendrisio</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | IkasleenKopurua | 600</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | AkademikoaLangileKopurua | 100</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland had 100 academic staff and 600 students. Its dean is Mario Botta.</lex>
+      <lex lang="en" lid="Id2">The Dean of the Accademia di Architettura di Mendrisio in the city of Mendrisio, Switzerland is Mario Botta. There are 600 students and 100 academic staff at the Accademia.</lex>
+      <lex lang="en" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 and a student population of 600. The dean is Mario Botta.</lex>
+      <lex lang="es" lid="Id1">La Accademia di Architettura di Mendrisio, en Mendrisio (Suiza), cuenta con 100 profesores y 600 estudiantes. Su decano es Mario Botta.</lex>
+      <lex lang="es" lid="Id2">El decano de la Accademia di Architettura di Mendrisio, en la ciudad Suiza de Mendrisio, es Mario Botta. En la Accademia hay 600 estudiantes y 100 miembros del personal académico.</lex>
+      <lex lang="es" lid="Id3">La Accademia di Architettura di Mendrisio, en Suiza, cuenta con 100 empleados y 600 estudiantes. El decano es Mario Botta.</lex>
+      <lex lang="ca" lid="Id1">L'Accademia di Architettura di Mendrisio a Mendrisio, Suïssa, tenia 100 membres del personal acadèmic i 600 estudiants. El seu degà és Mario Botta.</lex>
+      <lex lang="ca" lid="Id2">El degà de l'Accademia di Architettura di Mendrisio a la ciutat de Mendrisio, Suïssa, és Mario Botta. L'Accademia té 600 estudiants i 100 membres del personal acadèmic.</lex>
+      <lex lang="ca" lid="Id3">L'Accademia di Architettura di Mendrisio a Suïssa té un personal de 100 i una població estudiantil de 600. El degà és Mario Botta.</lex>
+      <lex lang="eu" lid="Id1">Suitzako Mendrisio hirian dagoen Accademia di Architettura di Mendrisio-k 100 langile akademiko eta 600 ikasle zituen.</lex>
+      <lex lang="eu" lid="Id2">Suitzako Mendrisio hirian dagoen Accademia di Architettura di Mendrisio dekanoa Mario Botta da. 600 ikasle eta 100 langile akademiko daude akademian.</lex>
+      <lex lang="eu" lid="Id3">Suitzako Accademia di Architettura di Mendrisio-k 100 langile eta 600 ikasle ditu.Dekanoa Mario Botta da.</lex>
+      <lex lang="gl" lid="Id1">A Accademia di Architettura di Mendrisio en Mendrisio, Suíza, tiña 100 membros do persoal académico e 600 estudantes. O seu decano é Mario Botta.</lex>
+      <lex lang="gl" lid="Id2">O decano da Accademia di Architettura di Mendrisio na cidade de Mendrisio, Suíza, é Mario Botta. A Accademia ten 600 estudantes e 100 membros do persoal académico.</lex>
+      <lex lang="gl" lid="Id3">A Accademia di Architettura di Mendrisio en Suíza ten un persoal de 100 e unha poboación estudantil de 600. O decano é Mario Botta.</lex>
+      </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | País | Suiza</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | NúmeroDeEstudiantes | 600</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Establecido | 1996</striple>
+        <striple>Suiza | Líder | Johann_Schneider-Ammann</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Ubicación | Tesino</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | País | Suïssa</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | NombreD'estudiants | 600</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Establert | 1996</ctriple>
+        <ctriple>Suïssa | Líder | Johann_Schneider-Ammann</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Ubicació | Ticino</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | País | Suíza</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | NúmeroDeEstudantes | 600</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Establecido | 1996</gtriple>
+        <gtriple>Suíza | Líder | Johann_Schneider-Ammann</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Localización | Ticino</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Herrialdea | Suitza</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | IkasleenKopurua | 600</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Ezarritako | 1996</btriple>
+        <btriple>Suitza | Buruzagia. | Johann_Schneider-Ammann</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Lokalizazioa | Ticino</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino, Switzerland. It was established in 1996 and it has 600 students. The leader of Switzerland is Johann Schneider-Ammann.</lex>
+      <lex lang="en" lid="Id2">The leader of Switzerland is Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in Ticino which was established in 1996 and has 600 students.</lex>
+      <lex lang="en" lid="Id3">The Accademia di Architettura di Mendrisio, which has 600 students, was founded in 1996 in Ticino, Switzerland. The leader of Switzerland is Johann Schneider-Ammann.</lex>
+      <lex lang="es" lid="Id1">La Accademia di Architettura di Mendrisio se encuentra en el Tesino (Suiza). Se fundó en 1996 y cuenta con 600 estudiantes. El director de Suiza es Johann Schneider-Ammann.</lex>
+      <lex lang="es" lid="Id2">El líder de Suiza es Johann Schneider-Ammann. En este país se encuentra la Accademia di Architettura di Mendrisio, en el Tesino, creada en 1996 y que cuenta con 600 estudiantes.</lex>
+      <lex lang="es" lid="Id3">La Accademia di Architettura di Mendrisio, que cuenta con 600 estudiantes, se fundó en 1996 en el Tesino (Suiza). El director de Suiza es Johann Schneider-Ammann.</lex>
+      <lex lang="ca" lid="Id1">L' Accademia di Architettura di Mendrisio es troba a Ticino, Suïssa. Va ser fundada el 1996 i té 600 estudiants. El líder de Suïssa és Johann Schneider- Ammann.</lex>
+      <lex lang="ca" lid="Id2">El líder de Suïssa és Johann Schneider-Ammann. El país és la seu de l'Accademia di Architettura di Mendrisio a Ticino, que es va fundar l'any 1996 i té 600 estudiants.</lex>
+      <lex lang="ca" lid="Id3">L'Accademia di Architettura di Mendrisio, que té 600 estudiants, va ser fundada el 1996 a Ticino, Suïssa. El líder de Suïssa és Johann Schneider-Ammann.</lex>
+      <lex lang="eu" lid="Id1">Accademia di Architettura di Mendrisio Suitzako Ticino-n dago. 1996an sortu zen eta 600 ikasle ditu. Johann Schneider-Ammann da Suitzako burua.</lex>
+      <lex lang="eu" lid="Id2">Suitzako burua Johann Schneider-Ammann da. Herrialdean dago Accademia di Architettura di Mendrisio (Ticino), 1996an sortua eta 600 ikasle dituena.</lex>
+      <lex lang="eu" lid="Id3">Accademia di Architettura di Mendrisio, 600 ikasle dituena, 1996an sortu zen Ticinon, Suitza, eta Suitzako zuzendaria Johann Schneider-Ammann da.</lex>
+      <lex lang="gl" lid="Id1">A Accademia di Architettura di Mendrisio está situada en Ticino, Suíza. Foi fundada en 1996 e ten 600 estudantes. O líder de Suíza é Johann Schneider- Ammann.</lex>
+      <lex lang="gl" lid="Id2">O líder de Suíza é Johann Schneider- Ammann. O país é a sede da Accademia di Architettura di Mendrisio en Ticino que foi fundada en 1996 e ten 600 estudantes.</lex>
+      <lex lang="gl" lid="Id3">A Accademia di Architettura di Mendrisio, que ten 600 estudantes, foi fundada en 1996 en Ticino, Suíza. O líder de Suíza é Johann Schneider- Ammann.</lex>
+      </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Karnataka | northeast | Telangana</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Karnataka | hasToItsNortheast | Telangana</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Afiliación | Universidad_Tecnológica_Visvesvaraya</striple>
+        <striple>Karnataka | TieneASuNoreste | Telangana</striple>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Karnataka | TieneASuOeste | mar_Arábigo</striple>
+        <striple>Instituto_Tecnológico_Acharya | Estado | Karnataka</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | Afiliació | Universitat_Tecnològica_Visvesvaraya</ctriple>
+        <ctriple>Karnataka | EstàAlSeuNord-est | Telangana</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Karnataka | TéCapAL'Oest | mar_d'Aràbia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Estat | Karnataka</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Afiliación | Universidade_Tecnolóxica_Visvesvaraya</gtriple>
+        <gtriple>Karnataka | TenAoSeuNordeste | Telangana</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Cidade | Bangalore</gtriple>
+        <gtriple>Karnataka | TenAoSeuOeste | Mar_Arábico</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Estado | Karnataka</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | Afiliazioa | Visvesvaraya_Unibertsitate_Teknologikoa</btriple>
+        <btriple>Karnataka | Ipar-ekialdeanDago. | Telangana</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Hiria | Bangalore</btriple>
+        <btriple>Karnataka | HarenMendebaldean | Arabiako_itsasoa</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Egoera | Karnataka</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University and is located in Bangalore, Karnataka. To its northeast is Telangana and to its west is the Arabian Sea.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology in Bangalore, Karnataka is east of the Arabian Sea and southwest of Telangana. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex lang="en" lid="Id3">Karnataka state which has the Arabian Sea to its west and Telangana to its northwest is also home to the Acharya Institute of Technology. The Institute is located in the city of Bangalore and is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya está afiliado a la Universidad Tecnológica Visvesvaraya y se encuentra en Bangalore, Karnataka. Al noreste está Telangana y al oeste el mar Arábigo.</lex>
+      <lex lang="es" lid="Id2">El Instituto Tecnológico Acharya de Bangalore (Karnataka) está situado al este del Mar Arábigo y al suroeste de Telangana. Está afiliado a la Universidad Tecnológica Visvesvaraya.</lex>
+      <lex lang="es" lid="Id3">El estado de Karnataka, que tiene el Mar Arábigo al oeste y Telangana al noroeste, también alberga el Instituto Tecnológico Acharya. El Instituto está situado en la ciudad de Bangalore y está afiliado a la Universidad Tecnológica Visvesvaraya.</lex>
+      <lex lang="ca" lid="Id1">L' Institut de Tecnologia Acharya està afiliat a la Universitat Tecnològica Visvesvaraya i es troba a Bangalore, Karnataka. Al nord- est és Telangana i a l' oest és el mar d' Aràbia.</lex>
+      <lex lang="ca" lid="Id2">L'Institut de Tecnologia Acharya a Bangalore, Karnataka, a l'est del mar d'Aràbia i al sud-oest de Telangana, està afiliat a la Universitat Tecnològica Visvesvaraya.</lex>
+      <lex lang="ca" lid="Id3">L'estat de Karnataka, que té el Mar Aràbic a l'oest i Telangana al nord-oest, també és la seu de l'Institut de Tecnologia Acharya. L'Institut es troba a la ciutat de Bangalore i està afiliat a la Universitat Tecnològica de Visvesvaraya.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua Visvesvaraya Teknologia Unibertsitateari lotuta dago eta Bangaloren dago, Karnatakan. Bere ipar-ekialdean Telangana dago eta mendebaldean Arabiako itsasoa.</lex>
+      <lex lang="eu" lid="Id2">Karnataka-ko Bangalore-ko Acharya Teknologia Institutua Arabiako itsasoaren ekialdean eta Telangana-ren hego-mendebaldean dago. Visvesvaraya Teknologia Unibertsitateari lotuta dago.</lex>
+      <lex lang="eu" lid="Id3">Karnataka estatuak Arabiako itsasoa mendebaldean eta Telangana ipar-mendebaldean ditu eta Acharya Teknologia Institutua ere bertan dago. Institutua Bangalore hirian dago eta Visvesvaraya Teknologia Unibertsitateari lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya está afiliado á Universidade Tecnolóxica Visvesvaraya e está situado en Bangalore, Karnataka. Ao nordés está Telangana e ao oeste está o Mar Arábigo. Name</lex>
+      <lex lang="gl" lid="Id2">O Instituto de Tecnoloxía Acharya en Bangalore, Karnataka está ao leste do Mar Arábigo e ao suroeste de Telangana. Está afiliado á Universidade Tecnolóxica Visvesvaraya. Name</lex>
+      <lex lang="gl" lid="Id3">O estado de Karnataka, que ten o Mar Arábe ao oeste e Telangana ao noroeste, tamén acolle o Instituto de Tecnoloxía Acharya. O Instituto atópase na cidade de Bangalore e está afiliado á Universidade Tecnolóxica de Visvesvaraya.</lex>
+      </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Instituto_Tecnológico_Acharya | Establecido | 2000</striple>
+        <striple>Instituto_Tecnológico_Acharya | País | India</striple>
+        <striple>Instituto_Tecnológico_Acharya | NúmeroDeEstudiantesDePosgrado | 700</striple>
+        <striple>Instituto_Tecnológico_Acharya | Campus | En_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_-_560090.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Establert | 2000</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | País | Índia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | NombreD'estudiantsDePostgrau | 700</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Campus | Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_-_560090.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Cidade | Bangalore</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Establecido | 2000</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | País | India</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | NúmeroDeEstudantesDePosgrado | 700</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Campus | En_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_560090.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | Hiria | Bangalore</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Ezarritako | 2000</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Herrialdea | India</btriple>
+        <btriple>Acharya_Teknologia_Institutua | GraduondokoIkasleenKopurua | 700</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Unibertsitatean. | Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_–_560090.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The School was established in 2000 and has 700 Postgraduate Students.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology was established in 2000 and is based in the city of Bangalore in India. It currently has 700 Postgraduate Students and its exact location is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="es" lid="Id1">El Acharya Institute of Technology está situado en In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. Se fundó en 2000 y cuenta con 700 estudiantes de posgrado.</lex>
+      <lex lang="es" lid="Id2">El Acharya Institute of Technology se fundó en el año 2000 y tiene su sede en la ciudad de Bangalore, en la India. Actualmente cuenta con 700 Estudiantes de Postgrado y su ubicación exacta es en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="ca" lid="Id1">L'Institut de Tecnologia Acharya es troba a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Índia. L'escola es va establir el 2000 i té 700 estudiants de postgrau.</lex>
+      <lex lang="ca" lid="Id2">L'Institut de Tecnologia Acharya es va establir l'any 2000 i té la seva seu a la ciutat de Bangalore a l'Índia. Actualment té 700 estudiants de postgrau i la seva ubicació exacta és a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua Soldevanahallin dago, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. Eskola 2000an sortu zen eta 700 graduondoko ikasle ditu.</lex>
+      <lex lang="eu" lid="Id2">Acharya Teknologia Institutua 2000an sortu zen eta Bangalore hirian dago, Indian. Gaur egun 700 graduondoko ikasle ditu eta bere kokapen zehatza Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090 da.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya está situado en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. A escola foi establecida en 2000 e ten 700 estudantes de posgrao.</lex>
+      <lex lang="gl" lid="Id2">O Instituto de Tecnoloxía Acharya fundouse no ano 2000 e ten a súa sede na cidade india de Bangalore. Actualmente ten 700 estudantes de posgrao e a súa localización exacta é Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bengaluru | Fundador | Kempēgauḍa_I</striple>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Karnataka | TieneASuOeste | mar_Arábigo</striple>
+        <striple>Instituto_Tecnológico_Acharya | Estado | Karnataka</striple>
+        <striple>Instituto_Tecnológico_Acharya | Afiliación | Universidad_Tecnológica_Visvesvaraya</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bangalore | Fundador | Kempe_Gowda_I</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Karnataka | TéCapAL'Oest | mar_d'Aràbia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Estat | Karnataka</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Afiliació | Universitat_Tecnològica_Visvesvaraya</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bangalore | Fundador | Kempe_Gowda_I</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Cidade | Bangalore</gtriple>
+        <gtriple>Karnataka | TenAoSeuOeste | Mar_Arábico</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Estado | Karnataka</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Afiliación | Universidade_Tecnolóxica_Visvesvaraya</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bangalore | Sortzailea | Kempe_Gowda_I</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Hiria | Bangalore</btriple>
+        <btriple>Karnataka | HarenMendebaldean | Arabiako_itsasoa</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Egoera | Karnataka</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Afiliazioa | Visvesvaraya_Unibertsitate_Teknologikoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology was founded by Kempe Gowda I in Bangalore in the state of Karnataka. It has the Arabian Sea to its west and is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology is located in Bangalore, Karnataka, east of the Arabian Sea. The Institute is affiliated with Visvesvaraya Technological University. Bangalore was founded by Kempe Gowda.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya fue fundado por Kempe Gowda I en Bangalore, en el estado de Karnataka. Tiene el mar Arábigo al oeste y está afiliado a la Universidad Tecnológica Visvesvaraya.</lex>
+      <lex lang="es" lid="Id2">El Instituto Tecnológico Acharya está situado en Bangalore, Karnataka, al este del Mar Arábigo. El Instituto está afiliado a la Universidad Tecnológica Visvesvaraya. Bangalore fue fundada por Kempe Gowda.</lex>
+      <lex lang="ca" lid="Id1">L'Institut Tecnològic Acharya va ser fundat per Kempe Gowda I a Bangalore, a l'estat de Karnataka. Té el mar Àrab a l'oest i està afiliat a la Universitat Tecnològica Visvesvaraya.</lex>
+      <lex lang="ca" lid="Id2">L' Institut de Tecnologia Acharya es troba a Bangalore, Karnataka, a l' est del mar Àrab. L' institut està afiliat a la Universitat Tecnològica Visvesvaraya. Bangalore va ser fundada per Kempe Gowda.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua Kempe Gowda I.ak sortu zuen Bangaloren, Karnataka estatuan. Arabiar itsasoa du mendebaldean eta Visvesvaraya Unibertsitate Teknologikoarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Acharya Teknologia Institutua Karnataka-ko Bangalore-n dago, Arabiako itsasoaren ekialdean. Institutua Visvesvaraya Teknologia Unibertsitateari lotuta dago. Bangalore-a Kempe Gowda-k sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya foi fundado por Kempe Gowda I en Bangalore, no estado de Karnataka. Ten o Mar Arábe ao oeste e está afiliado á Universidade Tecnolóxica de Visvesvaraya.</lex>
+      <lex lang="gl" lid="Id2">O Instituto de Tecnoloxía Acharya está situado en Bangalore, Karnataka, ao leste do Mar Arábigo. O instituto está afiliado á Universidade Tecnolóxica Visvesvaraya. Bangalore foi fundada por Kempe Gowda.</lex>
+      </entry>
+    <entry category="University" eid="Id6" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Rumania | TítuloDeLíder | Primer_ministro_de_Rumania</striple>
+        <striple>Alba_Iulia | País | Rumania</striple>
+        <striple>Rumania | Líder | Klaus_Iohannis</striple>
+        <striple>Rumania | Capital | Bucarest</striple>
+        <striple>1_de_diciembre_de_1918_Universidad | Ciudad | Alba_Iulia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Romania | LíderTítol | primer_ministre_de_Romania</ctriple>
+        <ctriple>Alba_Iulia | País | Romania</ctriple>
+        <ctriple>Romania | Líder | Klaus_Iohannis</ctriple>
+        <ctriple>Romania | Capital | Bucarest</ctriple>
+        <ctriple>1_de_desembre_de_1918_Universitat | Ciutat | Alba_Iulia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Roménia | LíderTítulo | Primeiro_ministro_de_Rumanía</gtriple>
+        <gtriple>Alba_Iuliaromania._kgm | País | Roménia</gtriple>
+        <gtriple>Roménia | Líder | Klaus_Iohannis</gtriple>
+        <gtriple>Roménia | Capital | Bucarest</gtriple>
+        <gtriple>1_de_decembro_de_1918_Universidade | Cidade | Alba_Iuliaromania._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Errumania | LiderraIzenburua | Errumaniako_lehen_ministroa</btriple>
+        <btriple>Alba_Iuliaromania._kgm | Herrialdea | Errumania</btriple>
+        <btriple>Errumania | Buruzagia. | Klaus_Iohannis</btriple>
+        <btriple>Errumania | Kapitala | Bucarest</btriple>
+        <btriple>1918ko_abenduaren_1a_Unibertsitatea | Hiria | Alba_Iuliaromania._kgm</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.</lex>
+      <lex lang="en" lid="Id2">1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania and Klaus Iohannis is the country's Prime Minister.</lex>
+      <lex lang="en" lid="Id3">1 Decembrie 1918 University is located in the city of Alba Iulia in Romania. The capital of Romania is Bucharest and the Prime Minister is Klaus Iohannis.</lex>
+      <lex lang="es" lid="Id1">La Universidad 1 de diciembre de 1918 se encuentra en Alba Iulia, Rumanía. La capital del país es Bucarest y el primer ministro es Klaus Iohannis.</lex>
+      <lex lang="es" lid="Id2">La Universidad 1 de diciembre de 1918 se encuentra en Alba Iulia, Rumanía. Bucarest es la capital de Rumanía y Klaus Iohannis es el Primer Ministro del país.</lex>
+      <lex lang="es" lid="Id3">La Universidad 1 de diciembre de 1918 está situada en la ciudad de Alba Iulia, en Rumanía. La capital de Rumanía es Bucarest y el Primer Ministro es Klaus Iohannis.</lex>
+      <lex lang="ca" lid="Id1">La Universitat 1 de desembre de 1918 es troba a Alba Iulia, Romania. La capital del país és Bucarest i el primer ministre és Klaus Iohannis.</lex>
+      <lex lang="ca" lid="Id2">La Universitat 1 Decembrie 1918 es troba a Alba Iulia, Romania. Bucarest és la capital de Romania i Klaus Iohannis és el primer ministre del país.</lex>
+      <lex lang="ca" lid="Id3">La Universitat 1 Decembrie 1918 es troba a la ciutat d' Alba Iulia a Romania. La capital de Romania és Bucarest i el primer ministre és Klaus Iohannis.</lex>
+      <lex lang="eu" lid="Id1">1918ko abenduaren 1eko Unibertsitatea Alba Julian dago, Errumanian.</lex>
+      <lex lang="eu" lid="Id2">1918ko abenduaren 1eko unibertsitatea Alba Iulian dago, Errumanian. Bukarest Errumaniako hiriburua da eta Klaus Iohannis da herrialdeko lehen ministroa.</lex>
+      <lex lang="eu" lid="Id3">1918ko abenduaren 1eko unibertsitatea Errumaniako Alba Iulia hirian dago. Errumaniako hiriburua Bukarest da eta lehen ministroa Klaus Iohannis da.</lex>
+      <lex lang="gl" lid="Id1">A Universidade 1 de Decembro de 1918 atópase en Alba Iulia, Romanía. A capital do país é Bucarest e o primeiro ministro é Klaus Iohannis.</lex>
+      <lex lang="gl" lid="Id2">A Universidade 1 de Decembro de 1918 atópase en Alba Iulia, Romanía. Bucarest é a capital de Romanía e Klaus Iohannis é o primeiro ministro do país.</lex>
+      <lex lang="gl" lid="Id3">A Universidade 1 Decembrie 1918 está situada na cidade de Alba Iulia en Romanía. A capital de Romanía é Bucarest e o primeiro ministro é Klaus Iohannis.</lex>
+      </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Afiliación | Asociación_de_Universidades_Europeas</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeEstudiantes | 16000</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeProfesores | 737</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | País | Dinamarca</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Establecido | 1928</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Afiliació | Associació_d'Universitats_Europees</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | NombreD'estudiants | 16000</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | MidaDelPersonalAcadèmic | 737</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | País | Dinamarca</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Establert | 1928</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Afiliación | Asociación_Europea_de_Universidades</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | NúmeroDeEstudantes | 16000</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | TamañoDoPersoalAcadémico | 737</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | País | Dinamarca</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Establecido | 1928</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Afiliazioa | Europako_Unibertsitate_Elkartea</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | IkasleenKopurua | 16000</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | AkademikoaLangileKopurua | 737</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Herrialdea | Danimarka</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Ezarritako | 1928</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at Aarhus University in Denmark is affiliated with the European University Association. It has 16,000 students, 737 employees. and was established in 1928.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It is affiliated with the European University Association and has a staff compliment of 737. 16000 students attend the university currently.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in Denmark in 1928. The School is affiliated with the European University Association and has 16,000 students and 737 academic staff.</lex>
+      <lex lang="es" lid="Id1">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus (Dinamarca) está afiliada a la Asociación Europea de Universidades. Tiene 16.000 estudiantes y 737 empleados. Se fundó en 1928.</lex>
+      <lex lang="es" lid="Id2">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus (Dinamarca) se fundó en 1928. Está afiliada a la Asociación Europea de Universidades y cuenta con una plantilla de 737 personas. Actualmente asisten a la universidad 16 000 estudiantes.</lex>
+      <lex lang="es" lid="Id3">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus se fundó en Dinamarca en 1928. Está afiliada a la Asociación Europea de Universidades y cuenta con 16.000 estudiantes y 737 profesores.</lex>
+      <lex lang="ca" lid="Id1">L'Escola d'Empreses i Ciències Socials de la Universitat d'Aarhus a Dinamarca està afiliada a l'Associació Europea d'Universitats. Té 16.000 estudiants, 737 empleats i va ser fundada el 1928.</lex>
+      <lex lang="ca" lid="Id2">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus a Dinamarca es va fundar l'any 1928. Està afiliada a l'Associació Europea d'Universitats i té una plantilla de 737 persones. Actualment hi ha 16.000 estudiants.</lex>
+      <lex lang="ca" lid="Id3">L' Escola de Negocis i Ciències Socials de la Universitat d' Aarhus es va establir a Dinamarca el 1928. L' Escola està afiliada a l' Associació Universitària Europea i té 16. 000 estudiants i 737 membres del personal acadèmic.</lex>
+      <lex lang="eu" lid="Id1">Danimarkako Aarhuseko Unibertsitateko Enpresa eta Gizarte Zientzien Eskola Europako Unibertsitate Elkarteko kidea da. 16.000 ikasle ditu, 737 langile. eta 1928an sortu zen.</lex>
+      <lex lang="eu" lid="Id2">Danimarkako Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola 1928an sortu zen. Europako Unibertsitate Elkarteko kidea da eta 737 langile ditu. Gaur egun, 16.000 ikasle ditu unibertsitateak.</lex>
+      <lex lang="eu" lid="Id3">Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola 1928an sortu zen Danimarkan. Eskola Europako Unibertsitate Elkarteko kidea da eta 16.000 ikasle eta 737 langile akademiko ditu.</lex>
+      <lex lang="gl" lid="Id1">A Escola de Negocios e Ciencias Sociais da Universidade de Aarhus en Dinamarca está afiliada á Asociación Europea de Universidades. Conta con 16 000 estudantes e 737 empregados e fundouse en 1928.</lex>
+      <lex lang="gl" lid="Id2">A Escola de Negocios e Ciencias Sociais da Universidade de Aarhus en Dinamarca fundouse en 1928. Está afiliada á Asociación Europea de Universidades e ten un persoal de 737 persoas. Actualmente asisten á universidade 16000 estudantes.</lex>
+      <lex lang="gl" lid="Id3">A Escola de Ciencias Empresariais e Sociais da Universidade de Aarhus foi fundada en Dinamarca en 1928. A escola está afiliada á Asociación Universitaria Europea e ten 16. 000 estudantes e 737 membros do persoal académico.</lex>
+      </entry>
+    </entries>
+  </benchmark>

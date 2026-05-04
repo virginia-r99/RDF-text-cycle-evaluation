@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus | leaderName | Jacob_Bundsgaard</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | leader | Jacob_Bundsgaard</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aarhus | Líder | Jacob_Bundsgaard</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aarhus | Líder | Jacob_Bundsgaard</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aarhus | Líder | Jacob_Bundsgaard</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aarhus | Buruzagia. | Jacob_Bundsgaard</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The leader of Aarhus is Jacob Bundsgaard.</lex>
+      <lex lang="es" lid="Id1">El líder de Aarhus es Jacob Bundsgaard.</lex>
+      <lex lang="ca" lid="Id1">El líder d'Aarhus és Jacob Bundsgaard.</lex>
+      <lex lang="eu" lid="Id1">Aarhuseko buruzagia Jacob Bundsgaard da.</lex>
+      <lex lang="gl" lid="Id1">O líder de Aarhus é Jacob Bundsgaard.</lex>
+      </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2702.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2702.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Aarhus | LongitudDeLaPista | 2702.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'Aarhus | LongitudDeLaPista | 2702.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Aarhus | DuraciónDaPista | 2702.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aarhus_aireportua | PistarenLuzera | 2702.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aarhus Airport's runway length is 2702.0.</lex>
+      <lex lang="en" lid="Id2">The Aarhus Airport has a runway length of 2702.0.</lex>
+      <lex lang="es" lid="Id1">La longitud de la pista del Aeropuerto de Aarhus es de 2702.0.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto de Aarhus tiene una longitud de pista de 2702,0.</lex>
+      <lex lang="ca" lid="Id1">La longitud de la pista de l'aeroport d'Aarhus és de 2702,0.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport d'Aarhus té una longitud de pista de 2702,0.</lex>
+      <lex lang="eu" lid="Id1">Aarhuseko aireportuaren pistaren luzera 2702,0 da.</lex>
+      <lex lang="eu" lid="Id2">Aarhus aireportuak 2702,0 metroko pista du.</lex>
+      <lex lang="gl" lid="Id1">A duración da pista do aeroporto de Aarhus é de 2702,0.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto de Aarhus ten unha lonxitude de pista de 2702,0.</lex>
+      </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | elevationM | 507</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | elevation | "507.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adirondack_Regional_Airport | elevationAboveTheSeaLevel | 507</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_de_Adirondack | ElevaciónSobreElNivelDelMar | 507</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_d'Adirondack | ElevacióPerSobreDelNivellDelMar | 507</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_de_Adirondack | ElevaciónSobreONivelDoMar | 507</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adirondack_eskualdeko_aireportua | ItsasoarenMailatikGorakoAltuera | 507</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport is 507 metres above sea level.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Regional de Adirondack está a 507 metros sobre el nivel del mar.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Regional d'Adirondack es troba a 507 metres sobre el nivell del mar.</lex>
+      <lex lang="eu" lid="Id1">Adirondack Eskualdeko aireportua itsasoaren mailatik 507 metrora dago.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto regional de Adirondack está a 507 metros sobre o nivel do mar.</lex>
+      </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | location | Harrietstown,_New_York</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adirondack_Regional_Airport | location | Harrietstown,_New_York</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_de_Adirondack | Ubicación | Harrietstown</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_d'Adirondack | Ubicació | Harrietstown,_Nova_York</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_de_Adirondack | Localización | Harrietstown,_Nova_York</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adirondack_eskualdeko_aireportua | Lokalizazioa | Harrietstown,_New_York</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional airport is located at Harrietstown, New York.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport is located in Harrietstown, New York.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto regional de Adirondack está situado en Harrietstown, Nueva York.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Regional de Adirondack está situado en Harrietstown, Nueva York.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport regional d'Adirondack es troba a Harrietstown, Nova York.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Regional d'Adirondack es troba a Harrietstown, Nova York.</lex>
+      <lex lang="eu" lid="Id1">Adirondack eskualdeko aireportua Harrietstownen dago, New Yorken.</lex>
+      <lex lang="eu" lid="Id2">Adirondack eskualdeko aireportua Harrietstownen dago, New Yorken.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto regional de Adirondack está situado en Harrietstown, Nova York.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto rexional de Adirondack está situado en Harrietstown, Nova York.</lex>
+      </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | San_Sebastián_de_los_Reyes</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | Ubicació | San_Sebastián_de_los_Reyes</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | Localización | San_Sebastián_de_los_Reyes</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | Lokalizazioa | San_Sebastián_de_los_Reyes</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes.</lex>
+      <lex lang="en" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en San Sebastián de los Reyes.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Adolfo Suárez Madrid-Barajas está situado en San Sebastián de los Reyes.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Adolfo Suárez Madrid-Barajas está en San Sebastián de los Reyes.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes.</lex>
+      <lex lang="ca" lid="Id2">L'aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes.</lex>
+      <lex lang="eu" lid="Id1">Adolfo Suárez MadridBarajas aireportua San Sebastián de los Reyesen dago.</lex>
+      <lex lang="eu" lid="Id2">Adolfo Suarez Madrid-Barajas aireportua San Sebastian de los Reyesen dago.</lex>
+      <lex lang="eu" lid="Id3">Adolfo Suárez MadridBarajas aireportua San Sebastián de los Reyesen dago.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto Adolfo Suárez Madrid-Barajas atópase en San Sebastián de los Reyes.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto Adolfo Suárez Madrid-Barajas está situado en San Sebastián de los Reyes.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto Adolfo Suárez MadridBarajas está en San Sebastián de los Reyes.</lex>
+      </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | NombreDeLaPista | 14L/32R</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | NomDeLaPista | 14L/32R</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | NomeDaPista | 14L/32R</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | PistarenIzena | 14L/32R</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.</lex>
+      <lex lang="en" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.</lex>
+      <lex lang="en" lid="Id3">14L/32R is the runway name of Adolfo Suárez Madrid-Barajas Airport.</lex>
+      <lex lang="es" lid="Id1">El nombre de la pista del Aeropuerto Adolfo Suárez Madrid-Barajas es 14L/32R.</lex>
+      <lex lang="es" lid="Id2">El nombre de la pista del Aeropuerto Adolfo Suárez Madrid-Barajas es 14L/32R.</lex>
+      <lex lang="es" lid="Id3">14L/32R es el nombre de la pista del Aeropuerto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="ca" lid="Id1">El nom de la pista de l'aeroport Adolfo Suárez Madrid-Barajas és 14L/32R.</lex>
+      <lex lang="ca" lid="Id2">El nom de la pista de l'Aeroport Adolfo Suárez Madrid-Barajas és 14L/32R.</lex>
+      <lex lang="ca" lid="Id3">14L/32R és el nom de la pista de l'Aeroport Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="eu" lid="Id1">Adolfo Suárez Madrid-Barajas aireportuko pista 14L/32R da.</lex>
+      <lex lang="eu" lid="Id2">Adolfo Suárez Madrid–Barajas aireportuko pista 14L/32R da.</lex>
+      <lex lang="eu" lid="Id3">14L / 32R Adolfo Suárez Madrid-Barajas aireportuaren pistaren izena da.</lex>
+      <lex lang="gl" lid="Id1">O nome da pista do aeroporto Adolfo Suárez Madrid-Barajas é 14L/32R.</lex>
+      <lex lang="gl" lid="Id2">O nome da pista do aeroporto Adolfo Suárez Madrid-Barajas é 14L/32R.</lex>
+      <lex lang="gl" lid="Id3">14L/32R é o nome da pista do aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14R/32L"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14R/32L"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | NombreDeLaPista | 14R/32L</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | NomDeLaPista | 14R/32L</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | NomeDaPista | 14R/32L</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | PistarenIzena | 14R/32L</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.</lex>
+      <lex lang="en" lid="Id2">14R/32L is the runway name of Adolfo Suárez Madrid-Barajas Airport.</lex>
+      <lex lang="es" lid="Id1">14R/32L es el nombre de la pista del Aeropuerto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="es" lid="Id2">14R/32L es el nombre de la pista del Aeropuerto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="ca" lid="Id1">14R/32L és el nom de la pista de l'Aeroport Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="ca" lid="Id2">14R/32L és el nom de la pista de l'Aeroport Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="eu" lid="Id1">14R / 32L Adolfo Suárez MadridBarajas aireportuaren pistaren izena da.</lex>
+      <lex lang="eu" lid="Id2">14R / 32L Adolfo Suárez Madrid-Barajas aireportuaren pistaren izena da.</lex>
+      <lex lang="gl" lid="Id1">14R/32L é o nome da pista do aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="gl" lid="Id2">14R/32L é o nome da pista do aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Afonso_Pena_International_Airport | operator | Infraero</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Afonso_Pena | OrganizaciónOperativa | Infraero</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_Afonso_Pena | OrganitzacióOperativa | Infraero</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_Afonso_Pena | OrganizaciónOperativa | Infraero</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Afonso_Pena_nazioarteko_aireportua. | ErakundeEragilea | Aire_infragorria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The operating organization for Afonso Pena International Airport is Infraero.</lex>
+      <lex lang="en" lid="Id2">Afonso Pena International Airport is operated by Infraero.</lex>
+      <lex lang="es" lid="Id1">La organización operadora del Aeropuerto Internacional Afonso Pena es Infraero.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional Afonso Pena está operado por Infraero.</lex>
+      <lex lang="ca" lid="Id1">L'organització operadora de l'Aeroport Internacional Afonso Pena és Infraero.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional Afonso Pena és operat per Infraero.</lex>
+      <lex lang="eu" lid="Id1">Afonso Pena Nazioarteko Aireportuaren erakunde eragilea Infraero da.</lex>
+      <lex lang="eu" lid="Id2">Afonso Pena nazioarteko aireportua Infraerok kudeatzen du.</lex>
+      <lex lang="gl" lid="Id1">A organización operadora do Aeroporto Internacional Afonso Pena é Infraero.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional Afonso Pena é operado por Infraero.</lex>
+      </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agra_Airport | location | Agra</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agra_Airport | location | Agra</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Agra | Ubicación | Agra</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'_Agra | Ubicació | Agra</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Agra | Localización | Agra</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agra_aireportua | Lokalizazioa | Agra</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agra Airport is in Agra.</lex>
+      <lex lang="en" lid="Id2">Agra airport is located in Agra.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto de Agra está en Agra.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto de Agra está situado en Agra.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport d'Agra està a Agra.</lex>
+      <lex lang="ca" lid="Id2">L'aeroport d'Agra es troba a Agra.</lex>
+      <lex lang="eu" lid="Id1">Agra aireportua Agran dago.</lex>
+      <lex lang="eu" lid="Id2">Agra aireportua Agran dago.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto de Agra está en Agra.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto de Agra está situado en Agra.</lex>
+      </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Al-Taqaddum_Air_Base | elevation | "83.82"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Taqaddum_Air_Base | elevationAboveTheSeaLevel | 84.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Base_aérea_de_Al-Taqaddum | ElevaciónSobreElNivelDelMar | 84.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Base_Aèria_Al-Taqaddum | ElevacióPerSobreDelNivellDelMar | 84.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Base_aérea_de_Al-_Taqaddum | ElevaciónSobreONivelDoMar | 84.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Al-Taqaddum_aire-basea | ItsasoarenMailatikGorakoAltuera | 84.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Al-Taqaddum Air Base is 84 metres above sea level.</lex>
+      <lex lang="en" lid="Id2">Al Taqaddum Air Base is 84 metres above sea level.</lex>
+      <lex lang="en" lid="Id3">The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0.</lex>
+      <lex lang="es" lid="Id1">La base aérea de Al-Taqaddum está a 84 metros sobre el nivel del mar.</lex>
+      <lex lang="es" lid="Id2">La base aérea de Al Taqaddum está a 84 metros sobre el nivel del mar.</lex>
+      <lex lang="es" lid="Id3">La altitud sobre el nivel del mar (en metros) de Base Aérea Al-Taqaddum es 84.0.</lex>
+      <lex lang="ca" lid="Id1">La base aèria d'Al-Taqaddum està a 84 metres sobre el nivell del mar.</lex>
+      <lex lang="ca" lid="Id2">La base aèria d'Al Taqaddum està a 84 metres sobre el nivell del mar.</lex>
+      <lex lang="ca" lid="Id3">L'altitud sobre el nivell del mar (en metres) de la base aèria d'Al-Taqaddum és de 84.0.</lex>
+      <lex lang="eu" lid="Id1">Al-Taqaddum aire-basea itsasoaren mailatik 84 metrora dago.</lex>
+      <lex lang="eu" lid="Id2">Al Taqaddum aire-basea itsasoaren mailatik 84 metrora dago.</lex>
+      <lex lang="eu" lid="Id3">Al-Taqaddum aireko basearen altuera itsas mailaren gainetik (metroetan) 84,0 da.</lex>
+      <lex lang="gl" lid="Id1">A Base Aérea de Al-Taqaddum está a 84 metros sobre o nivel do mar.</lex>
+      <lex lang="gl" lid="Id2">A base aérea de Al Taqaddum está a 84 metros sobre o nivel do mar.</lex>
+      <lex lang="gl" lid="Id3">A elevación sobre o nivel do mar (en metros) da base aérea de Al-Taqaddum é de 84,0.</lex>
+      </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alderney_Airport | city | Alderney</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alderney_Airport | cityServed | Alderney</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alderney_Airport | cityServed | Alderney</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Alderney | CiudadServida | Alderney</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'Alderney | CiutatServida | Alderney</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Alderney | CidadeServido | Alderney</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alderney_aireportua | ZerbitzatutakoHiria | Alderneykoak.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Alderney Airport serves Alderney.</lex>
+      <lex lang="en" lid="Id2">Alderney Airport serves the city of Alderney.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto de Alderney presta servicio a Alderney.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto de Alderney presta servicio a la ciudad de Alderney.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport d'Alderney serveix a Alderney.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport d'Alderney serveix a la ciutat d'Alderney.</lex>
+      <lex lang="eu" lid="Id1">Alderney aireportuak Alderney zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id2">Alderney aireportuak Alderney hiria zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto de Alderney serve a Alderney.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto de Alderney serve á cidade de Alderney.</lex>
+      </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allama_Iqbal_International_Airport | runwayDesignation | "18R/36L"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allama_Iqbal_International_Airport | runwayName | "18R/36L"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Allama_Iqbal | NombreDeLaPista | 18R/36L</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_Allama_Iqbal | NomDeLaPista | 18R/36L</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_Allama_Iqbal | NomeDaPista | 18R/36L</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Allama_Iqbal_nazioarteko_aireportua | PistarenIzena | 18R/36L</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">18R/36L is the runway name at Allama Iqbal International airport.</lex>
+      <lex lang="en" lid="Id2">Allama Iqbal International Airport has a runway named 18R/36L.</lex>
+      <lex lang="en" lid="Id3">Allama Iqbal International Airport's runway name is "18R/36L".</lex>
+      <lex lang="es" lid="Id1">18R/36L es el nombre de la pista del Aeropuerto Internacional Allama Iqbal.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional Allama Iqbal tiene una pista denominada 18R/36L.</lex>
+      <lex lang="es" lid="Id3">El nombre de la pista del Aeropuerto Internacional Allama Iqbal es "18R/36L".</lex>
+      <lex lang="ca" lid="Id1">18R/36L és el nom de la pista a l'aeroport internacional Allama Iqbal.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional Allama Iqbal té una pista anomenada 18R/36L.</lex>
+      <lex lang="ca" lid="Id3">El nom de la pista de l'Aeroport Internacional Allama Iqbal és "18R/36L".</lex>
+      <lex lang="eu" lid="Id1">18R/36L Allama Iqbal nazioarteko aireportuko pistaren izena da.</lex>
+      <lex lang="eu" lid="Id2">Allama Iqbal nazioarteko aireportuak 18R/36L izeneko pista dauka.</lex>
+      <lex lang="eu" lid="Id3">Allama Iqbal nazioarteko aireportuaren pistaren izena "18R/36L" da.</lex>
+      <lex lang="gl" lid="Id1">18R/36L é o nome da pista no aeroporto internacional Allama Iqbal.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional Allama Iqbal ten unha pista chamada 18R/36L.</lex>
+      <lex lang="gl" lid="Id3">O nome da pista do Aeroporto Internacional Allama Iqbal é "18R/36L".</lex>
+      </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_del_Condado_de_Alpena | LongitudDeLaPista | 1533.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_del_comtat_d'_Alpena | LongitudDeLaPista | 1533.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_do_condado_de_Alpena | DuraciónDaPista | 1533.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alpena_konderriko_aireportua. | PistarenLuzera | 1533.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The runway length of Alpena County Regional Airport is 1,533.</lex>
+      <lex lang="en" lid="Id2">The runway length of Alpena County Regional airport is 1533.0.</lex>
+      <lex lang="es" lid="Id1">La longitud de la pista del Aeropuerto Regional del Condado de Alpena es de 1.533.</lex>
+      <lex lang="es" lid="Id2">La longitud de la pista del Aeropuerto Regional del Condado de Alpena es de 1533.0.</lex>
+      <lex lang="ca" lid="Id1">La longitud de la pista de l'Aeroport Regional del Comtat d'Alpena és de 1.533.</lex>
+      <lex lang="ca" lid="Id2">La longitud de la pista de l'aeroport regional del comtat d'Alpena és 1533.0.</lex>
+      <lex lang="eu" lid="Id1">Alpena konderriko aireportuaren pista 1.533 metrokoa da.</lex>
+      <lex lang="eu" lid="Id2">Alpena konderriko aireportuaren pistaren luzera 1533.0 da.</lex>
+      <lex lang="gl" lid="Id1">A lonxitude da pista do Aeroporto Regional do Condado de Alpena é de 1.533.</lex>
+      <lex lang="gl" lid="Id2">A lonxitude da pista do aeroporto regional do condado de Alpena é 1533.0.</lex>
+      </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayDesignation | "1/19"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayName | "1/19"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_del_Condado_de_Alpena | NombreDeLaPista | 1/19</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_del_comtat_d'_Alpena | NomDeLaPista | 1/19</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_do_condado_de_Alpena | NomeDaPista | 1/19</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alpena_konderriko_aireportua. | PistarenIzena | 1/19</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alpena County Regional Airport runway name is 1/19.</lex>
+      <lex lang="en" lid="Id2">1/19 is the runway name of Alpena County Regional Airport.</lex>
+      <lex lang="en" lid="Id3">The runway name of Alpena County Regional Airport is 1/19.</lex>
+      <lex lang="es" lid="Id1">El nombre de la pista del Aeropuerto Regional del Condado de Alpena es 1/19.</lex>
+      <lex lang="es" lid="Id2">1/19 es el nombre de la pista del Aeropuerto Regional del Condado de Alpena.</lex>
+      <lex lang="es" lid="Id3">El nombre de la pista del Aeropuerto Regional del Condado de Alpena es 1/19.</lex>
+      <lex lang="ca" lid="Id1">El nom de la pista de l'Aeroport Regional del Comtat d'Alpena és 1/19.</lex>
+      <lex lang="ca" lid="Id2">1/19 és el nom de la pista de l'Aeroport Regional del Comtat d'Alpena.</lex>
+      <lex lang="ca" lid="Id3">El nom de la pista de l'Aeroport Regional del Comtat d'Alpena és 1/19.</lex>
+      <lex lang="eu" lid="Id1">Alpena konderriko aireportuaren pista 1/19 da.</lex>
+      <lex lang="eu" lid="Id2">1/19 Alpena konderriko aireportuko pistaren izena da.</lex>
+      <lex lang="eu" lid="Id3">Alpena konderriko aireportuaren pistaren izena da 1/19.</lex>
+      <lex lang="gl" lid="Id1">O nome da pista do aeroporto rexional do condado de Alpena é 1/19.</lex>
+      <lex lang="gl" lid="Id2">1/19 é o nome da pista do Aeroporto Regional do Condado de Alpena.</lex>
+      <lex lang="gl" lid="Id3">O nome da pista do Aeroporto Regional do Condado de Alpena é 1/19.</lex>
+      </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Ámsterdam-Schiphol | CiudadServida | Ámsterdam</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'Amsterdam_Schiphol | CiutatServida | Amsterdam</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Amsterdam_Schiphol | CidadeServido | Amsterdam</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Amsterdameko_Schiphol_aireportua | ZerbitzatutakoHiria | Amsterdam</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Amsterdam Airport Schiphol serves the city of Amsterdam.</lex>
+      <lex lang="en" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam.</lex>
+      <lex lang="en" lid="Id3">Amsterdam Airport Schiphol serves Amsterdam.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Schiphol de Ámsterdam presta servicio a la ciudad de Ámsterdam.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto de Ámsterdam, Schiphol, presta servicio a la ciudad de Ámsterdam.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Schiphol de Ámsterdam presta servicio a Ámsterdam.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport d'Amsterdam Schiphol serveix a la ciutat d'Amsterdam.</lex>
+      <lex lang="ca" lid="Id2">L'aeroport d'Amsterdam, Schiphol serveix a la ciutat d'Amsterdam.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport d'Amsterdam Schiphol serveix Amsterdam.</lex>
+      <lex lang="eu" lid="Id1">Amsterdam-Schiphol aireportuak Amsterdam hiria zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id2">Amsterdamgo aireportua, Schiphol Amsterdam hiria zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id3">Amsterdam Schiphol aireportuak Amsterdam zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto de Ámsterdam Schiphol serve á cidade de Ámsterdam.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto de Ámsterdam, Schiphol, serve á cidade de Ámsterdam.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto de Ámsterdam Schiphol serve a Ámsterdam.</lex>
+      </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Andrews,_Texas | SedeDelCondado | Andrews,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Comtat_d'Andrews,_Texas | CapitalDelComtat | Andrews,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Condado_de_Andrews,_Texas | CapitalDoCondado | Andrews,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderria,_Texas | Eskualdea | Andrews,_Texas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrews County, Texas is country seat to Andrews, Texas.</lex>
+      <lex lang="en" lid="Id2">Andrews, Texas is the country seat of Andrews County, Texas.</lex>
+      <lex lang="en" lid="Id3">Andrews County, Texas has its county seat in Andrews, Texas.</lex>
+      <lex lang="es" lid="Id1">El condado de Andrews, Texas, es la sede del condado de Andrews, Texas.</lex>
+      <lex lang="es" lid="Id2">Andrews, Texas, es la sede del condado de Andrews, Texas.</lex>
+      <lex lang="es" lid="Id3">El Condado de Andrews, Texas tiene su sede del condado en Andrews, Texas.</lex>
+      <lex lang="ca" lid="Id1">El comtat d'Andrews, Texas és la seu del comtat d'Andrews, Texas.</lex>
+      <lex lang="ca" lid="Id2">Andrews, Texas és la seu del comtat d'Andrews, Texas.</lex>
+      <lex lang="ca" lid="Id3">El comtat d'Andrews, Texas té la seva seu a Andrews, Texas.</lex>
+      <lex lang="eu" lid="Id1">Andrews konderria (Texas) Andrews-en (Texas) hiriburua da.</lex>
+      <lex lang="eu" lid="Id2">Andrews, Texas Andrews konderriaren egoitza da, Texasen.</lex>
+      <lex lang="eu" lid="Id3">Andrews konderriak, Texas, Andrews konderrian du bere egoitza.</lex>
+      <lex lang="gl" lid="Id1">O condado de Andrews, Texas é a sede do condado de Andrews, Texas.</lex>
+      <lex lang="gl" lid="Id2">Andrews, Texas é a sede do condado de Andrews, Texas.</lex>
+      <lex lang="gl" lid="Id3">O condado de Andrews, Texas ten a súa sede en Andrews, Texas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | city | Andrews,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | cityServed | Andrews,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_del_Condado_de_Andrews | CiudadServida | Andrews,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | CiutatServida | Andrews,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_do_condado_de_Andrews | CidadeServido | Andrews,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderriko_aireportua | ZerbitzatutakoHiria | Andrews,_Texas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrews, Texas is served by Andrews County Airport.</lex>
+      <lex lang="en" lid="Id2">Andrews County Airport serves Andrews, Texas.</lex>
+      <lex lang="en" lid="Id3">Andrews County Airport serves the city of Andrews in Texas.</lex>
+      <lex lang="es" lid="Id1">Andrews, Texas es servido por el Aeropuerto del Condado de Andrews.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto del Condado de Andrews presta servicio a Andrews, Texas.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto del Condado de Andrews presta servicio a la ciudad de Andrews, en Texas.</lex>
+      <lex lang="ca" lid="Id1">Andrews, Texas és servida per l'Aeroport del Comtat d'Andrews.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport del Comtat d'Andrews serveix a Andrews, Texas.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport del Comtat d'Andrews serveix a la ciutat d'Andrews a Texas.</lex>
+      <lex lang="eu" lid="Id1">Andrews, Texas Andrews konderriko aireportuak zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id2">Andrews konderriko aireportuak Andrews (Texas) zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id3">Andrews konderriko aireportua Andrews hiriari ematen dio zerbitzua, Texasen.</lex>
+      <lex lang="gl" lid="Id1">Andrews, Texas é servido polo aeroporto do condado de Andrews.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto do Condado de Andrews serve a Andrews, Texas.</lex>
+      <lex lang="gl" lid="Id3">O Aeroporto do Condado de Andrews serve á cidade de Andrews en Texas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | runwayDesignation | "11/29"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | runwayName | "11/29"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_del_Condado_de_Andrews | NombreDeLaPista | 11/29</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | NomDeLaPista | 11/29</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_do_condado_de_Andrews | NomeDaPista | 11/29</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderriko_aireportua | PistarenIzena | 11/29</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrews County Airport runway name is 11/29.</lex>
+      <lex lang="en" lid="Id2">11/29 is the runway name of Andrews County Airport.</lex>
+      <lex lang="en" lid="Id3">The runway name of Andrews County Airport is 11/29.</lex>
+      <lex lang="es" lid="Id1">El nombre de la pista del Aeropuerto del Condado de Andrews es 11/29.</lex>
+      <lex lang="es" lid="Id2">11/29 es el nombre de la pista del Aeropuerto del Condado de Andrews.</lex>
+      <lex lang="es" lid="Id3">El nombre de la pista del Aeropuerto del Condado de Andrews es 11/29.</lex>
+      <lex lang="ca" lid="Id1">El nom de la pista de l'aeroport del comtat d'Andrews és 11/29.</lex>
+      <lex lang="ca" lid="Id2">11/29 és el nom de la pista de l'Aeroport del Comtat d'Andrews.</lex>
+      <lex lang="ca" lid="Id3">El nom de la pista de l'Aeroport del Comtat d'Andrews és 11/29.</lex>
+      <lex lang="eu" lid="Id1">Andrews konderriko aireportuko pista 11/29 da.</lex>
+      <lex lang="eu" lid="Id2">11/29 da Andrews konderriko aireportuaren pistaren izena.</lex>
+      <lex lang="eu" lid="Id3">Andrews konderriko aireportuaren pistaren izena da 11/29.</lex>
+      <lex lang="gl" lid="Id1">O nome da pista do aeroporto do condado de Andrews é 11/29.</lex>
+      <lex lang="gl" lid="Id2">11/29 é o nome da pista do aeroporto do condado de Andrews.</lex>
+      <lex lang="gl" lid="Id3">O nome da pista do aeroporto do condado de Andrews é 11/29.</lex>
+      </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | runwayDesignation | "Helipad"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | runwayName | "Helipad"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_del_Condado_de_Andrews | NombreDeLaPista | helisuperficie</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | NomDeLaPista | helipad</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_do_condado_de_Andrews | NomeDaPista | Pista_de_helicópteros</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderriko_aireportua | PistarenIzena | Helikopteroentzako_pista.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The name of the runway at Andrews County Airport is Helipad.</lex>
+      <lex lang="en" lid="Id2">Helipad is the runway name of Andrews County Airport.</lex>
+      <lex lang="en" lid="Id3">The runway at Andrews County Airport is called Helipad.</lex>
+      <lex lang="es" lid="Id1">El nombre de la pista del Aeropuerto del Condado de Andrews es Helipad.</lex>
+      <lex lang="es" lid="Id2">Helipad es el nombre de la pista del Aeropuerto del Condado de Andrews.</lex>
+      <lex lang="es" lid="Id3">La pista del Aeropuerto del Condado de Andrews se llama Helipad.</lex>
+      <lex lang="ca" lid="Id1">El nom de la pista de l'aeroport del comtat d'Andrews és Helipad.</lex>
+      <lex lang="ca" lid="Id2">Helipad és el nom de la pista de l'Aeroport del Comtat d'Andrews.</lex>
+      <lex lang="ca" lid="Id3">La pista de l'aeroport del comtat d'Andrews s'anomena Helipad.</lex>
+      <lex lang="eu" lid="Id1">Andrews konderriko aireportuko pistaren izena Helipad da.</lex>
+      <lex lang="eu" lid="Id2">Helipad Andrews konderriko aireportuaren pistaren izena da.</lex>
+      <lex lang="eu" lid="Id3">Andrews konderriko aireportuko pista Helipad deitzen da.</lex>
+      <lex lang="gl" lid="Id1">O nome da pista no aeroporto do condado de Andrews é Helipad.</lex>
+      <lex lang="gl" lid="Id2">Helipad é o nome da pista do aeroporto do condado de Andrews.</lex>
+      <lex lang="gl" lid="Id3">A pista do aeroporto do condado de Andrews chámase Helipad.</lex>
+      </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | cityServed | Luanda</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_de_Angola | CiudadServida | Luanda</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Angola | CiutatServida | Luanda</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Angola | CidadeServido | Luanda</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Angolako_nazioarteko_aireportua | ZerbitzatutakoHiria | Luanda</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Angola International Airport city served is Luanda.</lex>
+      <lex lang="en" lid="Id2">Angola International Airport serves the city of Luanda.</lex>
+      <lex lang="en" lid="Id3">Angola International Airport serves Luanda.</lex>
+      <lex lang="es" lid="Id1">La ciudad servida por el Aeropuerto Internacional de Angola es Luanda.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Angola presta servicio a la ciudad de Luanda.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Internacional de Angola presta servicio a Luanda.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Angola serveix la ciutat de Luanda.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Angola serveix a la ciutat de Luanda.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Internacional d'Angola serveix a Luanda.</lex>
+      <lex lang="eu" lid="Id1">Angolako nazioarteko aireportuaren hiria Luanda da.</lex>
+      <lex lang="eu" lid="Id2">Angolako nazioarteko aireportuak Luanda hiria zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id3">Angolako nazioarteko aireportuak Luanda zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">A cidade do aeroporto internacional de Angola é Luanda.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional de Angola serve á cidade de Luanda.</lex>
+      <lex lang="gl" lid="Id3">O Aeroporto Internacional de Angola serve a Luanda.</lex>
+      </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ardmore_Airport_(New_Zealand) | location | Auckland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ardmore_Airport_(New_Zealand) | location | Auckland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | Ubicación | Auckland</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'_Ardmore_(Nova_Zelanda)_oceania._kgm | Ubicació | Auckland</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Ardmore_(Nova_Zelandia) | Localización | Auckland</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ardmore_aireportua_(Zelanda_Berria) | Lokalizazioa | Aucklandekoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Ardmore Airport, New Zealand is in Auckland.</lex>
+      <lex lang="en" lid="Id2">Ardmore Airport is located in Auckland, New Zealand.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Ardmore de Nueva Zelanda se encuentra en Auckland.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Ardmore está situado en Auckland, Nueva Zelanda.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport d'Ardmore, Nova Zelanda es troba a Auckland.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport d'Ardmore es troba a Auckland, Nova Zelanda.</lex>
+      <lex lang="eu" lid="Id1">Ardmore aireportua, Zeelanda Berria, Auckland-en dago.</lex>
+      <lex lang="eu" lid="Id2">Ardmore aireportua Auckland-en dago, Zeelanda Berrian.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto de Ardmore, Nova Zelandia está en Auckland.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto de Ardmore está situado en Auckland, Nova Zelandia.</lex>
+      </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens | mayor | Giorgos_Kaminis</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Atenas | Alcalde | Iorgos_Kaminis</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Athens | Alcalde | Giorgos_Kaminis</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Atenas | Alcalde | Giorgos_Kaminis</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atenas | Handiena | Giorgos_Kaminis</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Athens mayor is Giorgos Kaminis.</lex>
+      <lex lang="en" lid="Id2">Giorgos Kaminis is the mayor of Athens.</lex>
+      <lex lang="en" lid="Id3">The mayor of Athens is Giorgos Kaminis.</lex>
+      <lex lang="es" lid="Id1">El alcalde de Atenas es Giorgos Kaminis.</lex>
+      <lex lang="es" lid="Id2">Giorgos Kaminis es el alcalde de Atenas.</lex>
+      <lex lang="es" lid="Id3">El alcalde de Atenas es Giorgos Kaminis.</lex>
+      <lex lang="ca" lid="Id1">L'alcalde d'Atenes és Giorgos Kaminis.</lex>
+      <lex lang="ca" lid="Id2">Giorgos Kaminis és l'alcalde d'Atenes.</lex>
+      <lex lang="ca" lid="Id3">L'alcalde d'Atenes és Giorgos Kaminis.</lex>
+      <lex lang="eu" lid="Id1">Atenasko alkatea Giorgos Kaminis da.</lex>
+      <lex lang="eu" lid="Id2">Giorgos Kaminis da Atenasko alkatea.</lex>
+      <lex lang="eu" lid="Id3">Atenasko alkatea Giorgos Kaminis da.</lex>
+      <lex lang="gl" lid="Id1">O alcalde de Atenas é Giorgos Kaminis.</lex>
+      <lex lang="gl" lid="Id2">Giorgos Kaminis é o alcalde de Atenas.</lex>
+      <lex lang="gl" lid="Id3">O alcalde de Atenas é Giorgos Kaminis.</lex>
+      </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Athens_International_Airport | location | Spata</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens_International_Airport | location | Spata</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Eleftherios_Venizelos | Ubicación | Spata</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Atenes | Ubicació | Spatagreece__prefectures._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Atenas | Localización | Spatagreece__prefectures._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atenaseko_nazioarteko_aireportua | Lokalizazioa | Spatagreece__prefectures._kgm</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Athens International Airport is in Spata.</lex>
+      <lex lang="en" lid="Id2">Athens International Airport is located in Spata.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Atenas está en Spata.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Atenas se encuentra en Spata.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Atenes està a Spata.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Atenes es troba a Spata.</lex>
+      <lex lang="eu" lid="Id1">Atenasko nazioarteko aireportua Spatan dago.</lex>
+      <lex lang="eu" lid="Id2">Atenasko nazioarteko aireportua Spatan dago.</lex>
+      <lex lang="gl" lid="Id1">O Aeroporto Internacional de Atenas está en Spata.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional de Atenas está situado en Spata.</lex>
+      </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Belgium | language | German_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Belgium | language | German_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bélgica | Idioma | alemán</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bèlgica | Llengua | Idioma_alemany</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bélxica | Lingua | Lingua_alemá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Belgika | Hizkuntza | Alemana</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Belgium language is German language.</lex>
+      <lex lang="en" lid="Id2">German is the language of Belgium.</lex>
+      <lex lang="en" lid="Id3">The language spoken is Belgium is German.</lex>
+      <lex lang="es" lid="Id1">El idioma de Bélgica es el alemán.</lex>
+      <lex lang="es" lid="Id2">El alemán es el idioma de Bélgica.</lex>
+      <lex lang="es" lid="Id3">La lengua hablada en Bélgica es el alemán.</lex>
+      <lex lang="ca" lid="Id1">La llengua de Bèlgica és l'alemany.</lex>
+      <lex lang="ca" lid="Id2">L'alemany és la llengua de Bèlgica.</lex>
+      <lex lang="ca" lid="Id3">La llengua parlada a Bèlgica és l'alemany.</lex>
+      <lex lang="eu" lid="Id1">Belgikako hizkuntza alemana da.</lex>
+      <lex lang="eu" lid="Id2">Alemana da Belgikako hizkuntza.</lex>
+      <lex lang="eu" lid="Id3">Belgiako hizkuntza alemana da.</lex>
+      <lex lang="gl" lid="Id1">A lingua de Bélxica é o alemán.</lex>
+      <lex lang="gl" lid="Id2">O alemán é a lingua de Bélxica.</lex>
+      <lex lang="gl" lid="Id3">A lingua falada en Bélxica é o alemán.</lex>
+      </entry>
+    <entry category="Airport" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Belgium | leaderName | Philippe_of_Belgium</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Belgium | leader | Philippe_of_Belgium</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Belgium | leader | Philippe_of_Belgium</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bélgica | Líder | Felipe_I_de_Bélgica</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bèlgica | Líder | Felip_I_de_Bèlgica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bélxica | Líder | Filipe_de_Bélxica</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Belgika | Buruzagia. | Philippe_de_Belgika</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Philippe of Belgium is the leader of Belgium.</lex>
+      <lex lang="en" lid="Id2">The leader of Belgium is Philippe of Belgium.</lex>
+      <lex lang="es" lid="Id1">Felipe de Bélgica es el líder de Bélgica.</lex>
+      <lex lang="es" lid="Id2">El líder de Bélgica es Felipe de Bélgica.</lex>
+      <lex lang="ca" lid="Id1">Felip de Bèlgica és el líder de Bèlgica.</lex>
+      <lex lang="ca" lid="Id2">El líder de Bèlgica és Felip de Bèlgica.</lex>
+      <lex lang="eu" lid="Id1">Filipe Belgikakoa Belgikako erregea da.</lex>
+      <lex lang="eu" lid="Id2">Belgikako buruzagia Felipe Belgikakoa da.</lex>
+      <lex lang="gl" lid="Id1">Filipe de Bélxica é o líder de Bélxica.</lex>
+      <lex lang="gl" lid="Id2">O líder de Bélxica é Filipe de Bélxica.</lex>
+      </entry>
+    <entry category="Airport" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | capital | Copenhagen</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | capital | Copenhagen</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dinamarca | Capital | Copenhague</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Dinamarca | Capital | Copenhaguen</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Dinamarca | Capital | Copenhague</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Danimarka | Kapitala | Kopenhage</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The capital of Denmark is Copenhagen.</lex>
+      <lex lang="en" lid="Id2">Copenhagen is the capital of Denmark.</lex>
+      <lex lang="es" lid="Id1">La capital de Dinamarca es Copenhague.</lex>
+      <lex lang="es" lid="Id2">Copenhague es la capital de Dinamarca.</lex>
+      <lex lang="ca" lid="Id1">La capital de Dinamarca és Copenhaguen.</lex>
+      <lex lang="ca" lid="Id2">Copenhaguen és la capital de Dinamarca.</lex>
+      <lex lang="eu" lid="Id1">Danimarkako hiriburua Kopenhage da.</lex>
+      <lex lang="eu" lid="Id2">Kopenhage Danimarkako hiriburua da.</lex>
+      <lex lang="gl" lid="Id1">A capital de Dinamarca é Copenhague.</lex>
+      <lex lang="gl" lid="Id2">Copenhague é a capital de Dinamarca.</lex>
+      </entry>
+    <entry category="Airport" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dinamarca | Líder | Lars_Løkke_Rasmussen</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Dinamarca | Líder | Lars_Løkke_Rasmussen</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Dinamarca | Líder | Lars_Løkke_Rasmussen</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Danimarka | Buruzagia. | Lars_Løkke_Rasmussen</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Denmark's leader name is Lars Løkke Rasmussen.</lex>
+      <lex lang="en" lid="Id2">Lars Løkke Rasmussen leads Denmark.</lex>
+      <lex lang="en" lid="Id3">Lars Løkke Rasmussen is the leader of Denmark.</lex>
+      <lex lang="es" lid="Id1">El nombre del líder de Dinamarca es Lars Løkke Rasmussen.</lex>
+      <lex lang="es" lid="Id2">Lars Løkke Rasmussen lidera Dinamarca.</lex>
+      <lex lang="es" lid="Id3">Lars Løkke Rasmussen es el líder de Dinamarca.</lex>
+      <lex lang="ca" lid="Id1">El nom del líder de Dinamarca és Lars Løkke Rasmussen.</lex>
+      <lex lang="ca" lid="Id2">Lars Løkke Rasmussen lidera Dinamarca.</lex>
+      <lex lang="ca" lid="Id3">Lars Løkke Rasmussen és el líder de Dinamarca.</lex>
+      <lex lang="eu" lid="Id1">Danimarkako liderraren izena Lars Løkke Rasmussen da.</lex>
+      <lex lang="eu" lid="Id2">Lars Løkke Rasmussen Danimarkako liderra da.</lex>
+      <lex lang="eu" lid="Id3">Lars Løkke Rasmussen da Danimarkako liderra.</lex>
+      <lex lang="gl" lid="Id1">O nome do líder de Dinamarca é Lars Løkke Rasmussen.</lex>
+      <lex lang="gl" lid="Id2">Lars Løkke Rasmussen lidera a Dinamarca.</lex>
+      <lex lang="gl" lid="Id3">Lars Løkke Rasmussen é o líder de Dinamarca.</lex>
+      </entry>
+    <entry category="Airport" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Flemish_Region | leaderName | Flemish_Government</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Region | leader | Flemish_Government</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Región_Flamenca | Líder | Gobierno_flamenco</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>regió_Flamenca | Líder | Govern_Flamenc</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Rexión_flamenga | Líder | Goberno_flamengo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Flandriako_eskualdea | Buruzagia. | Flandriako_gobernua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Flemish region is led by the Flemish government.</lex>
+      <lex lang="en" lid="Id2">The Flemish Government leads the Flemish Region.</lex>
+      <lex lang="es" lid="Id1">La región flamenca está dirigida por el Gobierno flamenco.</lex>
+      <lex lang="es" lid="Id2">El Gobierno flamenco dirige la Región Flamenca.</lex>
+      <lex lang="ca" lid="Id1">La regió flamenca està dirigida pel govern flamenc.</lex>
+      <lex lang="ca" lid="Id2">El govern flamenc dirigeix la regió flamenca.</lex>
+      <lex lang="eu" lid="Id1">Flandriako eskualdea Flandriako gobernuak zuzentzen du.</lex>
+      <lex lang="eu" lid="Id2">Flandriako Gobernuak Flandriako Eskualdea gidatzen du.</lex>
+      <lex lang="gl" lid="Id1">A rexión flamenga está dirixida polo goberno flamenco.</lex>
+      <lex lang="gl" lid="Id2">O goberno flamengo dirixe a rexión flamenga.</lex>
+      </entry>
+    <entry category="Airport" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Greece | language | Greek_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | language | Greek_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Grecia | Idioma | griego</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Grècia | Llengua | Llengua_grega</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Grecia | Lingua | Lingua_grega</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Grezia | Hizkuntza | Greko_hizkuntza</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Greek is the language spoken in Greece.</lex>
+      <lex lang="en" lid="Id2">The language spoken in Greece is Greek.</lex>
+      <lex lang="es" lid="Id1">El griego es el idioma hablado en Grecia.</lex>
+      <lex lang="es" lid="Id2">La lengua hablada en Grecia es el griego.</lex>
+      <lex lang="ca" lid="Id1">El grec és la llengua parlada a Grècia.</lex>
+      <lex lang="ca" lid="Id2">La llengua parlada a Grècia és el grec.</lex>
+      <lex lang="eu" lid="Id1">Greziera Grezian hitz egiten den hizkuntza da.</lex>
+      <lex lang="eu" lid="Id2">Greziako hizkuntza greziarra da.</lex>
+      <lex lang="gl" lid="Id1">O grego é a lingua falada en Grecia.</lex>
+      <lex lang="gl" lid="Id2">A lingua falada en Grecia é o grego.</lex>
+      </entry>
+    <entry category="Airport" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Grecia | Líder | Nikos_Voutsis</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Grècia | Líder | Nikos_Voutsis</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Grecia | Líder | Nikos_Voutsis</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Grezia | Buruzagia. | Nikos_Voutsis</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The leader of Greece is Nikos Voutsis.</lex>
+      <lex lang="es" lid="Id1">El líder de Grecia es Nikos Voutsis.</lex>
+      <lex lang="ca" lid="Id1">El líder de Grècia és Nikos Voutsis.</lex>
+      <lex lang="eu" lid="Id1">Greziako liderra Nikos Voutsis da.</lex>
+      <lex lang="gl" lid="Id1">O líder de Grecia é Nikos Voutsis.</lex>
+      </entry>
+    <entry category="Airport" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | subdivisionName | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Harrietstown | FormaParteDe | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Harrietstown,_Nova_York | ÉsPartDe | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Harrietstown,_Nova_York | ÉParteDe | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Harrietstown,_New_York | HonenZatiDa | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Harrietstown, New York is part of the United States.</lex>
+      <lex lang="en" lid="Id2">Harrietstown, N.Y. is part of the U.S.</lex>
+      <lex lang="es" lid="Id1">Harrietstown, Nueva York es parte de los Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Harrietstown, N.Y. es parte de los EE.UU.</lex>
+      <lex lang="ca" lid="Id1">Harrietstown, Nova York és part dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Harrietstown, Nova York, forma part dels Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Harrietstown, New York, Estatu Batuetako parte da.</lex>
+      <lex lang="eu" lid="Id2">Harrietstown, New York, Estatu Batuetakoa da.</lex>
+      <lex lang="gl" lid="Id1">Harrietstown, Nova York é parte dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Harrietstown, Nova York é parte dos Estados Unidos.</lex>
+      </entry>
+    <entry category="Airport" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pakistan | leader | Anwar_Zaheer_Jamali</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Anwar_Zaheer_Jamali</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Pakistán | Líder | Anwar_Zaheer_Jamali</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Pakistan | Líder | Anwar_Zaheer_Jamali</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paquistán | Líder | Anwar_Zaheer_Jamali</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Pakistan | Buruzagia. | Anwar_Zaheer_Jamali</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The leader of Pakistan is Anwar Zaheer Jamali.</lex>
+      <lex lang="en" lid="Id2">Pakistan has a leader called Anwar Zaheer Jamali.</lex>
+      <lex lang="es" lid="Id1">El líder de Pakistán es Anwar Zaheer Jamali.</lex>
+      <lex lang="es" lid="Id2">Pakistán tiene un líder llamado Anwar Zaheer Jamali.</lex>
+      <lex lang="ca" lid="Id1">El líder del Pakistan és Anwar Zaheer Jamali.</lex>
+      <lex lang="ca" lid="Id2">El Pakistan té un líder anomenat Anwar Zaheer Jamali.</lex>
+      <lex lang="eu" lid="Id1">Pakistango liderra Anwar Zaheer Jamali da.</lex>
+      <lex lang="eu" lid="Id2">Pakistanek lider bat du, Anwar Zaheer Jamali izenekoa.</lex>
+      <lex lang="gl" lid="Id1">O líder de Paquistán é Anwar Zaheer Jamali.</lex>
+      <lex lang="gl" lid="Id2">Paquistán ten un líder chamado Anwar Zaheer Jamali.</lex>
+      </entry>
+    <entry category="Airport" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Paracuellos_de_Jarama | isPartOf | Community_of_Madrid</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paracuellos_de_Jarama | isPartOf | Community_of_Madrid</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paracuellos_de_Jarama | FormaParteDe | Comunidad_de_Madrid</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paracuellos_de_Jarama | ÉsPartDe | Comunitat_de_Madrid</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paracuellos_de_Jarama | ÉParteDe | Comunidade_de_Madrid</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paracuellos_de_Jarama | HonenZatiDa | Madrilgo_Erkidegoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Paracuellos de Jarama is part of the community of Madrid.</lex>
+      <lex lang="es" lid="Id1">Paracuellos de Jarama forma parte de la Comunidad de Madrid.</lex>
+      <lex lang="ca" lid="Id1">Paracuellos de Jarama forma part de la comunitat de Madrid.</lex>
+      <lex lang="eu" lid="Id1">Paracuellos de Jarama Madrilgo erkidegoko zati bat da.</lex>
+      <lex lang="gl" lid="Id1">Paracuellos de Jarama forma parte da comunidade de Madrid.</lex>
+      </entry>
+    <entry category="Airport" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Autoridad_Portuaria_de_Nueva_York_y_Nueva_Jersey | SedeCentral | Cuatro_Torres_Gemelas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Autoritat_Portuària_de_Nova_York_i_Nova_Jersey | QuarterGeneral | Quatre_World_Trade_Center</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Autoridade_Portuaria_de_Nova_York_e_Nova_Jersey | Sede | Four_World_Trade_Center</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>New_York_eta_New_Jerseyko_portu-agintaritzak | Egoitza | Lau_Munduko_Merkataritza_Zentroa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Port Authority of New York and New Jersey headquarter is Four World Trade Center.</lex>
+      <lex lang="en" lid="Id2">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey.</lex>
+      <lex lang="es" lid="Id1">La sede de la Autoridad Portuaria de Nueva York y Nueva Jersey está en el Four World Trade Center.</lex>
+      <lex lang="es" lid="Id2">El Four World Trade Center es la sede de la Autoridad Portuaria de Nueva York y Nueva Jersey.</lex>
+      <lex lang="ca" lid="Id1">La seu de l'Autoritat Portuària de Nova York i Nova Jersey és el Four World Trade Center.</lex>
+      <lex lang="ca" lid="Id2">El Four World Trade Center és la seu de l'Autoritat Portuària de Nova York i Nova Jersey.</lex>
+      <lex lang="eu" lid="Id1">New York eta New Jersey-ko Portu Agintaritzaren egoitza nagusia Four World Trade Center da.</lex>
+      <lex lang="eu" lid="Id2">Four World Trade Center (euskaraz Munduko Merkataritza Zentro Laua) New York eta New Jerseyko Portuko Agintaritzaren egoitza da.</lex>
+      <lex lang="gl" lid="Id1">A Autoridade Portuaria de Nova York e Nova Jersey ten a súa sede no Four World Trade Center.</lex>
+      <lex lang="gl" lid="Id2">O Four World Trade Center é a sede da Autoridade Portuaria de Nova York e Nova Jersey.</lex>
+      </entry>
+    <entry category="Airport" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>San_Sebastián_de_los_Reyes | País | España</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>San_Sebastián_de_los_Reyes | País | Espanya</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>San_Sebastián_de_los_Reyes | País | España</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>San_Sebastián_de_los_Reyes | Herrialdea | Espainia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">San Sebastián de los Reyes is in Spain.</lex>
+      <lex lang="en" lid="Id2">San Sebastian de los Reyes is located in Spain.</lex>
+      <lex lang="es" lid="Id1">San Sebastián de los Reyes está en España.</lex>
+      <lex lang="es" lid="Id2">San Sebastián de los Reyes está situado en España.</lex>
+      <lex lang="ca" lid="Id1">San Sebastián de los Reyes és a Espanya.</lex>
+      <lex lang="ca" lid="Id2">San Sebastian de los Reyes es troba a Espanya.</lex>
+      <lex lang="eu" lid="Id1">San Sebastián de los Reyes Espainian dago.</lex>
+      <lex lang="eu" lid="Id2">San Sebastian de los Reyes Espainian dago.</lex>
+      <lex lang="gl" lid="Id1">San Sebastián de los Reyes está en España.</lex>
+      <lex lang="gl" lid="Id2">San Sebastián de los Reyes está situado en España.</lex>
+      </entry>
+    <entry category="Airport" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Saranac_Lake | FormaParteDe | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Llac_Saranac,_Nova_York | ÉsPartDe | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Lago_Saranac,_Nova_York | ÉParteDe | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Saranac_lakua,_New_York | HonenZatiDa | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Saranac Lake, New York is part of the United States.</lex>
+      <lex lang="en" lid="Id2">Saranac Lake, New York, is part of the United States.</lex>
+      <lex lang="es" lid="Id1">Saranac Lake, Nueva York es parte de los Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Saranac Lake, Nueva York, es parte de los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Saranac Lake, Nova York és part dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Saranac Lake, Nova York, és part dels Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Saranac Lake, New York, Estatu Batuetako parte da.</lex>
+      <lex lang="eu" lid="Id2">Saranac Lake, New York, Estatu Batuetako parte da.</lex>
+      <lex lang="gl" lid="Id1">Saranac Lake, Nova York é parte dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Saranac Lake, Nova York, forma parte dos Estados Unidos.</lex>
+      </entry>
+    <entry category="Airport" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Jersey_Transportation_Authority | chief1Name | Stephen_Dilts</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Autoridad_de_Transporte_de_Jersey_Meridional | Jefe | Stephen_Dilts</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Autoritat_de_Transport_de_South_Jersey | Cap | Stephen_Dilts</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Autoridade_de_Transporte_de_South_Jersey | Xefe | Stephen_Dilts</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hego_Jerseyko_garraio-agintaritzak. | Buruzagia | Stephen_Dilts</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">South Jersey Transportation Authority chief is Stephen Dilts.</lex>
+      <lex lang="en" lid="Id2">Stephen Dilts is the chief of the South Jersey Transportation Authority.</lex>
+      <lex lang="en" lid="Id3">Stephen Dilts is the chief of South Jersey Transportation Authority.</lex>
+      <lex lang="es" lid="Id1">El jefe de la Autoridad de Transporte de South Jersey es Stephen Dilts.</lex>
+      <lex lang="es" lid="Id2">Stephen Dilts es el jefe de la Autoridad de Transporte de South Jersey.</lex>
+      <lex lang="es" lid="Id3">Stephen Dilts es el jefe de la Autoridad de Transporte de South Jersey.</lex>
+      <lex lang="ca" lid="Id1">El cap de l'Autoritat de Transport de South Jersey és Stephen Dilts.</lex>
+      <lex lang="ca" lid="Id2">Stephen Dilts és el cap de l'Autoritat de Transport de South Jersey.</lex>
+      <lex lang="ca" lid="Id3">Stephen Dilts és el cap de l'Autoritat de Transport de South Jersey.</lex>
+      <lex lang="eu" lid="Id1">Hegoaldeko Jerseyko garraio agintaritzako burua Stephen Dilts da.</lex>
+      <lex lang="eu" lid="Id2">Stephen Dilts Hego Jerseyko garraio agintaritzako burua da.</lex>
+      <lex lang="eu" lid="Id3">Stephen Dilts Hego Jerseyko Garraio Agintaritzaren burua da.</lex>
+      <lex lang="gl" lid="Id1">O xefe da Autoridade de Transporte de South Jersey é Stephen Dilts.</lex>
+      <lex lang="gl" lid="Id2">Stephen Dilts é o xefe da Autoridade de Transporte de South Jersey.</lex>
+      <lex lang="gl" lid="Id3">Stephen Dilts é o xefe da Autoridade de Transporte de South Jersey.</lex>
+      </entry>
+    </entries>
+  </benchmark>

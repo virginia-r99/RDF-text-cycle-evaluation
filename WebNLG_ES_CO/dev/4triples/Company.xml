@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>King_of_Prussia,_Pennsylvania | ZonaHoraria | Zona_horaria_del_este_de_Norteamérica</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>Rei_de_Prússia,_Pensilvània | ZonaHorària | Zona_Horària_de_l'Est_d'Amèrica_del_Nord</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | TotalDeL'Àrea | 9833516.63_(kilòmetres_quadrats)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | Cidade | Rei_de_Prusia,_Pensilvania</gtriple>
+        <gtriple>Rei_de_Prusia,_Pensilvania | ZonaHoraria | Zona_horaria_oriental_de_América_do_Norte</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        <gtriple>Estados_Unidos | ÁreaTotal | 9833516.63_(kilómetros_cadrados)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | Hiria | Prusiako_erregea,_Pensilvania</btriple>
+        <btriple>Prusiako_erregea,_Pensilvania | Ordu-zona | Ipar_Amerikako_ekialdeko_ordu-zona</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>Estatu_Batuak | AreaGuztira | 9833516.63_(kilometro_karratutan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AmeriGas is located in King of Prussia, Pennsylvania which is in the North American Eastern Time Zone. AmeriGas is working in the United States which has a total area of 9,833,516.63 square kilometers.</lex>
+      <lex lang="en" lid="Id2">Located in King of Prussia, Pennsylvania, AmeriGas serves customers in the United States, which covers a total area of 9833516.63 square kilometers. King of Prussia is in the North American Eastern time zone.</lex>
+      <lex lang="en" lid="Id3">AmeriGas, located in the city of King of Prussia, Pennsylvania, is in the North American Eastern Time Zone of the United States. The United States has a total area of 9833516.63 square kilometres.</lex>
+      <lex lang="es" lid="Id1">AmeriGas tiene su sede en King of Prussia, Pennsylvania, que está en la zona horaria del este de Norteamérica. AmeriGas trabaja en Estados Unidos, que tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id2">Con sede en King of Prussia, Pensilvania, AmeriGas atiende a clientes de Estados Unidos, que abarca una superficie total de 9833516,63 kilómetros cuadrados. King of Prussia se encuentra en la zona horaria del este de Norteamérica.</lex>
+      <lex lang="es" lid="Id3">AmeriGas, situada en la ciudad de King of Prussia, Pennsylvania, se encuentra en la zona horaria del este de Estados Unidos. Estados Unidos tiene una superficie total de 9833516,63 kilómetros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas es troba a King of Prussia, Pennsylvania, que es troba a la zona horària de l'est d'Amèrica del Nord. AmeriGas treballa als Estats Units, que té una superfície total de 9.833.516,63 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id2">Situada a King of Prussia, Pennsilvània, AmeriGas serveix clients als Estats Units, que cobreix una àrea total de 9833516, 63 quilòmetres quadrats. King of Prussia està a la zona horària de l' est d' Amèrica del Nord.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas, situat a la ciutat de King of Prussia, Pennsylvania, es troba a la zona horària de l' est d' Amèrica del Nord dels Estats Units. Els Estats Units tenen una àrea total de 9833516, 63 quilòmetres quadrats.</lex>
+      <lex lang="eu" lid="Id1">AmeriGas King of Prussia-n (Pennsylvania) dago, Ipar Amerikako ekialdeko ordu-eremuan. Ameriketako Estatu Batuek 9.833.516,63 kilometro koadroko azalera dute.</lex>
+      <lex lang="eu" lid="Id2">King of Prussia Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. King of Prussia konderrian kokatuta dago, Pennsylvania estatuan. Ameriketako Estatu Batuetako erroldak esleitutako leku bat da.</lex>
+      <lex lang="eu" lid="Id3">AmeriGas, Pennsylvaniako King of Prussia hirian dago, Ipar Amerikako Ekialdeko Ordu Gunean dago.</lex>
+      <lex lang="gl" lid="Id1">AmeriGas está situada en King of Prussia, Pensilvania, que se atopa na zona horaria do leste de Norteamérica. AmeriGas opera nos Estados Unidos, que teñen unha superficie total de 9 833 516,63 quilómetros cadrados.</lex>
+      <lex lang="gl" lid="Id2">Situada en King of Prussia, Pensilvania, AmeriGas atende clientes nos Estados Unidos, que cobre unha área total de 9833516, 63 quilómetros cadrados. King of Prussia está no fuso horario do leste de América do Norte.</lex>
+      <lex lang="gl" lid="Id3">AmeriGas, situada na cidade de King of Prussia, Pensilvania, atópase na zona horaria do leste de América do Norte dos Estados Unidos. Os Estados Unidos teñen unha superficie total de 9833516,63 quilómetros cadrados.</lex>
+      </entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+        <otriple>United_States | foundingDate | 1776-07-04</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+        <mtriple>United_States | foundingDate | 1776-07-04</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple>
+        <striple>Estados_Unidos | FechaDeFundación | 04-07-1776</striple>
+        <striple>AmeriGas | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | TotalDeL'Àrea | 9833516.63_(kilòmetres_quadrats)</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | DataDeFundació | 1776-07-04</ctriple>
+        <ctriple>AmeriGas | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AmeriGas | Cidade | Rei_de_Prusia,_Pensilvania</gtriple>
+        <gtriple>Estados_Unidos | ÁreaTotal | 9833516.63_(kilómetros_cadrados)</gtriple>
+        <gtriple>Estados_Unidos | DataDeFundación | 1776-07-04</gtriple>
+        <gtriple>AmeriGas | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AmeriGas | Hiria | Prusiako_erregea,_Pensilvania</btriple>
+        <btriple>Estatu_Batuak | AreaGuztira | 9833516.63_(kilometro_karratutan)</btriple>
+        <btriple>Estatu_Batuak | Fundazio-data | 1776-07-04</btriple>
+        <btriple>AmeriGas | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The United States, founded on July 4, 1776 covers a total area of 9833516.63 (square kilometres). AmeriGas works in the United States while located at King of Prussia, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">King of Prussia, Pennsylvania is the base of the American company of AmeriGas. The United States was founded on July 4, 1776 and has a total area of 9833516.63 (square kilometres).</lex>
+      <lex lang="en" lid="Id3">AmeriGas, based in King of Prussia, Pennsylvania, United States. The US was founded on July 4th, 1776 and has a total area of 9,833,516.63 square kilometers.</lex>
+      <lex lang="es" lid="Id1">Estados Unidos, fundado el 04-07-1776, tiene una superficie total de 9833516,63 (kilómetros cuadrados). AmeriGas trabaja en Estados Unidos desde King of Prussia, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">King of Prussia (Pensilvania) es la sede de la empresa estadounidense AmeriGas. Estados Unidos se fundó el 04-07-1776 y tiene una superficie total de 9833516,63 (kilómetros cuadrados).</lex>
+      <lex lang="es" lid="Id3">AmeriGas, con sede en King of Prussia, Pensilvania, Estados Unidos. Estados Unidos se fundó el 04-07-1776 y tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">Els Estats Units, fundats el 4 de juliol de 1776, cobreixen una àrea total de 9. 833. 516, 63 quilòmetres quadrats. AmeriGas treballa als Estats Units mentre es troba a King of Prussia, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">King of Prussia, Pennsilvània és la base de la companyia americana AmeriGas. Els Estats Units van ser fundats el 4 de juliol de 1776 i tenen una àrea total de 9833516, 63 (kilòmetres quadrats).</lex>
+      <lex lang="ca" lid="Id3">AmeriGas, amb seu a King of Prussia, Pennsilvània, Estats Units. Els EUA es van fundar el 4 de juliol de 1776 i tenen una superfície total de 9.833.516,63 quilòmetres quadrats.</lex>
+      <lex lang="eu" lid="Id1">Ameriketako Estatu Batuak, 1776ko uztailaren 4an sortua, 9.833.516,63 kilometro karratuko azalera du.AmeriGas Ameriketako Estatu Batuetan lan egiten du, King of Prussia, Pennsylvanian kokatuta.</lex>
+      <lex lang="eu" lid="Id2">King of Prussia (Pennsylvania) da AmeriGas-en basea. Ameriketako Estatu Batuak 1776ko uztailaren 4an sortu ziren eta 9833516,63 kilometro koadroko azalera dute.</lex>
+      <lex lang="eu" lid="Id3">Amerikako Estatu Batuak 1776ko uztailaren 4an sortu ziren eta 9.833.516,63 kilometro koadroko azalera du.</lex>
+      <lex lang="gl" lid="Id1">Os Estados Unidos, fundados o 4 de xullo de 1776, cobren unha área total de 9833516, 63 (quilómetros cadrados). AmeriGas traballa nos Estados Unidos mentres está localizado en King of Prussia, Pensilvania.</lex>
+      <lex lang="gl" lid="Id2">King of Prussia, Pensilvania é a base da compañía americana AmeriGas. Os Estados Unidos foron fundados o 4 de xullo de 1776 e teñen unha área total de 9833516, 63 (quilómetros cadrados).</lex>
+      <lex lang="gl" lid="Id3">AmeriGas, con sede en King of Prussia, Pensilvania, Estados Unidos, foi fundada o 4 de xullo de 1776 e ten unha superficie total de 9.833.516,63 quilómetros cadrados.</lex>
+      </entry>
+    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+        <striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        <striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | DataDeFundació | 1920-08-16</ctriple>
+        <ctriple>Chinabank | NombreD'Empleats | 5594</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        <ctriple>Chinabank | NombreDeLocalitzacions | 295</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Chinabank | DataDeFundación | 1920-08-16</gtriple>
+        <gtriple>Chinabank | NúmeroDeEmpregados | 5594</gtriple>
+        <gtriple>Chinabank | IngresosNetos | 15100000000</gtriple>
+        <gtriple>Chinabank | NúmeroDeLocalizacións | 295</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Chinabank | Fundazio-data | 1920-08-16</btriple>
+        <btriple>Chinabank | LangileKopurua | 5594</btriple>
+        <btriple>Chinabank | Diru-sarreraGarbia | 15100000000</btriple>
+        <btriple>Chinabank | KokapenKopurua | 295</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Chinabank was founded on August 16th 1920. It has 295 banking center with 5594 worker and a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id2">Chinabank was founded on 16 August, 1920. It has 295 locations, 5594 employees and a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id3">Chinabank (founded 1920-08-16) employs 5594 people with 295 branch locations, earning net income of 15100000000 currently.</lex>
+      <lex lang="es" lid="Id1">Chinabank se fundó el 16-08-1920. Tiene 295 centros bancarios con 5594 trabajadores y unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="es" lid="Id2">Chinabank se fundó el 16-08-1920. Cuenta con 295 sucursales, 5.594 empleados y unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="es" lid="Id3">Chinabank (fundado en 16-08-1920) emplea a 5.594 personas con 295 sucursales y obtiene unos ingresos netos de 15100000000 en la actualidad.</lex>
+      <lex lang="ca" lid="Id1">Chinabank va ser fundat el 16 d'agost de 1920, té 295 centres bancaris amb 5.594 treballadors i uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id2">Chinabank va ser fundat el 16 d'agost de 1920, té 295 oficines, 5.594 empleats i uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id3">Chinabank (fundat 1920-08-16) dóna feina a 5.594 persones amb 295 sucursals, guanyant uns ingressos nets de 151.000.000.000 actualment.</lex>
+      <lex lang="eu" lid="Id1">Chinabank 1920ko abuztuaren 16an sortu zen. 295 banku-zentro ditu, 5594 langile eta 15.100.000.000 dolarreko diru-sarrera garbia.</lex>
+      <lex lang="eu" lid="Id2">Chinabank 1920ko abuztuaren 16an sortu zen. 295 bulego ditu, 5.594 langile eta 15.100.000.000 euroko diru-sarrera garbia.</lex>
+      <lex lang="eu" lid="Id3">Chinabank-ek (1920-08-16ean sortu zen) 5594 langile ditu 295 suediarekin, eta gaur egun 15100000000 diru-sarrera garbia irabazten du.</lex>
+      <lex lang="gl" lid="Id1">Chinabank fundouse o 16 de agosto de 1920, ten 295 centros bancarios con 5.594 traballadores e un ingreso neto de 15.100.000.000.</lex>
+      <lex lang="gl" lid="Id2">Chinabank fundouse o 16 de agosto de 1920, ten 295 oficinas, 5.594 empregados e un ingreso neto de 15.100.000.000.</lex>
+      <lex lang="gl" lid="Id3">Chinabank (fundado en 1920-08-16) emprega a 5594 persoas con 295 sucursais, obtendo un ingreso neto de 15100000000 actualmente.</lex>
+      </entry>
+    <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | Quezon_City</otriple>
+        <otriple>GMA_New_Media | industry | Entertainment</otriple>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | Quezon_City</mtriple>
+        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Ubicación | Ciudad_Quezon</striple>
+        <striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple>
+        <striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+        <striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Ubicació | Quezon_City</ctriple>
+        <ctriple>GMA_New_Media | Indústria | entreteniment</ctriple>
+        <ctriple>GMA_New_Media | Producte | World_Wide_Web</ctriple>
+        <ctriple>GMA_New_Media | Subsidiària | Portal_d'entreteniment_de_Filipines</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Localización | Quezón_City</gtriple>
+        <gtriple>GMA_New_Media | Industria | Entretemento</gtriple>
+        <gtriple>GMA_New_Media | Produto | World_Wide_Web</gtriple>
+        <gtriple>GMA_New_Media | Subsidiaria | Portal_de_entretemento_filipino</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Lokalizazioa | Quezon_City</btriple>
+        <btriple>GMA_New_Media | Industria | Entretenimendua</btriple>
+        <btriple>GMA_New_Media | Produktua | Web_orokorra</btriple>
+        <btriple>GMA_New_Media | Subsidiary | Filipinetako_Entretenimenduaren_Ataria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The entertainment company, GMA New Media, is based in Quezon City. It, and its subsidiary, Philippine Entertainment Portal, offer World Wide Web services.</lex>
+      <lex lang="en" lid="Id2">GMA New Media, located in the city of Quezon, produces web services and develops applications for the entertainment industry. Philippine Entertainment Portal, Inc. is a subsidiary of GMA New Media.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is an entertainment industry maker of websites headquartered in Quezon City. Philippine Entertainment Portal is a GMA New Media subsidiary.</lex>
+      <lex lang="es" lid="Id1">La empresa de entretenimiento GMA New Media tiene su sede en Quezon City. Tanto ella como su filial, Philippine Entertainment Portal, ofrecen servicios de World Wide Web.</lex>
+      <lex lang="es" lid="Id2">GMA New Media, con sede en la ciudad de Quezón, produce servicios web y desarrolla aplicaciones para la industria del entretenimiento. Philippine Entertainment Portal, Inc. es una filial de GMA New Media.</lex>
+      <lex lang="es" lid="Id3">GMA New Media es un fabricante de sitios web del sector del entretenimiento con sede en Quezon City. Philippine Entertainment Portal es una filial de GMA New Media.</lex>
+      <lex lang="ca" lid="Id1">L'empresa d'entreteniment GMA New Media, amb seu a Quezon City, i la seva subsidiària Philippine Entertainment Portal, ofereixen serveis de World Wide Web.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media, situada a la ciutat de Quezon, produeix serveis web i desenvolupa aplicacions per a la indústria de l'entreteniment. Philippine Entertainment Portal, Inc. és una subsidiària de GMA New Media.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media és un fabricant de llocs web de la indústria de l'entreteniment amb seu a Quezon City. Philippine Entertainment Portal és una subsidiària de GMA New Media.</lex>
+      <lex lang="eu" lid="Id1">GMA New Media entretenimendu konpainia Quezon hirian dago.GMA New Mediak eta bere filialak, Philippine Entertainment Portal, World Wide Web zerbitzuak eskaintzen dituzte.</lex>
+      <lex lang="eu" lid="Id2">GMA New Media, Quezon hirian kokatua, web zerbitzuak ekoizten ditu eta entretenimendu industriarako aplikazioak garatzen ditu. Philippine Entertainment Portal, Inc. GMA New Mediaren filiala da.</lex>
+      <lex lang="eu" lid="Id3">GMA New Media entretenimendu-industriako webgune-sortzailea da, eta egoitza nagusia Quezon City-n du. Philippine Entertainment Portal GMA New Media-ren filiala da.</lex>
+      <lex lang="gl" lid="Id1">A compañía de entretemento, GMA New Media, ten a súa sede en Quezon City. Esta e a súa subsidiaria, Philippine Entertainment Portal, ofrecen servizos de World Wide Web.</lex>
+      <lex lang="gl" lid="Id2">GMA New Media, situada na cidade de Quezon, produce servizos web e desenvolve aplicacións para a industria do entretemento. Philippine Entertainment Portal, Inc. é unha filial de GMA New Media.</lex>
+      <lex lang="gl" lid="Id3">GMA New Media é un fabricante de sitios web da industria do entretemento con sede en Quezon City. Philippine Entertainment Portal é unha subsidiaria de GMA New Media.</lex>
+      </entry>
+    <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+        <otriple>GMA_New_Media | location | Philippines</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+        <mtriple>GMA_New_Media | location | Philippines</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+        <striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+        <striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+        <striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Producte | Aplicacions_mòbils</ctriple>
+        <ctriple>GMA_New_Media | PersonaClau | Felipe_Gozon</ctriple>
+        <ctriple>GMA_New_Media | Ubicació | Centre_de_la_xarxa_GMA</ctriple>
+        <ctriple>GMA_New_Media | Ubicació | Filipines</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>GMA_New_Media | Produto | Aplicacións_móbiles</gtriple>
+        <gtriple>GMA_New_Media | PersoaClave | Felipe_Gozon</gtriple>
+        <gtriple>GMA_New_Media | Localización | Centro_de_rede_GMA</gtriple>
+        <gtriple>GMA_New_Media | Localización | Filipinas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>GMA_New_Media | Produktua | Aplikazio_mugikorrak</btriple>
+        <btriple>GMA_New_Media | PertsonaGakoa | Felipe_Gozon</btriple>
+        <btriple>GMA_New_Media | Lokalizazioa | GMA_sareko_zentroa</btriple>
+        <btriple>GMA_New_Media | Lokalizazioa | Filipinak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">GMA New Media makes mobile apps and is located in the GMA Network Center. Felipe Gozon is the key person of GMA New Media, which is located in the Philippines.</lex>
+      <lex lang="en" lid="Id2">The Philippine mobile application company, GMA New Media, is based in the GMA Network Center. One of GMA New Media's leaders is Felipe Gozon.</lex>
+      <lex lang="en" lid="Id3">Felipe Gozon is a key person at GMA New Media, a company located in the GMA Network Center in the Philippines with product offerings that include mobile applications.</lex>
+      <lex lang="es" lid="Id1">GMA New Media fabrica aplicaciones para móviles y está ubicada en el GMA Network Center. Felipe Gozón es la persona clave de GMA New Media, que se encuentra en Filipinas.</lex>
+      <lex lang="es" lid="Id2">La empresa filipina de aplicaciones móviles GMA New Media tiene su sede en el GMA Network Center. Uno de los dirigentes de GMA New Media es Felipe Gozón.</lex>
+      <lex lang="es" lid="Id3">Felipe Gozón es una persona clave en GMA New Media, una empresa ubicada en el GMA Network Center de Filipinas con una oferta de productos que incluye aplicaciones móviles.</lex>
+      <lex lang="ca" lid="Id1">GMA New Media fa aplicacions mòbils i es troba al GMA Network Center. Felipe Gozon és la persona clau de GMA New Media, que es troba a les Filipines.</lex>
+      <lex lang="ca" lid="Id2">L'empresa filipina d'aplicacions mòbils, GMA New Media, té la seva seu al GMA Network Center i un dels seus líders és Felipe Gozon.</lex>
+      <lex lang="ca" lid="Id3">Felipe Gozon és una persona clau a GMA New Media, una empresa ubicada al GMA Network Center a les Filipines amb ofertes de productes que inclouen aplicacions mòbils.</lex>
+      <lex lang="eu" lid="Id1">GMA New Mediak aplikazio mugikorrak egiten ditu eta GMA Network Center-en dago kokatuta. Felipe Gozon da Filipinetan dagoen GMA New Media-ren funtsezko pertsona.</lex>
+      <lex lang="eu" lid="Id2">Filipinetako aplikazio mugikorren enpresa, GMA New Media, GMA Network Center-en dago. GMA New Media-ren buruzagietako bat Felipe Gozon da.</lex>
+      <lex lang="eu" lid="Id3">Felipe Gozon GMA New Media enpresako funtsezko pertsona bat da, Filipinetako GMA Network Center-en kokatuta dagoen enpresa bat, aplikazio mugikorrak barne hartzen dituzten produktu eskaintzak dituena.</lex>
+      <lex lang="gl" lid="Id1">GMA New Media fai aplicacións móbiles e está situada no GMA Network Center. Felipe Gozon é a persoa clave de GMA New Media, que está situada nas Filipinas.</lex>
+      <lex lang="gl" lid="Id2">A compañía filipina de aplicacións móbiles, GMA New Media, ten a súa sede no GMA Network Center. Un dos líderes de GMA New Media é Felipe Gozon.</lex>
+      <lex lang="gl" lid="Id3">Felipe Gozon é unha persoa clave en GMA New Media, unha empresa situada no GMA Network Center nas Filipinas con ofertas de produtos que inclúen aplicacións móbiles.</lex>
+      </entry>
+    <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Industria | Produtos_farmacéuticos</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Industria | Farmazia</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas is a type of S.A (corporation) that is managed by its CEO. On January 1, 2001 Hypermarcas began its forage into the pharmaceuticals industry.</lex>
+      <lex lang="en" lid="Id2">The CEO is the key person in Hypermarcas, a type of S.A. corporation in the pharmaceutical industry, founded on 2001-01-01.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a pharmaceutical S.A. corporation founded on January 1, 2001 with a CEO serving as its key person.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas es un tipo de S.A. (sociedad anónima) gestionada por su director general. El 1 de enero de 2001 Hypermarcas inició su andadura en la industria farmacéutica.</lex>
+      <lex lang="es" lid="Id2">El CEO es la persona clave en Hypermarcas, un tipo de sociedad anónima S.A. en la industria farmacéutica, fundada el 01-01-2001.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas es una sociedad anónima farmacéutica fundada el 1 de enero de 2001 con un director general como persona clave.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas és un tipus de S.A (corporació) que és gestionada pel seu CEO. L'1 de gener de 2001 Hypermarcas va començar el seu foratge en la indústria farmacèutica.</lex>
+      <lex lang="ca" lid="Id2">El CEO és la persona clau a Hypermarcas, un tipus de corporació S.A. en la indústria farmacèutica, fundada el 2001-01-01.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas és una corporació farmacèutica S.A. fundada l'1 de gener de 2001 amb un CEO que serveix com a persona clau.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas S.A. (korporazio) mota bat da, bere zuzendari nagusiak kudeatzen duena. 2001eko urtarrilaren 1ean Hypermarcas farmazia industrian sartu zen.</lex>
+      <lex lang="eu" lid="Id2">CEO-a Hypermarcas-eko pertsona nagusia da, 2001-01-01ean sortutako farmazia-industriako sozietate anonimoa.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas S.A. enpresa farmazeutikoa da, 2001eko urtarrilaren 1ean sortu zena, zuzendari exekutibo bat duen pertsona nagusi gisa.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas é un tipo de S. A. (corporación) que é xestionada polo seu CEO. O 1 de xaneiro de 2001 Hypermarcas comezou a súa incursión na industria farmacéutica.</lex>
+      <lex lang="gl" lid="Id2">O CEO é a persoa clave en Hypermarcas, un tipo de corporación S.A. na industria farmacéutica, fundada o 01-01-2001.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas é unha corporación farmacéutica S.A. fundada o 1 de xaneiro de 2001 cun CEO que actúa como persoa clave.</lex>
+      </entry>
+    <entry category="Company" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</otriple>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</mtriple>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | São_Paulo</striple>
+        <striple>Brasil | TítuloDeLíder | Anexo:Presidentes_del_Supremo_Tribunal_Federal</striple>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | São_Paulo</ctriple>
+        <ctriple>Brasil | LíderTítol | President_del_Tribunal_Suprem_Federal</ctriple>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Localización | São_Paulo</gtriple>
+        <gtriple>Brasil | LíderTítulo | Presidente_do_Tribunal_Supremo_Federal</gtriple>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Lokalizazioa | Sao_Paulo</btriple>
+        <btriple>Brasil | LiderraIzenburua | Auzitegi_Federal_Gorenaren_lehendakaria</btriple>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas which produces pharmaceutical drugs, is location in Sao Paulo, Brazil. President of the Supreme Federal Court is one of the leaders in Brazil.</lex>
+      <lex lang="en" lid="Id2">Sao Paulo, Brazil is the location of Hypermarcas. This drug company is under the rule of the President of the Supreme Federal Court (title of Brazil's leader).</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is located in Sao Paulo, Brazil. Their main product is drugs, and their leader has the title of President of the Supreme Federal Court.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas que produce medicamentos farmacéuticos, se encuentra en Sao Paulo, Brasil. El Presidente del Supremo Tribunal Federal es uno de los líderes de Brasil.</lex>
+      <lex lang="es" lid="Id2">Sao Paulo, Brasil, es la sede de Hypermarcas. Esta empresa farmacéutica está bajo el gobierno del Presidente del Supremo Tribunal Federal (título del líder de Brasil).</lex>
+      <lex lang="es" lid="Id3">Hypermarcas se encuentra en Sao Paulo, Brasil. Su principal producto son los medicamentos, y su líder tiene el título de Presidente del Supremo Tribunal Federal.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, que produeix fàrmacs, està ubicada a Sao Paulo, al Brasil, i el president del Tribunal Suprem Federal és un dels seus líders.</lex>
+      <lex lang="ca" lid="Id2">São Paulo, Brasil és la ubicació d'Hypermarcas. Aquesta empresa farmacèutica està sota el govern del president del Tribunal Suprem Federal (títol del líder de Brasil).</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas es troba a Sao Paulo, Brasil, el seu producte principal són les drogues, i el seu líder té el títol de President del Tribunal Suprem Federal.</lex>
+      <lex lang="eu" lid="Id1">Sendagaiak ekoizten dituen Hypermarcas Brasilen dago, Sao Paulon. Brasilgo liderretako bat da Auzitegi Federal Goreneko presidentea.</lex>
+      <lex lang="eu" lid="Id2">Sao Paulo, Brasil, Hypermarcas-en egoitza da. Droga-enpresa hau Auzitegi Federal Goreneko presidentearen (Brasilgo buruzagiaren titulua) agindupean dago.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas Sao Paulon dago, Brasilen. Bere produktu nagusia drogak dira, eta bere buruzagiak Auzitegi Federal Goreneko presidente titulua du.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas, que produce drogas farmacéuticas, está situada en São Paulo, Brasil. O presidente do Supremo Tribunal Federal é un dos líderes do Brasil.</lex>
+      <lex lang="gl" lid="Id2">São Paulo, Brasil é a localización de Hypermarcas. Esta compañía farmacéutica está baixo o goberno do Presidente do Tribunal Supremo Federal (título do líder do Brasil).</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas está situada en São Paulo, Brasil. O seu principal produto son as drogas, e o seu líder ten o título de Presidente do Tribunal Supremo Federal.</lex>
+      </entry>
+    <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+        <otriple>Hypermarcas | product | Healthcare</otriple>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Hypermarcas | revenue | 1.8E9</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+        <mtriple>Hypermarcas | product | Healthcare</mtriple>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple>
+        <striple>Hipermarcas | Producto | Sanidad</striple>
+        <striple>Hipermarcas | Ubicación | São_Paulo</striple>
+        <striple>Hipermarcas | Ingresos | 1800000000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | NombreD'Empleats | 10252</ctriple>
+        <ctriple>Hypermarcas | Producte | Atenció_sanitària</ctriple>
+        <ctriple>Hypermarcas | Ubicació | São_Paulo</ctriple>
+        <ctriple>Hypermarcas | Ingressos | 1800000000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | NúmeroDeEmpregados | 10252</gtriple>
+        <gtriple>Hypermarcas | Produto | Atención_sanitaria</gtriple>
+        <gtriple>Hypermarcas | Localización | São_Paulo</gtriple>
+        <gtriple>Hypermarcas | Receitas | 1800000000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | LangileKopurua | 10252</btriple>
+        <btriple>Hipermarkak | Produktua | Osasuna</btriple>
+        <btriple>Hipermarkak | Lokalizazioa | Sao_Paulo</btriple>
+        <btriple>Hipermarkak | Diru-sarrerak | 1800000000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas is located in Sao Paulo and has 10,252 employees. They make healthcare products and their revenue is $1,800,000,000.</lex>
+      <lex lang="en" lid="Id2">Located in São Paulo, Hypermarcas has 10252 employees, and produces healthcare products. Hypermarcas makes $1,800,000,000 a year.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, which as 10252 employees and earns 1800000000 yearly selling healthcare products, is located in Sao Paulo.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas tiene su sede en Sao Paulo y cuenta con 10.252 empleados. Fabrican productos sanitarios y sus ingresos ascienden a 1.800.000.000 de dólares.</lex>
+      <lex lang="es" lid="Id2">Ubicada en São Paulo, Hypermarcas tiene 10252 empleados y produce productos de salud. Hypermarcas gana 1.800.000.000 de dólares al año.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas, que cuenta con 10252 empleados y gana 1800000000 al año vendiendo productos sanitarios, está ubicada en Sao Paulo.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas està situada a Sao Paulo i té 10.252 empleats, fabrica productes sanitaris i els seus ingressos són de 1.800.000.000 de dòlars.</lex>
+      <lex lang="ca" lid="Id2">Situada a São Paulo, Hypermarcas té 10.252 empleats i produeix productes sanitaris, amb una facturació anual de 1.800.000.000 de dòlars.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas, que amb 10252 empleats i guanya 1800000000 anuals venent productes sanitaris, està situada a São Paulo.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas Sao Paulon dago eta 10.252 langile ditu. Osasun-produktuak egiten ditu eta 1.800 milioi dolarreko diru-sarrerak ditu.</lex>
+      <lex lang="eu" lid="Id2">São Paulon kokatuta, Hypermarcas-ek 10252 langile ditu, eta osasun produktuak ekoizten ditu.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas, 10252 langile dituena eta urtean 1800000000 irabazten duena osasun produktuak saltzen dituena, Sao Paulon dago.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas está situada en São Paulo e ten 10.252 empregados, fabrica produtos sanitarios e os seus ingresos son de 1.800.000.000 dólares.</lex>
+      <lex lang="gl" lid="Id2">Situada en São Paulo, Hypermarcas ten 10.252 empregados, e produce produtos sanitarios.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas, que como 10252 empregados e gaña 1800000000 anuais vendendo produtos de saúde, está situado en São Paulo.</lex>
+      </entry>
+    </entries>
+  </benchmark>

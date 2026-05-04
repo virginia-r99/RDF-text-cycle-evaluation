@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</otriple>
+        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+        <otriple>Abilene_Regional_Airport | city | Abilene,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</mtriple>
+        <mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_de_Abilene | CiudadServida | Abilene,_Texas</striple>
+        <striple>Abilene,_Texas | FormaParteDe | Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_d'_Abilene | CiutatServida | Abilene,_Texas</ctriple>
+        <ctriple>Abilene,_Texas | ÉsPartDe | Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_de_Abilene | CidadeServido | Abilene,_Texas</gtriple>
+        <gtriple>Abilene,_Texas | ÉParteDe | Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abilene_eskualdeko_aireportua | ZerbitzatutakoHiria | Abilene,_Texas</btriple>
+        <btriple>Abilene,_Texas | HonenZatiDa | Texas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Abilene is in Texas and is served by the Abilene regional airport.</lex>
+      <lex lang="en" lid="Id2">Abilene, part of Texas, is served by the Abilene regional airport.</lex>
+      <lex lang="en" lid="Id3">Abilene regional airport serves the city of Abilene which is in Texas.</lex>
+      <lex lang="es" lid="Id1">Abilene está en Texas y es servido por el aeropuerto regional de Abilene.</lex>
+      <lex lang="es" lid="Id2">Abilene, parte de Texas, es servido por el aeropuerto regional de Abilene.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto regional de Abilene da servicio a la ciudad de Abilene, en Texas.</lex>
+      <lex lang="ca" lid="Id1">Abilene es troba a Texas i és servida per l'aeroport regional d'Abilene.</lex>
+      <lex lang="ca" lid="Id2">Abilene, part de Texas, és servida per l'aeroport regional d'Abilene.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport regional d'Abilene serveix a la ciutat d'Abilene, a Texas.</lex>
+      <lex lang="eu" lid="Id1">Abilene Texasen dago eta Abileneko aireportuak ematen dio zerbitzua.</lex>
+      <lex lang="eu" lid="Id2">Abilene-k, Texas-eko zati bat, Abilene-ko aireportua dauka.</lex>
+      <lex lang="eu" lid="Id3">Abilene eskualdeko aireportuak Texasko Abilene hiriari zerbitzua ematen dio.</lex>
+      <lex lang="gl" lid="Id1">Abilene está en Texas e é servida polo aeroporto rexional de Abilene.</lex>
+      <lex lang="gl" lid="Id2">Abilene, parte de Texas, é servida polo aeroporto rexional de Abilene.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto rexional de Abilene serve á cidade de Abilene, que está en Texas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | Alcobendas</striple>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | LongitudDeLaPista | 3500.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | Ubicació | Alcobendas</ctriple>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | LongitudDeLaPista | 3500.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | Localización | Alcobendas</gtriple>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | DuraciónDaPista | 3500.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | Lokalizazioa | Alcobendas</btriple>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | PistarenLuzera | 3500.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is in Alcobendas and has a runway length of 3500.</lex>
+      <lex lang="en" lid="Id2">Located in Alcobendas, Adolfo Suarez Madrid-Barajas Airport has a runway with the length of 3500.0 metres.</lex>
+      <lex lang="es" lid="Id1">El aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en Alcobendas y tiene una longitud de pista de 3500.</lex>
+      <lex lang="es" lid="Id2">Situado en Alcobendas, el Aeropuerto Adolfo Suárez Madrid-Barajas tiene una pista con una longitud de 3500,0 metros.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a Alcobendas i té una pista de 3.500 metres.</lex>
+      <lex lang="ca" lid="Id2">Situat a Alcobendas, l'Aeroport Adolfo Suárez Madrid-Barajas té una pista amb una longitud de 3500.0 metres.</lex>
+      <lex lang="eu" lid="Id1">Adolfo Suárez Madrid–Barajas aireportua Alcobendasen dago eta 3500 metroko pista du.</lex>
+      <lex lang="eu" lid="Id2">Alcobendasen dago Adolfo Suarez Madrid-Barajas aireportua, eta 3500,0 metroko pista du.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto Adolfo Suárez Madrid-Barajas está en Alcobendas e ten unha lonxitude de pista de 3.500 metros.</lex>
+      <lex lang="gl" lid="Id2">Situado en Alcobendas, o aeroporto Adolfo Suárez Madrid-Barajas ten unha pista de 3500 metros de lonxitude.</lex>
+      </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | LongitudDeLaPista | 3500.0</striple>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | San_Sebastián_de_los_Reyes</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | LongitudDeLaPista | 3500.0</ctriple>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | Ubicació | San_Sebastián_de_los_Reyes</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | DuraciónDaPista | 3500.0</gtriple>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | Localización | San_Sebastián_de_los_Reyes</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | PistarenLuzera | 3500.0</btriple>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | Lokalizazioa | San_Sebastián_de_los_Reyes</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport located at San Sebastian de los Reyes has a runway length of 3500.</lex>
+      <lex lang="en" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes and has a runway length of 3500.0 metres.</lex>
+      <lex lang="en" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes and has a runway length of 3500.</lex>
+      <lex lang="es" lid="Id1">El aeropuerto Adolfo Suárez Madrid-Barajas, situado en San Sebastián de los Reyes, tiene una longitud de pista de 3500.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en San Sebastián de los Reyes y tiene una longitud de pista de 3500,0 metros.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto Adolfo Suárez Madrid-Barajas está situado en San Sebastián de los Reyes y tiene una longitud de pista de 3500.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport d'Adolfo Suárez Madrid-Barajas, ubicat a San Sebastián de los Reyes, té una pista de 3.500 metres.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes i té una pista de 3.500 metres.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport Adolfo Suarez Madrid-Barajas es troba a San Sebastian de los Reyes i té una pista de 3.500 metres.</lex>
+      <lex lang="eu" lid="Id1">San Sebastian de los Reyesen dagoen Adolfo Suárez Madrid–Barajas aireportuak 3500 metroko pista du.</lex>
+      <lex lang="eu" lid="Id2">Adolfo Suárez MadridBarajas aireportua San Sebastián de los Reyesen dago eta 3500.0 metroko pistaren luzera du.</lex>
+      <lex lang="eu" lid="Id3">Adolfo Suarez Madrid-Barajas aireportua San Sebastian de los Reyes-en dago eta 3.500 pistako luzera du.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto Adolfo Suárez Madrid-Barajas situado en San Sebastián de los Reyes ten unha lonxitude de pista de 3.500 metros.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto Adolfo Suárez Madrid-Barajas está situado en San Sebastián de los Reyes e ten unha pista de 3.500 metros de lonxitude.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto Adolfo Suárez Madrid-Barajas está situado en San Sebastián de los Reyes e ten unha lonxitude de pista de 3.500 metros.</lex>
+      </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Agra_Airport | location | India</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agra_Airport | location | India</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agra_Airport | location | India</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Agra | Ubicación | India</striple>
+        <striple>India | Líder | T._S._Thakur</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'_Agra | Ubicació | Índia</ctriple>
+        <ctriple>Índia | Líder | T._S._Thakur</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Agra | Localización | India</gtriple>
+        <gtriple>India | Líder | T._S._Thakur</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agra_aireportua | Lokalizazioa | India</btriple>
+        <btriple>India | Buruzagia. | T._S._Thakur</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agra Airport is in India where one of its leaders is T.S. Thakur.</lex>
+      <lex lang="en" lid="Id2">Agra Airport is in India, where the leader is TS Thakur.</lex>
+      <lex lang="en" lid="Id3">Agra Airport is located in India, where the leader is T S Thakur.</lex>
+      <lex lang="es" lid="Id1">El aeropuerto de Agra está en la India, donde uno de sus dirigentes es T.S. Thakur.</lex>
+      <lex lang="es" lid="Id2">El aeropuerto de Agra está en la India, donde el jefe es TS Thakur.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto de Agra está situado en la India, y su jefe es T S Thakur.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport d'Agra és a l'Índia on un dels seus líders és T.S. Thakur.</lex>
+      <lex lang="ca" lid="Id2">L'aeroport d'Agra és a l'Índia, on el líder és TS Thakur.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport d'Agra es troba a l'Índia, on el líder és T S Thakur.</lex>
+      <lex lang="eu" lid="Id1">Agra aireportua Indian dago eta bere liderretako bat T.S. Thakur da.</lex>
+      <lex lang="eu" lid="Id2">Agra aireportua Indian dago, eta bere liderra TS Thakur da.</lex>
+      <lex lang="eu" lid="Id3">Agra aireportua Indian dago, eta bertako liderra T S Thakur da.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto de Agra está na India onde un dos seus líderes é T.S. Thakur.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto de Agra está na India, onde o líder é TS Thakur.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto de Agra está situado na India, onde o líder é T S Thakur.</lex>
+      </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Al_Asad_Airbase | elevationF | 618</otriple>
+        <otriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Asad_Airbase | elevationAboveTheSeaLevelInFeet | 618</mtriple>
+        <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Base_aérea_de_Al_Asad | ElevaciónSobreElNivelDelMarEnPies | 618</striple>
+        <striple>Base_aérea_de_Al_Asad | Ubicación | Provincia_de_Al_Anbar,_Irak</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>base_aèria_Al_Asad | ElevacióSobreElNivellDelMarEnPeus | 618</ctriple>
+        <ctriple>base_aèria_Al_Asad | Ubicació | Província_d'Al_Anbar,_Iraq</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Base_Aérea_Al_Asad | ElevaciónSobreONivelDoMarEnPés | 618</gtriple>
+        <gtriple>Base_Aérea_Al_Asad | Localización | Provincia_de_Al_Anbar,_Iraq</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Al_Asad_aireportua | Itsas-mailarenGainekoAltueraOinetan | 618</btriple>
+        <btriple>Al_Asad_aireportua | Lokalizazioa | Al_Anbar_probintzia,_Irak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Al Asad Airbase is 618 ft above sea level and is located in Al Anbar Province, Iraq.</lex>
+      <lex lang="en" lid="Id2">The Al Asad Airbase which is elevated 618 feet above sea level, is located in the Al Anbar Province in Iraq.</lex>
+      <lex lang="en" lid="Id3">The Al Asad Airbase, which is 618 ft above sea level, is located in Al Anbar Province, Iraq.</lex>
+      <lex lang="es" lid="Id1">La Base Aérea de Al Asad se encuentra a 618 pies sobre el nivel del mar y está situada en la provincia de Al Anbar, Irak.</lex>
+      <lex lang="es" lid="Id2">La base aérea de Al Asad que se encuentra a 618 pies sobre el nivel del mar, está situada en la provincia iraquí de Al Anbar.</lex>
+      <lex lang="es" lid="Id3">La base aérea de Al Asad, que se encuentra a 618 pies sobre el nivel del mar, está localizada en la provincia iraquí de Al Anbar.</lex>
+      <lex lang="ca" lid="Id1">La base aèria d'Al Asad està a 618 peus sobre el nivell del mar i es troba a la província d'Al Anbar, a l'Iraq.</lex>
+      <lex lang="ca" lid="Id2">La base aèria d'Al Asad, que s'eleva a 618 peus sobre el nivell del mar, es troba a la província d'Al Anbar a l'Iraq.</lex>
+      <lex lang="ca" lid="Id3">La base aèria d'Al Asad, que es troba a 618 peus sobre el nivell del mar, està ubicada a la província d'Al Anbar, a l'Iraq.</lex>
+      <lex lang="eu" lid="Id1">Al Asad aire-basea itsasoaren mailatik 618 oinetara dago, Irakeko Al Anbar probintzian.</lex>
+      <lex lang="eu" lid="Id2">Al Asad aireportua, itsasoaren mailatik 618 metro gorago dagoena, Irakeko Al Anbar probintzian dago.</lex>
+      <lex lang="eu" lid="Id3">Al Asad aire-basea, itsasoaren mailatik 618 oinetara dagoena, Irakeko Al Anbar probintzian dago.</lex>
+      <lex lang="gl" lid="Id1">A base aérea de Al Asad está a 618 pés sobre o nivel do mar e está situada na provincia de Al Anbar, Iraq.</lex>
+      <lex lang="gl" lid="Id2">A base aérea de Al Asad, que está elevada a 618 pés sobre o nivel do mar, está situada na provincia de Al Anbar en Iraq.</lex>
+      <lex lang="gl" lid="Id3">A base aérea de Al Asad, que está a 618 pés sobre o nivel do mar, está situada na provincia de Al Anbar, Iraq.</lex>
+      </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+        <otriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+        <mtriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+        <striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | Operación_Enduring_Freedom</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>base_aèria_Al_Asad | OrganitzacióOperativa | Força_Aèria_dels_Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Força_Aèria_dels_Estats_Units_d'Amèrica | Batalla | Operació_Llibertat_Duradora</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Base_Aérea_Al_Asad | OrganizaciónOperativa | Forza_Aérea_dos_Estados_Unidos</gtriple>
+        <gtriple>Forza_Aérea_dos_Estados_Unidos | Batalla | Operación_Liberdade_Duradeira</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Al_Asad_aireportua | ErakundeEragilea | Ameriketako_Estatu_Batuetako_Aire_Armada</btriple>
+        <btriple>Ameriketako_Estatu_Batuetako_Aire_Armada | Borroka | Askatasun_iraunkorra_operazioa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Al Asad Airbase is operated by the United States Air Force who fought in The Operation of Enduring Freedom battle.</lex>
+      <lex lang="en" lid="Id2">Operation Enduring Freedom was a battle involving the United States Air Force who operate Al Asad airbase.</lex>
+      <lex lang="es" lid="Id1">La base aérea de Al Asad está operada por las Fuerzas Aéreas de Estados Unidos que lucharon en la batalla de la Operación Libertad Duradera.</lex>
+      <lex lang="es" lid="Id2">La Operación Libertad Duradera fue una batalla en la que participaron las Fuerzas Aéreas de Estados Unidos que operan la base aérea de Al Asad.</lex>
+      <lex lang="ca" lid="Id1">La base aèria d'Al Asad és operada per la Força Aèria dels Estats Units que va lluitar en la batalla de l'Operació de Llibertat Duradora.</lex>
+      <lex lang="ca" lid="Id2">L'Operació Libertat Duradora va ser una batalla que va implicar la Força Aèria dels Estats Units que opera la base aèria d'Al Asad.</lex>
+      <lex lang="eu" lid="Id1">Al Asad aire-basea AEBetako Aire Armadak erabiltzen du, eta Askatasun Iraunkorraren Operazioan parte hartu zuen.</lex>
+      <lex lang="eu" lid="Id2">Askatasun iraunkorra operazioa Al Asad aireko basea kudeatzen duten Estatu Batuetako Aireko Indarrak parte hartzen zuten borroka bat izan zen.</lex>
+      <lex lang="gl" lid="Id1">A base aérea de Al Asad é operada pola Forza Aérea dos Estados Unidos que loitou na batalla da Operación Liberdade Duradeira.</lex>
+      <lex lang="gl" lid="Id2">A operación Enduring Freedom foi unha batalla na que participaron as Forzas Aéreas dos Estados Unidos que operan a base aérea de Al Asad.</lex>
+      </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+        <otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+        <mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+        <striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | invasión_estadounidense_de_Panamá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>base_aèria_Al_Asad | OrganitzacióOperativa | Força_Aèria_dels_Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Força_Aèria_dels_Estats_Units_d'Amèrica | Batalla | Invasió_de_Panamà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Base_Aérea_Al_Asad | OrganizaciónOperativa | Forza_Aérea_dos_Estados_Unidos</gtriple>
+        <gtriple>Forza_Aérea_dos_Estados_Unidos | Batalla | Invasión_estadounidense_de_Panamá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Al_Asad_aireportua | ErakundeEragilea | Ameriketako_Estatu_Batuetako_Aire_Armada</btriple>
+        <btriple>Ameriketako_Estatu_Batuetako_Aire_Armada | Borroka | Estatu_Batuen_inbasioa_Panaman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase.</lex>
+      <lex lang="en" lid="Id2">The United States invasion of Panama was a battle involving the United States Air Force who are the operating organisation for Al Asad airbase.</lex>
+      <lex lang="en" lid="Id3">The United States Air Force was involved in the invasion of Panama and is also the operating organisation for Al Asad air base.</lex>
+      <lex lang="es" lid="Id1">La invasión estadounidense de Panamá fue una batalla en la que participó la Fuerza Aérea de Estados Unidos, que opera la base aérea de Al Asad.</lex>
+      <lex lang="es" lid="Id2">La invasión estadounidense de Panamá fue una batalla que involucró a las Fuerzas Aéreas de Estados Unidos, que son la organización operativa de la base aérea de Al Asad.</lex>
+      <lex lang="es" lid="Id3">La Fuerza Aérea de Estados Unidos participó en la invasión de Panamá y es también la organización operativa de la base aérea de Al Asad.</lex>
+      <lex lang="ca" lid="Id1">La invasió dels Estats Units de Panamà va ser una batalla que va implicar la Força Aèria dels Estats Units que operava la base aèria d'Al Asad.</lex>
+      <lex lang="ca" lid="Id2">La invasió dels Estats Units de Panamà va ser una batalla que va implicar la Força Aèria dels Estats Units que són l'organització operativa de la base aèria d'Al Asad.</lex>
+      <lex lang="ca" lid="Id3">La Força Aèria dels Estats Units va participar en la invasió de Panamà i també és l'organització operativa de la base aèria d'Al Asad.</lex>
+      <lex lang="eu" lid="Id1">Panamako Estatu Batuen inbasioa Al Asad aire-basea kudeatzen duten Estatu Batuetako Aireko Indarrak parte hartzen zuten gudua izan zen.</lex>
+      <lex lang="eu" lid="Id2">Estatu Batuek Panama inbaditu zutenean, Al Asad-eko aire-basearen erakunde eragilea den Estatu Batuetako Aire Armadak parte hartu zuen borrokan.</lex>
+      <lex lang="eu" lid="Id3">Ameriketako Estatu Batuetako Aire Armadak Panamako inbasioan parte hartu zuen eta Al Asad aire basearen antolakuntza operatiboa ere bada.</lex>
+      <lex lang="gl" lid="Id1">A invasión estadounidense de Panamá foi unha batalla na que participou a Forza Aérea dos Estados Unidos que operaba a base aérea de Al Asad.</lex>
+      <lex lang="gl" lid="Id2">A invasión dos Estados Unidos de Panamá foi unha batalla na que participaron as Forzas Aéreas dos Estados Unidos, que son a organización operativa da base aérea de Al Asad.</lex>
+      <lex lang="gl" lid="Id3">A Forza Aérea dos Estados Unidos participou na invasión de Panamá e tamén é a organización operativa da base aérea de Al Asad.</lex>
+      </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alcobendas | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcobendas | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alcobendas | FormaParteDe | Comunidad_de_Madrid</striple>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | Alcobendas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alcobendas | ÉsPartDe | Comunitat_de_Madrid</ctriple>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | Ubicació | Alcobendas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alcobendas | ÉParteDe | Comunidade_de_Madrid</gtriple>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | Localización | Alcobendas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alcobendas | HonenZatiDa | Madrilgo_Erkidegoa</btriple>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | Lokalizazioa | Alcobendas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is located in Alcobendas which is part of the Community of Madrid.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is in Alcobendas which is part of the community of Madrid.</lex>
+      <lex lang="es" lid="Id1">El aeropuerto Adolfo Suárez Madrid-Barajas está situado en Alcobendas, que forma parte de la Comunidad de Madrid.</lex>
+      <lex lang="es" lid="Id2">El aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en Alcobendas, que forma parte de la comunidad de Madrid.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a Alcobendas, que forma part de la Comunitat de Madrid.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a Alcobendas, que forma part de la comunitat de Madrid.</lex>
+      <lex lang="eu" lid="Id1">Adolfo Suárez Madrid–Barajas aireportua Madrilgo erkidegoko Alcobendas herrian dago.</lex>
+      <lex lang="eu" lid="Id2">Adolfo Suárez Madrid–Barajas aireportua Alcobendas-en dago, Madrilgo erkidegoko zati batean.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto Adolfo Suárez Madrid-Barajas está situado en Alcobendas, que forma parte da Comunidade de Madrid.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto Adolfo Suárez MadridBarajas está en Alcobendas, que forma parte da comunidade de Madrid.</lex>
+      </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Alderney_Airport | runwayLength | "877.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Alderney_Airport | runwayLength | 877.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Alderney | TipoDeSuperficieDe1aPista | gramíneas</striple>
+        <striple>Aeropuerto_de_Alderney | LongitudDeLaPista | 877.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'Alderney | TipusDeSuperfícieDeLaPrimeraPista | poàcies</ctriple>
+        <ctriple>Aeroport_d'Alderney | LongitudDeLaPista | 877.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Alderney | 1ºTipoDeSuperficieDaPista | Poáceas</gtriple>
+        <gtriple>Aeroporto_de_Alderney | DuraciónDaPista | 877.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alderney_aireportua | 1.PistakoGainazalarenMota | Azenarioak</btriple>
+        <btriple>Alderney_aireportua | PistarenLuzera | 877.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Poaceae is the surface of the 1st runway at Alderney Airport which has a runway with the length of 877.0 metres.</lex>
+      <lex lang="en" lid="Id2">The 1st runway length of Alderney Airport is 877.0 and the surface is poaceae.</lex>
+      <lex lang="es" lid="Id1">Poaceae es la superficie de la 1ª pista del aeropuerto de Alderney, que tiene una pista de 877,0 metros.</lex>
+      <lex lang="es" lid="Id2">La longitud de la 1ª pista del Aeropuerto de Alderney es de 877,0 y la superficie es de gramíneas.</lex>
+      <lex lang="ca" lid="Id1">Poaceae és la superfície de la 1a pista de l'aeroport d'Alderney, que té una pista amb una longitud de 877,0 metres.</lex>
+      <lex lang="ca" lid="Id2">La longitud de la primera pista de l'aeroport d'Alderney és 877.0 i la superfície és poaceae.</lex>
+      <lex lang="eu" lid="Id1">Alderney aireportuko 1. pistaren gainazala da Poaceae, eta 877,0 metroko luzera du.</lex>
+      <lex lang="eu" lid="Id2">Alderneyko lehen pistaren luzera 877,0 da eta gainazala poaceae da.</lex>
+      <lex lang="gl" lid="Id1">Poaceae é a superficie da primeira pista do aeroporto de Alderney, que ten unha pista cunha lonxitude de 877,0 metros.</lex>
+      <lex lang="gl" lid="Id2">A lonxitude da primeira pista do aeroporto de Alderney é de 877,0 e a superficie é de poaceae.</lex>
+      </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+        <otriple>Pakistan_Civil_Aviation_Authority | headquarter | Jinnah_International_Airport</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority</mtriple>
+        <mtriple>Pakistan_Civil_Aviation_Authority | headquarter | Jinnah_International_Airport</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Allama_Iqbal | OrganizaciónOperativa | Autoridad_de_aviación_civil_de_Pakistán</striple>
+        <striple>Autoridad_de_aviación_civil_de_Pakistán | SedeCentral | Aeropuerto_Internacional_Jinnah</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_Allama_Iqbal | OrganitzacióOperativa | Autoritat_d'Aviació_Civil_del_Pakistan</ctriple>
+        <ctriple>Autoritat_d'Aviació_Civil_del_Pakistan | QuarterGeneral | Aeroport_Internacional_Jinnah</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_Allama_Iqbal | OrganizaciónOperativa | Autoridade_de_Aviación_Civil_de_Paquistán</gtriple>
+        <gtriple>Autoridade_de_Aviación_Civil_de_Paquistán | Sede | Aeroporto_Internacional_de_Jinnah</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Allama_Iqbal_nazioarteko_aireportua | ErakundeEragilea | Pakistaneko_Hegazkin_Zibilaren_Agintaritzak.</btriple>
+        <btriple>Pakistaneko_Hegazkin_Zibilaren_Agintaritzak. | Egoitza | Jinnah_nazioarteko_aireportua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority, the HQ of which is at Jinnah International Airport.</lex>
+      <lex lang="en" lid="Id2">The Pakistan Civil Aviation Authority, which has its HQ at Jinnah International Airport, governs Allama Iqbal International Airport.</lex>
+      <lex lang="en" lid="Id3">Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority, which is headquartered at Jinnah International Airport.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional Allama Iqbal está gestionado por la Autoridad de Aviación Civil de Pakistán, cuya sede se encuentra en el Aeropuerto Internacional Jinnah.</lex>
+      <lex lang="es" lid="Id2">La Autoridad de Aviación Civil de Pakistán, con sede en el Aeropuerto Internacional Jinnah, gestiona el Aeropuerto Internacional Allama Iqbal.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Internacional Allama Iqbal está gestionado por la Autoridad de Aviación Civil de Pakistán, que tiene su sede en el Aeropuerto Internacional Jinnah.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional Allama Iqbal és operat per l'Autoritat d'Aviació Civil del Pakistan, amb seu a l'Aeroport Internacional Jinnah.</lex>
+      <lex lang="ca" lid="Id2">L'Autoritat d'Aviació Civil del Pakistan, que té la seva seu a l'Aeroport Internacional Jinnah, governa l'Aeroport Internacional Allama Iqbal.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Internacional Allama Iqbal és operat per l'Autoritat d'Aviació Civil del Pakistan, que té la seu a l'Aeroport Internacional Jinnah.</lex>
+      <lex lang="eu" lid="Id1">Allama Iqbal nazioarteko aireportua Pakistango Abiazio Zibilaren Agintaritzak kudeatzen du, eta haren egoitza nagusia Jinnah nazioarteko aireportuan dago.</lex>
+      <lex lang="eu" lid="Id2">Pakistango Abiazio Zibileko Agintaritzak Allama Iqbal Nazioarteko Aireportua gobernatzen du, eta Jinnah Nazioarteko Aireportuaren egoitza da.</lex>
+      <lex lang="eu" lid="Id3">Allama Iqbal Nazioarteko Aireportua Pakistango Abiazio Zibilaren Agintaritzak kudeatzen du, eta Jinnah Nazioarteko Aireportuaren egoitza da.</lex>
+      <lex lang="gl" lid="Id1">O Aeroporto Internacional Allama Iqbal é operado pola Autoridade de Aviación Civil de Paquistán, cuxa sede está no Aeroporto Internacional Jinnah.</lex>
+      <lex lang="gl" lid="Id2">A Autoridade de Aviación Civil de Paquistán, que ten a súa sede no Aeroporto Internacional Jinnah, goberna o Aeroporto Internacional Allama Iqbal.</lex>
+      <lex lang="gl" lid="Id3">O Aeroporto Internacional Allama Iqbal é operado pola Autoridade de Aviación Civil de Paquistán, que ten a súa sede no Aeroporto Internacional Jinnah.</lex>
+      </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Regional_del_Condado_de_Alpena | Ubicación | Municipio_de_Wilson,_Condado_de_Alpena,_Michigan</striple>
+        <striple>Municipio_de_Wilson,_Condado_de_Alpena,_Michigan | FormaParteDe | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_regional_del_comtat_d'_Alpena | Ubicació | Wilson_Township,_comtat_d'Alpena,_Michigan</ctriple>
+        <ctriple>Wilson_Township,_comtat_d'Alpena,_Michigan | ÉsPartDe | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_rexional_do_condado_de_Alpena | Localización | Wilson_Township,_condado_de_Alpena,_Michigan</gtriple>
+        <gtriple>Wilson_Township,_condado_de_Alpena,_Michigan | ÉParteDe | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alpena_konderriko_aireportua. | Lokalizazioa | Alpena_konderrian_kokatuta_dago,_Michigan_estatuan.</btriple>
+        <btriple>Alpena_konderrian_kokatuta_dago,_Michigan_estatuan. | HonenZatiDa | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The location of Alpena County Regional Airport is Wilson Township, Alpena County, Michigan, United States.</lex>
+      <lex lang="en" lid="Id2">Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan, United States.</lex>
+      <lex lang="en" lid="Id3">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan, USA.</lex>
+      <lex lang="es" lid="Id1">La ubicación del Aeropuerto Regional del Condado de Alpena es Wilson Township, Condado de Alpena, Michigan, Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Regional del Condado de Alpena está situado en el Municipio de Wilson, Condado de Alpena, Michigan, Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto regional del condado de Alpena está localizado en el municipio de Wilson, en el condado de Alpena, Michigan, Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">La ubicació de l'Aeroport Regional del Comtat d'Alpena és Wilson Township, Comtat d'Alpena, Michigan, Estats Units.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Regional del Comtat d'Alpena es troba al municipi de Wilson, al comtat d'Alpena, Michigan, Estats Units.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Regional del Comtat d'Alpena es troba al municipi de Wilson, Comtat d'Alpena, Michigan, EUA.</lex>
+      <lex lang="eu" lid="Id1">Alpena konderriko eskualdeko aireportuaren kokapena Wilson Township da, Alpena konderrian, Michigan, Estatu Batuak.</lex>
+      <lex lang="eu" lid="Id2">Alpena konderriko Eskualdeko Aireportua Wilson Township-en dago, Alpena konderrian, Michiganen, Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id3">Alpena konderriko Eskualdeko Aireportua Wilson Township-en dago, Alpena konderrian, Michiganen, AEBetan.</lex>
+      <lex lang="gl" lid="Id1">A localización do aeroporto regional do condado de Alpena é Wilson Township, condado de Alpena, Michigan, Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto rexional do condado de Alpena está situado en Wilson Township, no condado de Alpena, Michigan, Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto rexional do condado de Alpena está situado no municipio de Wilson, no condado de Alpena, Michigan, Estados Unidos.</lex>
+      </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | operator | Schiphol_Group</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel | -3.3528</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | operatingOrganisation | Schiphol_Group</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Ámsterdam-Schiphol | ElevaciónSobreElNivelDelMar | -3.3528</striple>
+        <striple>Aeropuerto_de_Ámsterdam-Schiphol | OrganizaciónOperativa | Royal_Schiphol_Group</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'Amsterdam_Schiphol | ElevacióPerSobreDelNivellDelMar | -3.3528</ctriple>
+        <ctriple>Aeroport_d'Amsterdam_Schiphol | OrganitzacióOperativa | Grup_Schiphol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Amsterdam_Schiphol | ElevaciónSobreONivelDoMar | -3.3528</gtriple>
+        <gtriple>Aeroporto_de_Amsterdam_Schiphol | OrganizaciónOperativa | Grupo_Schiphol</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Amsterdameko_Schiphol_aireportua | ItsasoarenMailatikGorakoAltuera | -3.3528</btriple>
+        <btriple>Amsterdameko_Schiphol_aireportua | ErakundeEragilea | Schiphol_taldea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Schiphol Group are the operators of Amsterdam Airport Schiphol, which is -3.3528 above sea level.</lex>
+      <lex lang="en" lid="Id2">Schiphol Group operates the Amsterdam Airport Schiphol which is -3.3528m a.s.l.</lex>
+      <lex lang="en" lid="Id3">Amsterdam airport Schiphol is operated by the Schiphol group and is -3.3528 above sea level.</lex>
+      <lex lang="es" lid="Id1">El Grupo Schiphol es el operador del Aeropuerto Schiphol de Ámsterdam, situado a -3,3528 sobre el nivel del mar.</lex>
+      <lex lang="es" lid="Id2">El Grupo Schiphol explota el Aeropuerto Schiphol de Ámsterdam, que tiene una altitud de -3,3528 metros sobre el nivel del mar.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto Schiphol de Ámsterdam está gestionado por el grupo Schiphol y se encuentra a -3,3528 sobre el nivel del mar.</lex>
+      <lex lang="ca" lid="Id1">El Grup Schiphol són els operadors de l'Aeroport d'Amsterdam Schiphol, que es troba a 3,3528 metres sobre el nivell del mar.</lex>
+      <lex lang="ca" lid="Id2">El grup Schiphol opera l'Aeroport d'Amsterdam Schiphol que es troba a -3,3528m a.s.l.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport d'Amsterdam Schiphol és operat pel grup Schiphol i es troba a -3.3528 sobre el nivell del mar.</lex>
+      <lex lang="eu" lid="Id1">Schiphol Group-ek kudeatzen du Amsterdam-Schiphol aireportua, itsasoaren mailatik 3,3528 metrora dagoena.</lex>
+      <lex lang="eu" lid="Id2">Schiphol Group-ek Amsterdam-Schiphol aireportua kudeatzen du, 3.3528 m-ko altueran dagoena.</lex>
+      <lex lang="eu" lid="Id3">Amsterdam-Schiphol aireportua Schiphol taldearen esku dago eta itsasoaren mailatik -3.3528 metrora dago.</lex>
+      <lex lang="gl" lid="Id1">O Grupo Schiphol é o operador do aeroporto de Ámsterdan Schiphol, que está a -3,3528 sobre o nivel do mar.</lex>
+      <lex lang="gl" lid="Id2">O grupo Schiphol opera o aeroporto de Ámsterdam Schiphol, que está situado a -3,3528 m de altitude.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto de Ámsterdan Schiphol é operado polo grupo Schiphol e está a -3,3528 sobre o nivel do mar.</lex>
+      </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | r4Surface | "Asphalt"@en</otriple>
+        <otriple>Andrews_County_Airport | elevation | "973.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | r4Surface | "Asphalt"@en</otriple>
+        <otriple>Andrews_County_Airport | elevation | "967.435"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | 4thRunwaySurfaceType | "Asphalt"</mtriple>
+        <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel | 973.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_del_Condado_de_Andrews | 4ºTipoDeSuperficieDePista | Asphalt</striple>
+        <striple>Aeropuerto_del_Condado_de_Andrews | ElevaciónSobreElNivelDelMar | 973.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | TipusDeSuperfícieDeLa4aPista | Asphalt</ctriple>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | ElevacióPerSobreDelNivellDelMar | 973.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_do_condado_de_Andrews | TipoDeSuperficieDaCuartaPista | Asfalto</gtriple>
+        <gtriple>Aeroporto_do_condado_de_Andrews | ElevaciónSobreONivelDoMar | 973.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderriko_aireportua | 4.PistakoGainazalarenMota | Asfaltoa</btriple>
+        <btriple>Andrews_konderriko_aireportua | ItsasoarenMailatikGorakoAltuera | 973.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrews County Airport is 973 metres above sea level and The 4th runway is made of Asphalt.</lex>
+      <lex lang="en" lid="Id2">The fourth runway at Andrews County Airport is made of asphalt and the airport is 973 above sea level.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto del Condado de Andrews está a 973 metros sobre el nivel del mar y la 4ª pista está hecha de asfalto.</lex>
+      <lex lang="es" lid="Id2">La cuarta pista del Aeropuerto del Condado de Andrews es de asfalto y el aeropuerto se encuentra a 973 sobre el nivel del mar.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport del comtat d'Andrews està a 973 metres sobre el nivell del mar i la 4a pista està feta d'asfalt.</lex>
+      <lex lang="ca" lid="Id2">La quarta pista de l'aeroport del comtat d'Andrews està feta d'asfalt i l'aeroport està a 973 metres sobre el nivell del mar.</lex>
+      <lex lang="eu" lid="Id1">Andrews konderriko aireportua itsasoaren mailatik 973 metrora dago eta 4. pista asfaltozkoa da.</lex>
+      <lex lang="eu" lid="Id2">Andrews konderriko aireportuko laugarren pista asfaltozkoa da eta aireportua itsasoaren mailatik 973 metrora dago.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto do condado de Andrews está a 973 metros sobre o nivel do mar e a cuarta pista está feita de asfalto.</lex>
+      <lex lang="gl" lid="Id2">A cuarta pista do aeroporto do condado de Andrews está feita de asfalto e o aeroporto está a 973 metros sobre o nivel do mar.</lex>
+      </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | location | Texas</otriple>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | location | Texas</mtriple>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_del_Condado_de_Andrews | Ubicación | Texas</striple>
+        <striple>Texas | Capital | Austin,_Texas</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_del_comtat_d'_Andrews | Ubicació | Texas</ctriple>
+        <ctriple>Texas | Capital | Austin,_Texas</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_do_condado_de_Andrews | Localización | Texas</gtriple>
+        <gtriple>Texas | Capital | Austin,_Texas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrews_konderriko_aireportua | Lokalizazioa | Texas</btriple>
+        <btriple>Texas | Kapitala | Austin,_Texas</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrews County Airport is located in Texas, the capital of which is Austin.</lex>
+      <lex lang="en" lid="Id2">Andrews County Airport is located in Texas which has the capital of Austin.</lex>
+      <lex lang="en" lid="Id3">Andrews County Airport is located in Texas, where Austin is the capital.</lex>
+      <lex lang="es" lid="Id1">El aeropuerto del condado de Andrews está situado en Texas, cuya capital es Austin.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto del Condado de Andrews está situado en Texas, la cual tiene Austin de capital.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto del condado de Andrews está situado en Texas, donde Austin es capital.</lex>
+      <lex lang="ca" lid="Id1">L'aeroport del comtat d'Andrews es troba a Texas, la capital del qual és Austin.</lex>
+      <lex lang="ca" lid="Id2">L'aeroport del comtat d'Andrews es troba a Texas, que té la capital d'Austin.</lex>
+      <lex lang="ca" lid="Id3">L'aeroport del comtat d'Andrews es troba a Texas, on Austin és la capital.</lex>
+      <lex lang="eu" lid="Id1">Andrews konderriko aireportua Texasen dago, eta bertako hiriburua Austin da.</lex>
+      <lex lang="eu" lid="Id2">Andrews konderriko aireportua Texasen dago, Austin hiriburua duena.</lex>
+      <lex lang="eu" lid="Id3">Andrews konderriko aireportua Texasen dago, eta bertako hiriburua Austin da.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto do condado de Andrews está situado en Texas, cuxa capital é Austin.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto do condado de Andrews está situado en Texas, cuxa capital é Austin.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto do condado de Andrews está situado en Texas, onde Austin é a capital.</lex>
+      </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | cityServed | Luanda</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevelInMetres | 159</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_de_Angola | CiudadServida | Luanda</striple>
+        <striple>Aeropuerto_Internacional_de_Angola | AltitudSobreElNivelDelMarEnMetros | 159</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Angola | CiutatServida | Luanda</ctriple>
+        <ctriple>Aeroport_Internacional_d'Angola | ElevacióSobreElNivellDelMarEnMetres | 159</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Angola | CidadeServido | Luanda</gtriple>
+        <gtriple>Aeroporto_Internacional_de_Angola | ElevaciónSobreONivelDoMarEnMetros | 159</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Angolako_nazioarteko_aireportua | ZerbitzatutakoHiria | Luanda</btriple>
+        <btriple>Angolako_nazioarteko_aireportua | ItsasMailarenGainekoAltueraMetroetan | 159</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Angola International Airport serves the city of Luanda, it is 159m above sea level.</lex>
+      <lex lang="en" lid="Id2">The Angola International Airport, 159 m above sea level serves Luanda.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Angola da servicio a la ciudad de Luanda, situado a 159 metros sobre el nivel del mar.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Angola, situado a 159 m sobre el nivel del mar, da servicio a Luanda.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Angola serveix la ciutat de Luanda, està a 159m sobre el nivell del mar.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Angola, a 159 m sobre el nivell del mar, serveix a Luanda.</lex>
+      <lex lang="eu" lid="Id1">Angolako nazioarteko aireportuak Luanda hiria zerbitzatzen du, eta itsasoaren mailatik 159 metrora dago.</lex>
+      <lex lang="eu" lid="Id2">Angolako nazioarteko aireportuak, itsasoaren mailatik 159 metrora, Luanda zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto internacional de Angola serve á cidade de Luanda, está a 159 m sobre o nivel do mar.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional de Angola, a 159 m sobre o nivel do mar, serve a Luanda.</lex>
+      </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_de_Angola | Ubicación | Icolo_y_Bengo</striple>
+        <striple>Icolo_y_Bengo | País | Angola</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Angola | Ubicació | Ícolo_e_Bengo</ctriple>
+        <ctriple>Ícolo_e_Bengo | País | Angola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Angola | Localización | Ícolo_e_Bengo</gtriple>
+        <gtriple>Ícolo_e_Bengo | País | Angola</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Angolako_nazioarteko_aireportua | Lokalizazioa | Ícolo_e_Bengo</btriple>
+        <btriple>Ícolo_e_Bengo | Herrialdea | Angola</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Angola International Airport is located in Ícolo e Bengo, Angola.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Angola está situado en Ícolo e Bengo, Angola.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Angola es troba a Ícolo e Bengo, Angola.</lex>
+      <lex lang="eu" lid="Id1">Angolako nazioarteko aireportua Angolako Ícolo e Bengo-n dago.</lex>
+      <lex lang="gl" lid="Id1">O Aeroporto Internacional de Angola está situado en Ícolo e Bengo, Angola.</lex>
+      </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Antwerp_International_Airport | operator | "Flemish department of Mobility and Public Works"@en</otriple>
+        <otriple>Antwerp_International_Airport | elevation | "11.8872"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Antwerp_International_Airport | operator | "Flemish department of Mobility and Public Works"@en</otriple>
+        <otriple>Antwerp_International_Airport | elevation | "12.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antwerp_International_Airport | operatingOrganisation | "Flemish department of Mobility and Public Works"</mtriple>
+        <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel | 12.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Amberes-Deurne | OrganizaciónOperativa | Departamento_flamenco_de_Movilidad_y_Obras_Públicas</striple>
+        <striple>Aeropuerto_de_Amberes-Deurne | ElevaciónSobreElNivelDelMar | 12.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Anvers | OrganitzacióOperativa | Departament_flamenc_de_Mobilitat_i_Obras_Públiques</ctriple>
+        <ctriple>Aeroport_Internacional_d'Anvers | ElevacióPerSobreDelNivellDelMar | 12.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_AntuerpenCity_in_Belgium | OrganizaciónOperativa | Departamento_flamengo_de_Mobilidade_e_Obras_Públicas</gtriple>
+        <gtriple>Aeroporto_Internacional_de_AntuerpenCity_in_Belgium | ElevaciónSobreONivelDoMar | 12.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Antwerpeko_nazioarteko_aireportua | ErakundeEragilea | Flandriako_Mugikortasun_eta_Herri_Lan_Saila</btriple>
+        <btriple>Antwerpeko_nazioarteko_aireportua | ItsasoarenMailatikGorakoAltuera | 12.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Antwerp International Airport, operated by The Flemish department of Mobility and Public Works, is 12 metres above sea level.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Amberes, gestionado por el departamento flamenco de Movilidad y Obras Públicas, se encuentra a 12 metros sobre el nivel del mar.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Anvers, operat pel departament flamenc de Mobilitat i Obres Públiques, es troba a 12 metres sobre el nivell del mar.</lex>
+      <lex lang="eu" lid="Id1">Anberesko nazioarteko aireportua, Flandriako mugikortasun eta lan publikoen departamentuak kudeatzen duena, itsasoaren mailatik 12 metrora dago.</lex>
+      <lex lang="gl" lid="Id1">O aeroporto internacional de Antuerpen, operado polo departamento flamengo de Mobilidade e Obras Públicas, está a 12 metros sobre o nivel do mar.</lex>
+      </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</otriple>
+        <otriple>Appleton,_Wisconsin | subdivisionName | Grand_Chute,_Wisconsin</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</otriple>
+        <otriple>Appleton_International_Airport | city | Appleton,_Wisconsin</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</otriple>
+        <otriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
+        <mtriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_de_Appleton | CiudadServida | Appleton</striple>
+        <striple>Appleton | FormaParteDe | Grand_Chute,_Wisconsin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_internacional_d'_Appleton | CiutatServida | Appleton,_Wisconsin</ctriple>
+        <ctriple>Appleton,_Wisconsin | ÉsPartDe | Grand_Chute,_Wisconsin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Appleton | CidadeServido | Appleton,_Wisconsin</gtriple>
+        <gtriple>Appleton,_Wisconsin | ÉParteDe | Grand_Chute,_Wisconsin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Appletoneko_nazioarteko_aireportua. | ZerbitzatutakoHiria | Appleton,_Wisconsin</btriple>
+        <btriple>Appleton,_Wisconsin | HonenZatiDa | Grand_Chute,_Wisconsin,_Ameriketako_Estatu_Batuetan.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Appleton, Grand Chute, Wisconsin is a city which is served by Appleton International Airport.</lex>
+      <lex lang="en" lid="Id2">Appleton, Wisconsin is part of Grand Chute, Wisconsin and is served by Appletone International Airport.</lex>
+      <lex lang="en" lid="Id3">Appleton International Airport serves the city of Appleton which is part of Grand Chute, Wisconsin.</lex>
+      <lex lang="es" lid="Id1">Appleton, Grand Chute, Wisconsin es una ciudad a la que sirve el Aeropuerto Internacional de Appleton.</lex>
+      <lex lang="es" lid="Id2">Appleton, Wisconsin es parte de Grand Chute, Wisconsin y es servido por el Aeropuerto Internacional de Appletone.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Internacional de Appleton sirve a la ciudad de Appleton, que forma parte de Grand Chute, Wisconsin.</lex>
+      <lex lang="ca" lid="Id1">Appleton, Grand Chute, Wisconsin és una ciutat que és servida per l'Aeroport Internacional d'Appleton.</lex>
+      <lex lang="ca" lid="Id2">Appleton, Wisconsin és part de Grand Chute, Wisconsin i és servida per l'Aeroport Internacional d'Appletone.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Internacional d'Appleton serveix a la ciutat d'Appleton, que forma part de Grand Chute, Wisconsin.</lex>
+      <lex lang="eu" lid="Id1">Appleton, Grand Chute, Wisconsin, Appleton nazioarteko aireportuak zerbitzatzen duen hiria da.</lex>
+      <lex lang="eu" lid="Id2">Appleton, Wisconsin, Grand Chute, Wisconsineko parte da eta Appletone nazioarteko aireportua da.</lex>
+      <lex lang="eu" lid="Id3">Appleton nazioarteko aireportuak Grand Chute-ko (Wisconsin) Appleton hiria zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">Appleton, Grand Chute, Wisconsin é unha cidade á que serve o aeroporto internacional de Appleton.</lex>
+      <lex lang="gl" lid="Id2">Appleton, Wisconsin é parte de Grand Chute, Wisconsin e é servido polo Aeroporto Internacional de Appletone.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto internacional de Appleton serve á cidade de Appleton, que forma parte de Grand Chute, Wisconsin.</lex>
+      </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | TipoDeSuperficieDeLa2ªPista | gramíneas</striple>
+        <striple>gramíneas | Orden | Poales</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'_Ardmore_(Nova_Zelanda)_oceania._kgm | TipusDeSuperfícieDeLaSegonaPista | poàcies</ctriple>
+        <ctriple>poàcies | Ordre | Poals</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Ardmore_(Nova_Zelandia) | TipoDeSuperficieDaSegundaPista | Poáceas</gtriple>
+        <gtriple>Poáceas | Ordenación | Poales</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ardmore_aireportua_(Zelanda_Berria) | 2.PistakoGainazalarenMota | Azenarioak</btriple>
+        <btriple>Azenarioak | Ordena | Poales</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">New Zealand's Ardmore Airport's second runway has the surface type Poaceae which is part of the Poales order.</lex>
+      <lex lang="en" lid="Id2">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae, which is a member of the order of Poales.</lex>
+      <lex lang="en" lid="Id3">Poaceae (part of the Poales order) is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="es" lid="Id1">La segunda pista del aeropuerto neozelandés de Ardmore tiene el tipo de superficie Poaceae, que forma parte del orden Poales.</lex>
+      <lex lang="es" lid="Id2">La segunda pista del aeropuerto de Ardmore (Nueva Zelanda) está hecha de Poaceae, un miembro del orden de las Poales.</lex>
+      <lex lang="es" lid="Id3">Poaceae (parte del orden Poales) es el tipo de superficie de la segunda pista del aeropuerto de Ardmore, Nueva Zelanda.</lex>
+      <lex lang="ca" lid="Id1">La segona pista de l'aeroport d'Ardmore de Nova Zelanda té el tipus de superfície Poaceae que forma part de l'ordre Poales.</lex>
+      <lex lang="ca" lid="Id2">La segona pista de l'aeroport d'Ardmore (Nova Zelanda) està feta de Poaceae, que és un membre de l'ordre de Poales.</lex>
+      <lex lang="ca" lid="Id3">Poaceae (part de l'ordre Poales) és el tipus de superfície de la segona pista de l'Aeroport d'Ardmore, Nova Zelanda.</lex>
+      <lex lang="eu" lid="Id1">Zeelanda Berriko Ardmore aireportuaren bigarren pistak Poaceae gainazal mota du, Poales ordenaren parte dena.</lex>
+      <lex lang="eu" lid="Id2">Ardmore aireportuko (Zelanda Berria) bigarren pista Poaceae-z egina dago, Poales ordenako kidea dena.</lex>
+      <lex lang="eu" lid="Id3">Poaceae (Poales ordenaren zati bat) Ardmore aireportuko (Zeelanda Berria) bigarren pistaren gainazala da.</lex>
+      <lex lang="gl" lid="Id1">A segunda pista do aeroporto de Ardmore de Nova Zelandia ten o tipo de superficie Poaceae que forma parte da orde Poales.</lex>
+      <lex lang="gl" lid="Id2">A segunda pista do aeroporto de Ardmore (Nova Zelandia) está feita de Poaceae, que é un membro da orde das Poales.</lex>
+      <lex lang="gl" lid="Id3">Poaceae (parte da orde Poales) é o tipo de superficie da segunda pista do aeroporto de Ardmore, Nova Zelandia.</lex>
+      </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
+        <otriple>Poaceae | unrankedClassis | Monocotyledon</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 3rdRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | TipoDeSuperficieDeLa3ªPista | gramíneas</striple>
+        <striple>gramíneas | Clase | Liliopsida</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_d'_Ardmore_(Nova_Zelanda)_oceania._kgm | TipusDeSuperfícieDeLa3aPista | poàcies</ctriple>
+        <ctriple>poàcies | Classe | Monocotiledònia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_de_Ardmore_(Nova_Zelandia) | TipoDeSuperficieDaTerceiraPista | Poáceas</gtriple>
+        <gtriple>Poáceas | Clasificación | Monocotiledónea</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ardmore_aireportua_(Zelanda_Berria) | 3.PistakoGainazalarenMota | Azenarioak</btriple>
+        <btriple>Azenarioak | Klasea | Monokotiledoneoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae of the class Monocotyledon.</lex>
+      <lex lang="en" lid="Id2">The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae which is included in the class Monocotyledon.</lex>
+      <lex lang="en" lid="Id3">Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which is included in the class of Monocotyledon.</lex>
+      <lex lang="es" lid="Id1">El tipo de superficie de la 3ª pista del aeropuerto de Ardmore (Nueva Zelanda) es Poaceae de la clase Monocotyledon.</lex>
+      <lex lang="es" lid="Id2">La 3ª pista del aeropuerto de Ardmore (Nueva Zelanda) es de Poaceae, que se incluye en la clase Monocotiledónea.</lex>
+      <lex lang="es" lid="Id3">El 3er tipo de superficie de pista del aeropuerto de Ardmore (Nueva Zelanda) es Poaceae, el cual se incluye en la clase de Monocotiledóneas.</lex>
+      <lex lang="ca" lid="Id1">El tercer tipus de superfície de pista de l'aeroport d'Ardmore (Nova Zelanda) és Poaceae de la classe Monocotyledon.</lex>
+      <lex lang="ca" lid="Id2">La tercera pista de l'Aeroport d'Ardmore (Nova Zelanda) està feta de Poaceae que està inclosa en la classe Monocotyledon.</lex>
+      <lex lang="ca" lid="Id3">El tercer tipus de superfície de pista de l'aeroport d'Ardmore (Nova Zelanda) és Poaceae, que està inclosa en la classe de Monocotyledon.</lex>
+      <lex lang="eu" lid="Id1">Ardmore aireportuko (Zeelanda Berria) 3. pistako gainazalaren mota Monocotyledon klaseko Poaceae da.</lex>
+      <lex lang="eu" lid="Id2">Ardmore aireportuko (Zelanda Berria) 3. pista Poaceae-z egina dago, Monocotyledon klasean sartzen dena.</lex>
+      <lex lang="eu" lid="Id3">Ardmore aireportuaren (Zeelanda Berria) 3. pistaren gainazalaren mota Poaceae da, Monocotyledon klasean sartzen dena.</lex>
+      <lex lang="gl" lid="Id1">O tipo de superficie da terceira pista do aeroporto de Ardmore (Nova Zelandia) é Poaceae da clase Monocotyledon.</lex>
+      <lex lang="gl" lid="Id2">A terceira pista no aeroporto de Ardmore (Nova Zelandia) está feita de Poaceae que está incluída na clase Monocotyledon.</lex>
+      <lex lang="gl" lid="Id3">O terceiro tipo de superficie de pista do aeroporto de Ardmore (Nova Zelandia) é Poaceae que está incluído na clase Monocotyledon.</lex>
+      </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 3800.0</mtriple>
+        <mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_internacional_de_Ashgabad | LongitudDeLaPista | 3800.0</striple>
+        <striple>Aeropuerto_internacional_de_Ashgabad | Ubicación | Asjabad</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Ashgabat | LongitudDeLaPista | 3800.0</ctriple>
+        <ctriple>Aeroport_Internacional_d'Ashgabat | Ubicació | Aşgabat</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Ashgabat | DuraciónDaPista | 3800.0</gtriple>
+        <gtriple>Aeroporto_Internacional_de_Ashgabat | Localización | Ashgabat</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ashgabat_nazioarteko_aireportua | PistarenLuzera | 3800.0</btriple>
+        <btriple>Ashgabat_nazioarteko_aireportua | Lokalizazioa | Ashgabat</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The runway length at Ashgabat International airport, located in Ashgabat, is 3800.0.</lex>
+      <lex lang="en" lid="Id2">Ashgabat International Airport is located in Ashgabat and its runway length is 3800.</lex>
+      <lex lang="en" lid="Id3">The runway length of Ashgabat International Airport in Ashgabat is 3800.0.</lex>
+      <lex lang="es" lid="Id1">La longitud de la pista del aeropuerto internacional de Ashgabat, situado en Ashgabat, es de 3800,0.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Ashgabat está situado en Ashgabat y su pista tiene una longitud de 3.800 metros.</lex>
+      <lex lang="es" lid="Id3">La longitud de la pista del Aeropuerto Internacional de Ashgabat en Ashgabat es de 3800,0.</lex>
+      <lex lang="ca" lid="Id1">La longitud de la pista a l'aeroport internacional d'Ashgabat, situat a Ashgabat, és de 3800,0.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Ashgabat es troba a Ashgabat i la seva pista té una longitud de 3.800 metres.</lex>
+      <lex lang="ca" lid="Id3">La longitud de la pista de l'Aeroport Internacional d'Ashgabat a Ashgabat és de 3800,0.</lex>
+      <lex lang="eu" lid="Id1">Ashgabat-en dagoen Ashgabat nazioarteko aireportuko pista 3800 metrokoa da.</lex>
+      <lex lang="eu" lid="Id2">Ashgabat-eko nazioarteko aireportua Ashgabat-en dago eta 3800 metroko pista du.</lex>
+      <lex lang="eu" lid="Id3">Ashgabat-eko nazioarteko aireportuko pista 3800 metrokoa da.</lex>
+      <lex lang="gl" lid="Id1">A lonxitude da pista no aeroporto internacional de Ashgabat, situado en Ashgabat, é de 3800,0.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto internacional de Ashgabat está situado en Ashgabat e a súa pista de aterraxe ten unha lonxitude de 3800 metros.</lex>
+      <lex lang="gl" lid="Id3">A lonxitude da pista do aeroporto internacional de Ashgabat en Ashgabat é de 3800,0.</lex>
+      </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Athens_International_Airport | cityServed | Athens</otriple>
+        <otriple>Athens_International_Airport | location | Spata</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Athens_International_Airport | city | Athens</otriple>
+        <otriple>Athens_International_Airport | location | Spata</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens_International_Airport | cityServed | Athens</mtriple>
+        <mtriple>Athens_International_Airport | location | Spata</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Eleftherios_Venizelos | CiudadServida | Atenas</striple>
+        <striple>Aeropuerto_Internacional_Eleftherios_Venizelos | Ubicación | Spata</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Atenes | CiutatServida | Athens</ctriple>
+        <ctriple>Aeroport_Internacional_d'Atenes | Ubicació | Spatagreece__prefectures._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Atenas | CidadeServido | Atenas</gtriple>
+        <gtriple>Aeroporto_Internacional_de_Atenas | Localización | Spatagreece__prefectures._kgm</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atenaseko_nazioarteko_aireportua | ZerbitzatutakoHiria | Atenas</btriple>
+        <btriple>Atenaseko_nazioarteko_aireportua | Lokalizazioa | Spatagreece__prefectures._kgm</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Athens International Airport is in Spata and serves the city of Athens.</lex>
+      <lex lang="en" lid="Id2">Athens International Airport, which is located in Spata, serves the city of Athens.</lex>
+      <lex lang="en" lid="Id3">Athens International Airport in Spata serves the city of Athens.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Atenas está en Spata y da servicio a la ciudad de Atenas.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Atenas, situado en Spata, da servicio a la ciudad de Atenas.</lex>
+      <lex lang="es" lid="Id3">El Aeropuerto Internacional de Atenas, en Spata, da servicio a la ciudad de Atenas.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Atenes està a Spata i serveix a la ciutat d'Atenes.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Atenes, que es troba a Spata, serveix a la ciutat d'Atenes.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Internacional d'Atenes a Spata serveix a la ciutat d'Atenes.</lex>
+      <lex lang="eu" lid="Id1">Atenasko nazioarteko aireportua Spatan dago eta Atenas hiria zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id2">Atenasko nazioarteko aireportua Spatan dago eta Atenas hiria zerbitzatzen du.</lex>
+      <lex lang="eu" lid="Id3">Atenasko nazioarteko aireportuak (Spata) Atenas hiria zerbitzatzen du.</lex>
+      <lex lang="gl" lid="Id1">O Aeroporto Internacional de Atenas está en Spata e serve á cidade de Atenas.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional de Atenas, que está situado en Spata, serve á cidade de Atenas.</lex>
+      <lex lang="gl" lid="Id3">O Aeroporto Internacional de Atenas en Spata serve á cidade de Atenas.</lex>
+      </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Athens_International_Airport | cityServed | Athens</otriple>
+        <otriple>Athens_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Athens_International_Airport | cityServed | Athens</otriple>
+        <otriple>Athens_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Athens_International_Airport | city | Athens</otriple>
+        <otriple>Athens_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Athens_International_Airport | city | Athens</otriple>
+        <otriple>Athens_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens_International_Airport | cityServed | Athens</mtriple>
+        <mtriple>Athens_International_Airport | runwayLength | 3800.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aeropuerto_Internacional_Eleftherios_Venizelos | CiudadServida | Atenas</striple>
+        <striple>Aeropuerto_Internacional_Eleftherios_Venizelos | LongitudDeLaPista | 3800.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aeroport_Internacional_d'Atenes | CiutatServida | Athens</ctriple>
+        <ctriple>Aeroport_Internacional_d'Atenes | LongitudDeLaPista | 3800.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aeroporto_Internacional_de_Atenas | CidadeServido | Atenas</gtriple>
+        <gtriple>Aeroporto_Internacional_de_Atenas | DuraciónDaPista | 3800.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atenaseko_nazioarteko_aireportua | ZerbitzatutakoHiria | Atenas</btriple>
+        <btriple>Atenaseko_nazioarteko_aireportua | PistarenLuzera | 3800.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Athens International Airport serves the city of Athens and has a runway length of 3800.0.</lex>
+      <lex lang="en" lid="Id2">Athens International Airport serves the city of Athens and has a runway length of 3.800 metres.</lex>
+      <lex lang="es" lid="Id1">El Aeropuerto Internacional de Atenas sirve a la ciudad de Atenas y tiene una longitud de pista de 3800,0.</lex>
+      <lex lang="es" lid="Id2">El Aeropuerto Internacional de Atenas da servicio a la ciudad de Atenas y tiene una pista de 3.800 metros de longitud.</lex>
+      <lex lang="ca" lid="Id1">L'Aeroport Internacional d'Atenes serveix a la ciutat d'Atenes i té una longitud de pista de 3800,0.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Internacional d'Atenes serveix a la ciutat d'Atenes i té una pista de 3.800 metres.</lex>
+      <lex lang="eu" lid="Id1">Atenasko Nazioarteko Aireportuak Atenas hiria zerbitzatzen du eta 3800 metroko pista dauka.</lex>
+      <lex lang="eu" lid="Id2">Atenasko nazioarteko aireportuak Atenas hiria zerbitzatzen du eta 3.800 metroko pista dauka.</lex>
+      <lex lang="gl" lid="Id1">O Aeroporto Internacional de Atenas serve á cidade de Atenas e ten unha lonxitude de pista de 3800.0.</lex>
+      <lex lang="gl" lid="Id2">O Aeroporto Internacional de Atenas serve á cidade de Atenas e ten unha pista de 3.800 metros de lonxitude.</lex>
+      </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>San_Sebastián_de_los_Reyes | FormaParteDe | Comunidad_de_Madrid</striple>
+        <striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | San_Sebastián_de_los_Reyes</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>San_Sebastián_de_los_Reyes | ÉsPartDe | Comunitat_de_Madrid</ctriple>
+        <ctriple>Aeroport_Adolfo_Suárez_de_Madrid-Barajas | Ubicació | San_Sebastián_de_los_Reyes</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>San_Sebastián_de_los_Reyes | ÉParteDe | Comunidade_de_Madrid</gtriple>
+        <gtriple>Aeroporto_Adolfo_Suárez_Madrid-Barajas | Localización | San_Sebastián_de_los_Reyes</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>San_Sebastián_de_los_Reyes | HonenZatiDa | Madrilgo_Erkidegoa</btriple>
+        <btriple>Adolfo_Suárez_Madril-Barajas_aireportua | Lokalizazioa | San_Sebastián_de_los_Reyes</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">San Sebastian de los Reyes is part of the Community of Madrid and is also the location of Adolfo Suárez Madrid–Barajas Airport.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes, part of the Community of Madrid.</lex>
+      <lex lang="en" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes which is part of the Community of Madrid.</lex>
+      <lex lang="es" lid="Id1">San Sebastián de los Reyes pertenece a la Comunidad de Madrid y es también la sede del aeropuerto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="es" lid="Id2">El aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en San Sebastián de los Reyes, perteneciente a la Comunidad de Madrid.</lex>
+      <lex lang="es" lid="Id3">El aeropuerto Adolfo Suárez Madrid-Barajas se localiza en San Sebastián de los Reyes, que pertenece a la Comunidad de Madrid.</lex>
+      <lex lang="ca" lid="Id1">San Sebastián de los Reyes forma part de la Comunitat de Madrid i és també la ubicació de l'Aeroport Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="ca" lid="Id2">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes, part de la Comunitat de Madrid.</lex>
+      <lex lang="ca" lid="Id3">L'Aeroport Adolfo Suárez Madrid-Barajas es troba a San Sebastián de los Reyes, que forma part de la Comunitat de Madrid.</lex>
+      <lex lang="eu" lid="Id1">San Sebastian de los Reyes Madrilgo Erkidegoko parte da eta Adolfo Suárez MadridBarajas aireportuaren kokapena ere bada.</lex>
+      <lex lang="eu" lid="Id2">Adolfo Suárez Madrid–Barajas aireportua Madrilgo Erkidegoko San Sebastián de los Reyes herrian dago.</lex>
+      <lex lang="eu" lid="Id3">Adolfo Suárez Madrid–Barajas aireportua Madrilgo Erkidegoko San Sebastián de los Reyes herrian dago.</lex>
+      <lex lang="gl" lid="Id1">San Sebastián de los Reyes forma parte da Comunidade de Madrid e é tamén a localización do aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex lang="gl" lid="Id2">O aeroporto Adolfo Suárez Madrid-Barajas atópase en San Sebastián de los Reyes, na Comunidade de Madrid.</lex>
+      <lex lang="gl" lid="Id3">O aeroporto Adolfo Suárez MadridBarajas está en San Sebastián de los Reyes, que forma parte da Comunidade de Madrid.</lex>
+      </entry>
+    </entries>
+  </benchmark>

@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.C._Cesena | league | Serie_B</otriple>
+        <otriple>Serie_B | champions | Carpi_F.C._1909</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | league | Serie_B</mtriple>
+        <mtriple>Serie_B | champions | Carpi_F.C._1909</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.C._Cesena | Liga | Serie_A</striple>
+        <striple>Serie_A | Campeones | Carpi_F.C._1909</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.C._Cesena | Lliga | Serie_B</ctriple>
+        <ctriple>Serie_B | Campions | Carpi_F.C._1909_(italià)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.C._Cesena | LigaunitDescriptionInLists | Serie_B</gtriple>
+        <gtriple>Serie_B | Campións | Carpi_F.C._1909</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.C._Cesena | LigaBatDa. | Serie_B</btriple>
+        <btriple>Serie_B | Txapeldunak | Carpi_F.C._1909._orrialdea_.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AC Cesena are in the Serie B league, the previous champions of which are Carpi FC 1909.</lex>
+      <lex lang="en" lid="Id2">A.C. Cesena play in Serie B, in which Carpi FC 1909 are the champions.</lex>
+      <lex lang="en" lid="Id3">AC Cesena are in the Serie B league, previously won by Carpi F.C. 1909.</lex>
+      <lex lang="es" lid="Id1">El AC Cesena milita en la Serie B, cuyo anterior campeón es el Carpi FC 1909.</lex>
+      <lex lang="es" lid="Id2">El A.C. Cesena juega en la Serie B, de la que es campeón el Carpi FC 1909.</lex>
+      <lex lang="es" lid="Id3">El AC Cesena está en la Serie B, que anteriormente ganó el Carpi F.C. 1909.</lex>
+      <lex lang="ca" lid="Id1">L'AC Cesena està a la lliga Serie B, els anteriors campions de la qual són el Carpi FC 1909.</lex>
+      <lex lang="ca" lid="Id2">L'A.C. Cesena juga a la Serie B, on el Carpi FC 1909 és el campió.</lex>
+      <lex lang="ca" lid="Id3">L'AC Cesena està a la Sèrie B, anteriorment guanyada pel Carpi F.C. 1909.</lex>
+      <lex lang="eu" lid="Id1">AC Cesena Serie B-ko ligan dago, eta aurreko txapelduna Carpi FC 1909 izan zen.</lex>
+      <lex lang="eu" lid="Id2">A.C. Cesena-k Serie B-n jokatzen du, eta Carpi FC 1909 da txapelduna.</lex>
+      <lex lang="eu" lid="Id3">AC Cesena Serie B ligan dago, aurretik Carpi F.C. 1909 irabazi zuena.</lex>
+      <lex lang="gl" lid="Id1">O AC Cesena está na Serie B, do que o anterior campión foi o Carpi FC 1909.</lex>
+      <lex lang="gl" lid="Id2">O A.C. Cesena xoga na Serie B, na que o Carpi FC 1909 é o campión.</lex>
+      <lex lang="gl" lid="Id3">O AC Cesena está na liga Serie B, anteriormente gañada polo Carpi F.C. 1909.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.C._Chievo_Verona | Suelo | Estadio_Marc'Antonio_Bentegodi</striple>
+        <striple>A.C._Chievo_Verona | Liga | Serie_A</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.C._Chievo_Verona | Terra | Stadio_Marc'Antonio_Bentegodi</ctriple>
+        <ctriple>A.C._Chievo_Verona | Lliga | Lliga_italiana_de_futbol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.C._Chievo_Verona | Terra | Stadio_Marc'Antonio_Bentegodi</gtriple>
+        <gtriple>A.C._Chievo_Verona | LigaunitDescriptionInLists | Serie_A</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.C._Chievo_Verona | Lurra | Stadio_Marc'Antonio_Bentegodi</btriple>
+        <btriple>A.C._Chievo_Verona | LigaBatDa. | Serie_A</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc'Antonio Bentegodi.</lex>
+      <lex lang="en" lid="Id2">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.</lex>
+      <lex lang="en" lid="Id3">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A.</lex>
+      <lex lang="es" lid="Id1">El AC Chievo Verona juega en la Serie A y su estadio es el Marc'Antonio Bentegodi.</lex>
+      <lex lang="es" lid="Id2">El estadio del A.C. Chievo Verona es el Stadio Marc'Antonio Bentegodi y el club juega en la liga Serie A.</lex>
+      <lex lang="es" lid="Id3">El estadio del A.C. Chievo Verona es el Stadio Marc'Antonio Bentegodi, que jugó en la Serie A.</lex>
+      <lex lang="ca" lid="Id1">L'AC Chievo Verona juga a la lliga Serie A i el seu estadi és l'Stadio Marc'Antonio Bentegodi.</lex>
+      <lex lang="ca" lid="Id2">El camp de l'AC Chievo Verona és l'Stadio Marc'Antonio Bentegodi i el club està a la lliga, Serie A.</lex>
+      <lex lang="ca" lid="Id3">El camp de l'AC Chievo Verona és l'Stadio Marc'Antonio Bentegodi, va jugar a la Serie A.</lex>
+      <lex lang="eu" lid="Id1">AC Chievo Verona-k Serie A ligan jokatzen du eta etxeko estadioa Stadio Marc'Antonio Bentegodi da.</lex>
+      <lex lang="eu" lid="Id2">A.C. Chievo Verona-ren jokalekua Stadio Marc'Antonio Bentegodi da eta kluba Serie A-ko ligan dago.</lex>
+      <lex lang="eu" lid="Id3">A.C. Chievo Verona taldearen jokalekua Stadio Marc'Antonio Bentegodi da, eta Serie A-n jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">O AC Chievo Verona xoga na Serie A e o seu estadio é o Stadio Marc'Antonio Bentegodi.</lex>
+      <lex lang="gl" lid="Id2">O campo de xogo do A.C. Chievo Verona é o Stadio Marc'Antonio Bentegodi e o club está na liga, Serie A.</lex>
+      <lex lang="gl" lid="Id3">O estadio do A.C. Chievo Verona é o Stadio Marc'Antonio Bentegodi, que xoga na Serie A.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Associazione_Calcio_Lumezzane | Suelo | Italia</striple>
+        <striple>Italia | Líder | Pietro_Grasso</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AC_Lumezzane | Terra | Itàlia</ctriple>
+        <ctriple>Itàlia | Líder | Pietro_Grasso</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.C._Lumezzane | Terra | Italia</gtriple>
+        <gtriple>Italia | Líder | Pietro_Grasso</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.C._Lumezzane | Lurra | Italia</btriple>
+        <btriple>Italia | Buruzagia. | Pietro_Grasso</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A.C. Lumezzane's ground is in Italy where the leader is Pietro Grasso.</lex>
+      <lex lang="en" lid="Id2">A.C. Lumezzane play in Italy where the leader is Pietro Grasso.</lex>
+      <lex lang="en" lid="Id3">A.C. Lumezzane play in Italy, where the leader is Pietro Grasso.</lex>
+      <lex lang="es" lid="Id1">El terreno del A.C. Lumezzane está en Italia, donde el líder es Pietro Grasso.</lex>
+      <lex lang="es" lid="Id2">El A.C. Lumezzane juega en Italia donde el líder es Pietro Grasso.</lex>
+      <lex lang="es" lid="Id3">El A.C. Lumezzane juega en Italia, donde el dirigente es Pietro Grasso.</lex>
+      <lex lang="ca" lid="Id1">El camp de l'A.C. Lumezzane és a Itàlia, on el líder és Pietro Grasso.</lex>
+      <lex lang="ca" lid="Id2">A.C. Lumezzane juga a Itàlia, on el líder és Pietro Grasso.</lex>
+      <lex lang="ca" lid="Id3">A.C. Lumezzane juga a Itàlia, on el líder és Pietro Grasso.</lex>
+      <lex lang="eu" lid="Id1">A.C. Lumezzanen lurra Italian dago, eta liderra Pietro Grasso da.</lex>
+      <lex lang="eu" lid="Id2">A.C. Lumezzanek Italian jokatzen du eta liderra Pietro Grasso da.</lex>
+      <lex lang="eu" lid="Id3">A.C. Lumezzanek Italian jokatzen du, eta liderra Pietro Grasso da.</lex>
+      <lex lang="gl" lid="Id1">O campo de A.C. Lumezzane está en Italia onde o líder é Pietro Grasso.</lex>
+      <lex lang="gl" lid="Id2">A.C. Lumezzane xoga en Italia, onde o líder é Pietro Grasso.</lex>
+      <lex lang="gl" lid="Id3">A.C. Lumezzane xoga en Italia, onde o líder é Pietro Grasso.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._FAS</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asociación_Deportiva_Isidro_Metapán | Director | Jorge_Humberto_Rodríguez</striple>
+        <striple>Jorge_Humberto_Rodríguez | Club | Club_Deportivo_FAS</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AD_Isidro_Metapán | Gerent | Jorge_Humberto_Rodríguez</ctriple>
+        <ctriple>Jorge_Humberto_Rodríguez | Trèvols | CD_FAS</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.D._Isidro_Metapán | Xestor | Jorge_Humberto_Rodríguez</gtriple>
+        <gtriple>Jorge_Humberto_Rodríguez | Trevos | C.D._FAS</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.D._Isidro_Metapán | Kudeatzailea | Jorge_Humberto_Rodríguez</btriple>
+        <btriple>Jorge_Humberto_Rodríguez | Klub | C.D._FAS</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he played for the C.D. FAS.</lex>
+      <lex lang="en" lid="Id2">Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He is in the C.D. FAS.</lex>
+      <lex lang="en" lid="Id3">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for C.D. FAS.</lex>
+      <lex lang="es" lid="Id1">Jorge Humberto Rodríguez dirige el A.D. Isidro Metapán. Jugó en el C.D. FAS.</lex>
+      <lex lang="es" lid="Id2">Jorge Humberto Rodríguez dirige la A.D. Isidro Metapán. Se encuentra en la C.D. FAS.</lex>
+      <lex lang="es" lid="Id3">Jorge Humberto Rodríguez dirige al A.D. Isidro Metapán y juega en el C.D. FAS.</lex>
+      <lex lang="ca" lid="Id1">Jorge Humberto Rodríguez dirigeix l'A.D. Isidro Metapan, va jugar pel C.D. FAS.</lex>
+      <lex lang="ca" lid="Id2">Jorge Humberto Rodríguez dirigeix l'A.D. Isidro Metapan. Està al C.D. FAS.</lex>
+      <lex lang="ca" lid="Id3">Jorge Humberto Rodríguez dirigeix l'A.D. Isidro Metapan i juga pel C.D. FAS.</lex>
+      <lex lang="eu" lid="Id1">Jorge Humberto Rodríguez da zuzendaria. Isidro Metapan, C.D. FASen jokatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Jorge Humberto Rodriguez-ek A.D. Isidro Metapan-a zuzentzen du. C.D. FAS-en dago.</lex>
+      <lex lang="eu" lid="Id3">Jorge Humberto Rodríguez-ek A.D. Isidro Metapan-a zuzentzen du eta C.D. FAS-en jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">Jorge Humberto Rodríguez dirixe o A.D. Isidro Metapan e xogou para o C.D. FAS.</lex>
+      <lex lang="gl" lid="Id2">Jorge Humberto Rodríguez dirixe o A.D. Isidro Metapan. Está no C.D. FAS.</lex>
+      <lex lang="gl" lid="Id3">Jorge Humberto Rodríguez dirixe o A.D. Isidro Metapan e xoga para o C.D. FAS.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.E_Dimitra_Efxeinoupolis | NúmeroDeMiembros | 1500</striple>
+        <striple>A.E_Dimitra_Efxeinoupolis | Liga | A_EPSTH_2º_GRUPO</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.E._Dimitra_Efxeinoupolis | NombreDeMembres | 1500</ctriple>
+        <ctriple>A.E._Dimitra_Efxeinoupolis | Lliga | Un_EPSTH_2è_GRUP</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.E._Dimitra_Efxeinoupolis | NúmeroDeMembros | 1500</gtriple>
+        <gtriple>A.E._Dimitra_Efxeinoupolis | LigaunitDescriptionInLists | Un_EPSTH_2o_GROUP</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.E._Dimitra_Efxeinoupolis | DiputatuenKopurua | 1500</btriple>
+        <btriple>A.E._Dimitra_Efxeinoupolis | LigaBatDa. | EPSTH_2._taldea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A.E. Dimitra Efxeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
+      <lex lang="en" lid="Id2">With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP.</lex>
+      <lex lang="es" lid="Id1">A.E. Dimitra Efxeinoupolis tiene 1500 socios y está en la liga EPSTH 2nd GROUP.</lex>
+      <lex lang="es" lid="Id2">Con 1500 miembros, el A.E Dimitra Efxeinoupolis juega en el 2º GRUPO A EPSTH.</lex>
+      <lex lang="ca" lid="Id1">A.E. Dimitra Efxeinoupolis té 1500 membres i està a la lliga EPSTH 2nd GROUP.</lex>
+      <lex lang="ca" lid="Id2">Amb 1500 membres, A.E Dimitra Efxeinoupolis, juguen en el 2n GRUP A EPSTH.</lex>
+      <lex lang="eu" lid="Id1">A.E. Dimitra Efxeinoupolis-ek 1500 kide ditu eta EPSTH 2. TALDEKO ligan dago.</lex>
+      <lex lang="eu" lid="Id2">1500 kide dituen A.E. Dimitra Efxeinoupolis taldeak A EPSTH 2. taldean jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">A.E. Dimitra Efxeinoupolis ten 1500 membros e está na liga EPSTH 2nd GROUP.</lex>
+      <lex lang="gl" lid="Id2">Con 1500 membros, A.E Dimitra Efxeinoupolis xoga no 2º grupo da A EPSTH.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Runcorn_F.C._Halton</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+        <striple>Stuart_Parker_(futbolista) | Club | Runcorn_F.C._Halton</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.F.C._Blackpool | Gerent | Stuart_Parker_(futbolista)</ctriple>
+        <ctriple>Stuart_Parker_(futbolista) | Trèvols | Runcorn_F.C._Halton_(anglès)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.F.C._Blackpool | Xestor | Stuart_Parker_(futbolista)_(en_inglés).</gtriple>
+        <gtriple>Stuart_Parker_(futbolista)_(en_inglés). | Trevos | Runcorn_F.C._Halton_(en_inglés).</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.F.C._Blackpool_futbol_taldearen_webgunea_(Ingelesez) | Kudeatzailea | Stuart_Parker_(futbolaria)</btriple>
+        <btriple>Stuart_Parker_(futbolaria) | Klub | Runcorn_F.C._futbol_taldearen_webgunea_(Ingelesez)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Runcorn F.C. Halton.</lex>
+      <lex lang="en" lid="Id2">AFC Blackpool have had Stuart Parker as their manager who was a football player for Runcorn FC Halton.</lex>
+      <lex lang="en" lid="Id3">The manager of A.F.C. Blackpool is Stuart Parker (footballer), he played for Runcorn FC Halton.</lex>
+      <lex lang="es" lid="Id1">El entrenador del A.F.C. Blackpool es Stuart Parker (futbolista) que juega en el Runcorn F.C. Halton.</lex>
+      <lex lang="es" lid="Id2">El AFC Blackpool ha tenido como entrenador a Stuart Parker, que fue futbolista del Runcorn FC Halton.</lex>
+      <lex lang="es" lid="Id3">El entrenador del A.F.C. Blackpool es Stuart Parker (futbolista), jugó en el Runcorn FC Halton.</lex>
+      <lex lang="ca" lid="Id1">L'entrenador de l'A.F.C. Blackpool és Stuart Parker (futbolista) que juga per Runcorn F.C. Halton.</lex>
+      <lex lang="ca" lid="Id2">L'AFC Blackpool ha tingut Stuart Parker com a entrenador que va ser jugador de futbol per Runcorn FC Halton.</lex>
+      <lex lang="ca" lid="Id3">L'entrenador de l'A.F.C. Blackpool és Stuart Parker (futbolista), va jugar per Runcorn FC Halton.</lex>
+      <lex lang="eu" lid="Id1">A.F.C. Blackpoolen zuzendaria Stuart Parker da, Runcorn F.C. Halton taldean jokatzen duena.</lex>
+      <lex lang="eu" lid="Id2">AFC Blackpoolen managerra Stuart Parker izan zen, Runcorn FC Haltonen jokalari izan zena.</lex>
+      <lex lang="eu" lid="Id3">A.F.C. Blackpoolen entrenatzailea Stuart Parker da (futbollaria), Runcorn FC Haltonen jokatu zuen.</lex>
+      <lex lang="gl" lid="Id1">O adestrador do A.F.C. Blackpool é Stuart Parker (futbolista) que xoga para o Runcorn F.C. Halton.</lex>
+      <lex lang="gl" lid="Id2">O AFC Blackpool tiña como xestor a Stuart Parker, que foi xogador de fútbol do Runcorn FC Halton.</lex>
+      <lex lang="gl" lid="Id3">O director do A.F.C. Blackpool é Stuart Parker (futbolista), que xogou para o Runcorn FC Halton.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Sparta_Rotterdam</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Sparta_Rotterdam</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+        <striple>Stuart_Parker_(futbolista) | Club | Sparta_Rotterdam</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.F.C._Blackpool | Gerent | Stuart_Parker_(futbolista)</ctriple>
+        <ctriple>Stuart_Parker_(futbolista) | Trèvols | Sparta_Rotterdam</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.F.C._Blackpool | Xestor | Stuart_Parker_(futbolista)_(en_inglés).</gtriple>
+        <gtriple>Stuart_Parker_(futbolista)_(en_inglés). | Trevos | Sparta_Rotterdam</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.F.C._Blackpool_futbol_taldearen_webgunea_(Ingelesez) | Kudeatzailea | Stuart_Parker_(futbolaria)</btriple>
+        <btriple>Stuart_Parker_(futbolaria) | Klub | Sparta_Rotterdam</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The manager of A.F.C. Blackpool is Stuart Parker (footballer), who plays at the Sparta Rotterdam club.</lex>
+      <lex lang="en" lid="Id2">Stuart Parker, who plays at the Sparta Rotterdam Club, has also managed AFC Blackpool.</lex>
+      <lex lang="en" lid="Id3">AFC Blackpool have had the manager Stuart Parker who currently plays for Sparta Rotterdam.</lex>
+      <lex lang="es" lid="Id1">El entrenador del A.F.C. Blackpool es Stuart Parker (futbolista), que juega en el club Sparta Rotterdam.</lex>
+      <lex lang="es" lid="Id2">Stuart Parker, que juega en el club Sparta de Rotterdam, también ha dirigido al AFC Blackpool.</lex>
+      <lex lang="es" lid="Id3">El AFC Blackpool ha tenido como entrenador a Stuart Parker, que actualmente juega en el Sparta de Rotterdam.</lex>
+      <lex lang="ca" lid="Id1">L'entrenador de l'AFC Blackpool és Stuart Parker (futbolista), que juga al club Sparta Rotterdam.</lex>
+      <lex lang="ca" lid="Id2">Stuart Parker, que juga al Sparta Rotterdam Club, també ha entrenat l'AFC Blackpool.</lex>
+      <lex lang="ca" lid="Id3">L'AFC Blackpool ha tingut l'entrenador Stuart Parker que actualment juga per Sparta Rotterdam.</lex>
+      <lex lang="eu" lid="Id1">A.F.C. Blackpoolen entrenatzailea Stuart Parker da (futbollaria), Sparta Rotterdam klubean jokatzen duena.</lex>
+      <lex lang="eu" lid="Id2">Stuart Parker, Sparta Rotterdam klubean jokatzen duena, AFC Blackpoolen entrenatzailea ere izan da.</lex>
+      <lex lang="eu" lid="Id3">AFC Blackpoolen entrenatzailea Stuart Parker da, gaur egun Sparta Rotterdamen jokatzen duena.</lex>
+      <lex lang="gl" lid="Id1">O adestrador do A.F.C. Blackpool é Stuart Parker (futbolista), que xoga no club Sparta Rotterdam.</lex>
+      <lex lang="gl" lid="Id2">Stuart Parker, que xoga no Sparta Rotterdam Club, tamén dirixiu o AFC Blackpool.</lex>
+      <lex lang="gl" lid="Id3">O AFC Blackpool ten o adestrador Stuart Parker que actualmente xoga para o Sparta Rotterdam.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | The_Fylde</otriple>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | The_Fylde</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.F.C._Fylde | Suelo | Fylde</striple>
+        <striple>A.F.C._Fylde | NúmeroDeMiembros | 3180</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.F.C._Fylde | Terra | El_Fylde</ctriple>
+        <ctriple>A.F.C._Fylde | NombreDeMembres | 3180</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.F.C._Fylde_(en_inglés). | Terra | The_Fylde</gtriple>
+        <gtriple>A.F.C._Fylde_(en_inglés). | NúmeroDeMembros | 3180</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez | Lurra | Fylde_eskualdea.</btriple>
+        <btriple>(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez | DiputatuenKopurua | 3180</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AFC Fylde has the home ground called The Fylde and has 3180 members.</lex>
+      <lex lang="en" lid="Id2">AFC Fylde has the home ground called The Fylde, which holds 3180 fans.</lex>
+      <lex lang="en" lid="Id3">The Fylde, (capacity 3180) is the home ground of AFC Fylde.</lex>
+      <lex lang="es" lid="Id1">AFC Fylde tiene el estadio llamado The Fylde y cuenta con 3180 socios.</lex>
+      <lex lang="es" lid="Id2">El AFC Fylde tiene el estadio llamado The Fylde, con capacidad para 3180 aficionados.</lex>
+      <lex lang="es" lid="Id3">El Fylde, con capacidad para 3180 espectadores, es el estadio del AFC Fylde.</lex>
+      <lex lang="ca" lid="Id1">L'AFC Fylde té el seu terreny local anomenat The Fylde i té 3180 membres.</lex>
+      <lex lang="ca" lid="Id2">L'AFC Fylde té el seu terreny local anomenat The Fylde, que té una capacitat de 3.180 aficionats.</lex>
+      <lex lang="ca" lid="Id3">El Fylde, (capacitat 3180) és el camp de l'AFC Fylde.</lex>
+      <lex lang="eu" lid="Id1">AFC Fylde-k The Fylde izeneko etxeko zelaia dauka eta 3180 kide ditu.</lex>
+      <lex lang="eu" lid="Id2">AFC Fylde-k The Fylde izeneko etxeko zelaia du, 3180 zale hartzen dituena.</lex>
+      <lex lang="eu" lid="Id3">Fylde estadioa (3.180 lagunentzako edukiera) AFC Fylde taldearen jokalekua da.</lex>
+      <lex lang="gl" lid="Id1">A AFC Fylde ten o campo de casa chamado The Fylde e ten 3180 membros.</lex>
+      <lex lang="gl" lid="Id2">O AFC Fylde ten o seu campo chamado The Fylde, que ten capacidade para 3.180 afeccionados.</lex>
+      <lex lang="gl" lid="Id3">O Fylde, (capacidade 3180) é o estadio do AFC Fylde.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | ground | "Bryning Lane"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | ground | "Bryning Lane"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.F.C._Fylde | NúmeroDeMiembros | 3180</striple>
+        <striple>A.F.C._Fylde | Suelo | Bryning_Lane</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.F.C._Fylde | NombreDeMembres | 3180</ctriple>
+        <ctriple>A.F.C._Fylde | Terra | Bryning_Lane</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.F.C._Fylde_(en_inglés). | NúmeroDeMembros | 3180</gtriple>
+        <gtriple>A.F.C._Fylde_(en_inglés). | Terra | Bryning_Lane</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez | DiputatuenKopurua | 3180</btriple>
+        <btriple>(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Gaztelaniaz)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez)(Ingelesez)(Frantsesez | Lurra | Bryning_kalea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A.F.C. Fylde has 3180 members and are based at Bryning Lane.</lex>
+      <lex lang="en" lid="Id2">AFC Fylde has 3180 members and are based at Bryning Lane.</lex>
+      <lex lang="en" lid="Id3">A.F.C. Fylde are based at Bryning Lane and they have 3180 members.</lex>
+      <lex lang="es" lid="Id1">A.F.C. Fylde tiene 3180 miembros y su sede está en Bryning Lane.</lex>
+      <lex lang="es" lid="Id2">El AFC Fylde cuenta con 3180 socios y tiene su sede en Bryning Lane.</lex>
+      <lex lang="es" lid="Id3">A.F.C. Fylde tiene su sede en Bryning Lane y cuenta con 3180 socios.</lex>
+      <lex lang="ca" lid="Id1">A.F.C. Fylde té 3.180 membres i està basat a Bryning Lane.</lex>
+      <lex lang="ca" lid="Id2">L'AFC Fylde té 3.180 membres i es troba a Bryning Lane.</lex>
+      <lex lang="ca" lid="Id3">L'A.F.C. Fylde té la seu a Bryning Lane i té 3.180 membres.</lex>
+      <lex lang="eu" lid="Id1">A.F.C. Fylde-k 3.180 kide ditu eta Bryning Lane-n daude.</lex>
+      <lex lang="eu" lid="Id2">AFC Fylde-k 3.180 kide ditu eta Bryning Lane-n daude.</lex>
+      <lex lang="eu" lid="Id3">A.F.C. Fylde Bryning Lanean dago eta 3.180 kide ditu.</lex>
+      <lex lang="gl" lid="Id1">A.F.C. Fylde ten 3180 membros e está baseado en Bryning Lane.</lex>
+      <lex lang="gl" lid="Id2">A AFC Fylde ten 3180 membros e ten a súa sede en Bryning Lane.</lex>
+      <lex lang="gl" lid="Id3">A A.F.C. Fylde ten sede en Bryning Lane e ten 3180 membros.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | manager | Christian_Panucci</otriple>
+        <otriple>Christian_Panucci | team | Italy_national_football_team</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | manager | Christian_Panucci</mtriple>
+        <mtriple>Christian_Panucci | club | Italy_national_football_team</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.S._Livorno_Calcio | Director | Christian_Panucci</striple>
+        <striple>Christian_Panucci | Club | Selección_de_fútbol_de_Italia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.S._Livorno_Calcio | Gerent | Christian_Panucci</ctriple>
+        <ctriple>Christian_Panucci | Trèvols | Selecció_de_futbol_d'Itàlia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.S._Livorno_Calcio | Xestor | Christian_Panucci</gtriple>
+        <gtriple>Christian_Panucci | Trevos | Selección_de_fútbol_de_Italia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.S._Livorno_Calcio | Kudeatzailea | Christian_Panucci-k_egin_zuen.</btriple>
+        <btriple>Christian_Panucci-k_egin_zuen. | Klub | Italiako_futbol_selekzioa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team.</lex>
+      <lex lang="en" lid="Id2">A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team.</lex>
+      <lex lang="en" lid="Id3">A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team.</lex>
+      <lex lang="es" lid="Id1">El A.S. Livorno Calcio está dirigido por Christian Panucci, que juega en la selección italiana de fútbol.</lex>
+      <lex lang="es" lid="Id2">El A.S. Livorno Calcio está dirigido por Christian Panucci, que jugó en la selección italiana de fútbol.</lex>
+      <lex lang="es" lid="Id3">El A.S. Livorno Calcio está dirigido por Christian Panucci, que anteriormente jugó en la selección italiana de fútbol.</lex>
+      <lex lang="ca" lid="Id1">L'AS Livorno Calcio és dirigit per Christian Panucci que juga per a la selecció nacional de futbol d'Itàlia.</lex>
+      <lex lang="ca" lid="Id2">L'AS Livorno Calcio és dirigit per Christian Panucci que va jugar per a la selecció nacional de futbol d'Itàlia.</lex>
+      <lex lang="ca" lid="Id3">L'A.S. Livorno Calcio està dirigit per Christian Panucci, que anteriorment havia jugat amb la selecció nacional italiana.</lex>
+      <lex lang="eu" lid="Id1">A.S. Livorno Calcio-aren entrenatzailea Christian Panucci da, Italiako futbol-talde nazionaleko jokalaria.</lex>
+      <lex lang="eu" lid="Id2">A.S. Livorno Calcio-a Christian Panucci-k kudeatzen du, zeinak Italiako futbol-talde nazionalean jokatu baitzuen.</lex>
+      <lex lang="eu" lid="Id3">A.S. Livorno Calcio-ko zuzendaria Christian Panucci da, Italiako futbol-talde nazionaleko jokalari ohia.</lex>
+      <lex lang="gl" lid="Id1">A.S. Livorno Calcio é dirixido por Christian Panucci que xoga para a selección de fútbol de Italia.</lex>
+      <lex lang="gl" lid="Id2">O A.S. Livorno Calcio é xestionado por Christian Panucci, que xogou para a selección nacional de fútbol de Italia.</lex>
+      <lex lang="gl" lid="Id3">O A.S. Livorno Calcio está dirixido por Christian Panucci que anteriormente xogou para a selección italiana de fútbol.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.S._Roma | ground | "Rome, Italy"@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A.S._Roma | Suelo | Roma_(Italia)</striple>
+        <striple>A.S._Roma | Liga | Serie_A</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>A.S._Roma | Terra | Roma,_Itàlia</ctriple>
+        <ctriple>A.S._Roma | Lliga | Lliga_italiana_de_futbol</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>A.S._Roma | Terra | Roma,_Italia</gtriple>
+        <gtriple>A.S._Roma | LigaunitDescriptionInLists | Serie_A</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>A.S._Erromatarra | Lurra | Erroma,_Italia</btriple>
+        <btriple>A.S._Erromatarra | LigaBatDa. | Serie_A</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Grounds being in Rome, Italy, A.S. Roma to play in Serie A.</lex>
+      <lex lang="en" lid="Id2">A.S. Roma play in the Serie A league and their ground is in Rome, Italy.</lex>
+      <lex lang="en" lid="Id3">A.S. Roma's ground is in Rome, Italy and they play in Serie A.</lex>
+      <lex lang="es" lid="Id1">Con base en Roma, Italia, el A.S. Roma jugará en la Serie A.</lex>
+      <lex lang="es" lid="Id2">El A.S. Roma juega en la liga Serie A y su estadio está en Roma, Italia.</lex>
+      <lex lang="es" lid="Id3">El estadio del A.S. Roma está en Roma, Italia, y juega en la Serie A.</lex>
+      <lex lang="ca" lid="Id1">Terreny de joc a Roma, Itàlia, A.S. Roma jugant a la Serie A.</lex>
+      <lex lang="ca" lid="Id2">L'AS Roma juga a la lliga Serie A i el seu estadi és a Roma, Itàlia.</lex>
+      <lex lang="ca" lid="Id3">El camp de l'A.S. Roma és a Roma, Itàlia, i juguen a la Serie A.</lex>
+      <lex lang="eu" lid="Id1">A.S. Roma taldearen zelaia, Erroman (Italia), Serie A-n jokatzeko.</lex>
+      <lex lang="eu" lid="Id2">A.S. Romak Serie A ligan jokatzen du eta bere zelaia Erroman dago, Italian.</lex>
+      <lex lang="eu" lid="Id3">A.S. Roma-ren zelaia Erroman dago, Italian, eta Serie A-n jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">En Roma, Italia, o A.S. Roma xoga na Serie A.</lex>
+      <lex lang="gl" lid="Id2">O A.S. Roma xoga na Serie A e o seu campo está en Roma, Italia.</lex>
+      <lex lang="gl" lid="Id3">O campo do A.S. Roma está en Roma, Italia e xoga na Serie A.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | league | Serie_A</otriple>
+        <otriple>Serie_A | country | Italy</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | league | Serie_A</mtriple>
+        <mtriple>Serie_A | country | Italy</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ACF_Fiorentina | Liga | Serie_A</striple>
+        <striple>Serie_A | País | Italia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>ACF_Fiorentina | Lliga | Lliga_italiana_de_futbol</ctriple>
+        <ctriple>Lliga_italiana_de_futbol | País | Itàlia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>ACF_Fiorentina | LigaunitDescriptionInLists | Serie_A</gtriple>
+        <gtriple>Serie_A | País | Italia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>ACF_Fiorentina | LigaBatDa. | Serie_A</btriple>
+        <btriple>Serie_A | Herrialdea | Italia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">ACF Fiorentina play in Serie A which is based in Italy.</lex>
+      <lex lang="en" lid="Id2">ACF Fiorentina play in Serie A based in Italy.</lex>
+      <lex lang="es" lid="Id1">El ACF Fiorentina juega en la Serie A en Italia.</lex>
+      <lex lang="es" lid="Id2">El ACF Fiorentina juega en la Serie A Italiana.</lex>
+      <lex lang="ca" lid="Id1">L'ACF Fiorentina juga a la Serie A, amb seu a Itàlia.</lex>
+      <lex lang="ca" lid="Id2">L'ACF Fiorentina juga a la Serie A amb seu a Itàlia.</lex>
+      <lex lang="eu" lid="Id1">ACF Fiorentina Italiako Serie An jokatzen du.</lex>
+      <lex lang="eu" lid="Id2">ACF Fiorentina Italiako Serie An jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">O ACF Fiorentina xoga na Serie A, que ten a súa sede en Italia.</lex>
+      <lex lang="gl" lid="Id2">O ACF Fiorentina xoga na Serie A con sede en Italia.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax | manager | Frank_de_Boer</otriple>
+        <otriple>Frank_de_Boer | team | Ajax_Youth_Academy</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | manager | Frank_de_Boer</mtriple>
+        <mtriple>Frank_de_Boer | club | Ajax_Youth_Academy</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ajax_de_Ámsterdam | Director | Frank_de_Boer</striple>
+        <striple>Frank_de_Boer | Club | Academia_Juvenil_del_Ajax</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AFC_Ajax | Gerent | Frank_de_Boer</ctriple>
+        <ctriple>Frank_de_Boer | Trèvols | Ajax_Youth_Academy</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AFC_Ajax_(en_inglés). | Xestor | Frank_de_Boer</gtriple>
+        <gtriple>Frank_de_Boer | Trevos | Ajax_Youth_Academy</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AFC_Ajax_taldea | Kudeatzailea | Frank_de_Boer</btriple>
+        <btriple>Frank_de_Boer | Klub | Ajax_Youth_Academy</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy.</lex>
+      <lex lang="en" lid="Id2">AFC Ajax's manager is Frank de Boer, who played for the Ajax Youth Academy.</lex>
+      <lex lang="en" lid="Id3">Frank de Boer is in the Ajax Youth Academy and manages AFC Ajax.</lex>
+      <lex lang="es" lid="Id1">El entrenador del AFC Ajax es Frank de Boer, que está en la Academia Juvenil del Ajax.</lex>
+      <lex lang="es" lid="Id2">El entrenador del AFC Ajax es Frank de Boer, que jugó en la Academia Juvenil del Ajax.</lex>
+      <lex lang="es" lid="Id3">Frank de Boer está en la Academia Juvenil del Ajax y dirige al AFC Ajax.</lex>
+      <lex lang="ca" lid="Id1">L'entrenador de l'AFC Ajax és Frank de Boer que està a l'Acadèmia Juvenil de l'Ajax.</lex>
+      <lex lang="ca" lid="Id2">L'entrenador de l'AFC Ajax és Frank de Boer, que va jugar a l'Acadèmia Juvenil de l'Ajax.</lex>
+      <lex lang="ca" lid="Id3">Frank de Boer està a l'Acadèmia Juvenil d'Ajax i dirigeix l'AFC Ajax.</lex>
+      <lex lang="eu" lid="Id1">AFC Ajax-eko entrenatzailea Frank de Boer da, Ajax Youth Academy-ko jokalaria.</lex>
+      <lex lang="eu" lid="Id2">AFC Ajaxen entrenatzailea Frank de Boer da, Ajaxeko Gazte Akademian jokatu zuena.</lex>
+      <lex lang="eu" lid="Id3">Frank de Boer Ajax-eko Gazteen Akademian dago eta AFC Ajax-en entrenatzailea da.</lex>
+      <lex lang="gl" lid="Id1">O adestrador do AFC Ajax é Frank de Boer, que está na Academia Xuvenil do Ajax.</lex>
+      <lex lang="gl" lid="Id2">O adestrador do AFC Ajax é Frank de Boer, que xogou para a Academia Xuvenil do Ajax.</lex>
+      <lex lang="gl" lid="Id3">Frank de Boer está na Academia Xuvenil do Ajax e dirixe o AFC Ajax.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | "AFC Ajax NV"@en</otriple>
+        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>AFC_Ajax | capacity | 53502</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | owner | AFC_Ajax_N.V.</mtriple>
+        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ajax_de_Ámsterdam | Propietario | AFC_Ajax_N.V.</striple>
+        <striple>Ajax_de_Ámsterdam | NúmeroDeMiembros | 53502</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AFC_Ajax | Propietari | AFC_Ajax_N.V.</ctriple>
+        <ctriple>AFC_Ajax | NombreDeMembres | 53502</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AFC_Ajax_(en_inglés). | Propietario | AFC_Ajax_(en_inglés).</gtriple>
+        <gtriple>AFC_Ajax_(en_inglés). | NúmeroDeMembros | 53502</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AFC_Ajax_taldea | Jabea. | AFC_Ajax_N.V._futbol_taldearen_webgunea_(Nederlanderaz)</btriple>
+        <btriple>AFC_Ajax_taldea | DiputatuenKopurua | 53502</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AFC Ajax has 53502 members and is the owner of AFC Ajax NV.</lex>
+      <lex lang="en" lid="Id2">AFC Ajax has 53502 members and is owned by AFC Ajax NV.</lex>
+      <lex lang="en" lid="Id3">AFC Ajax has 53502 members and is owned by AFC Ajax N.V.</lex>
+      <lex lang="es" lid="Id1">AFC Ajax tiene 53502 miembros y es el propietario de AFC Ajax NV.</lex>
+      <lex lang="es" lid="Id2">AFC Ajax tiene 53502 miembros y es propiedad de AFC Ajax NV.</lex>
+      <lex lang="es" lid="Id3">AFC Ajax tiene 53502 miembros y es propiedad de AFC Ajax N.V.</lex>
+      <lex lang="ca" lid="Id1">L'AFC Ajax té 53.502 membres i és propietari de l'AFC Ajax NV.</lex>
+      <lex lang="ca" lid="Id2">L'AFC Ajax té 53.502 membres i és propietat de l'AFC Ajax NV.</lex>
+      <lex lang="ca" lid="Id3">L'AFC Ajax té 53.502 membres i és propietat de l'AFC Ajax N.V.</lex>
+      <lex lang="eu" lid="Id1">AFC Ajax-ek 53.502 kide ditu eta AFC Ajax NV-ren jabea da.</lex>
+      <lex lang="eu" lid="Id2">AFC Ajax-ek 53502 bazkide ditu eta AFC Ajax NV-ren jabetza da.</lex>
+      <lex lang="eu" lid="Id3">AFC Ajax-ek 53502 bazkide ditu eta AFC Ajax NV-ren jabetza da.</lex>
+      <lex lang="gl" lid="Id1">O AFC Ajax ten 53502 membros e é o propietario do AFC Ajax NV.</lex>
+      <lex lang="gl" lid="Id2">O AFC Ajax ten 53502 membros e é propiedade do AFC Ajax NV.</lex>
+      <lex lang="gl" lid="Id3">O AFC Ajax ten 53502 membros e é propiedade do AFC Ajax N.V.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Amsterdam</mtriple>
+        <mtriple>Amsterdam | leader | Eberhard_van_der_Laan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AFC_Ajax_(aficionados) | Suelo | Ámsterdam</striple>
+        <striple>Ámsterdam | Líder | Eberhard_van_der_Laan</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AFC_Ajax_(amateurs) | Terra | Amsterdam</ctriple>
+        <ctriple>Amsterdam | Líder | Eberhard_van_der_Laan</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AFC_Ajax_(amateurs) | Terra | Amsterdam</gtriple>
+        <gtriple>Amsterdam | Líder | Eberhard_van_der_Laan</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AFC_Ajax_(amateurrak) | Lurra | Amsterdam</btriple>
+        <btriple>Amsterdam | Buruzagia. | Eberhard_van_der_Laan</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan.</lex>
+      <lex lang="en" lid="Id2">The ground of AFC Ajax (amateurs) can be found in Amsterdam where Eberhard van der Laan is a leader.</lex>
+      <lex lang="en" lid="Id3">AFC Ajax is based in Amsterdam where Eberhard van der Laan is a leader.</lex>
+      <lex lang="es" lid="Id1">El AFC Ajax tiene su sede en Ámsterdam, donde el dirigente es Eberhard van der Laan.</lex>
+      <lex lang="es" lid="Id2">El campo del AFC Ajax (amateurs) se encuentra en Ámsterdam, donde Eberhard van der Laan es líder.</lex>
+      <lex lang="es" lid="Id3">El AFC Ajax tiene su sede en Ámsterdam, donde dirige Eberhard van der Laan.</lex>
+      <lex lang="ca" lid="Id1">L'AFC Ajax té la seva seu a Amsterdam, on el líder és Eberhard van der Laan.</lex>
+      <lex lang="ca" lid="Id2">El terreny de l'AFC Ajax (aficionats) es pot trobar a Amsterdam on Eberhard van der Laan és un líder.</lex>
+      <lex lang="ca" lid="Id3">L'AFC Ajax té la seva seu a Amsterdam on Eberhard van der Laan és un líder.</lex>
+      <lex lang="eu" lid="Id1">AFC Ajax Amsterdam-en dago, eta Eberhard van der Laan da taldearen burua.</lex>
+      <lex lang="eu" lid="Id2">AFC Ajaxen (amateurrak) zelaia Amsterdamen dago, non Eberhard van der Laan liderra den.</lex>
+      <lex lang="eu" lid="Id3">AFC Ajax Amsterdam-en dago, eta Eberhard van der Laan da bertako burua.</lex>
+      <lex lang="gl" lid="Id1">O AFC Ajax ten a súa sede en Ámsterdan onde o líder é Eberhard van der Laan.</lex>
+      <lex lang="gl" lid="Id2">O campo do AFC Ajax (aficionados) pódese atopar en Ámsterdan onde Eberhard van der Laan é un líder.</lex>
+      <lex lang="gl" lid="Id3">O AFC Ajax ten a súa sede en Ámsterdam, onde Eberhard van der Laan é o líder.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | 5000</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AFC_Ajax_(aficionados) | Temporada | 2014-15_Topklasse</striple>
+        <striple>AFC_Ajax_(aficionados) | NúmeroDeMiembros | 5000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AFC_Ajax_(amateurs) | Temporada | 2014-15_Segona_Divisió.</ctriple>
+        <ctriple>AFC_Ajax_(amateurs) | NombreDeMembres | 5000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AFC_Ajax_(amateurs) | Temporada | 2014-15_Segunda_División.</gtriple>
+        <gtriple>AFC_Ajax_(amateurs) | NúmeroDeMembros | 5000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AFC_Ajax_(amateurrak) | Denboraldia | 201415_Topklasse_taldea</btriple>
+        <btriple>AFC_Ajax_(amateurrak) | DiputatuenKopurua | 5000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.</lex>
+      <lex lang="en" lid="Id2">AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.</lex>
+      <lex lang="en" lid="Id3">AFC Ajax (amateurs) played in the 2014-15 Topklasse season and their home ground has a capacity for 5000 fans.</lex>
+      <lex lang="es" lid="Id1">El AFC Ajax (aficionados), que cuenta con 5000 socios, jugó en la Topklasse en la temporada 2014-2015.</lex>
+      <lex lang="es" lid="Id2">El AFC Ajax (aficionados) tiene 5000 socios y jugó en la Topklasse en la temporada 2014-2015.</lex>
+      <lex lang="es" lid="Id3">El AFC Ajax (aficionados) jugó en la temporada 2014-15 de la Topklasse y su estadio tiene capacidad para 5000 aficionados.</lex>
+      <lex lang="ca" lid="Id1">L'AFC Ajax (aficionats), que té 5.000 membres, va jugar a la Topklasse en la temporada 2014-2015.</lex>
+      <lex lang="ca" lid="Id2">L'AFC Ajax (aficionats) té 5.000 membres i va jugar a la Topklasse durant la temporada 2014-2015.</lex>
+      <lex lang="ca" lid="Id3">L'AFC Ajax (aficionats) va jugar a la temporada 2014-15 de la Topklasse i el seu camp com a local té una capacitat per a 5.000 espectadors.</lex>
+      <lex lang="eu" lid="Id1">AFC Ajax (amateurrak), 5.000 kide dituena, Topklassen jokatu zuen 2014-2015 denboraldian.</lex>
+      <lex lang="eu" lid="Id2">AFC Ajax (amateurrak) 5.000 kide ditu eta Topklassen jokatu zuen 2014-2015 denboraldian.</lex>
+      <lex lang="eu" lid="Id3">AFC Ajax-ek (amateurrek) 2014-15eko Topklasse denboraldian jokatu zuen eta 5.000 zalerentzako tokia dauka.</lex>
+      <lex lang="gl" lid="Id1">O AFC Ajax (aficionados), que ten 5000 membros, xogou na Topklasse na tempada 2014-2015.</lex>
+      <lex lang="gl" lid="Id2">O AFC Ajax (aficionados) ten 5000 membros e xogou na Topklasse na tempada 2014-2015.</lex>
+      <lex lang="gl" lid="Id3">O AFC Ajax (aficionados) xogou na tempada 2014-15 da Topklasse e o seu campo ten unha capacidade para 5000 afeccionados.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AZAL_Arena | location | Shuvalan</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estadio_AZAL | Ubicación | Shuvalan</striple>
+        <striple>AZAL_PFK | Suelo | Estadio_AZAL</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AZAL_Arena | Ubicació | Shuvalan</ctriple>
+        <ctriple>AZAL_PFK | Terra | AZAL_Arena</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AZAL_Arena | Localización | Shuvalan</gtriple>
+        <gtriple>AZAL_PFK | Terra | AZAL_Arena</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AZAL_Arena | Lokalizazioa | Shuvalan</btriple>
+        <btriple>Azal_PFK | Lurra | AZAL_Arena</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AZAL PFK play their home matches at the AZAL Arena in Shuvalan.</lex>
+      <lex lang="en" lid="Id2">The AZAL Arena is located in Shuvalan and is the ground of AZAL PFK.</lex>
+      <lex lang="en" lid="Id3">The AZAL Arena in Shuvalan is the ground of AZAL PFK.</lex>
+      <lex lang="es" lid="Id1">El AZAL PFK juega sus partidos como local en el AZAL Arena de Shuvalan.</lex>
+      <lex lang="es" lid="Id2">El AZAL Arena está situado en Shuvalan y es el campo del AZAL PFK.</lex>
+      <lex lang="es" lid="Id3">El AZAL Arena de Shuvalan es el campo del AZAL PFK.</lex>
+      <lex lang="ca" lid="Id1">L'AZAL PFK juga els seus partits a casa a l'AZAL Arena a Shuvalan.</lex>
+      <lex lang="ca" lid="Id2">L'AZAL Arena es troba a Shuvalan i és el terreny de l'AZAL PFK.</lex>
+      <lex lang="ca" lid="Id3">L'AZAL Arena a Shuvalan és el terreny de l'AZAL PFK.</lex>
+      <lex lang="eu" lid="Id1">AZAL PFKk bere etxeko partidak Shuvalango AZAL Arenan jokatzen ditu.</lex>
+      <lex lang="eu" lid="Id2">AZAL Arena Shuvalanen dago eta AZAL PFKren zelaia da.</lex>
+      <lex lang="eu" lid="Id3">Shuvalango AZAL Arena AZAL PFKren zelaia da.</lex>
+      <lex lang="gl" lid="Id1">O AZAL PFK xoga os seus partidos na casa na AZAL Arena en Shuvalan.</lex>
+      <lex lang="gl" lid="Id2">O AZAL Arena está situado en Shuvalan e é o terreo do AZAL PFK.</lex>
+      <lex lang="gl" lid="Id3">O AZAL Arena en Shuvalan é o terreo do AZAL PFK.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | fullname | "Alkmaar Zaanstreek"@en</otriple>
+        <otriple>AZ_Alkmaar | capacity | "17023"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | fullname | "Alkmaar Zaanstreek"@en</otriple>
+        <otriple>AZ_Alkmaar | capacity | 17023</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | fullName | "Alkmaar Zaanstreek"</mtriple>
+        <mtriple>AZ_Alkmaar | numberOfMembers | 17023</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AZ_Alkmaar | NombreCompleto | Alkmaar_Zaanstreek</striple>
+        <striple>AZ_Alkmaar | NúmeroDeMiembros | 17023</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AZ_Alkmaar | NomComplet | Alkmaar_Zaanstreek</ctriple>
+        <ctriple>AZ_Alkmaar | NombreDeMembres | 17023</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>AZ_Alkmaar | NomeCompleto | Alkmaar_Zaanstreek</gtriple>
+        <gtriple>AZ_Alkmaar | NúmeroDeMembros | 17023</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>AZ_Alkmaar | IzenOsoa | Alkmaar_Zaanstreek</btriple>
+        <btriple>AZ_Alkmaar | DiputatuenKopurua | 17023</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">AZ Alkmaar's full name is Alkmaar Zaanstreek, it has 17023 members.</lex>
+      <lex lang="en" lid="Id2">AZ Alkmaar has 17023 member and their full name is "Alkmaar Zaanstreek".</lex>
+      <lex lang="en" lid="Id3">Alkmaar Zaanstreek is the full name of AZ Alkmaar which has 17023 members.</lex>
+      <lex lang="es" lid="Id1">El nombre completo de AZ Alkmaar es Alkmaar Zaanstreek. Tiene 17023 miembros.</lex>
+      <lex lang="es" lid="Id2">AZ Alkmaar tiene 17023 miembros y su nombre completo es "Alkmaar Zaanstreek".</lex>
+      <lex lang="es" lid="Id3">Alkmaar Zaanstreek es el nombre completo de AZ Alkmaar, que cuenta con 17023 afiliados.</lex>
+      <lex lang="ca" lid="Id1">El nom complet de l'AZ Alkmaar és Alkmaar Zaanstreek, té 17023 membres.</lex>
+      <lex lang="ca" lid="Id2">L'AZ Alkmaar té 17023 membres i el seu nom complet és "Alkmaar Zaanstreek".</lex>
+      <lex lang="ca" lid="Id3">Alkmaar Zaanstreek és el nom complet de l'AZ Alkmaar, que té 17.023 membres.</lex>
+      <lex lang="eu" lid="Id1">AZ Alkmaaren izen osoa Alkmaar Zaanstreek da, 17023 kide ditu.</lex>
+      <lex lang="eu" lid="Id2">AZ Alkmaar-ek 17.023 kide ditu eta haien izen osoa "Alkmaar Zaanstreek" da.</lex>
+      <lex lang="eu" lid="Id3">Alkmaar Zaanstreek AZ Alkmaar izen osoa da, 17023 kide dituena.</lex>
+      <lex lang="gl" lid="Id1">O nome completo de AZ Alkmaar é Alkmaar Zaanstreek, ten 17023 membros.</lex>
+      <lex lang="gl" lid="Id2">O AZ Alkmaar ten 17023 membros e o seu nome completo é "Alkmaar Zaanstreek".</lex>
+      <lex lang="gl" lid="Id3">Alkmaar Zaanstreek é o nome completo de AZ Alkmaar, que ten 17023 membros.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
+        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agremiação_Sportiva_Arapiraquense | Suelo | Estádio_Municipal_Coaracy_da_Mata_Fonseca</striple>
+        <striple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | Ubicación | Brasil</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AS_Arapiraquense | Terra | Estádio_Municipal_Coaracy_da_Mata_Fonseca</ctriple>
+        <ctriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | Ubicació | Brasil</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agremiação_Sportiva_Arapiraquense | Terra | Estádio_Municipal_Coaracy_da_Mata_Fonseca</gtriple>
+        <gtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | Localización | Brasil</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agremiação_Sportiva_Arapiraquense | Lurra | Estádio_Municipal_Coaracy_da_Mata_Fonseca</btriple>
+        <btriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | Lokalizazioa | Brasil</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, its located in Brazil.</lex>
+      <lex lang="en" lid="Id2">Estádio Municipal Coaracy da Mata Fonseca is located in Brazil and is the ground of Agremiação Sportiva Arapiraquense.</lex>
+      <lex lang="en" lid="Id3">Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense which is in Brazil.</lex>
+      <lex lang="es" lid="Id1">El estadio del Agremiacao Sportiva Arapiraquense es el Estadio Municipal Coaracy da Mata Fonseca, situado en Brasil.</lex>
+      <lex lang="es" lid="Id2">Estádio Municipal Coaracy da Mata Fonseca se encuentra en Brasil y es el campo de Agremiação Sportiva Arapiraquense.</lex>
+      <lex lang="es" lid="Id3">Estádio Municipal Coaracy da Mata Fonseca es el nombre del estadio de Agremiação Sportiva Arapiraquense que se encuentra en Brasil.</lex>
+      <lex lang="ca" lid="Id1">El camp de l'Agremiacao Sportiva Arapiraquense és l'Estadio Municipal Coaracy da Mata Fonseca, situat a Brasil.</lex>
+      <lex lang="ca" lid="Id2">L'Estádio Municipal Coaracy da Mata Fonseca es troba a Brasil i és el terreny de l'Agremiação Sportiva Arapiraquense.</lex>
+      <lex lang="ca" lid="Id3">Estádio Municipal Coaracy da Mata Fonseca és el nom del terreny de l'Agremiação Sportiva Arapiraquense que es troba al Brasil.</lex>
+      <lex lang="eu" lid="Id1">Agremiacao Sportiva Arapiraquensen zelaia Estadio Municipal Coaracy da Mata Fonseca da, Brasilen dagoena.</lex>
+      <lex lang="eu" lid="Id2">Estádio Municipal Coaracy da Mata Fonseca Brasilen dago eta Agremiação Sportiva Arapiraquense taldeko zelaia da.</lex>
+      <lex lang="eu" lid="Id3">Estádio Municipal Coaracy da Mata Fonseca Brasilgo Agremiação Sportiva Arapiraquense taldearen zelaia da.</lex>
+      <lex lang="gl" lid="Id1">O campo do Agremiacao Sportiva Arapiraquense é o Estadio Municipal Coaracy da Mata Fonseca, situado en Brasil.</lex>
+      <lex lang="gl" lid="Id2">O Estádio Municipal Coaracy da Mata Fonseca está situado en Brasil e é o campo do Agremiação Sportiva Arapiraquense.</lex>
+      <lex lang="gl" lid="Id3">Estádio Municipal Coaracy da Mata Fonseca é o nome do campo da Agremiação Sportiva Arapiraquense que está en Brasil.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | fullName | "Agremiação Sportiva Arapiraquense"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agremiação_Sportiva_Arapiraquense | NúmeroDeMiembros | 17000</striple>
+        <striple>Agremiação_Sportiva_Arapiraquense | NombreCompleto | Agremiação_Sportiva_Arapiraquense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>AS_Arapiraquense | NombreDeMembres | 17000</ctriple>
+        <ctriple>AS_Arapiraquense | NomComplet | AS_Arapiraquense</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agremiação_Sportiva_Arapiraquense | NúmeroDeMembros | 17000</gtriple>
+        <gtriple>Agremiação_Sportiva_Arapiraquense | NomeCompleto | Agremiação_Sportiva_Arapiraquense</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agremiação_Sportiva_Arapiraquense | DiputatuenKopurua | 17000</btriple>
+        <btriple>Agremiação_Sportiva_Arapiraquense | IzenOsoa | Agremiação_Sportiva_Arapiraquense</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agremiação Sportiva Arapiraquense (which is his full name) has a club with 17000 members.</lex>
+      <lex lang="en" lid="Id2">Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense" and they have 17000 members.</lex>
+      <lex lang="es" lid="Id1">Agremiação Sportiva Arapiraquense (que es su nombre completo) tiene un club con 17000 socios.</lex>
+      <lex lang="es" lid="Id2">El nombre completo de Agremiação Sportiva Arapiraquense es "Agremiação Sportiva Arapiraquense" y cuenta con 17000 afiliados.</lex>
+      <lex lang="ca" lid="Id1">Agremiação Sportiva Arapiraquense (que és el seu nom complet) té un club amb 17.000 membres.</lex>
+      <lex lang="ca" lid="Id2">El nom complet de l'Agremiação Sportiva Arapiraquense és "Agremiação Sportiva Arapiraquense" i té 17.000 membres.</lex>
+      <lex lang="eu" lid="Id1">Agremiação Sportiva Arapiraquense (bere izen osoa) 17.000 kide dituen klub bat da.</lex>
+      <lex lang="eu" lid="Id2">Agremiação Sportiva Arapiraquense-ren izen osoa "Agremiação Sportiva Arapiraquense" da eta 17.000 kide ditu.</lex>
+      <lex lang="gl" lid="Id1">Agremiação Sportiva Arapiraquense (que é o seu nome completo) ten un club con 17000 membros.</lex>
+      <lex lang="gl" lid="Id2">O nome completo de Agremiação Sportiva Arapiraquense é "Agremiação Sportiva Arapiraquense" e ten 17000 membros.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | Akron,_Ohio</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | Akron,_Ohio</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Akron_Summit_Assault | Suelo | Akron</striple>
+        <striple>Akron | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Akron_Summit_Assault | Terra | Akron,_Ohio</ctriple>
+        <ctriple>Akron,_Ohio | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Akron_Summit_Assault | Terra | Akron,_Ohio</gtriple>
+        <gtriple>Akron,_Ohio | País | Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Akron_Summit_Assault | Lurra | Akron,_Ohio</btriple>
+        <btriple>Akron,_Ohio | Herrialdea | Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The team Akron Summit Assault are based in Akron, Ohio, USA.</lex>
+      <lex lang="en" lid="Id2">The Akron Summit Assault team is based in Akron, Ohio which is in the U.S.</lex>
+      <lex lang="en" lid="Id3">The Akron Summit Assault team is based in Akron, Ohio in the U.S.</lex>
+      <lex lang="es" lid="Id1">El equipo Akron Summit Assault tiene su sede en Akron, Ohio, Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El equipo Akron Summit Assault tiene su base en Akron (Ohio), en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El equipo Akron Summit Assault tiene su sede en Akron (Ohio, Estados Unidos).</lex>
+      <lex lang="ca" lid="Id1">L'equip Akron Summit Assault està basat a Akron, Ohio, EUA.</lex>
+      <lex lang="ca" lid="Id2">L'equip Akron Summit Assault està basat a Akron, Ohio, que és als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">L'equip Akron Summit Assault té la seu a Akron, Ohio, als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">Akron Summit Assault taldea Akron-en (Ohio, AEB) dago.</lex>
+      <lex lang="eu" lid="Id2">Akron Summit Assault taldea Akronen dago, Ohion, Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id3">Akron Summit Assault taldea Akronen dago, Ohion, Estatu Batuetan.</lex>
+      <lex lang="gl" lid="Id1">O equipo Akron Summit Assault está baseado en Akron, Ohio, Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O equipo Akron Summit Assault está baseado en Akron, Ohio, que está nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O equipo Akron Summit Assault está baseado en Akron, Ohio, nos Estados Unidos.</lex>
+      </entry>
+    <entry category="SportsTeam" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | S.S._Chieti_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Massimo_Drago | Club | S.S._Chieti_Calcio</striple>
+        <striple>A.C._Cesena | Director | Massimo_Drago</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Massimo_Drago | Trèvols | Chieti_Calcio</ctriple>
+        <ctriple>A.C._Cesena | Gerent | Massimo_Drago</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Massimo_Drago | Trevos | S.S._Chieti_Calcio</gtriple>
+        <gtriple>A.C._Cesena | Xestor | Massimo_Drago</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Massimo_Drago | Klub | S.S._Chieti_Calcio</btriple>
+        <btriple>A.C._Cesena | Kudeatzailea | Massimo_Drago</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Massimo Drago's club is the S.S. Chieti Calcio and he manages A.C. Cesena.</lex>
+      <lex lang="en" lid="Id2">Massimo Drago manages A.C. Cesena and plays for S.S. Chieti Calcio.</lex>
+      <lex lang="es" lid="Id1">El club de Massimo Drago es el S.S. Chieti Calcio y dirige el A.C. Cesena.</lex>
+      <lex lang="es" lid="Id2">Massimo Drago dirige al A.C. Cesena y juega en el S.S. Chieti Calcio.</lex>
+      <lex lang="ca" lid="Id1">El club de Massimo Drago és el S.S. Chieti Calcio i dirigeix l'A.C. Cesena.</lex>
+      <lex lang="ca" lid="Id2">Massimo Drago dirigeix A.C. Cesena i juga per S.S. Chieti Calcio.</lex>
+      <lex lang="eu" lid="Id1">Massimo Dragoren kluba S.S. Chieti Calcio da eta A.C. Cesena kudeatzen du.</lex>
+      <lex lang="eu" lid="Id2">Massimo Dragok A.C. Cesena kudeatzen du eta S.S. Chieti Calcio-n jokatzen du.</lex>
+      <lex lang="gl" lid="Id1">O club de Massimo Drago é o S.S. Chieti Calcio e dirixe o A.C. Cesena.</lex>
+      <lex lang="gl" lid="Id2">Massimo Drago dirixe o A.C. Cesena e xoga para o S.S. Chieti Calcio.</lex>
+      </entry>
+    </entries>
+  </benchmark>

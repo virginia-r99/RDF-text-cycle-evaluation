@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | minTemp | "211.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(410777)_2009_FD | Planet/minimumTemperature | "211.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
+        <mtriple>(410777)_2009_FD | minimumTemperature | 211.0 (kelvins)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(410777)_2009_FD | Apoapsis | 259776702.47055_(kilómetros)</striple>
+        <striple>(410777)_2009_FD | TemperaturaMínima | 211,0_(kelvins)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(410777)_2009_FD | Apoapsis | 259776702.47055_(kilòmetres)</ctriple>
+        <ctriple>(410777)_2009_FD | TemperaturaMínima | 211.0_(kelvins)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>(410777)_2009_FD | Apoapsis | 259776702.47055_(kilómetros)</gtriple>
+        <gtriple>(410777)_2009_FD | TemperaturaMínima | 211,_0_(Kelvin)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(410777)_2009ko_urtarrilaren_1eko_erroldaren_arabera. | ApopsiaBatDa. | 259776702.47055_(kilometroetan)</btriple>
+        <btriple>(410777)_2009ko_urtarrilaren_1eko_erroldaren_arabera. | GutxienekoTenperatura | 211,0_(kelvin)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a minimum temperature of 211.0 kelvins.</lex>
+      <lex lang="es" lid="Id1">(410777) 2009 FD tiene una apoapsis de 259776702,47055 kilómetros y una temperatura mínima de 211,0 kelvins.</lex>
+      <lex lang="ca" lid="Id1">(410777) 2009 FD té una apoapsis de 259776702,47055 quilòmetres i una temperatura mínima de 211,0 kelvins.</lex>
+      <lex lang="eu" lid="Id1">(410777) 2009 FD-k 259776702.47055 kilometroko apoapsia eta 211.0 kelvineko tenperatura minimoa ditu.</lex>
+      <lex lang="gl" lid="Id1">(410777) 2009 FD ten unha apoapsis de 259776702,47055 quilómetros e unha temperatura mínima de 211,0 kelvins.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(410777)_2009_FD | Periapsis | 88234300000.0</striple>
+        <striple>(410777)_2009_FD | Descubridor | Spacewatch</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(410777)_2009_FD | Periàpside | 88234300000.0</ctriple>
+        <ctriple>(410777)_2009_FD | Descobridor | Spacewatch</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>(410777)_2009_FD | Periapsis | 88234300000.0</gtriple>
+        <gtriple>(410777)_2009_FD | Descobridor | Reloxo_espacial</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(410777)_2009ko_urtarrilaren_1eko_erroldaren_arabera. | Periapsia | 88234300000.0</btriple>
+        <btriple>(410777)_2009ko_urtarrilaren_1eko_erroldaren_arabera. | Aurkitzailea | Espazioko_erlojua.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">(410777) 2009 FD, which was discovered by Spacewatch, has a periapsis of 88234300000.0.</lex>
+      <lex lang="es" lid="Id1">(410777) 2009 FD, descubierto por Spacewatch, tiene un periapsis de 88234300000.0.</lex>
+      <lex lang="ca" lid="Id1">(410777) 2009 FD, que va ser descobert per Spacewatch, té un periàpside de 88234300000.0.</lex>
+      <lex lang="eu" lid="Id1">(410777) 2009 FD, Spacewatch-ek aurkitu zuena, 88234300000.0 periapsia du.</lex>
+      <lex lang="gl" lid="Id1">(410777) 2009 FD, que foi descuberto por Spacewatch, ten unha periapsis de 88234300000.0.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | escapeVelocity | "0.0999"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | escapeVelocity | "359.64"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+        <mtriple>(66063)_1998_RO1 | escapeVelocity | 0.0999 (kilometrePerSeconds)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(66063)_1998_RO1 | Época | 04-11-2013</striple>
+        <striple>(66063)_1998_RO1 | VelocidadDeEscape | 0,0999_(kilómetros_por_segundo)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(66063)_1998_RO1 | Època | 2013-11-04</ctriple>
+        <ctriple>(66063)_1998_RO1 | VelocitatD'escapament | 0.0999_(kilòmetrePer_Segons)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>(66063)_1998_RO1 | Época | 2013-11-04</gtriple>
+        <gtriple>(66063)_1998_RO1 | VelocidadeDeEscape | 0.0999_(kilometrePerSeconds)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(66063)_1998ko_Eusko_Jaurlaritzaren_laguntzarekin_egindako_azpitituluak | Epoch | 2013-11-04</btriple>
+        <btriple>(66063)_1998ko_Eusko_Jaurlaritzaren_laguntzarekin_egindako_azpitituluak | Ihes-abiadura | 0._0999_(kilometro_segundoko)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">(66063) 1998 RO1, with the epoch date 2013-11-04, has an escape velocity of 0.0999 km/s.</lex>
+      <lex lang="en" lid="Id2">The escape velocity of (66063) 1998 RO1 is 0.0999 km/sec and its epoch is on the 13th of January 2016.</lex>
+      <lex lang="en" lid="Id3">The epoch of (66063) 1998 RO1 is on the 13th of January 2016 and it has an escape velocity of 0.0999 kilometres per second.</lex>
+      <lex lang="es" lid="Id1">(66063) 1998 RO1, con fecha de inicio 04-11-2013, tiene una velocidad de escape de 0,0999 km/s.</lex>
+      <lex lang="es" lid="Id2">La velocidad de escape de (66063) 1998 RO1 es de 0,0999 km/seg y su época es el 13 de enero de 2016.</lex>
+      <lex lang="es" lid="Id3">La época de (66063) 1998 RO1 es el 13 de enero de 2016 y tiene una velocidad de escape de 0,0999 kilómetros por segundo.</lex>
+      <lex lang="ca" lid="Id1">(66063) 1998 RO1, amb data d'època 2013-11-04, té una velocitat d'escapament de 0,0999 km/s.</lex>
+      <lex lang="ca" lid="Id2">La velocitat d'escapament de (66063) 1998 RO1 és de 0,0999 km/s i la seva època és el 13 de gener de 2016.</lex>
+      <lex lang="ca" lid="Id3">L'època de (66063) 1998 RO1 és el 13 de gener de 2016 i té una velocitat d'escapament de 0,0999 quilòmetres per segon.</lex>
+      <lex lang="eu" lid="Id1">(66063) 1998 RO1-ek, 2013-11-04 epoko datarekin, 0.0999 km/s-ko ihes-abiadura du.</lex>
+      <lex lang="eu" lid="Id2">(66063) 1998 RO1aren ihes-abiadura 0,0999 km/s da eta bere epocha 2016ko urtarrilaren 13an da.</lex>
+      <lex lang="eu" lid="Id3">(66063) 1998 RO1-aren aroa 2016ko urtarrilaren 13an da, eta ihes-abiadura 0,0999 kilometro segundokoa da.</lex>
+      <lex lang="gl" lid="Id1">(66063) 1998 RO1, coa data de época 2013-11-04, ten unha velocidade de escape de 0,0999 km/s.</lex>
+      <lex lang="gl" lid="Id2">A velocidade de escape de (66063) 1998 RO1 é de 0,0999 km/s e a súa época é o 13 de xaneiro de 2016.</lex>
+      <lex lang="gl" lid="Id3">A época de (66063) 1998 RO1 é o 13 de xaneiro de 2016 e ten unha velocidade de escape de 0,0999 quilómetros por segundo.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | rotationPeriod | "9953.28"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | rotationPeriod | "9953.28"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
+        <mtriple>(66391)_1999_KW4 | rotationPeriod | 9953.28</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(66391)_1999_KW4 | Época | 14-07-2004</striple>
+        <striple>(66391)_1999_KW4 | PeríodoDeRotación | 9953.28</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(66391)_1999_KW4 | Època | 2004-07-14</ctriple>
+        <ctriple>(66391)_1999_KW4 | PeríodeDeRotació | 9953.28</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>(66391)_1999_KW4 | Época | 2004-07-14</gtriple>
+        <gtriple>(66391)_1999_KW4 | PeríodoDeRotación | 9953.28</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>(66391)_1999_KW4 | Epoch | 2004-07-14</btriple>
+        <btriple>(66391)_1999_KW4 | ErrotazioAldia | 9953.28</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The rotation period of (66391) 1999 KW4 is 9953.28 and its epoch date is July 14th 2004.</lex>
+      <lex lang="en" lid="Id2">The epoch date for 66391 1999 KW4 is 2004-07.14 and it has a rotation period of 9953.28.</lex>
+      <lex lang="en" lid="Id3">(66391) 1999 KW4 which has an epoch date of July 14th 2004 has a rotation period of 9953.28.</lex>
+      <lex lang="es" lid="Id1">El periodo de rotación de (66391) 1999 KW4 es de 9953,28 y su  fecha de época es el 14-07-2004.</lex>
+      <lex lang="es" lid="Id2">La fecha de la época de 66391 1999 KW4 es 2004-07.14 y tiene un periodo de rotación de 9953.28.</lex>
+      <lex lang="es" lid="Id3">(66391) 1999 KW4, cuya  fecha de época es el 14-07-2004, tiene un período de rotación de 9953,28.</lex>
+      <lex lang="ca" lid="Id1">El període de rotació de (66391) 1999 KW4 és de 9953.28 i la seva data d'època és el 14 de juliol de 2004.</lex>
+      <lex lang="ca" lid="Id2">La data d'època de 66391 1999 KW4 és 2004-07.14 i té un període de rotació de 9953.28.</lex>
+      <lex lang="ca" lid="Id3">(66391) 1999 KW4 que té una data d'època del 14 de juliol de 2004 té un període de rotació de 9953.28.</lex>
+      <lex lang="eu" lid="Id1">(66391) 1999 KW4ren errotazio-epea 9953.28 da eta bere aro-data 2004ko uztailaren 14a da.</lex>
+      <lex lang="eu" lid="Id2">66391 1999 KW4ren aro data 2004-07.14 da eta biraketa-epea 9953.28.</lex>
+      <lex lang="eu" lid="Id3">(66391) 1999 KW4-k 2004ko uztailaren 14ko data du eta 9953,28ko errotazio-aldia.</lex>
+      <lex lang="gl" lid="Id1">O período de rotación de (66391) 1999 KW4 é 9953.28 e a súa data de época é 14 de xullo de 2004.</lex>
+      <lex lang="gl" lid="Id2">A data de época para 66391 1999 KW4 é 2004-07.14 e ten un período de rotación de 9953.28.</lex>
+      <lex lang="gl" lid="Id3">(66391) 1999 KW4 que ten unha data de época do 14 de xullo de 2004 ten un período de rotación de 9953,28.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>101_Helena | averageSpeed | "66384.0"^^xsd:double</otriple>
+        <otriple>101_Helena | Planet/apoapsis | "4.41092E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>101_Helena | Planet/averageSpeed | "18.44"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>101_Helena | Planet/apoapsis | "4.41092E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>101_Helena | averageSpeed | 18.44 (kilometrePerSeconds)</mtriple>
+        <mtriple>101_Helena | apoapsis | 441092000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>101_Helena | VelocidadMedia | 18,44_(kilómetros_por_segundo)</striple>
+        <striple>101_Helena | Apoapsis | 441092000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(101)_Hèlena | VelocitatMitjana | 18.44_(quilòmetrePerSegons)</ctriple>
+        <ctriple>(101)_Hèlena | Apoapsis | 441092000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Helenagreece__prefectures._kgm | VelocidadeMedia | 18.44_(quilómetroPorSegundos)</gtriple>
+        <gtriple>Helenagreece__prefectures._kgm | Apoapsis | 441092000.0_(kilómetros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>101_Helena | BatezBestekoAbiadura | 18,44_(kilometro_segundoko)</btriple>
+        <btriple>101_Helena | ApopsiaBatDa. | 441092000.0_(kilometroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">101 Helena has an average speed of 18.44 kilometres per second and an apoapsis of 441092000.0 kilometres.</lex>
+      <lex lang="en" lid="Id2">101 Helena has an average speed of 18.44 km per sec and an apoapsis of 441092000.0 km.</lex>
+      <lex lang="es" lid="Id1">101 Helena tiene una velocidad media de 18,44 kilómetros por segundo y una apoapsis de 441092000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id2">101 Helena tiene una velocidad media de 18,44 km por segundo y una apoapsis de 441092000,0 km.</lex>
+      <lex lang="ca" lid="Id1">101 Helena té una velocitat mitjana de 18,44 quilòmetres per segon i una apoapsis de 441092000.0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">101 Helena té una velocitat mitjana de 18,44 km per segon i una apoapsis de 441092000.0 km.</lex>
+      <lex lang="eu" lid="Id1">101 Helenak 18,44 kilometro segundoko batez besteko abiadura du eta 441092000 kilometroko apoapsis bat.</lex>
+      <lex lang="eu" lid="Id2">101 Helena-k batez besteko abiadura du, 18,44 km segunduko eta apoapsi 441092000.0 km-koa.</lex>
+      <lex lang="gl" lid="Id1">101 Helena ten unha velocidade media de 18,44 quilómetros por segundo e unha apoapsis de 441092000,0 quilómetros.</lex>
+      <lex lang="gl" lid="Id2">101 Helena ten unha velocidade media de 18,44 km por segundo e unha apoapsis de 441092000,0 km.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1036_Ganymed | averageSpeed | "60696.0"^^xsd:double</otriple>
+        <otriple>1036_Ganymed | Planet/apoapsis | "6.120048890337E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1036_Ganymed | avgSpeed | "16.86"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1036_Ganymed | Planet/apoapsis | "6.11961E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1036_Ganymed | avgSpeed | "16.86"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1036_Ganymed | Planet/apoapsis | "6.120048890337E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1036_Ganymed | averageSpeed | "60696.0"^^xsd:double</otriple>
+        <otriple>1036_Ganymed | Planet/apoapsis | "6.11961E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1036_Ganymed | averageSpeed | 16.86 (kilometrePerSeconds)</mtriple>
+        <mtriple>1036_Ganymed | apoapsis | 611961000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1036)_Ganymed | VelocidadMedia | 16,86_(kilómetros_por_segundo)</striple>
+        <striple>(1036)_Ganymed | Apoapsis | 611961000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(1036)_Ganymed | VelocitatMitjana | 16.86_(quilòmetrePerSegons)</ctriple>
+        <ctriple>(1036)_Ganymed | Apoapsis | 611961000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1036_Ganymed | VelocidadeMedia | 16.86_(quilómetroPorSegundos)</gtriple>
+        <gtriple>1036_Ganymed | Apoapsis | 611961000.0_(kilómetros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1036_Ganymed | BatezBestekoAbiadura | 16,86_(kilometro_segundoko)</btriple>
+        <btriple>1036_Ganymed | ApopsiaBatDa. | 611961000.0_(kilometroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The apoapsis measurement of 1036 Ganymed is 611961000.0 (kilometres) and it travels at an average speed of 16.86 kilometres per second.</lex>
+      <lex lang="en" lid="Id2">The apoapsis measurement of the celestial boy known as 1036 Ganymed is 611961000.0 (kilometres) and it has an average speed of 16.86 km per sec.</lex>
+      <lex lang="en" lid="Id3">1036 Ganymed is a celestial body and has an apoapsis of 611961000.0 kilometres and an average speed of 16.86 km per second.</lex>
+      <lex lang="es" lid="Id1">La medida de apoapsis de 1036 Ganymed es 611961000,0 (kilómetros) y viaja a una velocidad media de 16,86 kilómetros por segundo.</lex>
+      <lex lang="es" lid="Id2">La medida de apoapsis del cuerpo celeste conocido como 1036 Ganymed es 611961000,0 (kilómetros) y tiene una velocidad media de 16,86 km por seg.</lex>
+      <lex lang="es" lid="Id3">1036 Ganymed es un cuerpo celeste y tiene una apoapsis de 611961000,0 kilómetros y una velocidad media de 16,86 km por segundo.</lex>
+      <lex lang="ca" lid="Id1">La mesura d'apoapsis de 1036 Ganimed és de 611961000.0 (kilòmetres) i viatja a una velocitat mitjana de 16,86 quilòmetres per segon.</lex>
+      <lex lang="ca" lid="Id2">La mesura de l'apoapsis del noi celeste conegut com a 1036 Ganymed és de 611961000. 0 (kilòmetres) i té una velocitat mitjana de 16, 86 km per segon.</lex>
+      <lex lang="ca" lid="Id3">1036 Ganimedes és un cos celeste i té una apoapsis de 611961000.0 quilòmetres i una velocitat mitjana de 16.86 km per segon.</lex>
+      <lex lang="eu" lid="Id1">1036 Ganimedesen apoapsis neurketa 611961000.0 (kilometro) da eta batez besteko abiadura 16,86 kilometro segundoko da.</lex>
+      <lex lang="eu" lid="Id2">1036 Ganimedes izeneko mutilaren apapsiaren neurria 611961000.0 (kilometro) da eta batez besteko abiadura 16,86 km segunduko du.</lex>
+      <lex lang="eu" lid="Id3">1036 Ganymed zeruko gorputz bat da eta 611961000.0 kilometroko apoapsia eta segundoko 16.86 kilometroko batez besteko abiadura ditu.</lex>
+      <lex lang="gl" lid="Id1">A medida de apoapsis de 1036 Ganímedes é de 611961000,0 (quilómetros) e viaxa a unha velocidade media de 16,86 quilómetros por segundo.</lex>
+      <lex lang="gl" lid="Id2">A medida de apoapsis do rapaz celeste coñecido como 1036 Ganimedes é de 611961000.0 (kilómetros) e ten unha velocidade media de 16,86 km por segundo.</lex>
+      <lex lang="gl" lid="Id3">1036 Ganímedes é un corpo celeste e ten unha apoapsis de 611961000,0 quilómetros e unha velocidade media de 16,86 km por segundo.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(103)_Hera | Descubridor | James_Craig_Watson</striple>
+        <striple>James_Craig_Watson | Nacionalidad | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(103)_Hera | Descobridor | James_Craig_Watson</ctriple>
+        <ctriple>James_Craig_Watson | Nacionalitat | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>103_Hera | Descobridor | James_Craig_Watson</gtriple>
+        <gtriple>James_Craig_Watson | Nacionalidade | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>103_Herastar_name | Aurkitzailea | James_Craig_Watsonek_egin_zuen.</btriple>
+        <btriple>James_Craig_Watsonek_egin_zuen. | Nazionalitatea | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">James Craig Watson, a Canadian national, discovered 103 Hera.</lex>
+      <lex lang="en" lid="Id2">103 Hera was discovered by the Canadian James Craig Watson.</lex>
+      <lex lang="en" lid="Id3">Canadian, James Craig Watson, discovered 103 Hera.</lex>
+      <lex lang="es" lid="Id1">James Craig Watson, ciudadano canadiense, descubrió 103 Hera.</lex>
+      <lex lang="es" lid="Id2">103 Hera fue descubierta por el canadiense James Craig Watson.</lex>
+      <lex lang="es" lid="Id3">El canadiense James Craig Watson descubrió 103 Hera.</lex>
+      <lex lang="ca" lid="Id1">James Craig Watson, un nacional canadenc, va descobrir 103 Hera.</lex>
+      <lex lang="ca" lid="Id2">103 Hera va ser descoberta pel canadenc James Craig Watson.</lex>
+      <lex lang="ca" lid="Id3">El canadenc James Craig Watson va descobrir 103 Hera.</lex>
+      <lex lang="eu" lid="Id1">James Craig Watsonek, Kanadako herritarrak, 103 Hera aurkitu zuen.</lex>
+      <lex lang="eu" lid="Id2">103 Hera James Craig Watson kanadarrak aurkitu zuen.</lex>
+      <lex lang="eu" lid="Id3">James Craig Watson kanadarrak aurkitu zuen 103 Hera.</lex>
+      <lex lang="gl" lid="Id1">James Craig Watson, un cidadán canadense, descubriu 103 Hera.</lex>
+      <lex lang="gl" lid="Id2">103 Hera foi descuberta polo canadense James Craig Watson.</lex>
+      <lex lang="gl" lid="Id3">O canadense James Craig Watson descubriu 103 Hera.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | stateOfOrigin | Canada</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>James_Craig_Watson | stateOfOrigin | Canada</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(103)_Hera | Descubridor | James_Craig_Watson</striple>
+        <striple>James_Craig_Watson | EstadoDeOrigen | Canadá</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(103)_Hera | Descobridor | James_Craig_Watson</ctriple>
+        <ctriple>James_Craig_Watson | EstatD'Origen | Canadà</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>103_Hera | Descobridor | James_Craig_Watson</gtriple>
+        <gtriple>James_Craig_Watson | EstadoDeOrixe | Canadá</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>103_Herastar_name | Aurkitzailea | James_Craig_Watsonek_egin_zuen.</btriple>
+        <btriple>James_Craig_Watsonek_egin_zuen. | JatorrikoEstatua | Kanariar_uharteak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">James Craig Watson, who comes from Canada, discovered 103 Hera.</lex>
+      <lex lang="en" lid="Id2">103 Hera was discovered by James Craig Watson, who came from Canada.</lex>
+      <lex lang="en" lid="Id3">James Craig Watson, who has his origins in Canada, discovered 103 Hera.</lex>
+      <lex lang="es" lid="Id1">James Craig Watson, procedente de Canadá, descubrió 103 Hera.</lex>
+      <lex lang="es" lid="Id2">103 Hera fue descubierta por James Craig Watson, procedente de Canadá.</lex>
+      <lex lang="es" lid="Id3">James Craig Watson, originario de Canadá, descubrió 103 Hera.</lex>
+      <lex lang="ca" lid="Id1">James Craig Watson, que ve del Canadà, va descobrir 103 Hera.</lex>
+      <lex lang="ca" lid="Id2">103 Hera va ser descoberta per James Craig Watson, que venia del Canadà.</lex>
+      <lex lang="ca" lid="Id3">James Craig Watson, que té els seus orígens al Canadà, va descobrir 103 Hera.</lex>
+      <lex lang="eu" lid="Id1">Kanadako James Craig Watson-ek aurkitu zuen 103 Hera.</lex>
+      <lex lang="eu" lid="Id2">103 Hera James Craig Watsonek aurkitu zuen, Kanadatik etorria.</lex>
+      <lex lang="eu" lid="Id3">James Craig Watsonek, kanadarrak, 103 Hera aurkitu zuen.</lex>
+      <lex lang="gl" lid="Id1">James Craig Watson, que vén de Canadá, descubriu 103 Hera.</lex>
+      <lex lang="gl" lid="Id2">103 Hera foi descuberto por James Craig Watson, que veu de Canadá.</lex>
+      <lex lang="gl" lid="Id3">James Craig Watson, que ten as súas orixes en Canadá, descubriu 103 Hera.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>103_Hera | periapsis | 3.7124e+11</otriple>
+        <otriple>103_Hera | epoch | "2011-08-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | epoch | "August 27, 2011 (JD2455800.5)"</otriple>
+        <otriple>103_Hera | periapsis | 3.7124e+11</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | periapsis | 371240000.0 (kilometres)</mtriple>
+        <mtriple>103_Hera | epoch | 2011-08-27</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(103)_Hera | Periapsis | 371240000.0_(kilómetros)</striple>
+        <striple>(103)_Hera | Época | 27-08-2011</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(103)_Hera | Periàpside | 371240000.0_(kilòmetres)</ctriple>
+        <ctriple>(103)_Hera | Època | 2011-08-27</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>103_Hera | Periapsis | 371240000.0_(kilómetros)</gtriple>
+        <gtriple>103_Hera | Época | 2011-08-27</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>103_Herastar_name | Periapsia | 371240000.0_(kilometroetan)</btriple>
+        <btriple>103_Herastar_name | Epoch | 2011-08-27</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">103 Hera has a periapsis measurement of 371240000.0 km and its epoch is 31st July 2016.</lex>
+      <lex lang="en" lid="Id2">103 Hera has a periapsis of 371240000.0 kilometres, and the epoch is on the 31st of July 2016.</lex>
+      <lex lang="en" lid="Id3">103 Hera has a periapsis of 371240000.0 kilometres and an epoch date of August 27th 2011.</lex>
+      <lex lang="es" lid="Id1">103 Hera tiene una medida de periapsis de 371240000,0 km y su época es el 31 de julio de 2016.</lex>
+      <lex lang="es" lid="Id2">103 Hera tiene un periapsis de 371240000,0 kilómetros, y la época es el 31 de julio de 2016.</lex>
+      <lex lang="es" lid="Id3">103 Hera tiene un periapsis de 371240000,0 kilómetros y una fecha de época del 27-08-2011.</lex>
+      <lex lang="ca" lid="Id1">103 Hera té una mesura de periapsis de 371240000.0 km i la seva època és el 31 de juliol de 2016.</lex>
+      <lex lang="ca" lid="Id2">103 Hera té un periapsi de 371240000.0 quilòmetres, i l'època és el 31 de juliol de 2016.</lex>
+      <lex lang="ca" lid="Id3">103 Hera té una periapsis de 371240000.0 quilòmetres i una data d'època del 27 d'agost de 2011.</lex>
+      <lex lang="eu" lid="Id1">103 Herak 371240000.0 km-ko periapsis neurketa du eta bere aroak 2016ko uztailaren 31a du.</lex>
+      <lex lang="eu" lid="Id2">103 Hera-k 371240000.0 kilometroko periapsia du, eta 2016ko uztailaren 31ko aroa.</lex>
+      <lex lang="eu" lid="Id3">103 Herak 371240000,0 kilometroko periapsis bat du eta 2011ko abuztuaren 27ko data epikoa.</lex>
+      <lex lang="gl" lid="Id1">103 Hera ten unha medida de periapsis de 371240000.0 km e a súa época é o 31 de xullo de 2016.</lex>
+      <lex lang="gl" lid="Id2">103 Hera ten un periapsis de 371240000.0 quilómetros, e a época é o 31 de xullo de 2016.</lex>
+      <lex lang="gl" lid="Id3">103 Hera ten unha periapsis de 371240000,0 quilómetros e unha data de época do 27 de agosto de 2011.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
+        <otriple>107_Camilla | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
+        <otriple>107_Camilla | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>107_Camilla | discoverer | N._R._Pogson</mtriple>
+        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(107)_Camilla | Descubridor | Norman_Pogson</striple>
+        <striple>(107)_Camilla | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(107)_Camil·la | Descobridor | Norman_Pogson</ctriple>
+        <ctriple>(107)_Camil·la | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>107_Camilla | Descobridor | N._R._Pogson</gtriple>
+        <gtriple>107_Camilla | Época | 2006-12-31</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>107._orrialdea_. | Aurkitzailea | N._R._Pogson</btriple>
+        <btriple>107._orrialdea_. | Epoch | 2006-12-31</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">107 Camilla, discovered by N. R. Pogson, has the epoch 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">Discovered by N.R. Pogson, 107 Camilla, has an epoch date of December 31st 2006.</lex>
+      <lex lang="es" lid="Id1">107 Camilla, descubierta por N. R. Pogson, tiene la época del 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">Descubierta por N.R. Pogson, 107 Camilla, tiene una fecha de época del 31-12-2006.</lex>
+      <lex lang="ca" lid="Id1">107 Camilla, descoberta per N. R. Pogson, té l'època el 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">Descobert per N.R. Pogson, 107 Camilla, té una data d'època del 31 de desembre de 2006.</lex>
+      <lex lang="eu" lid="Id1">107 Camilla-k, N. R. Pogson-ek aurkitutakoak, 2006ko abenduaren 31ko aroa du.</lex>
+      <lex lang="eu" lid="Id2">N.R. Pogson-ek aurkitutako 107 Camilla-k 2006ko abenduaren 31ko data du.</lex>
+      <lex lang="gl" lid="Id1">107 Camilla, descuberta por N. R. Pogson, ten a época 31 de decembro de 2006.</lex>
+      <lex lang="gl" lid="Id2">Descuberto por N.R. Pogson, 107 Camilla, ten unha data de época do 31 de decembro de 2006.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1097)_Vicia | PeríodoOrbital | 135589000.0</striple>
+        <striple>(1097)_Vicia | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(1097)_Vicia | PeríodeOrbital | 135589000.0</ctriple>
+        <ctriple>(1097)_Vicia | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1097_Vicia | PeríodoOrbital | 135589000.0</gtriple>
+        <gtriple>1097_Vicia | Época | 2006-12-31</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1097_Vicia | PeriodoOrbitala | 135589000.0</btriple>
+        <btriple>1097_Vicia | Epoch | 2006-12-31</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The orbital period for 1097 Vicia is 135589000.0 and the epoch date is 31 December 2006.</lex>
+      <lex lang="en" lid="Id2">The epoch date for 1097 Vicia, which has an orbital period of 135589000.0, is 31 December 2016.</lex>
+      <lex lang="en" lid="Id3">The orbital period of 1097 Vicia is 135589000.0 and it epoch date is 2006.12.31.</lex>
+      <lex lang="es" lid="Id1">El período orbital de 1097 Vicia es 135589000.0 y la fecha de la época es el 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">La fecha de época de 1097 Vicia, que tiene un período orbital de 135589000.0, es el 31 de diciembre de 2016.</lex>
+      <lex lang="es" lid="Id3">El período orbital de 1097 Vicia es 135589000.0 y su fecha de inicio es 2006.12.31.</lex>
+      <lex lang="ca" lid="Id1">El període orbital de 1097 Vicia és 135589000.0 i la data de l'època és el 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">La data d'època per a 1097 Vicia, que té un període orbital de 135589000.0, és el 31 de desembre de 2016.</lex>
+      <lex lang="ca" lid="Id3">El període orbital de 1097 Vicia és 135589000.0 i la seva data d'època és 2006.12.31.</lex>
+      <lex lang="eu" lid="Id1">1097 Vicia-ren orbita-aldia 135589000.0 da eta garaiaren data 2006ko abenduaren 31 da.</lex>
+      <lex lang="eu" lid="Id2">1097 Vicia-ren epoko data, 135589000.0 orbital-periodoa duena, 2016ko abenduaren 31a da.</lex>
+      <lex lang="eu" lid="Id3">1097 Vicia-ren orbita-periodoa 135589000.0 da eta 2006.12.31 da garaiaren data.</lex>
+      <lex lang="gl" lid="Id1">O período orbital de 1097 Vicia é 135589000.0 e a data da época é o 31 de decembro de 2006.</lex>
+      <lex lang="gl" lid="Id2">A data de época para 1097 Vicia, que ten un período orbital de 135589000.0, é o 31 de decembro de 2016.</lex>
+      <lex lang="gl" lid="Id3">O período orbital de 1097 Vicia é 135589000.0 e a súa data de época é 2006.12.31.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1099_Figneria | Planet/averageSpeed | "16.37"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | avgSpeed | "16.37"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>1099_Figneria | averageSpeed | "58932.0"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+        <mtriple>1099_Figneria | averageSpeed | 16.37 (kilometrePerSeconds)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1099)_Figneria | Apoapsis | 605718000.0_(kilómetros)</striple>
+        <striple>(1099)_Figneria | VelocidadMedia | 16,37_(kilómetros_por_segundo)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(1099)_Figneria | Apoapsis | 605718000.0_(kilòmetres)</ctriple>
+        <ctriple>(1099)_Figneria | VelocitatMitjana | 16.37_(quilòmetrePerSegons)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1099_Figneria | Apoapsis | 605718000.0_(kilómetros)</gtriple>
+        <gtriple>1099_Figneria | VelocidadeMedia | 16.37_(quilómetroPorSegundos)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1099_Figneria | ApopsiaBatDa. | 605718000.0_(kilometroetan)</btriple>
+        <btriple>1099_Figneria | BatezBestekoAbiadura | 16,37_(kilometro_segundoko)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1099 Figneria, travels at an average speed of 16.37 kilometres per second. and has an apoapsis of 605718000 kilometres.</lex>
+      <lex lang="en" lid="Id2">1099 Figneria has an apoapsis of 605718000.0 kilometres and an average speed of 16.37 km per sec.</lex>
+      <lex lang="en" lid="Id3">1099 Figneria, travelling at an average speed of 16.37 kmps has an apoapsis of 605718000.0 kms.</lex>
+      <lex lang="es" lid="Id1">1099 Figneria, viaja a una velocidad media de 16,37 kilómetros por segundo y tiene una apoapsis de 605718000 kilómetros.</lex>
+      <lex lang="es" lid="Id2">El 1099 Figneria tiene una apoapsis de 605718000,0 kilómetros y una velocidad media de 16,37 km por segundo.</lex>
+      <lex lang="es" lid="Id3">1099 Figneria, viajando a una velocidad media de 16,37 kmps tiene un apoapsis de 605718000,0 kms.</lex>
+      <lex lang="ca" lid="Id1">1099 Figneria, viatja a una velocitat mitjana de 16,37 quilòmetres per segon. i té una apoapsis de 605718000 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">1099 Figneria té una apoapsis de 605718000.0 quilòmetres i una velocitat mitjana de 16.37 km per segon.</lex>
+      <lex lang="ca" lid="Id3">1099 Figneria, viatjant a una velocitat mitjana de 16.37 kmps té una apoapsis de 605718000.0 km.</lex>
+      <lex lang="eu" lid="Id1">1099 Figneria-k 16,37 kilometro segundoko batez besteko abiaduran bidaiatzen du eta 605718000 kilometroko apoapsia du.</lex>
+      <lex lang="eu" lid="Id2">1099 Figneria-k 605718000.0 kilometroko apopsia du eta 16,37 km/s-ko batezbesteko abiadura.</lex>
+      <lex lang="eu" lid="Id3">1099 Figneria, 16,37 km/h-ko batez besteko abiaduran doana, 605718000.0 km-ko apopsisa du.</lex>
+      <lex lang="gl" lid="Id1">1099 Figneria, viaxa a unha velocidade media de 16,37 quilómetros por segundo e ten unha apoapsis de 605718000 quilómetros.</lex>
+      <lex lang="gl" lid="Id2">1099 Figneria ten unha apoapsis de 605718000.0 quilómetros e unha velocidade media de 16,37 km por segundo.</lex>
+      <lex lang="gl" lid="Id3">1099 Figneria, que viaxa a unha velocidade media de 16,37 km/s ten unha apoapsis de 605718000.0 km.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1099)_Figneria | Periapsis | 349206000000.0</striple>
+        <striple>(1099)_Figneria | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(1099)_Figneria | Periàpside | 349206000000.0</ctriple>
+        <ctriple>(1099)_Figneria | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1099_Figneria | Periapsis | 349206000000.0</gtriple>
+        <gtriple>1099_Figneria | Época | 2006-12-31</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1099_Figneria | Periapsia | 349206000000.0</btriple>
+        <btriple>1099_Figneria | Epoch | 2006-12-31</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">1099 Figneria has a periapsis of 349206000000.0 and an epoch date of 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">The epoch date for 1099 Figneria, which has a periapsis measurement of 349206000000.0, is 31 December 2006.</lex>
+      <lex lang="es" lid="Id1">1099 Figneria tiene un periapsis de 349206000000.0 y una fecha de época del 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">La fecha de época para 1099 Figneria, que tiene una medida de periapsis de 349206000000.0, es el 31-12-2006.</lex>
+      <lex lang="ca" lid="Id1">1099 Figneria té un periapside de 349206000000.0 i una data d'època del 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">La data d'època de 1099 Figneria, que té una mesura de periapsis de 349206000000.0, és el 31 de desembre de 2006.</lex>
+      <lex lang="eu" lid="Id1">1099 Figneria-k 349206000000.0 periapsis bat du eta 2006ko abenduaren 31ko data bat.</lex>
+      <lex lang="eu" lid="Id2">1099 Figneria-ren garai-data, 349206000000.0-ko periapsia duena, 2006ko abenduaren 31 da.</lex>
+      <lex lang="gl" lid="Id1">1099 Figneria ten un periapsis de 349206000000.0 e unha data de época do 31 de decembro de 2006.</lex>
+      <lex lang="gl" lid="Id2">A data da época para 1099 Figneria, que ten unha medida de periapse de 349206000000.0, é o 31 de decembro de 2006.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | formerName | "A900 GA"</mtriple>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(10)_Hygiea | NombreAnterior | A900_GA</striple>
+        <striple>(10)_Hygiea | Época | 27-06-2015</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(10)_Higiea | AnteriorNom | A900_GA</ctriple>
+        <ctriple>(10)_Higiea | Època | 2015-06-27</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>10_Hygiea | AntigoNome | A900_GA</gtriple>
+        <gtriple>10_Hygiea | Época | 2015-06-27</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>10._orrialdea_. | IzenZaharra | A900_GA</btriple>
+        <btriple>10._orrialdea_. | Epoch | 2015-06-27</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The asteroid 10 Hygiea, once called A900 GA, has the epoch date of 27th June 2015.</lex>
+      <lex lang="en" lid="Id2">10 Hygiea has an epoch date of June 27th 2015 and was formerly named A900 GA.</lex>
+      <lex lang="en" lid="Id3">The asteroid, 10 Hygiea, was formally known as A900 GA and has an epoch date of 27th June 2015.</lex>
+      <lex lang="es" lid="Id1">El asteroide 10 Hygiea, antes llamado A900 GA, tiene la fecha de la época del 27-06-2015.</lex>
+      <lex lang="es" lid="Id2">10 Hygiea tiene una fecha de época del 27-06-2015 y antes se llamaba A900 GA.</lex>
+      <lex lang="es" lid="Id3">El asteroide, 10 Hygiea, se conocía formalmente como A900 GA y tiene una fecha de época del 27-06-2015.</lex>
+      <lex lang="ca" lid="Id1">L'asteroide 10 Hygiea, una vegada anomenat A900 GA, té la data d'època del 27 de juny de 2015.</lex>
+      <lex lang="ca" lid="Id2">10 L'Higiea té una data d'època del 27 de juny de 2015 i anteriorment s'havia anomenat A900 GA.</lex>
+      <lex lang="ca" lid="Id3">L'asteroide, 10 Hygiea, era conegut formalment com A900 GA i té una data d'època del 27 de juny de 2015.</lex>
+      <lex lang="eu" lid="Id1">10 Hygiea asteroideak, behin A900 GA deitua, 2015eko ekainaren 27ko data du.</lex>
+      <lex lang="eu" lid="Id2">10 Hygiea 2015eko ekainaren 27an aurkitu zen, eta lehenago A900 GA izena zuen.</lex>
+      <lex lang="eu" lid="Id3">10 Hygiea asteroideak A900 GA izena zuen formalki, eta 2015eko ekainaren 27ko data du.</lex>
+      <lex lang="gl" lid="Id1">O asteroide 10 Hygiea, unha vez chamado A900 GA, ten a data de época do 27 de xuño de 2015.</lex>
+      <lex lang="gl" lid="Id2">10 Hygiea ten unha data de época do 27 de xuño de 2015 e anteriormente se chamaba A900 GA.</lex>
+      <lex lang="gl" lid="Id3">O asteroide, 10 Hygiea, era formalmente coñecido como A900 GA e ten unha data de época do 27 de xuño de 2015.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1101_Clematis | Época | 31-12-2006</striple>
+        <striple>1101_Clematis | Periapsis | 445895000000.0</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(1101)_Clematis | Època | 2006-12-31</ctriple>
+        <ctriple>(1101)_Clematis | Periàpside | 445895000000.0</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>1101_Clematis | Época | 2006-12-31</gtriple>
+        <gtriple>1101_Clematis | Periapsis | 445895000000.0</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>1101_Clematis | Epoch | 2006-12-31</btriple>
+        <btriple>1101_Clematis | Periapsia | 445895000000.0</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The epoch of 1101 Clematis was on the 31st of July 2016 and its periapsis is 445895000000.0.</lex>
+      <lex lang="en" lid="Id2">1101 Clematis has a periapsis of 445895000000 and its epoch comes up on the 31st of july 2016.</lex>
+      <lex lang="en" lid="Id3">1101 Clematis has an epoch date of December 31st 2006 and a periapsis of 445895000000.0.</lex>
+      <lex lang="es" lid="Id1">La época de 1101 Clematis fue el 31 de julio de 2016 y su periapsis es 445895000000.0.</lex>
+      <lex lang="es" lid="Id2">1101 Clematis tiene una periapsis de 445895000000 y su época llega el 31 de julio de 2016.</lex>
+      <lex lang="es" lid="Id3">1101 Clematis tiene una fecha de época del 31-12-2006 y una periapsis de 445895000000.0.</lex>
+      <lex lang="ca" lid="Id1">L'època de 1101 Clematis va ser el 31 de juliol de 2016 i el seu periapside és 445895000000.0.</lex>
+      <lex lang="ca" lid="Id2">1101 Clematis té un periapside de 445895000000 i la seva època arriba el 31 de juliol de 2016.</lex>
+      <lex lang="ca" lid="Id3">1101 Clematis té una data d'època del 31 de desembre de 2006 i un periapside de 445895000000.0.</lex>
+      <lex lang="eu" lid="Id1">1101 Clematis-en aroa 2016ko uztailaren 31n izan zen eta periapsia 445895000000.0 da.</lex>
+      <lex lang="eu" lid="Id2">1101 Clematis-en periapsia 445895000000 da eta 2016ko uztailaren 31n izango da.</lex>
+      <lex lang="eu" lid="Id3">1101 Clematis-en garai-data 2006ko abenduaren 31 da eta periapsia 445895000000.0 da.</lex>
+      <lex lang="gl" lid="Id1">A época de 1101 Clematis foi o 31 de xullo de 2016 e o seu periapsis é 445895000000.0.</lex>
+      <lex lang="gl" lid="Id2">1101 Clematis ten un periapsis de 445895000000 e a súa época chega o 31 de xullo de 2016.</lex>
+      <lex lang="gl" lid="Id3">1101 Clematis ten unha data de época do 31 de decembro de 2006 e un periapsis de 445895000000.0.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>110_Lydia | rotationPeriod | "39332.9"^^xsd:double</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | rotationPeriod | "39332.9"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | rotationPeriod | 39332.9</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(110)_Lydia | PeríodoDeRotación | 39332.9</striple>
+        <striple>(110)_Lydia | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(110)_Lídia | PeríodeDeRotació | 39332.9</ctriple>
+        <ctriple>(110)_Lídia | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>110_Lydiastar_name | PeríodoDeRotación | 39332.9</gtriple>
+        <gtriple>110_Lydiastar_name | Época | 2006-12-31</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>110_Lydia | ErrotazioAldia | 39332.9</btriple>
+        <btriple>110_Lydia | Epoch | 2006-12-31</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">110 Lydia has a rotational period of 39332.9 and its epoch is 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">110 Lydia has a rotation period of 39332.9, and its epoch is 31st December 2006.</lex>
+      <lex lang="en" lid="Id3">110 Lydia has a rotation period of 39332.9 and an epoch date of 31 December 2006.</lex>
+      <lex lang="es" lid="Id1">110 Lydia tiene un período de rotación de 39332,9 y su época es el 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">110 Lydia tiene un período de rotación de 39332,9, y su época es el 31-12-2006.</lex>
+      <lex lang="es" lid="Id3">110 Lydia tiene un período de rotación de 39332,9 y una fecha de época del 31-12-2006.</lex>
+      <lex lang="ca" lid="Id1">110 Lydia té un període de rotació de 39332,9 i la seva època és el 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">110 Lydia té un període de rotació de 39332,9, i la seva època és el 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id3">110 Lydia té un període de rotació de 39332,9 i una data d'època del 31 de desembre de 2006.</lex>
+      <lex lang="eu" lid="Id1">110 Lydiak 39332,9ko biraketa-periodoa du eta 2006ko abenduaren 31koa da.</lex>
+      <lex lang="eu" lid="Id2">110 Lydiak 39332.9ko errotazio-aldia du, eta 2006ko abenduaren 31ko aroa.</lex>
+      <lex lang="eu" lid="Id3">110 Lydiak 39332,9ko errotazio-aldia eta 2006ko abenduaren 31ko garai-data ditu.</lex>
+      <lex lang="gl" lid="Id1">110 Lydia ten un período de rotación de 39332,9 e a súa época é o 31 de decembro de 2006.</lex>
+      <lex lang="gl" lid="Id2">110 Lydia ten un período de rotación de 39332,9, e a súa época é o 31 de decembro de 2006.</lex>
+      <lex lang="gl" lid="Id3">110 Lydia ten un período de rotación de 39332,9 e unha data de época do 31 de decembro de 2006.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(11264)_Claudiomaccone | Época | 26-11-2005</striple>
+        <striple>(11264)_Claudiomaccone | Periapsis | 296521000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>(11264)_Claudiomaccone | Època | 2005-11-26</ctriple>
+        <ctriple>(11264)_Claudiomaccone | Periàpside | 296521000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>11264_Claudiomaccone | Época | 2005-11-26</gtriple>
+        <gtriple>11264_Claudiomaccone | Periapsis | 296521000.0_(kilómetros)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11264_Claudiomaccone | Epoch | 2005-11-26</btriple>
+        <btriple>11264_Claudiomaccone | Periapsia | 296521000.0_(kilometroetan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005 and a periapsis of 296521000.0 kilometres.</lex>
+      <lex lang="en" lid="Id2">11264 Claudiomaccone has an epoch date of 26 November 2005 and a periapsis of 296521000.0.</lex>
+      <lex lang="en" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005 and its periapsis is 296521000.0 kilometres.</lex>
+      <lex lang="es" lid="Id1">11264 Claudiomaccone tiene la fecha de época del 26-11-2005 y un periapsis de 296521000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id2">11264 Claudiomaccone tiene una fecha de época del 26-11-2005 y un periapsis de 296521000.0.</lex>
+      <lex lang="es" lid="Id3">11264 Claudiomaccone tiene la fecha de época de 26-11-2005 y su periapsis es de 296521000,0 kilómetros.</lex>
+      <lex lang="ca" lid="Id1">11264 Claudiomaccone té una data d'època del 26 de novembre de 2005 i un periapside de 296521000.0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">11264 Claudiomaccone té una data d'època de 26 de novembre de 2005 i un periapside de 296521000.0.</lex>
+      <lex lang="ca" lid="Id3">11264 Claudiomaccone té la data d'època del 26 de novembre de 2005 i el seu periapsis és de 296521000.0 quilòmetres.</lex>
+      <lex lang="eu" lid="Id1">11264 Claudiomaccone-k 2005eko azaroaren 26ko garai-data eta 296521000.0 kilometroko periapsia ditu.</lex>
+      <lex lang="eu" lid="Id2">11264 Claudiomaccone-k 2005eko azaroaren 26ko data du eta 296521000.0-ko periapsia.</lex>
+      <lex lang="eu" lid="Id3">11264 Claudiomaccone-k 2005eko azaroaren 26ko data dauka eta bere periapsia 296521000.0 kilometrokoa da.</lex>
+      <lex lang="gl" lid="Id1">11264 Claudiomaccone ten a data de época do 26 de novembro de 2005 e un periapsis de 296521000,0 quilómetros.</lex>
+      <lex lang="gl" lid="Id2">11264 Claudiomaccone ten unha data de época do 26 de novembro de 2005 e unha periapsis de 296521000.0.</lex>
+      <lex lang="gl" lid="Id3">11264 Claudiomaccone ten a data de época do 26 de novembro de 2005 e o seu periapsis é de 296521000,0 quilómetros.</lex>
+      </entry>
+    </entries>
+  </benchmark>

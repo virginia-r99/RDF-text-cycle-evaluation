@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Astérix_(personaje_de_cómic) | Creador | René_Goscinny</striple>
+        <striple>Astérix_(personaje_de_cómic) | Creador | Albert_Uderzo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Asterix_(personatge_de_còmics) | Creador | René_Goscinny</ctriple>
+        <ctriple>Asterix_(personatge_de_còmics) | Creador | Albert_Uderzo</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | Creador | René_Goscinny</gtriple>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | Creador | Albert_Uderzo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Asterix_(komiki_pertsonaia) | Sortzailea | René_Goscinny</btriple>
+        <btriple>Asterix_(komiki_pertsonaia) | Sortzailea | Albert_Uderzo</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
+      <lex lang="en" lid="Id2">The comic book character Asterix was created by René Goscinny and Albert Uderzo.</lex>
+      <lex lang="en" lid="Id3">The character Asterix was created by René Goscinny and Albert Uderzo.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Astérix fue creado por Albert Uderzo y René Goscinny.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic Astérix fue creado por René Goscinny y Albert Uderzo.</lex>
+      <lex lang="es" lid="Id3">El personaje de Astérix fue creado por René Goscinny y Albert Uderzo.</lex>
+      <lex lang="ca" lid="Id1">El personatge de còmic Asterix va ser creat per Albert Uderzo i Rene Goscinny.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic Asterix va ser creat per René Goscinny i Albert Uderzo.</lex>
+      <lex lang="ca" lid="Id3">El personatge Asterix va ser creat per René Goscinny i Albert Uderzo.</lex>
+      <lex lang="eu" lid="Id1">Asterix komiki-pertsonaia Albert Uderzok eta René Goscinnyk sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Asterix komiki-pertsonaia René Goscinny eta Albert Uderzok sortu zuten.</lex>
+      <lex lang="eu" lid="Id3">Asterix pertsonaia René Goscinnyk eta Albert Uderzok sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de banda deseñada Asterix foi creado por Albert Uderzo e Rene Goscinny.</lex>
+      <lex lang="gl" lid="Id2">O personaxe de banda deseñada Asterix foi creado por René Goscinny e Albert Uderzo.</lex>
+      <lex lang="gl" lid="Id3">O personaxe Asterix foi creado por René Goscinny e Albert Uderzo.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aurakles | Creador | Len_Wein</striple>
+        <striple>Aurakles | NombreAlternativo | Aurakles</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Auràcles | Creador | Len_Wein</ctriple>
+        <ctriple>Auràcles | NomAlternatiu | Auràcles</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Auráculos | Creador | Len_Wein</gtriple>
+        <gtriple>Auráculos | NomeAlternativo | Auráculos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aurakles | Sortzailea | Len_Wein</btriple>
+        <btriple>Aurakles | AlternatiboaIzena | Aurakles</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Created by Len Wein, Aurakles's alternative name is also Aurakles.</lex>
+      <lex lang="en" lid="Id2">The character Aurakles, also known as Aurakles, was created by Len Wein.</lex>
+      <lex lang="es" lid="Id1">Creado por Len Wein, el nombre alternativo de Aurakles es también Aurakles.</lex>
+      <lex lang="es" lid="Id2">El personaje Aurakles, también conocido como Aurakles, fue creado por Len Wein.</lex>
+      <lex lang="ca" lid="Id1">Creat per Len Wein, el nom alternatiu d'Aurakles és també Aurakles.</lex>
+      <lex lang="ca" lid="Id2">El personatge Aurakles, també conegut com Aurakles, va ser creat per Len Wein.</lex>
+      <lex lang="eu" lid="Id1">Auracles Len Wein-ek sortua, Auracles-en izen alternatiboa ere Auracles da.</lex>
+      <lex lang="eu" lid="Id2">Aurakles pertsonaia, Aurakles bezala ere ezaguna, Len Weinek sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">Creado por Len Wein, o nome alternativo de Aurakles é tamén Aurakles.</lex>
+      <lex lang="gl" lid="Id2">O personaxe Aurakles, tamén coñecido como Aurakles, foi creado por Len Wein.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creators | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Balístico_(personaje_de_cómic) | Creador | Doug_Moench</striple>
+        <striple>Balístico_(personaje_de_cómic) | NombreAlternativo | Kelvin_Mao</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Balística_(comicsCharacter) | Creador | Doug_Moench</ctriple>
+        <ctriple>Balística_(comicsCharacter) | NomAlternatiu | Kelvin_Mao</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Balística_(comics) | Creador | Doug_Moench</gtriple>
+        <gtriple>Balística_(comics) | NomeAlternativo | Kelvin_Mao</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Balistikoa_(comicsCharacter) | Sortzailea | Doug_Moench</btriple>
+        <btriple>Balistikoa_(comicsCharacter) | AlternatiboaIzena | "Kelvin_Mao"_izena_du.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Doug Moench was the creator of the comic character Ballistic, who has the alternative name Kelvin Mao.</lex>
+      <lex lang="en" lid="Id2">Ballistic (also known as Kelvin Mao) is a fictional comic superhero created by Doug Moench.</lex>
+      <lex lang="en" lid="Id3">Doug Moench created the character Ballistic, the fictional superhero whose alter ego is Kelvin Mao.</lex>
+      <lex lang="es" lid="Id1">Doug Moench fue el creador del personaje de cómic Ballistic, cuyo nombre alternativo es Kelvin Mao.</lex>
+      <lex lang="es" lid="Id2">Ballistic (también conocido como Kelvin Mao) es un superhéroe ficticio de cómic creado por Doug Moench.</lex>
+      <lex lang="es" lid="Id3">Doug Moench creó el personaje Ballistic, el superhéroe ficticio cuyo alter ego es Kelvin Mao.</lex>
+      <lex lang="ca" lid="Id1">Doug Moench va ser el creador del personatge de còmic Ballistic, que té el nom alternatiu de Kelvin Mao.</lex>
+      <lex lang="ca" lid="Id2">Ballistic (també conegut com a Kelvin Mao) és un superheroi de còmic de ficció creat per Doug Moench.</lex>
+      <lex lang="ca" lid="Id3">Doug Moench va crear el personatge Ballistic, el superheroi fictici el alter ego del qual és Kelvin Mao.</lex>
+      <lex lang="eu" lid="Id1">Doug Moench izan zen Ballistic komiki pertsonaiaren sortzailea, Kelvin Mao izen alternatiboa duena.</lex>
+      <lex lang="eu" lid="Id2">Ballistic (Kelvin Mao bezala ere ezaguna) Doug Moench-ek sortutako fikziozko superheroi komikoa da.</lex>
+      <lex lang="eu" lid="Id3">Doug Moenchek sortu zuen Ballistic pertsonaia, bere alter egoa Kelvin Mao den superheroi fikzionala.</lex>
+      <lex lang="gl" lid="Id1">Doug Moench foi o creador do personaxe de banda deseñada Ballistic, que ten o nome alternativo Kelvin Mao.</lex>
+      <lex lang="gl" lid="Id2">Ballistic (tamén coñecido como Kelvin Mao) é un superheroe de banda deseñada creado por Doug Moench.</lex>
+      <lex lang="gl" lid="Id3">Doug Moench creou o personaxe Ballistic, o superheroe ficticio cuxo alter ego é Kelvin Mao.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | ProtagonizadaPor | Graeme_Garden</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | ProtagonitzadaPer | Graeme_Garden</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | BBC</gtriple>
+        <gtriple>Bananas | Estrelado | Graeme_Garden</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | BBC</btriple>
+        <btriple>Bananaman | Antzezpena: | Graeme_Garden</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.</lex>
+      <lex lang="en" lid="Id2">Graeme Garden starred in the TV series Bananaman, which was shown on the BBC.</lex>
+      <lex lang="en" lid="Id3">Bananaman, which starred Graeme Garden, was broadcasted by the BBC.</lex>
+      <lex lang="es" lid="Id1">Protagonizada por Graeme Garden, Bananaman, la serie de televisión se emitió en la BBC.</lex>
+      <lex lang="es" lid="Id2">Graeme Garden protagonizó la serie de televisión Bananaman, emitida por la BBC.</lex>
+      <lex lang="es" lid="Id3">Bananaman, protagonizada por Graeme Garden, fue emitida por la BBC.</lex>
+      <lex lang="ca" lid="Id1">Protagonitzada per Graeme Garden, Bananaman, la sèrie de televisió va ser mostrada a la BBC.</lex>
+      <lex lang="ca" lid="Id2">Graeme Garden va protagonitzar la sèrie de televisió Bananaman, que es va mostrar a la BBC.</lex>
+      <lex lang="ca" lid="Id3">Bananaman, que va protagonitzar Graeme Garden, va ser emès per la BBC.</lex>
+      <lex lang="eu" lid="Id1">Bananaman (euskaraz Banana-gizona), Graeme Gardenek zuzendutako BBC telesaila bat da.</lex>
+      <lex lang="eu" lid="Id2">Graeme Gardenek Bananaman telesailean antzeztu zuen, BBCn erakutsi zena.</lex>
+      <lex lang="eu" lid="Id3">Bananaman, Graeme Gardenek antzeztutakoa, BBCk eman zuen.</lex>
+      <lex lang="gl" lid="Id1">Protagonizada por Graeme Garden, Bananaman, a serie de televisión foi mostrada na BBC.</lex>
+      <lex lang="gl" lid="Id2">Graeme Garden protagonizou a serie de televisión Bananaman, que se mostrou na BBC.</lex>
+      <lex lang="gl" lid="Id3">Bananaman, protagonizada por Graeme Garden, foi emitida pola BBC.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        <striple>Bill_Oddie | LugarDeNacimiento | Lancashire</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        <ctriple>Bill_Oddie | LlocDeNaixement | Lancashire</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        <gtriple>Bill_Oddie | LugarDeNacemento | Lancashire</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        <btriple>Bill_Oddie_naiz. | JaiotzeLekua | Lancashire_eskualdea.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bill Oddie, who stars in Bananaman, was born in Lancashire.</lex>
+      <lex lang="en" lid="Id2">Bananaman starred Bill Oddie who was born in Lancashire.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie, who was born in Lancashire, starred in Bananaman.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie, protagonista de Bananaman, nació en Lancashire.</lex>
+      <lex lang="es" lid="Id2">Bananaman fue protagonizada por Bill Oddie, nacido en Lancashire.</lex>
+      <lex lang="es" lid="Id3">Bill Oddie, nacido en Lancashire, protagonizó Bananaman.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie, que interpreta a Bananaman, va néixer a Lancashire.</lex>
+      <lex lang="ca" lid="Id2">Bananaman va protagonitzar Bill Oddie que va néixer a Lancashire.</lex>
+      <lex lang="ca" lid="Id3">Bill Oddie, que va néixer a Lancashire, va protagonitzar Bananaman.</lex>
+      <lex lang="eu" lid="Id1">Bill Oddie, Bananaman-eko protagonista, Lancashiren jaio zen.</lex>
+      <lex lang="eu" lid="Id2">Bananamanek Bill Oddie antzeztu zuen, Lancashire-n jaioa.</lex>
+      <lex lang="eu" lid="Id3">Bill Oddie, Lancashire-n jaioa, Bananamanen antzeztu zuen.</lex>
+      <lex lang="gl" lid="Id1">Bill Oddie, que protagoniza Bananaman, naceu en Lancashire.</lex>
+      <lex lang="gl" lid="Id2">Bananaman estaba protagonizada por Bill Oddie, que naceu en Lancashire.</lex>
+      <lex lang="gl" lid="Id3">Bill Oddie, que naceu en Lancashire, protagonizou Bananaman.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bibbo_Bibbowski | Creador | Jerry_Ordway</striple>
+        <striple>Jerry_Ordway | Nacionalidad | Estadounidense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bibbo_Bibbowski | Creador | Jerry_Ordway</ctriple>
+        <ctriple>Jerry_Ordway | Nacionalitat | estatunidenc</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bibbo_Bibbowski | Creador | Jerry_Ordway</gtriple>
+        <gtriple>Jerry_Ordway | Nacionalidade | Americanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bibbo_Bibbowski | Sortzailea | Jerry_Ordway</btriple>
+        <btriple>Jerry_Ordway | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bibbo Bibbowski was created by American, Jerry Ordway.</lex>
+      <lex lang="en" lid="Id2">The creator of Bibbo Bibbowski is Jerry Ordway, an American.</lex>
+      <lex lang="en" lid="Id3">Jerry Ordway, an American, is the creator of Bibbo Bibbowski.</lex>
+      <lex lang="es" lid="Id1">Bibbo Bibbowski fue creado por el Estadounidense Jerry Ordway.</lex>
+      <lex lang="es" lid="Id2">El creador de Bibbo Bibbowski es el Estadounidense Jerry Ordway.</lex>
+      <lex lang="es" lid="Id3">El Estadounidense Jerry Ordway es el creador de Bibbo Bibbowski.</lex>
+      <lex lang="ca" lid="Id1">Bibbo Bibbowski va ser creat per l'americà Jerry Ordway.</lex>
+      <lex lang="ca" lid="Id2">El creador de Bibbo Bibbowski és Jerry Ordway, un americà.</lex>
+      <lex lang="ca" lid="Id3">Jerry Ordway, un americà, és el creador de Bibbo Bibbowski.</lex>
+      <lex lang="eu" lid="Id1">Bibbo Bibbowski Jerry Ordway estatubatuarrak sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Bibbo Bibbowski-ren sortzailea Jerry Ordway estatubatuarra da.</lex>
+      <lex lang="eu" lid="Id3">Jerry Ordway, estatubatuarra, Bibbo Bibbowskyren sortzailea da.</lex>
+      <lex lang="gl" lid="Id1">Bibbo Bibbowski foi creado polo estadounidense Jerry Ordway.</lex>
+      <lex lang="gl" lid="Id2">O creador de Bibbo Bibbowski é Jerry Ordway, un americano.</lex>
+      <lex lang="gl" lid="Id3">Jerry Ordway, un americano, é o creador de Bibbo Bibbowski.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Black_Pirate | alternativeName | "Jon Valor"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Pirata_negro | Creador | Sheldon_Moldoff</striple>
+        <striple>Pirata_negro | NombreAlternativo | Jon_Valor</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Pirata_negre | Creador | Sheldon_Moldoff</ctriple>
+        <ctriple>Pirata_negre | NomAlternatiu | Jon_Valor</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Pirata_negro | Creador | Sheldon_Moldoff</gtriple>
+        <gtriple>Pirata_negro | NomeAlternativo | Jon_Valor</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Pirata_beltza. | Sortzailea | Sheldon_Moldoff</btriple>
+        <btriple>Pirata_beltza. | AlternatiboaIzena | Jon_Valor</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Black Pirate, also known as Jon Valor, was created by Sheldon Moldoff.</lex>
+      <lex lang="en" lid="Id2">The Black Pirate (Jon Valor) was created by Sheldon Moldoff.</lex>
+      <lex lang="en" lid="Id3">Sheldon Moldoff is the creator of Black Pirate, who is also known as Jon Valor.</lex>
+      <lex lang="es" lid="Id1">Pirata Negro, también conocido como Jon Valor, fue creado por Sheldon Moldoff.</lex>
+      <lex lang="es" lid="Id2">El Pirata Negro (Jon Valor) fue creado por Sheldon Moldoff.</lex>
+      <lex lang="es" lid="Id3">Sheldon Moldoff es el creador de El Pirata Negro, también conocido como Jon Valor.</lex>
+      <lex lang="ca" lid="Id1">Black Pirate, també conegut com a Jon Valor, va ser creat per Sheldon Moldoff.</lex>
+      <lex lang="ca" lid="Id2">El Pirata Negre (Jon Valor) va ser creat per Sheldon Moldoff.</lex>
+      <lex lang="ca" lid="Id3">Sheldon Moldoff és el creador de Black Pirate, també conegut com a Jon Valor.</lex>
+      <lex lang="eu" lid="Id1">Black Pirate, Jon Valor bezala ere ezaguna, Sheldon Moldoff-ek sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Black Pirate (Jon Valor) Sheldon Moldoff-ek sortu zuen.</lex>
+      <lex lang="eu" lid="Id3">Sheldon Moldoff pirata beltzaren sortzailea da, Jon Valor bezala ere ezaguna.</lex>
+      <lex lang="gl" lid="Id1">Black Pirate, tamén coñecido como Jon Valor, foi creado por Sheldon Moldoff.</lex>
+      <lex lang="gl" lid="Id2">O Pirata Negro (Jon Valor) foi creado por Sheldon Moldoff.</lex>
+      <lex lang="gl" lid="Id3">Sheldon Moldoff é o creador de Black Pirate, tamén coñecido como Jon Valor.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Blockbuster_(personaje_de_cómic) | Creador | Roger_Stern</striple>
+        <striple>Blockbuster_(personaje_de_cómic) | Creador | Tom_Lyle</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Blockbuster_(comicsCharacter) | Creador | Roger_Stern</ctriple>
+        <ctriple>Blockbuster_(comicsCharacter) | Creador | Tom_Lyle</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Blockbuster_(comicsCharacter) | Creador | Roger_Stern</gtriple>
+        <gtriple>Blockbuster_(comicsCharacter) | Creador | Tom_Lyle</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Blockbuster_(comicsCharacter) | Sortzailea | Roger_Stern</btriple>
+        <btriple>Blockbuster_(comicsCharacter) | Sortzailea | Tom_Lyle_izan_zen.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character Blockbuster was created by Roger Stern and Tom Lyle.</lex>
+      <lex lang="en" lid="Id2">Blockbuster is a comic book character which was created by both Roger Stern and Tom Lyle.</lex>
+      <lex lang="en" lid="Id3">The comic book character Blockbuster was created by Roger Stern and Tom Lyle.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Blockbuster fue creado por Roger Stern y Tom Lyle.</lex>
+      <lex lang="es" lid="Id2">Blockbuster es un personaje de cómic creado por Roger Stern y Tom Lyle.</lex>
+      <lex lang="es" lid="Id3">Blockbuster es un personaje de cómic que fue creado por Roger Stern y Tom Lyle.</lex>
+      <lex lang="ca" lid="Id1">El personatge de còmic Blockbuster va ser creat per Roger Stern i Tom Lyle.</lex>
+      <lex lang="ca" lid="Id2">Blockbuster és un personatge de còmic creat per Roger Stern i Tom Lyle.</lex>
+      <lex lang="ca" lid="Id3">El personatge del còmic Blockbuster va ser creat per Roger Stern i Tom Lyle.</lex>
+      <lex lang="eu" lid="Id1">Blockbuster komiki pertsonaia Roger Stern eta Tom Lylek sortu zuten.</lex>
+      <lex lang="eu" lid="Id2">Blockbuster komikietako pertsonaia bat da, Roger Sternek eta Tom Lylek sortua.</lex>
+      <lex lang="eu" lid="Id3">Blockbuster komiki-pertsonaia Roger Sternek eta Tom Lylek sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de cómics Blockbuster foi creado por Roger Stern e Tom Lyle.</lex>
+      <lex lang="gl" lid="Id2">Blockbuster é un personaxe de banda deseñada creado por Roger Stern e Tom Lyle.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de cómics Blockbuster foi creado por Roger Stern e Tom Lyle.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Gary_Cohn</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Paris_Cullins</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Gary_Cohn_(còmic)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Paris_Cullins</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Gary_Cohn_(cómics)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Paris_Cullins-en_antzera.</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Gary_Cohn_(komikiak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Paris Cullins and Gary Cohn are the creators of the comics character Bolt.</lex>
+      <lex lang="en" lid="Id2">Both Paris Cullins and Gary Cohn were the creator's of the comic character Bolt.</lex>
+      <lex lang="en" lid="Id3">The comic character Bolt, was created by Paris Cullins and Gary Cohn.</lex>
+      <lex lang="es" lid="Id1">Paris Cullins y Gary Cohn son los creadores del personaje de cómic Bolt.</lex>
+      <lex lang="es" lid="Id2">Tanto Paris Cullins como Gary Cohn fueron los creadores del personaje de cómic Bolt.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Bolt, fue creado por Paris Cullins y Gary Cohn.</lex>
+      <lex lang="ca" lid="Id1">Paris Cullins i Gary Cohn són els creadors del personatge de còmic Bolt.</lex>
+      <lex lang="ca" lid="Id2">Tant Paris Cullins com Gary Cohn van ser els creadors del personatge còmic Bolt.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic Bolt, va ser creat per Paris Cullins i Gary Cohn.</lex>
+      <lex lang="eu" lid="Id1">Paris Cullins eta Gary Cohn dira Bolt komikiko pertsonaiaren sortzaileak.</lex>
+      <lex lang="eu" lid="Id2">Paris Cullins eta Gary Cohn izan ziren Bolt komiki pertsonaiaren sortzaileak.</lex>
+      <lex lang="eu" lid="Id3">Bolt komikia Paris Cullinsek eta Gary Cohnek sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">Paris Cullins e Gary Cohn son os creadores do personaxe de banda deseñada Bolt.</lex>
+      <lex lang="gl" lid="Id2">Tanto Paris Cullins como Gary Cohn foron os creadores do personaxe cómico Bolt.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Bolt, foi creado por Paris Cullins e Gary Cohn.</lex>
+      </entry>
+    </entries>
+  </benchmark>

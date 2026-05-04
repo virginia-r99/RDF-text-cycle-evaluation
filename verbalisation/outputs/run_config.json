@@ -1,0 +1,42 @@
+{
+  "llm_models": [
+    "Qwen/Qwen3-4B-Instruct-2507",
+    "CohereLabs/tiny-aya-global",
+    "HuggingFaceTB/SmolLM3-3B",
+    "BSC-LT/salamandra-2b-instruct"
+  ],
+  "parse_splits": [
+    "train",
+    "dev",
+    "test"
+  ],
+  "eval_splits": [
+    "test"
+  ],
+  "target_langs": [
+    "en",
+    "es",
+    "ca",
+    "gl",
+    "eu"
+  ],
+  "fewshot_triple_sizes": [
+    1,
+    3,
+    7
+  ],
+  "fewshot_random_seed": 13,
+  "max_new_tokens": 512,
+  "temperature": 0.0,
+  "do_sample": false,
+  "top_p": 1.0,
+  "repetition_penalty": 1.0,
+  "use_4bit": false,
+  "trust_remote_code": true,
+  "torch_dtype": "auto",
+  "device_map": "auto",
+  "limit_per_split": null,
+  "overwrite_existing": false,
+  "data_root": "../WebNLG_CO",
+  "output_dir": "outputs_fewshot_webnlg"
+}

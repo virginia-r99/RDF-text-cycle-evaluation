@@ -1,0 +1,1917 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id1" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedBand | Kids_Imagine_Nation</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Kids_Imagine_Nation</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        <otriple>Ska_punk | stylisticOrigin | Punk_rock</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</mtriple>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
+        <mtriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</mtriple>
+        <mtriple>Aaron_Bertram | genre | Ska_punk</mtriple>
+        <mtriple>Ska_punk | stylisticOrigin | Punk_rock</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Bertram | BandaAsociada/artistaMusicalAsociado | Kids_Imagine_Nation</striple>
+        <striple>Aaron_Bertram | BandaAsociada/artistaMusicalAsociado | Suburban_Legends</striple>
+        <striple>Suburban_Legends | MiembroDeLaBanda | Brian_Robertson_(trombonista)</striple>
+        <striple>Aaron_Bertram | Género | ska_punk</striple>
+        <striple>ska_punk | OrigenEstilístico | punk_rock</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Bertram | BandaAssociada/artistaMusicalAssociat | Els_nens_imaginen_una_nació</ctriple>
+        <ctriple>Aaron_Bertram | BandaAssociada/artistaMusicalAssociat | Legendes_Suburbanes</ctriple>
+        <ctriple>Legendes_Suburbanes | MembreDeLaBanda | Brian_Robertson_(trombonista)</ctriple>
+        <ctriple>Aaron_Bertram | Gènere | ska_punk</ctriple>
+        <ctriple>ska_punk | OrigenEstilístic | punk_rock</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Bertram | BandaAsociada/ArtistaMusicalAsociado | Os_nenos_imaxinan_unha_nación</gtriple>
+        <gtriple>Aaron_Bertram | BandaAsociada/ArtistaMusicalAsociado | Suburban_Legends</gtriple>
+        <gtriple>Suburban_Legends | MembroDaBanda | Brian_Robertson_(trombón)</gtriple>
+        <gtriple>Aaron_Bertram | Xénero | Ska_punk</gtriple>
+        <gtriple>Ska_punk | OrixeEstilística | Punk_rock</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Bertram | Talde-taldea/artistaMusikaria | Umeek_nazio_bat_irudikatzen_dute.</btriple>
+        <btriple>Aaron_Bertram | Talde-taldea/artistaMusikaria | Suburban_Legends</btriple>
+        <btriple>Suburban_Legends | BandakoKidea | Brian_Robertson_(tronboi-jotzailea)</btriple>
+        <btriple>Aaron_Bertram | Generoa | Ska_punk_bat_da.</btriple>
+        <btriple>Ska_punk_bat_da. | OrigenEstilistikoa | Punk_rock_musika</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Bertram is a ska punk musician, a genre that originated from punk rock. He is an artist with Kids Imagine Nation and also plays for Suburban Legends Band. Brian Robertson plays the trombone for Suburban Legends.</lex>
+      <lex lang="en" lid="Id2">Aaron Bertram plays for the Kids Imagine Nation and the Suburban Legends bands, where he performs ska punk music, a form of punk rock. Brian Robertson, a trombonist, is a band member of Suburban Legends.</lex>
+      <lex lang="en" lid="Id3">Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends, where Brian Robertson is a trombonist. Aaron Bertram's musical genre is ska, which has its origins in punk rock.</lex>
+      <lex lang="es" lid="Id1">Aaron Bertram es músico de ska punk, género que tiene su origen en el punk rock. Es artista de Kids Imagine Nation y también toca para Suburban Legends Band. Brian Robertson toca el trombón para Suburban Legends.</lex>
+      <lex lang="es" lid="Id2">Aaron Bertram toca en los grupos Kids Imagine Nation y Suburban Legends, donde interpreta música ska punk, una forma de punk rock. Brian Robertson, trombonista, es miembro de la banda Suburban Legends.</lex>
+      <lex lang="es" lid="Id3">Aaron Bertram toca para los Kids Imagine Nation y para los Suburban Legends, donde Brian Robertson es trombonista. El género musical de Aaron Bertram es el ska, que tiene sus orígenes en el punk rock.</lex>
+      <lex lang="ca" lid="Id1">Aaron Bertram és un músic de ska punk, un gènere que es va originar en el punk rock. És un artista amb Kids Imagine Nation i també toca per a Suburban Legends Band. Brian Robertson toca el trombon per a Suburban Legends.</lex>
+      <lex lang="ca" lid="Id2">Aaron Bertram toca amb les bandes Kids Imagine Nation i Suburban Legends, amb les quals interpreta ska punk, una forma de punk rock. Brian Robertson, un trombonista, és membre de la banda Suburban Legends.</lex>
+      <lex lang="ca" lid="Id3">Aaron Bertram toca per a Kids Imagine Nation i per a Suburban Legends, on Brian Robertson és trombonista. El gènere musical d'Aaron Bertram és ska, que té els seus orígens en el punk rock.</lex>
+      <lex lang="eu" lid="Id1">Aaron Bertram ska punk musikaria da, punk rocketik sortua. Kids Imagine Nation taldeko artista da eta Suburban Legends Band taldean ere jotzen du.</lex>
+      <lex lang="eu" lid="Id2">Aaron Bertram Kids Imagine Nation eta Suburban Legends taldeetan jotzen du, non ska punk musika jotzen duen.</lex>
+      <lex lang="eu" lid="Id3">Aaron Bertram musikari estatubatuarra da, Kids Imagine Nation eta Suburban Legends taldeetan jotzen duena, azken honetan Brian Robertson tronboia jotzen duena. Aaron Bertram-en musikaren generoa ska da, punk rockean jatorria duena.</lex>
+      <lex lang="gl" lid="Id1">Aaron Bertram é un músico de ska punk, un xénero que se orixinou no punk rock. É artista de Kids Imagine Nation e tamén toca na banda Suburban Legends. Brian Robertson toca o trombón en Suburban Legends.</lex>
+      <lex lang="gl" lid="Id2">Aaron Bertram toca nas bandas Kids Imagine Nation e Suburban Legends, onde interpreta ska punk, unha forma de punk rock. Brian Robertson, un trombonista, é membro da banda Suburban Legends.</lex>
+      <lex lang="gl" lid="Id3">Aaron Bertram toca para Kids Imagine Nation e para Suburban Legends, onde Brian Robertson é trombonista. O xénero musical de Aaron Bertram é o ska, que ten as súas orixes no punk rock.</lex>
+      </entry>
+    <entry category="Artist" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
+        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
+        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
+        <otriple>Aaron_Deer | hometown | Indiana</otriple>
+        <otriple>Aaron_Deer | origin | United_States</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
+        <otriple>Aaron_Deer | hometown | United_States</otriple>
+        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
+        <otriple>Aaron_Deer | background | "solo_singer"@en</otriple>
+        <otriple>Aaron_Deer | origin | Indiana</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
+        <otriple>Aaron_Deer | hometown | United_States</otriple>
+        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
+        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
+        <otriple>Aaron_Deer | origin | Indiana</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
+        <mtriple>Aaron_Deer | origin | United_States</mtriple>
+        <mtriple>Aaron_Deer | associatedBand/associatedMusicalArtist | Wee_Giant</mtriple>
+        <mtriple>Aaron_Deer | background | "solo_singer"</mtriple>
+        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Deer | Género | indie_rock</striple>
+        <striple>Aaron_Deer | Origen | Estados_Unidos</striple>
+        <striple>Aaron_Deer | BandaAsociada/artistaMusicalAsociado | Wee_Giant</striple>
+        <striple>Aaron_Deer | Fondo | cantante_solista</striple>
+        <striple>Aaron_Deer | Origen | Indiana</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Deer | Gènere | indie_rock</ctriple>
+        <ctriple>Aaron_Deer | Origen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Aaron_Deer | BandaAssociada/artistaMusicalAssociat | Petit_gegant</ctriple>
+        <ctriple>Aaron_Deer | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Aaron_Deer | Origen | Indiana</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Deer | Xénero | Indie_rock</gtriple>
+        <gtriple>Aaron_Deer | Orixe | Estados_Unidos</gtriple>
+        <gtriple>Aaron_Deer | BandaAsociada/ArtistaMusicalAsociado | Pequeno_xigante</gtriple>
+        <gtriple>Aaron_Deer | Antecedentes | cantante_en_solitario</gtriple>
+        <gtriple>Aaron_Deer | Orixe | Indiana</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Oreina | Generoa | Indie_rocka</btriple>
+        <btriple>Aaron_Oreina | Jatorria | Estatu_Batuak</btriple>
+        <btriple>Aaron_Oreina | Talde-taldea/artistaMusikaria | Erraldoi_txikia.</btriple>
+        <btriple>Aaron_Oreina | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        <btriple>Aaron_Oreina | Jatorria | Indiana</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">American Aaron Deer is an Indie rock musician from Indiana. He has a background as a solo singer and was part of the band Wee Giant.</lex>
+      <lex lang="en" lid="Id2">Aaron Deer comes from Indiana, having been born in the United States. He is a solo singer/ performer of the musical genre indie rock, and is an artist for the Wee Giant band.</lex>
+      <lex lang="en" lid="Id3">Aaron Deer is an Indie rock soloist, formerly a member of Wee Giant. He was born in Indiana, USA.</lex>
+      <lex lang="es" lid="Id1">El estadounidense Aaron Deer es un músico de Indie rock de Indiana. Tiene experiencia como cantante solista y formó parte de la banda Wee Giant.</lex>
+      <lex lang="es" lid="Id2">Aaron Deer es natural de Indiana y nació en Estados Unidos. Es cantante e intérprete en solitario del género musical indie rock, y es artista de la banda Wee Giant.</lex>
+      <lex lang="es" lid="Id3">Aaron Deer es un solista de Indie rock, antiguo miembro de Wee Giant. Nació en Indiana, Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">L' americà Aaron Deer és un músic de rock indie d' Indiana. Va començar com a cantant en solitari i va formar part del grup Wee Giant.</lex>
+      <lex lang="ca" lid="Id2">Aaron Deer és originari d'Indiana, ja que va néixer als Estats Units. És un cantant/performer en solitari del gènere musical indie rock, i és un artista de la banda Wee Giant.</lex>
+      <lex lang="ca" lid="Id3">Aaron Deer és un solista de rock indie, anteriorment membre de Wee Giant. Va néixer a Indiana, EUA.</lex>
+      <lex lang="eu" lid="Id1">Aaron Deer (Indiana, Ameriketako Estatu Batuak) indie rock musikari estatubatuarra da. Soilik abesten du eta Wee Giant taldeko kide izan zen.</lex>
+      <lex lang="eu" lid="Id2">Aaron Deer Indianakoa da, Estatu Batuetan jaioa. Indie rock musika generoko bakarlari eta abeslari bat da, eta Wee Giant taldeko artista da.</lex>
+      <lex lang="eu" lid="Id3">Aaron Deer indie rock solista da, Wee Giant taldeko kidea izan zena.</lex>
+      <lex lang="gl" lid="Id1">O estadounidense Aaron Deer é un músico de indie rock de Indiana. Ten experiencia como cantante solista e formou parte da banda Wee Giant.</lex>
+      <lex lang="gl" lid="Id2">Aaron Deer é de Indiana, naceu nos Estados Unidos. É un cantante solista/ intérprete do xénero musical indie rock, e é un artista da banda Wee Giant.</lex>
+      <lex lang="gl" lid="Id3">Aaron Deer é un solista de indie rock, antes membro de Wee Giant. Naceu en Indiana, EE. UU.</lex>
+      </entry>
+    <entry category="Artist" eid="Id3" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | House_of_Low_Culture</otriple>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Mamiffer</otriple>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | House_of_Low_Culture</mtriple>
+        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Mamiffer</mtriple>
+        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | House_of_Low_Culture</striple>
+        <striple>Aaron_Turner | Género | black_metal</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Mamiffer</striple>
+        <striple>Aaron_Turner | Instrumento | guitarra_eléctrica</striple>
+        <striple>black_metal | GéneroMusicalFusión | death_metal</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Casa_de_la_Cultura_Baixa</ctriple>
+        <ctriple>Aaron_Turner | Gènere | black_metal</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Mamífer</ctriple>
+        <ctriple>Aaron_Turner | Instrument | guitarra_elèctrica</ctriple>
+        <ctriple>black_metal | MúsicaGenreFusion | death_metal</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Casa_da_Baixa_Cultura</gtriple>
+        <gtriple>Aaron_Turner | Xénero | Black_metal</gtriple>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Mamífer</gtriple>
+        <gtriple>Aaron_Turner | Instrumento | Guitarra_eléctrica</gtriple>
+        <gtriple>Black_metal | XéneroDeFusiónMusical | Death_metal</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Kultura_baxuaren_etxea</btriple>
+        <btriple>Aaron_Turner | Generoa | Black_metala</btriple>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Ez,_ez,_ez,_ez.</btriple>
+        <btriple>Aaron_Turner | TresnaBat | Gitarra_elektrikoa</btriple>
+        <btriple>Black_metala | MusicFusionGeneroa | Heriotza-metala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Turner is an electric guitar player for the black metal genre who has performed for House of Low Culture and Mamiffer. Death metal is a musical fusion of black metal.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner is a black metal musician that plays electric guitar and who performs with Mamiffer and has performed for the House of Low Culture and death metal is a musical fusion of black metal.</lex>
+      <lex lang="en" lid="Id3">Black metal electric guitar player Aaron Turner performs for Mamiffer and House of Low Culture. Death metal is a fusion of black metal.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner es un guitarrista eléctrico del género black metal que ha actuado para House of Low Culture y Mamiffer. El death metal es una fusión musical del black metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner es un músico de black metal que toca la guitarra eléctrica y que actúa con Mamiffer y ha actuado para la House of Low Culture y el death metal es una fusión musical del black metal.</lex>
+      <lex lang="es" lid="Id3">El guitarrista eléctrico de black metal Aaron Turner toca para Mamiffer y House of Low Culture. El death metal es una fusión del black metal.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner és un guitarrista elèctric del gènere del black metal que ha tocat amb House of Low Culture i Mamiffer. El death metal és una fusió musical del black metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner és un músic de black metal que toca la guitarra elèctrica i que actua amb Mamiffer i ha actuat per a la House of Low Culture i el death metal és una fusió musical del black metal.</lex>
+      <lex lang="ca" lid="Id3">El guitarrista elèctric de black metal Aaron Turner toca per a Mamiffer i House of Low Culture. El death metal és una fusió del black metal.</lex>
+      <lex lang="eu" lid="Id1">Aaron Turner gitarra-jole elektrikoa da black metalaren generoan, eta House of Low Culture eta Mamiffer taldeetan jo du. Death metala black metalaren fusio musikala da.</lex>
+      <lex lang="eu" lid="Id2">Aaron Turner gitarra elektrikoa jotzen duen black metal musikaria da. Mamiffer-ekin jotzen du eta House of Low Culture-rako eta death metal-erako emanaldiak egin ditu. Death metala black metalaren fusio musikala da.</lex>
+      <lex lang="eu" lid="Id3">Aaron Turner gitarra elektrikoa jotzen du Mamiffer eta House of Low Culture taldeetan. Death metala black metalaren fusioa da.</lex>
+      <lex lang="gl" lid="Id1">Aaron Turner é un guitarrista eléctrico do xénero do black metal que tocou con House of Low Culture e Mamiffer. O death metal é unha fusión musical do black metal.</lex>
+      <lex lang="gl" lid="Id2">Aaron Turner é un músico de black metal que toca guitarra eléctrica e que actúa con Mamiffer e tocou para a House of Low Culture e o death metal é unha fusión musical do black metal.</lex>
+      <lex lang="gl" lid="Id3">O guitarrista eléctrico de black metal Aaron Turner toca para Mamiffer e House of Low Culture. O death metal é unha fusión do black metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Greymachine</otriple>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedBand | Greymachine</otriple>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Greymachine</mtriple>
+        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
+        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Greymachine</striple>
+        <striple>Aaron_Turner | Género | black_metal</striple>
+        <striple>Aaron_Turner | Instrumento | guitarra_eléctrica</striple>
+        <striple>black_metal | GéneroMusicalFusión | death_metal</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Greymachine</ctriple>
+        <ctriple>Aaron_Turner | Gènere | black_metal</ctriple>
+        <ctriple>Aaron_Turner | Instrument | guitarra_elèctrica</ctriple>
+        <ctriple>black_metal | MúsicaGenreFusion | death_metal</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Crepúsculo_(banda)</gtriple>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Greymachine</gtriple>
+        <gtriple>Aaron_Turner | Xénero | Black_metal</gtriple>
+        <gtriple>Aaron_Turner | Instrumento | Guitarra_eléctrica</gtriple>
+        <gtriple>Black_metal | XéneroDeFusiónMusical | Death_metal</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Twilight_(musika_taldea)</btriple>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Greymachine</btriple>
+        <btriple>Aaron_Turner | Generoa | Black_metala</btriple>
+        <btriple>Aaron_Turner | TresnaBat | Gitarra_elektrikoa</btriple>
+        <btriple>Black_metala | MusicFusionGeneroa | Heriotza-metala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Black metal musician Aaron Turner, who plays the electric guitar, has been part of the bands Twilight and Greymachine. Black metal has a musical fusion called Death metal.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner plays electric guitar black metal of which death metal is a musical fusion. He played with Twilight and is associated with Greymachine.</lex>
+      <lex lang="en" lid="Id3">Black metal music and electric guitarist Aaron Turner is associated with the bands Twilight and Greymachine. Death metal is a fusion of black metal.</lex>
+      <lex lang="es" lid="Id1">El músico de black metal Aaron Turner, que toca la guitarra eléctrica, ha formado parte de los grupos Twilight y Greymachine. El black metal tiene una fusión musical llamada Death metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner toca la guitarra eléctrica en el black metal, del que el death metal es una fusión musical. Tocó con Twilight y está asociado con Greymachine.</lex>
+      <lex lang="es" lid="Id3">La música black metal y el guitarrista eléctrico Aaron Turner están asociados a los grupos Twilight y Greymachine. El death metal es una fusión del black metal.</lex>
+      <lex lang="ca" lid="Id1">El músic de black metal Aaron Turner, que toca la guitarra elèctrica, ha format part de les bandes Twilight i Greymachine. El black metal té una fusió musical anomenada death metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner toca la guitarra elèctrica del black metal, del qual el death metal és una fusió musical. Va tocar amb Twilight i està associat amb Greymachine.</lex>
+      <lex lang="ca" lid="Id3">El músic de black metal i guitarrista elèctric Aaron Turner està associat amb les bandes Twilight i Greymachine. El death metal és una fusió de black metal.</lex>
+      <lex lang="eu" lid="Id1">Gitarra elektrikoa jotzen duen Aaron Turner black metal musikaria Twilight eta Greymachine taldeetako kidea izan da. Black metalak death metal izeneko fusio musikal bat du.</lex>
+      <lex lang="eu" lid="Id2">Aaron Turner-ek gitarra elektrikoa jotzen du black metalean, death metalaren fusio musikala dena. Twilight-ekin jo zuen eta Greymachine-rekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id3">Black metal musika eta gitarra elektrikoa Aaron Turner Twilight eta Greymachine taldeekin lotzen da. Death metala black metalaren fusioa da.</lex>
+      <lex lang="gl" lid="Id1">O músico de black metal Aaron Turner, que toca a guitarra eléctrica, formou parte das bandas Twilight e Greymachine. O black metal ten unha fusión musical chamada death metal.</lex>
+      <lex lang="gl" lid="Id2">Aaron Turner toca a guitarra eléctrica no black metal, do que o death metal é unha fusión musical. Tocou con Twilight e está asociado con Greymachine.</lex>
+      <lex lang="gl" lid="Id3">O músico de black metal e guitarrista eléctrico Aaron Turner está asociado coas bandas Twilight e Greymachine. O death metal é unha fusión do black metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
+        <otriple>Aaron_Turner | genre | Sludge_metal</otriple>
+        <otriple>Aaron_Turner | hometown | Massachusetts</otriple>
+        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
+        <mtriple>Aaron_Turner | genre | Sludge_metal</mtriple>
+        <mtriple>Aaron_Turner | origin | Massachusetts</mtriple>
+        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Lotus_Eaters_(banda)</striple>
+        <striple>Aaron_Turner | Género | Sludge_metal</striple>
+        <striple>Aaron_Turner | Origen | Massachusetts</striple>
+        <striple>Aaron_Turner | AñosActivosAñoDeInicio | 1995</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Lotus_Eaters_(grup)</ctriple>
+        <ctriple>Aaron_Turner | Gènere | sludge_metal</ctriple>
+        <ctriple>Aaron_Turner | Origen | Massachusetts</ctriple>
+        <ctriple>Aaron_Turner | AnysActiusAnyD'inici | 1995</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Crepúsculo_(banda)</gtriple>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Lotus_Eaters_(banda)</gtriple>
+        <gtriple>Aaron_Turner | Xénero | Metal_de_lodo</gtriple>
+        <gtriple>Aaron_Turner | Orixe | MassachusettsRegion/_state_in_USA</gtriple>
+        <gtriple>Aaron_Turner | AnosActivosAnoDeInicio | 1995</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Twilight_(musika_taldea)</btriple>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Lotus_Eaters_(musika_taldea)</btriple>
+        <btriple>Aaron_Turner | Generoa | Metalezko_lokatza</btriple>
+        <btriple>Aaron_Turner | Jatorria | Massachusetts</btriple>
+        <btriple>Aaron_Turner | UrteAktiboakHasieraUrtea | 1995</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Turner was born in Massachusetts and started performing in 1995. He formerly played with the band Twilight and is now in the Lotus Eaters. He is is closely associated with the sludge metal genre.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner is from Massachusetts. He is a musician who loves Sludge metal and played with the band Twilight as well as the Lotus Eaters Band, in 1995.</lex>
+      <lex lang="en" lid="Id3">Massachusetts born Sludge metal musician, Aaron Turner, began performing in 1995. He has played with Twilight and has been with the Lotus Eaters band.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner nació en Massachusetts y empezó a actuar en 1995. Antes tocaba con la banda Twilight y ahora forma parte de Lotus Eaters. Está estrechamente vinculado al género del sludge metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner es de Massachusetts. Es un músico al que le encanta el Sludge metal y tocó con la banda Twilight, así como con la Lotus Eaters Band, en 1995.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner, músico de Sludge metal nacido en Massachusetts, comenzó a actuar en 1995. Ha tocado con Twilight y ha formado parte de la banda Lotus Eaters.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner va néixer a Massachusetts i va començar a actuar l'any 1995. Abans havia tocat amb la banda Twilight i ara ho fa amb els Lotus Eaters. Està estretament associat amb el gènere del sludge metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner és de Massachusetts. És un músic que estima el Sludge metal i va tocar amb la banda Twilight així com la Lotus Eaters Band, el 1995.</lex>
+      <lex lang="ca" lid="Id3">El músic de Sludge Metal nascut a Massachusetts, Aaron Turner, va començar a actuar el 1995. Ha tocat amb Twilight i ha estat amb la banda Lotus Eaters.</lex>
+      <lex lang="eu" lid="Id1">Aaron Turner Massachusettsen jaio zen eta 1995ean hasi zen jotzen. Lehen Twilight taldean jo zuen eta orain Lotus Eaters taldean. Sludge metal generoarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Aaron Turner Massachusetts-ekoa da. Sludge metal-a maite duen musikaria da eta 1995ean Twilight bandarekin eta Lotus Eaters bandarekin jo zuen.</lex>
+      <lex lang="eu" lid="Id3">Aaron Turner, Massachusettsen jaiotako sludge metal musikaria, 1995ean hasi zen jotzen Twilight taldearekin eta Lotus Eaters taldearekin.</lex>
+      <lex lang="gl" lid="Id1">Aaron Turner naceu en Massachusetts e comezou a tocar en 1995. Anteriormente tocou na banda Twilight e agora está nos Lotus Eaters. Está estreitamente asociado co xénero sludge metal.</lex>
+      <lex lang="gl" lid="Id2">Aaron Turner é de Massachusetts. É un músico que ama o Sludge metal e tocou coa banda Twilight, así como a Lotus Eaters Band, en 1995.</lex>
+      <lex lang="gl" lid="Id3">O músico de metal de Massachusetts, Aaron Turner, comezou a actuar en 1995. Tocou con Twilight e estivo coa banda Lotus Eaters.</lex>
+      </entry>
+    <entry category="Artist" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abradab | activeYearsStartYear | "1994"^^xsd:gYear</otriple>
+        <otriple>Abradab | associatedBand | Kaliber_44</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Magik_(rapper)</otriple>
+        <otriple>Abradab | origin | Katowice</otriple>
+        <otriple>Abradab | hometown | Poland</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Magik_(rapper)</otriple>
+        <otriple>Abradab | activeYearsStartYear | "1994"^^xsd:gYear</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Kaliber_44</otriple>
+        <otriple>Abradab | hometown | Katowice</otriple>
+        <otriple>Abradab | origin | Poland</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Magik_(rapper)</otriple>
+        <otriple>Abradab | activeYearsStartYear | "1994"^^xsd:gYear</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Kaliber_44</otriple>
+        <otriple>Abradab | origin | Katowice</otriple>
+        <otriple>Abradab | hometown | Poland</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | activeYearsStartYear | "1994"^^xsd:gYear</otriple>
+        <otriple>Abradab | associatedBand | Kaliber_44</otriple>
+        <otriple>Abradab | hometown | Katowice</otriple>
+        <otriple>Abradab | associatedMusicalArtist | Magik_(rapper)</otriple>
+        <otriple>Abradab | origin | Poland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | activeYearsStartYear | 1994</mtriple>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Kaliber_44</mtriple>
+        <mtriple>Abradab | origin | Katowice</mtriple>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)</mtriple>
+        <mtriple>Abradab | origin | Poland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abradab | AñosActivosAñoDeInicio | 1994</striple>
+        <striple>Abradab | BandaAsociada/artistaMusicalAsociado | Kaliber_44</striple>
+        <striple>Abradab | Origen | Katowice</striple>
+        <striple>Abradab | BandaAsociada/artistaMusicalAsociado | Magik</striple>
+        <striple>Abradab | Origen | Polonia</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Abradab | AnysActiusAnyD'inici | 1994</ctriple>
+        <ctriple>Abradab | BandaAssociada/artistaMusicalAssociat | Calibre_44</ctriple>
+        <ctriple>Abradab | Origen | Katowice</ctriple>
+        <ctriple>Abradab | BandaAssociada/artistaMusicalAssociat | Magik_(raper)</ctriple>
+        <ctriple>Abradab | Origen | Polònia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Abradab | AnosActivosAnoDeInicio | 1994</gtriple>
+        <gtriple>Abradab | BandaAsociada/ArtistaMusicalAsociado | Calibre_44</gtriple>
+        <gtriple>Abradab | Orixe | Katowice</gtriple>
+        <gtriple>Abradab | BandaAsociada/ArtistaMusicalAsociado | Magik_(rapero)</gtriple>
+        <gtriple>Abradab | Orixe | Polonia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Abradab | UrteAktiboakHasieraUrtea | 1994</btriple>
+        <btriple>Abradab | Talde-taldea/artistaMusikaria | 44._kalibrea</btriple>
+        <btriple>Abradab | Jatorria | Katowice</btriple>
+        <btriple>Abradab | Talde-taldea/artistaMusikaria | (Gaztelaniaz)_(Ingelesez)_(Frantsesez)</btriple>
+        <btriple>Abradab | Jatorria | Polonia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The musician Abradab originates from Katowice, Poland, and he started performing in 1994. He played with the band Kaliber 44 and is associated with the rapper Magik.</lex>
+      <lex lang="en" lid="Id2">Abradab came from Katowice, Poland and started peforming in 1994. He played with Kaliber 44 and is associated with the rapper Magik.</lex>
+      <lex lang="en" lid="Id3">Katowice, Poland born Abradab began performing in 1994 and is associated with Magik and Kaliber 44.</lex>
+      <lex lang="es" lid="Id1">El músico Abradab es originario de Katowice (Polonia) y empezó a actuar en 1994. Tocó con el grupo Kaliber 44 y está asociado con el rapero Magik.</lex>
+      <lex lang="es" lid="Id2">Abradab procede de Katowice (Polonia) y empezó a actuar en 1994. Tocó con Kaliber 44 y está asociado con el rapero Magik.</lex>
+      <lex lang="es" lid="Id3">Abradab, nacido en Katowice (Polonia), comenzó a actuar en 1994 y está asociado con Magik y Kaliber 44.</lex>
+      <lex lang="ca" lid="Id1">El músic Abradab és originari de Katowice, Polònia, i va començar a actuar l'any 1994. Va tocar amb el grup Kaliber 44 i està associat amb el raper Magik.</lex>
+      <lex lang="ca" lid="Id2">Abradab va venir de Katowice, Polònia, i va començar a actuar l'any 1994. Ha tocat amb Kaliber 44 i està associat amb el raper Magik.</lex>
+      <lex lang="ca" lid="Id3">Nascut a Katowice, Polònia, Abradab va començar a actuar el 1994 i està associat amb Magik i Kaliber 44.</lex>
+      <lex lang="eu" lid="Id1">Abradab musikaria Katowicetik (Polonia) dator eta 1994an hasi zen jotzen. Kaliber 44 bandarekin jo zuen eta Magik raperoarekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Abradab Katovitzakoa da, Polonian, eta 1994an hasi zen jotzen. Kaliber 44 taldearekin jo zuen eta Magik raperoarekin lotuta dago.</lex>
+      <lex lang="eu" lid="Id3">Katowicen, Polonian jaioa, Abradab 1994an hasi zen jotzen eta Magik eta Kaliber 44 taldeekin lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">O músico Abradab é orixinario de Katowice, Polonia, e comezou a actuar en 1994. Tocou coa banda Kaliber 44 e está asociado co rapero Magik.</lex>
+      <lex lang="gl" lid="Id2">Abradab vén de Katowice, Polonia e comezou a actuar en 1994. Tocou con Kaliber 44 e está asociado co rapeiro Magik.</lex>
+      <lex lang="gl" lid="Id3">Nacido en Katowice, Polonia, Abradab comezou a actuar en 1994 e está asociado con Magik e Kaliber 44.</lex>
+      </entry>
+    <entry category="Artist" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
+        <otriple>Ace_Wilder | occupation | Singing</otriple>
+        <otriple>Ace_Wilder | birthPlace | Sweden</otriple>
+        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
+        <otriple>Ace_Wilder | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ace_Wilder | background | "solo_singer"</otriple>
+        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
+        <otriple>Ace_Wilder | occupation | Singing</otriple>
+        <otriple>Ace_Wilder | birthPlace | Sweden</otriple>
+        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | background | "solo_singer"</mtriple>
+        <mtriple>Ace_Wilder | birthYear | 1982</mtriple>
+        <mtriple>Ace_Wilder | occupation | Singing</mtriple>
+        <mtriple>Ace_Wilder | birthPlace | Sweden</mtriple>
+        <mtriple>Ace_Wilder | birthDate | 1982-07-23</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ace_Wilder | Fondo | cantante_solista</striple>
+        <striple>Ace_Wilder | AñoDeNacimiento | 1982</striple>
+        <striple>Ace_Wilder | Ocupación | canto</striple>
+        <striple>Ace_Wilder | LugarDeNacimiento | Suecia</striple>
+        <striple>Ace_Wilder | FechaDeNacimiento | 23-07-1982</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ace_Wilder | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Ace_Wilder | AnyDeNaixement | 1982</ctriple>
+        <ctriple>Ace_Wilder | Ocupació | cant</ctriple>
+        <ctriple>Ace_Wilder | LlocDeNaixement | Suècia</ctriple>
+        <ctriple>Ace_Wilder | DataDeNaixement | 1982-07-23</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ace_Wilder | Antecedentes | cantante_en_solitario</gtriple>
+        <gtriple>Ace_Wilder | AnoDeNacemento | 1982</gtriple>
+        <gtriple>Ace_Wilder | Ocupación | Cantar</gtriple>
+        <gtriple>Ace_Wilder | LugarDeNacemento | Suecia</gtriple>
+        <gtriple>Ace_Wilder | DataDeNacemento | 1982-07-23</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>"Ace_Wilder"_izena_du. | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        <btriple>"Ace_Wilder"_izena_du. | JaiotzaUrtea | 1982</btriple>
+        <btriple>"Ace_Wilder"_izena_du. | Okupazioa | Abestea.</btriple>
+        <btriple>"Ace_Wilder"_izena_du. | JaiotzeLekua | Suedia</btriple>
+        <btriple>"Ace_Wilder"_izena_du. | JaiotzeData | 1982-07-23</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ace Wilder has a musical background as a solo singer was born on July 23rd, 1982, in Sweden.</lex>
+      <lex lang="en" lid="Id2">Solo singer Ace Wilder was born on July 23, 1982 in the country of Sweden.</lex>
+      <lex lang="en" lid="Id3">Ace Wilder's occupation is a solo singer. He was born in Sweden on 23 July 1982.</lex>
+      <lex lang="es" lid="Id1">Ace Wilder tiene formación musical como cantante solista nació el 23-07-1982 en Suecia.</lex>
+      <lex lang="es" lid="Id2">El cantante solista Ace Wilder nació el 23-07-1982 en Suecia.</lex>
+      <lex lang="es" lid="Id3">La ocupación de Ace Wilder es cantante solista. Nació en Suecia el 23-07-1982.</lex>
+      <lex lang="ca" lid="Id1">Ace Wilder té una formació musical com a cantant solista va néixer el 23 de juliol de 1982, a Suècia.</lex>
+      <lex lang="ca" lid="Id2">El cantant en solitari Ace Wilder va néixer el 23 de juliol de 1982 al país de Suècia.</lex>
+      <lex lang="ca" lid="Id3">Ace Wilder és un cantant solista nascut a Suècia el 23 de juliol de 1982.</lex>
+      <lex lang="eu" lid="Id1">Ace Wilder abeslari solista da. 1982ko uztailaren 23an jaio zen Suedian.</lex>
+      <lex lang="eu" lid="Id2">Ace Wilder abeslari suediarra 1982ko uztailaren 23an jaio zen.</lex>
+      <lex lang="eu" lid="Id3">Ace Wilder abeslari solista da. 1982ko uztailaren 23an jaio zen Suedian.</lex>
+      <lex lang="gl" lid="Id1">Ace Wilder ten unha formación musical como cantante en solitario naceu o 23 de xullo de 1982, en Suecia.</lex>
+      <lex lang="gl" lid="Id2">O cantante en solitario Ace Wilder naceu o 23 de xullo de 1982 no país de Suecia.</lex>
+      <lex lang="gl" lid="Id3">A profesión de Ace Wilder é cantante solista. Naceu en Suecia o 23 de xullo de 1982.</lex>
+      </entry>
+    <entry category="Artist" eid="Id8" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Agustín_Barboza | placeOfBirth | Paraguay</otriple>
+        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Paraguay | language | Spanish_language</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
+        <otriple>Agustín_Barboza | placeOfBirth | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
+        <otriple>Paraguay | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agustín_Barboza | birthPlace | Paraguay</mtriple>
+        <mtriple>Paraguay | ethnicGroup | Mestizo</mtriple>
+        <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
+        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
+        <mtriple>Paraguay | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Paraguay</striple>
+        <striple>Paraguay | GrupoÉtnico | mestizo</striple>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Asunción</striple>
+        <striple>Paraguay | Líder | Juan_Afara</striple>
+        <striple>Paraguay | Idioma | español</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Paraguai</ctriple>
+        <ctriple>Paraguai | GrupÈtnic | Mestís</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Asunción</ctriple>
+        <ctriple>Paraguai | Líder | Juan_Afara</ctriple>
+        <ctriple>Paraguai | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Agustín_Barboza | LugarDeNacemento | Paraguai</gtriple>
+        <gtriple>Paraguai | GrupoÉtnico | Mestizo</gtriple>
+        <gtriple>Agustín_Barboza | LugarDeNacemento | Asunción</gtriple>
+        <gtriple>Paraguai | Líder | Juan_Afara</gtriple>
+        <gtriple>Paraguai | Lingua | Idioma_español</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Agustín_Barboza | JaiotzeLekua | Paraguai</btriple>
+        <btriple>Paraguai | TaldeEtnikoa | Mestizoa</btriple>
+        <btriple>Agustín_Barboza | JaiotzeLekua | Asunción</btriple>
+        <btriple>Paraguai | Buruzagia. | Juan_Afara_izan_zen.</btriple>
+        <btriple>Paraguai | Hizkuntza | Espainiera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agustin Barboza was born in Asuncion, Paraguay and he is ethnic mestizo. Spanish is the official language of Paraguay and Juan Afara is the leader of the country.</lex>
+      <lex lang="en" lid="Id2">Agustin Barboza was born in Asuncion, Paraguay where the ethnic group are called Mestizo. The country's leader is Juan Afara and uses the Spanish language.</lex>
+      <lex lang="en" lid="Id3">Agustin Barboza was born in, Spanish speaking, Asuncion, Paraguay. Paraguay is also home to the Mestizo people and is led by Juan Afara.</lex>
+      <lex lang="es" lid="Id1">Agustín Barboza nació en Asunción, Paraguay, y es de etnia mestiza. El español es la lengua oficial de Paraguay y Juan Afara es el líder del país.</lex>
+      <lex lang="es" lid="Id2">Agustín Barboza nació en Asunción, Paraguay, donde el grupo étnico se denomina mestizo. El líder del país es Juan Afara y utiliza el idioma español.</lex>
+      <lex lang="es" lid="Id3">Agustín Barboza nació en, de habla hispana, Asunción, Paraguay. En Paraguay también vive el pueblo mestizo, liderado por Juan Afara.</lex>
+      <lex lang="ca" lid="Id1">Agustín Barboza va néixer a Asunción, Paraguai, i és d'ètnia mestissa, l'espanyol és la llengua oficial del Paraguai i Juan Afara és el líder del país.</lex>
+      <lex lang="ca" lid="Id2">Agustín Barboza va néixer a Asunción, al Paraguai, on el grup ètnic s'anomena mestissos i el líder del país és Juan Afara, que parla castellà.</lex>
+      <lex lang="ca" lid="Id3">Agustín Barboza va néixer a Asunción, al Paraguai, un país de parla hispana que també és la llar del poble mestis, liderat per Juan Afara.</lex>
+      <lex lang="eu" lid="Id1">Agustin Barboza Asuncionen jaio zen, Paraguain, eta mestizo etniakoa da. Espainiera da Paraguaiko hizkuntza ofiziala eta Juan Afara da herrialdeko buruzagia.</lex>
+      <lex lang="eu" lid="Id2">Agustin Barboza Asuncionen jaio zen, Paraguain, non etnia mestizoa den. Herrialdeko buruzagia Juan Afara da eta gaztelania erabiltzen du.</lex>
+      <lex lang="eu" lid="Id3">Agustín Barboza Asuncion-en jaio zen, Paraguain. Paraguain bizi dira, halaber, mestizoak, eta Juan Afara-k gidatzen ditu.</lex>
+      <lex lang="gl" lid="Id1">Agustín Barboza naceu en Asunción, Paraguai e é de etnia mestiza. O español é a lingua oficial do Paraguai e Juan Afara é o líder do país.</lex>
+      <lex lang="gl" lid="Id2">Agustín Barboza naceu en Asunción, Paraguai, onde o grupo étnico é chamado mestizo. O líder do país é Juan Afara e usa a lingua española.</lex>
+      <lex lang="gl" lid="Id3">Agustín Barboza naceu en Asunción, Paraguai, de fala española. Paraguai tamén é o fogar do pobo mestizo e está liderado por Juan Afara.</lex>
+      </entry>
+    <entry category="Artist" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | deathPlace | United_States</otriple>
+        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
+        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmet_Ertegun | deathPlace | United_States</mtriple>
+        <mtriple>Ahmet_Ertegun | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
+        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ahmet_Ertegün | LugarDeLaMuerte | Estados_Unidos</striple>
+        <striple>Ahmet_Ertegün | Género | rhythm_and_blues</striple>
+        <striple>rhythm_and_blues | OrigenEstilístico | Blues</striple>
+        <striple>rhythm_and_blues | Derivado | música_disco</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ahmet_Ertegun | LlocDeLaMort | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Ahmet_Ertegun | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>rhythm_and_blues | OrigenEstilístic | blues</ctriple>
+        <ctriple>rhythm_and_blues | Derivada | música_disco</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ahmet_Ertegun | LugarDaMorte | Estados_Unidos</gtriple>
+        <gtriple>Ahmet_Ertegun | Xénero | Ritmo_e_blues</gtriple>
+        <gtriple>Ritmo_e_blues | OrixeEstilística | Blues</gtriple>
+        <gtriple>Ritmo_e_blues | Derivado | Disco</gtriple>
+        <gtriple>Estados_Unidos | GrupoÉtnico | Afroamericanos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ahmet_Ertegun | HeriotzarenLekua | Estatu_Batuak</btriple>
+        <btriple>Ahmet_Ertegun | Generoa | Erritmo_eta_bluesa</btriple>
+        <btriple>Erritmo_eta_bluesa | OrigenEstilistikoa | Bluesa</btriple>
+        <btriple>Erritmo_eta_bluesa | Deribatua | Diskoetxea.</btriple>
+        <btriple>Estatu_Batuak | TaldeEtnikoa | Afrikar_amerikarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Disco derives from rhythm and blues which originated from the blues. Rhythm and blues is the musical genre of Ahmet Ertegun who died in the United States where the African Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Ahmet Ertegun in a rhythm and blues musician who died in the US where African Americans are an ethnic group. Disco is a derivative of rhythm and blues which was itself derived from blues music.</lex>
+      <lex lang="en" lid="Id3">Rhythm and blues (origins of disco) artist Ahmet Ertegun died in the United States. The United States is home to African Americans. R &amp; B has its origins in Blues.</lex>
+      <lex lang="es" lid="Id1">La música música disco deriva del rhythm and Blues, que tiene su origen en el Blues. El rhythm and Blues es el género musical de Ahmet Ertegun, que murió en Estados Unidos, donde los afroamericanos son un grupo étnico.</lex>
+      <lex lang="es" lid="Id2">Ahmet Ertegun es un músico de rhythm and Blues que murió en Estados Unidos, donde los afroamericanos son un grupo étnico. La música música disco es un derivado del rhythm and Blues, que a su vez procede del Blues.</lex>
+      <lex lang="es" lid="Id3">Muere en Estados Unidos el artista de rhythm and Blues (orígenes de la música música disco) Ahmet Ertegun. En Estados Unidos viven afroamericanos. El R&amp;B tiene su origen en el Blues.</lex>
+      <lex lang="ca" lid="Id1">La disco deriva del rhythm and blues que es va originar del blues. El rhythm and blues és el gènere musical d' Ahmet Ertegun que va morir als Estats Units on els afroamericans són un grup ètnic.</lex>
+      <lex lang="ca" lid="Id2">Ahmet Ertegun és un músic de rhythm and blues que va morir als Estats Units, on els afroamericans són un grup ètnic. El disco és un derivat del rhythm and blues, que al seu torn deriva de la música blues.</lex>
+      <lex lang="ca" lid="Id3">L' artista de rhythm and blues (origen de la disco) Ahmet Ertegun va morir als Estats Units. Els Estats Units són la llar dels afroamericans. El R &amp; B té els seus orígens en el blues.</lex>
+      <lex lang="eu" lid="Id1">Diskoa rhythm and bluesetik dator, bluesetik sortua. Rhythm and blues Ahmet Ertegun-en musika generoa da, Estatu Batuetan hil zena, non afroamerikarrak talde etniko bat diren.</lex>
+      <lex lang="eu" lid="Id2">Ahmet Ertegun, rhythm and blues musikaria, AEBetan hil zena, non afroamerikarrak talde etniko bat diren. Diskoa rhythm and blues musikaren eratorria da, bera ere blues musikatik eratorria.</lex>
+      <lex lang="eu" lid="Id3">Ahmet Ertegun rhythm and blues (diskoaren jatorria) artista Estatu Batuetan hil zen. Estatu Batuak afroamerikarren herrialdea da. R &amp; B bluesean du jatorria.</lex>
+      <lex lang="gl" lid="Id1">O disco deriva do rhythm and blues, que se orixinou a partir do blues. O rhythm and blues é o xénero musical de Ahmet Ertegun, que faleceu nos Estados Unidos, onde os afroamericanos son un grupo étnico.</lex>
+      <lex lang="gl" lid="Id2">Ahmet Ertegun, músico de rhythm and blues que morreu nos Estados Unidos, onde os afroamericanos son un grupo étnico. O disco é un derivado do rhythm and blues, que á súa vez deriva da música blues.</lex>
+      <lex lang="gl" lid="Id3">O artista de rhythm and blues (orixe do disco) Ahmet Ertegun morreu nos Estados Unidos. Os Estados Unidos son o fogar dos afroamericanos. O R&amp; B ten as súas orixes no blues.</lex>
+      </entry>
+    <entry category="Artist" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
+        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
+        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
+        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"@en</otriple>
+        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
+        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
+        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
+        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
+        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
+        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
+        <otriple>Ahmet_Ertegun | hometown | Washington,_D.C.</otriple>
+        <otriple>Ahmet_Ertegun | origin | United_States</otriple>
+        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmet_Ertegun | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Ahmet_Ertegun | birthYear | 1923</mtriple>
+        <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
+        <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
+        <mtriple>Ahmet_Ertegun | background | "non_performing_personnel"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ahmet_Ertegün | Género | rhythm_and_blues</striple>
+        <striple>Ahmet_Ertegün | AñoDeNacimiento | 1923</striple>
+        <striple>Ahmet_Ertegün | Origen | Washington_D._C.</striple>
+        <striple>Ahmet_Ertegün | Origen | Estados_Unidos</striple>
+        <striple>Ahmet_Ertegün | Fondo | personal_no_operativo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Ahmet_Ertegun | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Ahmet_Ertegun | AnyDeNaixement | 1923</ctriple>
+        <ctriple>Ahmet_Ertegun | Origen | Washington_DC</ctriple>
+        <ctriple>Ahmet_Ertegun | Origen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Ahmet_Ertegun | Antecedents | personal_no_executiu</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Ahmet_Ertegun | Xénero | Ritmo_e_blues</gtriple>
+        <gtriple>Ahmet_Ertegun | AnoDeNacemento | 1923</gtriple>
+        <gtriple>Ahmet_Ertegun | Orixe | Washington,_D.C.</gtriple>
+        <gtriple>Ahmet_Ertegun | Orixe | Estados_Unidos</gtriple>
+        <gtriple>Ahmet_Ertegun | Antecedentes | non_performing_personnel</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Ahmet_Ertegun | Generoa | Erritmo_eta_bluesa</btriple>
+        <btriple>Ahmet_Ertegun | JaiotzaUrtea | 1923</btriple>
+        <btriple>Ahmet_Ertegun | Jatorria | Washington_D.C.</btriple>
+        <btriple>Ahmet_Ertegun | Jatorria | Estatu_Batuak</btriple>
+        <btriple>Ahmet_Ertegun | OinarrizkoInformazioa | langile_ez-aktiboak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ahmet Ertegun is a rhythm and blues artist whose background is non performing personnel, and was born 1923, in Washington D.C., the United States.</lex>
+      <lex lang="en" lid="Id2">Born in 1923, Ahmet Ertegun is from Washington D.C., in the United States. Ertegun has a background as a non performing personnel and his musical genre is Rhythm and Blues.</lex>
+      <lex lang="en" lid="Id3">Born in Washington, DC, U.S.A. (1923), Ahmet Ertegun genre is rhythm and blues, although his background is non performing.</lex>
+      <lex lang="es" lid="Id1">Ahmet Ertegun es un artista de rhythm and blues cuya formación es de personal no interpretativo, y nació en 1923, en Washington D.C., Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Nacido en 1923, Ahmet Ertegun es de Washington D.C., en Estados Unidos. Ertegun tiene formación como personal no interpretativo y su género musical es el Rhythm and Blues.</lex>
+      <lex lang="es" lid="Id3">Nacido en Washington, DC, EE.UU. (1923), el género de Ahmet Ertegun es el rhythm and blues, aunque su formación no es interpretativa.</lex>
+      <lex lang="ca" lid="Id1">Ahmet Ertegun és un artista de rhythm and blues que va néixer el 1923 a Washington D.C., Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Nascut el 1923, Ahmet Ertegun és de Washington D.C., als Estats Units. Ertegun té experiència com a personal no artístic i el seu gènere musical és el rhythm and blues.</lex>
+      <lex lang="ca" lid="Id3">Nascut a Washington, DC, EUA (1923), el gènere d'Ahmet Ertegun és el rhythm and blues, tot i que el seu fons no és l'actuació.</lex>
+      <lex lang="eu" lid="Id1">Ahmet Ertegun rhythm and blues-eko artista bat da, eta Washington D.C.-n jaio zen, Estatu Batuetan, 1923an.</lex>
+      <lex lang="eu" lid="Id2">1923an jaioa, Ahmet Ertegun Washington D.C.-n jaio zen, Estatu Batuetan. Ertegun musikaria ez zen eta bere musika estiloa Rhythm and Blues da.</lex>
+      <lex lang="eu" lid="Id3">Washington DCn (1923) jaioa, Ahmet Ertegunen generoa rhythm and blues da, nahiz eta bere jatorria ez den.</lex>
+      <lex lang="gl" lid="Id1">Ahmet Ertegun é un artista de rhythm and blues que naceu en 1923, en Washington D.C., Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">Nacido en 1923, Ahmet Ertegun é de Washington D. C., nos Estados Unidos. Ertegun ten experiencia como persoal non intérprete e o seu xénero musical é o rhythm and blues.</lex>
+      <lex lang="gl" lid="Id3">Nacido en Washington, DC, Estados Unidos (1923), Ahmet Ertegun o xénero é o rhythm and blues, aínda que a súa formación non é a interpretación.</lex>
+      </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"</otriple>
+        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
+        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"</otriple>
+        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
+        <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
+        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Frew | Género | rock</striple>
+        <striple>rock | OrigenEstilístico | música_country</striple>
+        <striple>Alan_Frew | Fondo | cantante_solista</striple>
+        <striple>rock | OrigenEstilístico | Blues</striple>
+        <striple>rock | GéneroMusicalFusión | Bhangra_(música)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Frew | Gènere | rock</ctriple>
+        <ctriple>rock | OrigenEstilístic | country</ctriple>
+        <ctriple>Alan_Frew | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>rock | OrigenEstilístic | blues</ctriple>
+        <ctriple>rock | MúsicaGenreFusion | Bhangra_(música)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Frew | Xénero | Música_rock</gtriple>
+        <gtriple>Música_rock | OrixeEstilística | Música_country</gtriple>
+        <gtriple>Alan_Frew | Antecedentes | cantante_en_solitario</gtriple>
+        <gtriple>Música_rock | OrixeEstilística | Blues</gtriple>
+        <gtriple>Música_rock | XéneroDeFusiónMusical | Bhangra_(música)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Frew | Generoa | Rock_musika</btriple>
+        <btriple>Rock_musika | OrigenEstilistikoa | Country_musika</btriple>
+        <btriple>Alan_Frew | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        <btriple>Rock_musika | OrigenEstilistikoa | Bluesa</btriple>
+        <btriple>Rock_musika | MusicFusionGeneroa | Bhangra_(musika)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Frew, whose musical genre is Rock music, has a background as a solo singer. Rock music originated from country music and has its stylistic origins in the Blues. A musical fusion of rock music is bhangra music.</lex>
+      <lex lang="en" lid="Id2">Singer Alan Frew is a rock musician. Rock originates from the blues and country music while lending itself to Bhangra fusion.</lex>
+      <lex lang="en" lid="Id3">Singer Alan Frew is a rock musician. Rock has its origins in country and blues while influencing bhangra.</lex>
+      <lex lang="es" lid="Id1">Alan Frew, cuyo género musical es la música Rock, tiene antecedentes como cantante solista. La música rock se originó a partir de la música country y tiene sus orígenes estilísticos en el Blues. Una fusión musical de la música rock es la música bhangra.</lex>
+      <lex lang="es" lid="Id2">El cantante Alan Frew es músico de rock. El rock tiene su origen en el Blues y la música country, al tiempo que se presta a la fusión con el bhangra.</lex>
+      <lex lang="es" lid="Id3">El cantante Alan Frew es músico de rock. El rock tiene sus orígenes en el country y el Blues, al tiempo que influye en el bhangra.</lex>
+      <lex lang="ca" lid="Id1">L'Alan Frew, el gènere musical del qual és la música rock, té experiència com a cantant en solitari. La música rock va sorgir de la música country i té els seus orígens estilístics en el blues. Una fusió musical de la música rock és la música bhangra.</lex>
+      <lex lang="ca" lid="Id2">El cantant Alan Frew és un músic de rock. El rock té els seus orígens en el blues i la música country i es presta a la fusió amb el bhangra.</lex>
+      <lex lang="ca" lid="Id3">El cantant Alan Frew és un músic de rock. El rock té els seus orígens en el country i el blues, mentre que influeix en el bhangra.</lex>
+      <lex lang="eu" lid="Id1">Alan Frew, rock musikaren generoko musikaria, bakarkako abeslari gisa hasi zen. Rock musika country musikatik sortu zen eta bere jatorri estilistikoa bluesean du. Rock musikaren fusio musikala bhangra musika da.</lex>
+      <lex lang="eu" lid="Id2">Alan Frew abeslaria rock musikaria da. Rocka blues eta country musikatik dator eta Bhangra fusioan erabiltzen da.</lex>
+      <lex lang="eu" lid="Id3">Alan Frew abeslaria rock musikaria da. Rocka country eta blues musikan du jatorria, baina bhangra musikan ere eragina izan du.</lex>
+      <lex lang="gl" lid="Id1">Alan Frew, cuxo xénero musical é a música rock, ten experiencia como cantante en solitario. A música rock xurdiu da música country e ten as súas orixes estilísticas no blues. Unha fusión musical da música rock é a música bhangra.</lex>
+      <lex lang="gl" lid="Id2">O cantante Alan Frew é un músico de rock. O rock ten a súa orixe no blues e na música country, aínda que se presta á fusión Bhangra.</lex>
+      <lex lang="gl" lid="Id3">O cantante Alan Frew é un músico de rock. O rock ten as súas orixes no country e no blues e influíu no bhangra.</lex>
+      </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alan_Frew | hometown | Newmarket,_Ontario</otriple>
+        <otriple>Alan_Frew | occupation | Musician</otriple>
+        <otriple>Alan_Frew | birthPlace | Coatbridge</otriple>
+        <otriple>Alan_Frew | origin | Canada</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | occupation | Musician</otriple>
+        <otriple>Alan_Frew | hometown | Canada</otriple>
+        <otriple>Alan_Frew | birthPlace | Coatbridge</otriple>
+        <otriple>Alan_Frew | origin | Newmarket,_Ontario</otriple>
+        <otriple>Alan_Frew | background | "solo_singer"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | occupation | Musician</mtriple>
+        <mtriple>Alan_Frew | origin | Canada</mtriple>
+        <mtriple>Alan_Frew | birthPlace | Coatbridge</mtriple>
+        <mtriple>Alan_Frew | origin | Newmarket,_Ontario</mtriple>
+        <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Frew | Ocupación | músico</striple>
+        <striple>Alan_Frew | Origen | Canadá</striple>
+        <striple>Alan_Frew | LugarDeNacimiento | Coatbridge</striple>
+        <striple>Alan_Frew | Origen | Newmarket,_Ontario</striple>
+        <striple>Alan_Frew | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alan_Frew | Ocupació | músic</ctriple>
+        <ctriple>Alan_Frew | Origen | Canadà</ctriple>
+        <ctriple>Alan_Frew | LlocDeNaixement | Coatbridge</ctriple>
+        <ctriple>Alan_Frew | Origen | Newmarket,_Ontario</ctriple>
+        <ctriple>Alan_Frew | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alan_Frew | Ocupación | Músico</gtriple>
+        <gtriple>Alan_Frew | Orixe | Canadá</gtriple>
+        <gtriple>Alan_Frew | LugarDeNacemento | Coatbridgegreat-_britain__counties._kgm</gtriple>
+        <gtriple>Alan_Frew | Orixe | Newmarket,_Ontario</gtriple>
+        <gtriple>Alan_Frew | Antecedentes | cantante_en_solitario</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alan_Frew | Okupazioa | Musikaria</btriple>
+        <btriple>Alan_Frew | Jatorria | Kanariar_uharteak</btriple>
+        <btriple>Alan_Frew | JaiotzeLekua | Coatbridge-n_dago.</btriple>
+        <btriple>Alan_Frew | Jatorria | Newmarket,_Ontario</btriple>
+        <btriple>Alan_Frew | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alan Frew, who is from Newmarket, Ontario, Canada, was born in Coatbridge. He is a musician and solo singer.</lex>
+      <lex lang="en" lid="Id2">Alan Frew is from Coatbridge, Newmarket, Ontario, Canada and he is a musician and solo singer.</lex>
+      <lex lang="en" lid="Id3">Singer Alan Frew was born in Coatbridge but is from Newmarket, Ontario, Canada.</lex>
+      <lex lang="es" lid="Id1">Alan Frew, natural de Newmarket, Ontario, Canadá, nació en Coatbridge. Es músico y cantante solista.</lex>
+      <lex lang="es" lid="Id2">Alan Frew es de Coatbridge, Newmarket, Ontario, Canadá y es músico y cantante solista.</lex>
+      <lex lang="es" lid="Id3">El cantante Alan Frew nació en Coatbridge, pero es natural de Newmarket, Ontario (Canadá).</lex>
+      <lex lang="ca" lid="Id1">Alan Frew, que és de Newmarket, Ontàrio, Canadà, va néixer a Coatbridge i és músic i cantant solista.</lex>
+      <lex lang="ca" lid="Id2">Alan Frew és de Coatbridge, Newmarket, Ontàrio, Canadà i és un músic i cantant en solitari.</lex>
+      <lex lang="ca" lid="Id3">El cantant Alan Frew va néixer a Coatbridge, però és de Newmarket, Ontàrio, Canadà.</lex>
+      <lex lang="eu" lid="Id1">Alan Frew (Newmarket, Ontario, Kanada, 1967ko urtarrilaren 10a) musikari eta abeslari kanadarra da.</lex>
+      <lex lang="eu" lid="Id2">Alan Frew Coatbridge, Newmarket, Ontario, Kanadakoa da eta musikari eta bakarlari da.</lex>
+      <lex lang="eu" lid="Id3">Alan Frew abeslaria Coatbridge-n jaio zen, baina Newmarket-ekoa da, Ontario, Kanada.</lex>
+      <lex lang="gl" lid="Id1">Alan Frew, que é de Newmarket, Ontario, Canadá, naceu en Coatbridge. É músico e cantante solista.</lex>
+      <lex lang="gl" lid="Id2">Alan Frew é de Coatbridge, Newmarket, Ontario, Canadá e é músico e cantante solista.</lex>
+      <lex lang="gl" lid="Id3">O cantante Alan Frew naceu en Coatbridge, pero é de Newmarket, Ontario, Canadá.</lex>
+      </entry>
+    <entry category="Artist" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alex_Day | associatedBand | Chameleon_Circuit_(band)</otriple>
+        <otriple>Alex_Day | genre | Electronic_music</otriple>
+        <otriple>Alex_Day | birthPlace | London_Borough_of_Havering</otriple>
+        <otriple>Alex_Day | associatedMusicalArtist | Charlie_McDonnell</otriple>
+        <otriple>Alex_Day | activeYearsStartYear | "2006"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Chameleon_Circuit_(band)</mtriple>
+        <mtriple>Alex_Day | genre | Electronic_music</mtriple>
+        <mtriple>Alex_Day | birthPlace | London_Borough_of_Havering</mtriple>
+        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</mtriple>
+        <mtriple>Alex_Day | activeYearsStartYear | 2006</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Day | BandaAsociada/artistaMusicalAsociado | Chameleon_Circuit_(banda)</striple>
+        <striple>Alex_Day | Género | música_electrónica</striple>
+        <striple>Alex_Day | LugarDeNacimiento | Havering</striple>
+        <striple>Alex_Day | BandaAsociada/artistaMusicalAsociado | Charlie_McDonnell</striple>
+        <striple>Alex_Day | AñosActivosAñoDeInicio | 2006</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alex_Day | BandaAssociada/artistaMusicalAssociat | Chameleon_Circuit_(banda)</ctriple>
+        <ctriple>Alex_Day | Gènere | música_electrònica</ctriple>
+        <ctriple>Alex_Day | LlocDeNaixement | Havering</ctriple>
+        <ctriple>Alex_Day | BandaAssociada/artistaMusicalAssociat | Charlie_McDonnell</ctriple>
+        <ctriple>Alex_Day | AnysActiusAnyD'inici | 2006</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alex_Day | BandaAsociada/ArtistaMusicalAsociado | Chameleon_Circuit_(banda)</gtriple>
+        <gtriple>Alex_Day | Xénero | Música_electrónica</gtriple>
+        <gtriple>Alex_Day | LugarDeNacemento | Condado_de_Havering,_Londres</gtriple>
+        <gtriple>Alex_Day | BandaAsociada/ArtistaMusicalAsociado | Charlie_McDonnell</gtriple>
+        <gtriple>Alex_Day | AnosActivosAnoDeInicio | 2006</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alex_Day_izan_zen. | Talde-taldea/artistaMusikaria | Chameleon_Circuit_(banda)</btriple>
+        <btriple>Alex_Day_izan_zen. | Generoa | Musika_elektronikoa</btriple>
+        <btriple>Alex_Day_izan_zen. | JaiotzeLekua | Londresko_Havering_auzoa</btriple>
+        <btriple>Alex_Day_izan_zen. | Talde-taldea/artistaMusikaria | Charlie_McDonnell</btriple>
+        <btriple>Alex_Day_izan_zen. | UrteAktiboakHasieraUrtea | 2006</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Born in the London Borough of Havering, Alex Day, started performing in 2006. He plays with the band Chameleon Circuit and performs electronic music. Alex Day is associated with the musical artist Charlie McDonnell.</lex>
+      <lex lang="en" lid="Id2">Alex Day was born in the London Borough of Havering and became active in electronic music in 2006. He plays with Chameleon circuit and is associated with Charlie McDonnell.</lex>
+      <lex lang="en" lid="Id3">Electronic musician Alex Day was born in the London Borough of Havering. He began his active career in 2006 and is associated with artists Charlie McDonnell and the Chameleon Circuit.</lex>
+      <lex lang="es" lid="Id1">Nacido en el distrito londinense de Havering, Alex Day empezó a actuar en 2006. Toca con el grupo Chameleon Circuit e interpreta música electrónica. Alex Day está asociado con el artista musical Charlie McDonnell.</lex>
+      <lex lang="es" lid="Id2">Alex Day nació en el barrio londinense de Havering y comenzó a dedicarse a la música electrónica en 2006. Toca con el circuito Chameleon y está asociado con Charlie McDonnell.</lex>
+      <lex lang="es" lid="Id3">El músico electrónico Alex Day nació en el distrito londinense de Havering. Comenzó su carrera activa en 2006 y está asociado con los artistas Charlie McDonnell y Chameleon Circuit.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Havering, Londres, Alex Day va començar a actuar el 2006. Toca amb el grup Chameleon Circuit i fa música electrònica. Alex Day està associat amb l' artista musical Charlie McDonnell.</lex>
+      <lex lang="ca" lid="Id2">Alex Day va néixer al districte londinès de Havering i es va fer actiu en la música electrònica el 2006. Toca amb Chameleon circuit i està associat amb Charlie McDonnell.</lex>
+      <lex lang="ca" lid="Id3">El músic electrònic Alex Day va néixer al districte londinès de Havering. Va començar la seva carrera activa el 2006 i està associat amb els artistes Charlie McDonnell i el Chameleon Circuit.</lex>
+      <lex lang="eu" lid="Id1">Londongo Havering auzoan jaio zen Alex Day, eta 2006an hasi zen jotzen. Chameleon Circuit bandarekin jotzen du eta musika elektronikoa egiten du. Alex Day Charlie McDonnell artista musikalarekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Alex Day Londresko Havering auzoan jaio zen eta 2006an hasi zen musika elektronikoan. Chameleon zirkuituan jotzen du eta Charlie McDonnell-ekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id3">Alex Day musikari elektronikoa Londresko Havering auzoan jaio zen. Bere ibilbide aktiboa 2006an hasi zuen eta Charlie McDonnell eta Chameleon Circuit artistekin lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">Alex Day naceu no barrio londinense de Havering e comezou a actuar no 2006. Toca coa banda Chameleon Circuit e toca música electrónica. Alex Day está asociado co artista musical Charlie McDonnell.</lex>
+      <lex lang="gl" lid="Id2">Alex Day naceu no barrio londinense de Havering e comezou a traballar na música electrónica en 2006. Toca co circuito Chameleon e está asociado con Charlie McDonnell.</lex>
+      <lex lang="gl" lid="Id3">O músico electrónico Alex Day naceu no barrio londinense de Havering. Comezou a súa carreira activa en 2006 e está asociado cos artistas Charlie McDonnell e Chameleon Circuit.</lex>
+      </entry>
+    <entry category="Artist" eid="Id14" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
+        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
+        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
+        <otriple>London | leaderTitle | European_Parliament</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
+        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
+        <mtriple>Manchester | leader | Labour_Party_(UK)</mtriple>
+        <mtriple>London | leaderTitle | European_Parliament</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfred_Garth_Jones | LugarDeLaMuerte | Sidcup</striple>
+        <striple>Alfred_Garth_Jones | LugarDeLaMuerte | Londres</striple>
+        <striple>Alfred_Garth_Jones | LugarDeNacimiento | Mánchester</striple>
+        <striple>Mánchester | Líder | Partido_Laborista_(Reino_Unido)</striple>
+        <striple>Londres | TítuloDeLíder | Parlamento_Europeo</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alfred_Garth_Jones | LlocDeLaMort | Sidcup</ctriple>
+        <ctriple>Alfred_Garth_Jones | LlocDeLaMort | Londres</ctriple>
+        <ctriple>Alfred_Garth_Jones | LlocDeNaixement | Manchester</ctriple>
+        <ctriple>Manchester | Líder | Partit_Laborista_(Regne_Unit)</ctriple>
+        <ctriple>Londres | LíderTítol | Parlament_Europeu</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alfred_Garth_Jones | LugarDaMorte | Sidcup</gtriple>
+        <gtriple>Alfred_Garth_Jones | LugarDaMorte | Londres</gtriple>
+        <gtriple>Alfred_Garth_Jones | LugarDeNacemento | Manchester</gtriple>
+        <gtriple>Manchester | Líder | Partido_Laborista_(Reino_Unido)</gtriple>
+        <gtriple>Londres | LíderTítulo | Parlamento_Europeo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alfred_Garth_Jonesek_esan_zuen: | HeriotzarenLekua | Esku-azpiak.</btriple>
+        <btriple>Alfred_Garth_Jonesek_esan_zuen: | HeriotzarenLekua | Londres</btriple>
+        <btriple>Alfred_Garth_Jonesek_esan_zuen: | JaiotzeLekua | Manchesterrekoak.</btriple>
+        <btriple>Manchesterrekoak. | Buruzagia. | Alderdi_Laborista_(Erresuma_Batua)</btriple>
+        <btriple>Londres | LiderraIzenburua | Eusko_Jaurlaritzaren_laguntzarekin_egindako_azpitituluak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup, London. The leader of London is the European Parliament, and the leader of Manchester is The Labour Party (UK).</lex>
+      <lex lang="en" lid="Id2">Alfred Garth Jones was born in Manchester and passed away in Sidcup, London. The Labour Party is the leader of Manchester. The European parliament is the leader of London.</lex>
+      <lex lang="en" lid="Id3">Alfred Garth Jones was born in Manchester and died in Sidcup, London (led by the European Parliament). Manchester is led the Labour Party.</lex>
+      <lex lang="es" lid="Id1">Alfred Garth Jones nació en Manchester y murió en Sidcup, Londres. El líder de Londres es el Parlamento Europeo, y el de Manchester, el Partido Laborista (Reino Unido).</lex>
+      <lex lang="es" lid="Id2">Alfred Garth Jones nació en Manchester y falleció en Sidcup, Londres. El Partido Laborista es el líder de Manchester. El Parlamento Europeo es el líder de Londres.</lex>
+      <lex lang="es" lid="Id3">Alfred Garth Jones nació en Manchester y murió en Sidcup, Londres (liderado por el Parlamento Europeo). Manchester está dirigido el Partido Laborista.</lex>
+      <lex lang="ca" lid="Id1">Alfred Garth Jones va néixer a Manchester i va morir a Sidcup, Londres. El líder de Londres és el Parlament Europeu i el líder de Manchester és el Partit Laborista (Regne Unit).</lex>
+      <lex lang="ca" lid="Id2">Alfred Garth Jones va néixer a Manchester i va morir a Sidcup, Londres. El Partit Laborista és el líder de Manchester. El Parlament Europeu és el líder de Londres.</lex>
+      <lex lang="ca" lid="Id3">Alfred Garth Jones va néixer a Manchester i va morir a Sidcup, Londres.</lex>
+      <lex lang="eu" lid="Id1">Alfred Garth Jones (Manchester, Ingalaterra, 1942ko urtarrilaren 10a - Sidcup, Ingalaterra, 2011ko urtarrilaren 10a) Erresuma Batuko politikaria izan zen, Manchesterko Alderdi Laboristako kidea eta Londresko Parlamentuko kidea.</lex>
+      <lex lang="eu" lid="Id2">Alfred Garth Jones Manchesterren jaio zen eta Sidcupen hil zen, Londresen. Alderdi Laborista Manchesterren buruzagia da. Europako Parlamentua Londresen buruzagia da.</lex>
+      <lex lang="eu" lid="Id3">Alfred Garth Jones Manchesterren jaio eta Londresko Sidcopen hil zen (Europako Parlamentuak gidatuta). Manchesterrek Alderdi Laborista gidatzen du.</lex>
+      <lex lang="gl" lid="Id1">Alfred Garth Jones naceu en Manchester e morreu en Sidcup, Londres. O líder de Londres é o Parlamento Europeo e o líder de Manchester é o Partido Laborista (Reino Unido).</lex>
+      <lex lang="gl" lid="Id2">Alfred Garth Jones naceu en Manchester e faleceu en Sidcup, Londres. O Partido Laborista é o líder de Manchester. O Parlamento Europeo é o líder de Londres.</lex>
+      <lex lang="gl" lid="Id3">Alfred Garth Jones naceu en Manchester e morreu en Sidcup, Londres (liderado polo Parlamento Europeo). Manchester está liderado polo Partido Laborista.</lex>
+      </entry>
+    <entry category="Artist" eid="Id15" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
+        <otriple>Alfredo_Zitarrosa | associatedBand | Ciro_Pérez</otriple>
+        <otriple>Alfredo_Zitarrosa | associatedMusicalArtist | Héctor_Numa_Moraes</otriple>
+        <otriple>Alfredo_Zitarrosa | background | "solo_singer"</otriple>
+        <otriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</mtriple>
+        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Ciro_Pérez</mtriple>
+        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes</mtriple>
+        <mtriple>Alfredo_Zitarrosa | background | "solo_singer"</mtriple>
+        <mtriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfredo_Zitarrosa | SelloDiscográfico | RCA_Records</striple>
+        <striple>Alfredo_Zitarrosa | BandaAsociada/artistaMusicalAsociado | Ciro_Pérez</striple>
+        <striple>Alfredo_Zitarrosa | BandaAsociada/artistaMusicalAsociado | Héctor_Numa_Moraes</striple>
+        <striple>Alfredo_Zitarrosa | Fondo | cantante_solista</striple>
+        <striple>Alfredo_Zitarrosa | Género | zamba_(forma_de_arte)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alfredo_Zitarrosa | EtiquetaDelRegistre | RCA_Records</ctriple>
+        <ctriple>Alfredo_Zitarrosa | BandaAssociada/artistaMusicalAssociat | Ciro_Pérez</ctriple>
+        <ctriple>Alfredo_Zitarrosa | BandaAssociada/artistaMusicalAssociat | Héctor_Numa_Moraes</ctriple>
+        <ctriple>Alfredo_Zitarrosa | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Alfredo_Zitarrosa | Gènere | Zamba_(forma_d'art)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alfredo_Zitarrosa | EtiquetaDoDisco | RCA_Records_(en_inglés).</gtriple>
+        <gtriple>Alfredo_Zitarrosa | BandaAsociada/ArtistaMusicalAsociado | Ciro_Pérez</gtriple>
+        <gtriple>Alfredo_Zitarrosa | BandaAsociada/ArtistaMusicalAsociado | Héctor_Numa_Moraes</gtriple>
+        <gtriple>Alfredo_Zitarrosa | Antecedentes | cantante_en_solitario</gtriple>
+        <gtriple>Alfredo_Zitarrosa | Xénero | Zamba_(forma_de_arte)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alfredo_Zitarrosa | EtiketaErregistroa | RCA_Records_diskoetxea</btriple>
+        <btriple>Alfredo_Zitarrosa | Talde-taldea/artistaMusikaria | Ciro_Pérez</btriple>
+        <btriple>Alfredo_Zitarrosa | Talde-taldea/artistaMusikaria | Héctor_Numa_Moraes</btriple>
+        <btriple>Alfredo_Zitarrosa | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        <btriple>Alfredo_Zitarrosa | Generoa | Zamba_(arte-forma)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfredo Zitarrosa performs Zamba music and has a background as a solo singer. He was signed to the RCA Records label, and has been associated with the musicians Ciro Pérez and Héctor Numa Moraes.</lex>
+      <lex lang="en" lid="Id2">Alfredo Zitarrosa recorded his songs with the RCA Records Label. Alfredo's background is solo singing in the zamba style. Ciro Perez and Hector Numa Moraes are musicians associated with Alfredo Zitarrosa.</lex>
+      <lex lang="en" lid="Id3">Alfredo Zitarrosa is a Zamba solo singer associated with Ciro Perez and Hector Numa Moraes. He is signed to RCA records.</lex>
+      <lex lang="es" lid="Id1">Alfredo Zitarrosa interpreta música zamba y tiene antecedentes como cantante solista. Fue fichado por la discográfica RCA Records, y ha estado asociado con los músicos Ciro Pérez y Héctor Numa Moraes.</lex>
+      <lex lang="es" lid="Id2">Alfredo Zitarrosa grabó sus canciones con el sello RCA Records. Alfredo es cantante solista en el estilo zamba. Ciro Perez y Hector Numa Moraes son músicos asociados con Alfredo Zitarrosa.</lex>
+      <lex lang="es" lid="Id3">Alfredo Zitarrosa es un cantante solista de zamba asociado con Ciro Pérez y Héctor Numa Moraes. Ha firmado un contrato con RCA Records.</lex>
+      <lex lang="ca" lid="Id1">Alfredo Zitarrosa interpreta música zamba i té experiència com a cantant en solitari. Va signar amb el segell RCA Records i s'ha associat amb els músics Ciro Pérez i Héctor Numa Moraes.</lex>
+      <lex lang="ca" lid="Id2">Alfredo Zitarrosa va enregistrar les seves cançons amb el segell RCA Records. L'Alfredo és un cantant solista de l'estil zamba. Ciro Pérez i Héctor Numa Moraes són músics associats amb l'Alfredo Zitarrosa.</lex>
+      <lex lang="ca" lid="Id3">Alfredo Zitarrosa és un cantant solista de Zamba associat amb Ciro Perez i Hector Numa Moraes. Ha signat amb RCA records.</lex>
+      <lex lang="eu" lid="Id1">Alfredo Zitarrosak zamba-musika jotzen du eta bakarlari gisa aritzen da. RCA Records disko-etxearekin sinatu zuen eta Ciro Pérez eta Héctor Numa Moraes musikariekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Alfredo Zitarrosak bere abestiak RCA Records diskoetxearekin grabatu zituen. Alfredoren atzean zamba estiloko bakarkako abeslaria dago. Ciro Perez eta Hector Numa Moraes Alfredo Zitarrosarekin lotutako musikariak dira.</lex>
+      <lex lang="eu" lid="Id3">Alfredo Zitarrosa zamba abeslari bat da, Ciro Perez eta Hector Numa Moraesekin batera aritzen dena.</lex>
+      <lex lang="gl" lid="Id1">Alfredo Zitarrosa interpreta música zamba e ten experiencia como cantante en solitario. Asinou co selo RCA Records e asociouse cos músicos Ciro Pérez e Héctor Numa Moraes.</lex>
+      <lex lang="gl" lid="Id2">Alfredo Zitarrosa gravou as súas cancións co selo discográfico RCA Records. O estilo de Alfredo é o de cantar só zamba. Ciro Pérez e Héctor Numa Moraes son músicos asociados con Alfredo Zitarrosa.</lex>
+      <lex lang="gl" lid="Id3">Alfredo Zitarrosa é un cantante solista de Zamba asociado con Ciro Perez e Hector Numa Moraes. Está asinado por RCA Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Flibbertigibbet</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Mellow_Candle</otriple>
+        <otriple>Alison_O'Donnell | genre | Folk_music_of_Ireland</otriple>
+        <otriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</otriple>
+        <otriple>Alison_O'Donnell | activeYearsStartYear | "1963"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Flibbertigibbet</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
+        <mtriple>Alison_O'Donnell | genre | Folk_music_of_Ireland</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</mtriple>
+        <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alison_O'Donnell | BandaAsociada/artistaMusicalAsociado | Flibbertigibbet</striple>
+        <striple>Alison_O'Donnell | BandaAsociada/artistaMusicalAsociado | Mellow_Candle</striple>
+        <striple>Alison_O'Donnell | Género | Música_folclórica_de_Irlanda</striple>
+        <striple>Alison_O'Donnell | SelloDiscográfico | Static_Caravan_Recordings</striple>
+        <striple>Alison_O'Donnell | AñosActivosAñoDeInicio | 1963</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Alison_O'Donnell | BandaAssociada/artistaMusicalAssociat | Flibbertigibbet</ctriple>
+        <ctriple>Alison_O'Donnell | BandaAssociada/artistaMusicalAssociat | Candela_suau</ctriple>
+        <ctriple>Alison_O'Donnell | Gènere | Música_popular_d'Irlanda</ctriple>
+        <ctriple>Alison_O'Donnell | EtiquetaDelRegistre | Static_Caravan_Recordings</ctriple>
+        <ctriple>Alison_O'Donnell | AnysActiusAnyD'inici | 1963</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Alison_O'Donnell | BandaAsociada/ArtistaMusicalAsociado | Flibbertigibbet</gtriple>
+        <gtriple>Alison_O'Donnell | BandaAsociada/ArtistaMusicalAsociado | Candela_suave</gtriple>
+        <gtriple>Alison_O'Donnell | Xénero | Música_popular_de_Irlanda</gtriple>
+        <gtriple>Alison_O'Donnell | EtiquetaDoDisco | Gravacións_estáticas_de_caravanas</gtriple>
+        <gtriple>Alison_O'Donnell | AnosActivosAnoDeInicio | 1963</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Alison_O'Donnell | Talde-taldea/artistaMusikaria | Flibbertigibbet</btriple>
+        <btriple>Alison_O'Donnell | Talde-taldea/artistaMusikaria | Kandelarik_gozoena.</btriple>
+        <btriple>Alison_O'Donnell | Generoa | Irlandako_folk_musika</btriple>
+        <btriple>Alison_O'Donnell | EtiketaErregistroa | Karabanako_grabazio_estatikoak</btriple>
+        <btriple>Alison_O'Donnell | UrteAktiboakHasieraUrtea | 1963</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alison O'Donnell began her music career in 1963. She has been a member of Flibbertigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.</lex>
+      <lex lang="en" lid="Id2">Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle. She became active in 1963 and is signed to Static Caravan Recordings.</lex>
+      <lex lang="es" lid="Id1">Alison O'Donnell comenzó su carrera musical en 1963. Ha sido miembro de las bandas Flibbertigibbet y Mellow Candle. Es una cantante folk irlandesa que ha firmado con el sello discográfico Static Caravan.</lex>
+      <lex lang="es" lid="Id2">Alison O'Donnell tocaba música folk irlandesa con la banda Flibbertigibbet y Mellow Candle. Empezó a trabajar en 1963 y ha firmado un contrato con Static Caravan Recordings.</lex>
+      <lex lang="ca" lid="Id1">Alison O' Donnell va començar la seva carrera musical el 1963. Ha estat membre de Flibbertigibbet i Mellow Candle Bands. És una cantant folk irlandesa que ha signat amb el segell discogràfic Static Caravan.</lex>
+      <lex lang="ca" lid="Id2">Alison O'Donnell va tocar música folk irlandesa amb la banda Flibbertigibbet i Mellow Candle. Es va fer activa el 1963 i ha signat amb Static Caravan Recordings.</lex>
+      <lex lang="eu" lid="Id1">Alison O'Donnell-ek 1963an hasi zuen bere musika-karrera. Flibbertigibbet eta Mellow Candle Band-etako kide izan da. Irish folk abeslari bat da eta Static Caravan disko-etxearekin sinatu du.</lex>
+      <lex lang="eu" lid="Id2">Alison O'Donnell-ek irlandar folk musika jo zuen Flibbertigibbet bandarekin eta Mellow Candle-rekin. 1963an hasi zen lanean eta Static Caravan Recordings-ekin sinatu zuen.</lex>
+      <lex lang="gl" lid="Id1">Alison O' Donnell comezou a súa carreira musical en 1963. Foi membro de Flibbertigibbet e Mellow Candle Bands. É unha cantante folk irlandesa asinada polo selo Static Caravan.</lex>
+      <lex lang="gl" lid="Id2">Alison O'Donnell tocou música folk irlandesa coa banda Flibbertigibbet e Mellow Candle. Comezou a actuar en 1963 e ten contrato con Static Caravan Recordings.</lex>
+      </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Tab_Benoit</otriple>
+        <otriple>Anders_Osborne | genre | Rhythm_and_blues</otriple>
+        <otriple>Anders_Osborne | associatedActs | Voice_of_the_Wetlands_All-Stars</otriple>
+        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
+        <otriple>Anders_Osborne | genre | Rhythm_and_blues</otriple>
+        <otriple>Anders_Osborne | associatedActs | Tab_Benoit</otriple>
+        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
+        <mtriple>Anders_Osborne | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
+        <mtriple>Anders_Osborne | activeYearsStartYear | 1989</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Billy_Iuso</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Tab_Benoit</striple>
+        <striple>Anders_Osborne | Género | rhythm_and_blues</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | La_voz_de_las_estrellas_de_los_humedales</striple>
+        <striple>Anders_Osborne | AñosActivosAñoDeInicio | 1989</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Billy_Iuso</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Tab_Benoit</ctriple>
+        <ctriple>Anders_Osborne | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | La_veu_dels_aiguamolls_All-Stars</ctriple>
+        <ctriple>Anders_Osborne | AnysActiusAnyD'inici | 1989</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Anders_Osborne | BandaAsociada/ArtistaMusicalAsociado | Billy_Iuso</gtriple>
+        <gtriple>Anders_Osborne | BandaAsociada/ArtistaMusicalAsociado | Tab_Benoit</gtriple>
+        <gtriple>Anders_Osborne | Xénero | Ritmo_e_blues</gtriple>
+        <gtriple>Anders_Osborne | BandaAsociada/ArtistaMusicalAsociado | A_voz_das_augas_húmidas_All-Stars</gtriple>
+        <gtriple>Anders_Osborne | AnosActivosAnoDeInicio | 1989</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Talde-taldea/artistaMusikaria | Billy_Iuso</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Talde-taldea/artistaMusikaria | Tab_Benoit</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Generoa | Erritmo_eta_bluesa</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Talde-taldea/artistaMusikaria | Baso_hezeetako_izarren_ahotsa</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | UrteAktiboakHasieraUrtea | 1989</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Anders Osborne's musical career began in 1989. His genre is Rhythm and blues and he is associated with the musical artists Billy Iuso and Tab Benoit. Anders Osborne is also associated with the band, Voice of the Wetlands All-Stars.</lex>
+      <lex lang="en" lid="Id2">Anders Osborne started his musical performing in 1989, where he met musical artists Tab Benoit and Billy Iuso, with the band Voice of the Wetlands All-Stars. A. Osborne performs in the rhythm and blues style.</lex>
+      <lex lang="en" lid="Id3">Anders Osborne started performing in 1989. His genre is rhythm and blues. He has worked with Tab Benoit and is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars.</lex>
+      <lex lang="es" lid="Id1">La carrera musical de Anders Osborne comenzó en 1989. Su género es el Rhythm and blues y está asociado con los artistas musicales Billy Iuso y Tab Benoit. Anders Osborne también está asociado con la banda Voice of the Wetlands All-Stars.</lex>
+      <lex lang="es" lid="Id2">Anders Osborne comenzó su andadura musical en 1989, donde conoció a los artistas musicales Tab Benoit y Billy Iuso, con la banda Voice of the Wetlands All-Stars. A. Osborne interpreta en el estilo rhythm and blues.</lex>
+      <lex lang="es" lid="Id3">Anders Osborne empezó a actuar en 1989. Su género es el rhythm and blues. Ha trabajado con Tab Benoit y está asociado con el artista musical Billy Iuso y con Voice of the Wetlands All-Stars.</lex>
+      <lex lang="ca" lid="Id1">La carrera musical d'Anders Osborne va començar el 1989. El seu gènere és el Rhythm and Blues i està associat amb els artistes musicals Billy Iuso i Tab Benoit. Anders Osborne també està associat amb la banda, Voice of the Wetlands All-Stars.</lex>
+      <lex lang="ca" lid="Id2">L'Anders Osborne va començar la seva carrera musical l'any 1989, quan va conèixer els artistes Tab Benoit i Billy Iuso amb la banda Voice of the Wetlands All-Stars. L'Osborne toca en l'estil rhythm and blues.</lex>
+      <lex lang="ca" lid="Id3">Anders Osborne va començar a actuar el 1989. El seu gènere és el rhythm and blues. Ha treballat amb Tab Benoit i està associat amb l'artista musical Billy Iuso i amb Voice of the Wetlands All-Stars.</lex>
+      <lex lang="eu" lid="Id1">Anders Osborneren musika karrera 1989an hasi zen. Bere generoa rhythm and bluesa da eta Billy Iuso eta Tab Benoit musikariekin lotuta dago. Anders Osborne Voice of the Wetlands All-Stars taldearekin ere lotuta dago.</lex>
+      <lex lang="eu" lid="Id2">Osbornek 1989an hasi zuen bere musika-ibilbidea, Tab Benoit eta Billy Iuso musikariak ezagutu zituenean, Voice of the Wetlands All-Stars taldearekin.A. Osbornek rhythm and blues estiloan jotzen du.</lex>
+      <lex lang="eu" lid="Id3">Anders Osborne 1989an hasi zen jotzen. Bere generoa rhythm and blues da. Tab Benoit-ekin lan egin du eta Billy Iuso musikariarekin eta Voice of the Wetlands All-Stars-ekin lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">A carreira musical de Anders Osborne comezou en 1989. O seu xénero é o rhythm and blues e está asociado cos artistas musicais Billy Iuso e Tab Benoit. Anders Osborne tamén está asociado coa banda Voice of the Wetlands All-Stars.</lex>
+      <lex lang="gl" lid="Id2">Anders Osborne comezou as súas actuacións musicais en 1989, onde coñeceu aos artistas musicais Tab Benoit e Billy Iuso, coa banda Voice of the Wetlands All- Stars. A. Osborne actúa no estilo rhythm and blues.</lex>
+      <lex lang="gl" lid="Id3">Anders Osborne comezou a actuar en 1989. O seu xénero é o rhythm and blues. Traballou con Tab Benoit e está asociado co artista musical Billy Iuso e con Voice of the Wetlands All-Stars.</lex>
+      </entry>
+    <entry category="Artist" eid="Id18" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedActs | Johnny_Sansone</otriple>
+        <otriple>Anders_Osborne | occupation | Guitarist</otriple>
+        <otriple>Anders_Osborne | recordLabel | Okeh_Records</otriple>
+        <otriple>Anders_Osborne | genre | Rock_music</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Johnny_Sansone</mtriple>
+        <mtriple>Anders_Osborne | occupation | Guitarist</mtriple>
+        <mtriple>Anders_Osborne | recordLabel | Okeh_Records</mtriple>
+        <mtriple>Anders_Osborne | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Johnny_Sansone</striple>
+        <striple>Anders_Osborne | Ocupación | guitarrista</striple>
+        <striple>Anders_Osborne | SelloDiscográfico | Okeh</striple>
+        <striple>Anders_Osborne | Género | rock</striple>
+        <striple>rock | GéneroMusicalFusión | Bhangra_(música)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Johnny_Sansone</ctriple>
+        <ctriple>Anders_Osborne | Ocupació | guitarrista</ctriple>
+        <ctriple>Anders_Osborne | EtiquetaDelRegistre | Okeh</ctriple>
+        <ctriple>Anders_Osborne | Gènere | rock</ctriple>
+        <ctriple>rock | MúsicaGenreFusion | Bhangra_(música)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Anders_Osborne | BandaAsociada/ArtistaMusicalAsociado | Johnny_Sansone</gtriple>
+        <gtriple>Anders_Osborne | Ocupación | Guitarrista</gtriple>
+        <gtriple>Anders_Osborne | EtiquetaDoDisco | Okeh_Records</gtriple>
+        <gtriple>Anders_Osborne | Xénero | Música_rock</gtriple>
+        <gtriple>Música_rock | XéneroDeFusiónMusical | Bhangra_(música)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Talde-taldea/artistaMusikaria | Johnny_Sansoneren_izena_da.</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Okupazioa | Gitarra-jotzailea</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | EtiketaErregistroa | Okeh_Records</btriple>
+        <btriple>Anders_Osborne_eta_bere_lagunak. | Generoa | Rock_musika</btriple>
+        <btriple>Rock_musika | MusicFusionGeneroa | Bhangra_(musika)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Okeh records. Bhangra is a musical fusion of rock music.</lex>
+      <lex lang="en" lid="Id2">Rock guitarist Anders Osborne is signed with Okeh Records and is associated with musician Johnny Sansone. Bhangra is a fusion of rock music.</lex>
+      <lex lang="en" lid="Id3">Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist Johnny Sansone. Bhangra is fusion of rock.</lex>
+      <lex lang="es" lid="Id1">Anders Osborne es un guitarrista de rock asociado con Johnny Sansone y fichado por Okeh records. El bhangra es una fusión musical de la música rock.</lex>
+      <lex lang="es" lid="Id2">El guitarrista de rock Anders Osborne ha firmado un contrato con Okeh Records y está asociado con el músico Johnny Sansone. El bhangra es una fusión de música rock.</lex>
+      <lex lang="es" lid="Id3">El guitarrista de rock Anders Osborne ha firmado con Okeh Records y está asociado con el artista Johnny Sansone. Bhangra es una fusión de rock.</lex>
+      <lex lang="ca" lid="Id1">Anders Osborne és un guitarrista de rock associat amb Johnny Sansone i signat per Okeh records. Bhangra és una fusió musical de música rock.</lex>
+      <lex lang="ca" lid="Id2">El guitarrista de rock Anders Osborne ha signat amb Okeh Records i està associat amb el músic Johnny Sansone. Bhangra és una fusió de música rock.</lex>
+      <lex lang="ca" lid="Id3">El guitarrista de rock Anders Osborne ha signat amb Okeh Records i està associat amb l'artista Johnny Sansone. Bhangra és una fusió de rock.</lex>
+      <lex lang="eu" lid="Id1">Anders Osborne rock gitarra-jotzaile bat da, Johnny Sansonerekin batera Okeh diskoetxearekin sinatu duena. Bhangra rock musikaren fusio musikala da.</lex>
+      <lex lang="eu" lid="Id2">Anders Osborne rock gitarrista Okeh Records-ekin sinatuta dago eta Johnny Sansone musikariarekin erlazionatuta dago. Bhangra rock musikaren fusioa da.</lex>
+      <lex lang="eu" lid="Id3">Anders Osborne rock gitarrista Okeh Records-ekin sinatuta dago eta Johnny Sansone artistarekin erlazionatuta dago. Bhangra rockaren fusioa da.</lex>
+      <lex lang="gl" lid="Id1">Anders Osborne é un guitarrista de rock asociado con Johnny Sansone e asinou con Okeh Records. Bhangra é unha fusión musical de música rock.</lex>
+      <lex lang="gl" lid="Id2">O guitarrista de rock Anders Osborne asinou con Okeh Records e está asociado co músico Johnny Sansone. Bhangra é unha fusión de música rock.</lex>
+      <lex lang="gl" lid="Id3">O guitarrista de rock Anders Osborne asinou con Okeh Records e está asociado co artista Johnny Sansone. Bhangra é unha fusión de rock.</lex>
+      </entry>
+    <entry category="Artist" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
+        <otriple>Andra_(singer) | background | "solo_singer"</otriple>
+        <otriple>Andra_(singer) | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Andra_(singer) | occupation | Singing</otriple>
+        <otriple>Andra_(singer) | birthPlace | Romania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
+        <mtriple>Andra_(singer) | birthYear | 1986</mtriple>
+        <mtriple>Andra_(singer) | occupation | Singing</mtriple>
+        <mtriple>Andra_(singer) | birthPlace | Romania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andra_(cantante) | Género | rhythm_and_blues</striple>
+        <striple>Andra_(cantante) | Fondo | cantante_solista</striple>
+        <striple>Andra_(cantante) | AñoDeNacimiento | 1986</striple>
+        <striple>Andra_(cantante) | Ocupación | canto</striple>
+        <striple>Andra_(cantante) | LugarDeNacimiento | Rumania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Andra_(cantant) | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Andra_(cantant) | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Andra_(cantant) | AnyDeNaixement | 1986</ctriple>
+        <ctriple>Andra_(cantant) | Ocupació | cant</ctriple>
+        <ctriple>Andra_(cantant) | LlocDeNaixement | Romania</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Andra_(cantante) | Xénero | Ritmo_e_blues</gtriple>
+        <gtriple>Andra_(cantante) | Antecedentes | cantante_en_solitario</gtriple>
+        <gtriple>Andra_(cantante) | AnoDeNacemento | 1986</gtriple>
+        <gtriple>Andra_(cantante) | Ocupación | Cantar</gtriple>
+        <gtriple>Andra_(cantante) | LugarDeNacemento | Roménia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andra_(abeslaria) | Generoa | Erritmo_eta_bluesa</btriple>
+        <btriple>Andra_(abeslaria) | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        <btriple>Andra_(abeslaria) | JaiotzaUrtea | 1986</btriple>
+        <btriple>Andra_(abeslaria) | Okupazioa | Abestea.</btriple>
+        <btriple>Andra_(abeslaria) | JaiotzeLekua | Errumania</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Solo singer, Andra, was born in 1986, in Romania. Andra is a rhythm and blues singer whose occupation is singing.</lex>
+      <lex lang="en" lid="Id2">The singer Andra was born in Romania in 1986 and performs rhythm and blues as a solo artist.</lex>
+      <lex lang="en" lid="Id3">The Rhythm and blues solo singer musician Andra, was born 1986, in Romania.</lex>
+      <lex lang="es" lid="Id1">La cantante solista Andra nació en 1986 en Rumanía. Andra es una cantante de rhythm and blues cuya ocupación es cantar.</lex>
+      <lex lang="es" lid="Id2">La cantante Andra nació en Rumanía en 1986 e interpreta rhythm and blues en solitario.</lex>
+      <lex lang="es" lid="Id3">La cantante solista de rhythm and blues Andra nació en 1986 en Rumanía.</lex>
+      <lex lang="ca" lid="Id1">La cantant en solitari, Andra, va néixer el 1986 a Romania. Andra és una cantant de rhythm and blues la professió de la qual és cantar.</lex>
+      <lex lang="ca" lid="Id2">La cantant Andra va néixer a Romania el 1986 i actua el rhythm and blues com a solista.</lex>
+      <lex lang="ca" lid="Id3">La cantant solista de rhythm and blues Andra, va néixer el 1986, a Romania.</lex>
+      <lex lang="eu" lid="Id1">Andra 1986an jaio zen, Errumanian. Andra rhythm and blues abeslaria da, eta bere lana abestea da.</lex>
+      <lex lang="eu" lid="Id2">Andra abeslaria Errumanian jaio zen 1986an eta rhythm and blues musika jotzen du bakarlari gisa.</lex>
+      <lex lang="eu" lid="Id3">Rhythm and blues musikari eta abeslaria, 1986an jaio zen, Errumanian.</lex>
+      <lex lang="gl" lid="Id1">A cantante solista, Andra, naceu en 1986, en Romanía. Andra é unha cantante de rhythm and blues cuxa ocupación é cantar.</lex>
+      <lex lang="gl" lid="Id2">A cantante Andra naceu en Romanía en 1986 e interpreta rhythm and blues como artista en solitario.</lex>
+      <lex lang="gl" lid="Id3">A cantante solista de rhythm and blues Andra, naceu en 1986, en Romanía.</lex>
+      </entry>
+    <entry category="Artist" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
+        <otriple>Andra_(singer) | birthYear | "1986"^^xsd:gYear</otriple>
+        <otriple>Andra_(singer) | occupation | Singing</otriple>
+        <otriple>Andra_(singer) | birthPlace | Câmpia_Turzii</otriple>
+        <otriple>Andra_(singer) | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Andra_(singer) | birthYear | 1986</mtriple>
+        <mtriple>Andra_(singer) | occupation | Singing</mtriple>
+        <mtriple>Andra_(singer) | birthPlace | Câmpia_Turzii</mtriple>
+        <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andra_(cantante) | Género | rhythm_and_blues</striple>
+        <striple>Andra_(cantante) | AñoDeNacimiento | 1986</striple>
+        <striple>Andra_(cantante) | Ocupación | canto</striple>
+        <striple>Andra_(cantante) | LugarDeNacimiento | Câmpia_Turzii</striple>
+        <striple>Andra_(cantante) | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Andra_(cantant) | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Andra_(cantant) | AnyDeNaixement | 1986</ctriple>
+        <ctriple>Andra_(cantant) | Ocupació | cant</ctriple>
+        <ctriple>Andra_(cantant) | LlocDeNaixement | Câmpia_Turzii</ctriple>
+        <ctriple>Andra_(cantant) | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Andra_(cantante) | Xénero | Ritmo_e_blues</gtriple>
+        <gtriple>Andra_(cantante) | AnoDeNacemento | 1986</gtriple>
+        <gtriple>Andra_(cantante) | Ocupación | Cantar</gtriple>
+        <gtriple>Andra_(cantante) | LugarDeNacemento | Câmpia_Turzii</gtriple>
+        <gtriple>Andra_(cantante) | Antecedentes | cantante_en_solitario</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andra_(abeslaria) | Generoa | Erritmo_eta_bluesa</btriple>
+        <btriple>Andra_(abeslaria) | JaiotzaUrtea | 1986</btriple>
+        <btriple>Andra_(abeslaria) | Okupazioa | Abestea.</btriple>
+        <btriple>Andra_(abeslaria) | JaiotzeLekua | Câmpia_Turzii</btriple>
+        <btriple>Andra_(abeslaria) | OinarrizkoInformazioa | bakarkako_abeslaria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Singer, Andra, in Câmpia, Turzii, in 1986. With a carrer in singing, Andra is a solo singer, who performs rhythm and blues music.</lex>
+      <lex lang="en" lid="Id2">Andra was born in Campia Turzii in 1986. She began her career as a solo singer and sings for a living in the genre Rhythm and blues.</lex>
+      <lex lang="en" lid="Id3">Andra is a solo rhythm and blues singer who was born in 1986 in Campia Turzii.</lex>
+      <lex lang="es" lid="Id1">Cantante, Andra, en Câmpia, Turzii, en 1986. Con una carrera en el canto, Andra es una cantante solista, que interpreta música rhythm and blues.</lex>
+      <lex lang="es" lid="Id2">Andra nació en Campia Turzii en 1986. Comenzó su carrera como cantante solista y canta para ganarse la vida en el género Rhythm and blues.</lex>
+      <lex lang="es" lid="Id3">Andra es una cantante solista de rhythm and blues que nació en 1986 en Campia Turzii.</lex>
+      <lex lang="ca" lid="Id1">Cantant, Andra, a Câmpia, Turzii, el 1986. Amb una carrera en el cant, Andra és una cantant en solitari, que interpreta música de ritme i blues.</lex>
+      <lex lang="ca" lid="Id2">Andra va néixer a Campia Turzii el 1986. va començar la seva carrera com a cantant en solitari i es guanya la vida cantant en el gènere del rhythm and blues.</lex>
+      <lex lang="ca" lid="Id3">Andra és una cantant de rhythm and blues en solitari que va néixer el 1986 a Campia Turzii.</lex>
+      <lex lang="eu" lid="Id1">Andra abeslaria, Câmpian, Turzii, 1986an. Andra abeslari karrera bat duen bakarlari bat da, erritmo eta blues musika jotzen duena.</lex>
+      <lex lang="eu" lid="Id2">Andra Campia Turzian jaio zen 1986an. Bere ibilbidea bakarlari gisa hasi zuen eta Rhythm and blues generoan abesten du.</lex>
+      <lex lang="eu" lid="Id3">Andra 1986an Campia Turzii-n jaio zen rhythm and blues abeslari solista da.</lex>
+      <lex lang="gl" lid="Id1">Cantante, Andra, en Câmpia, Turzii, en 1986. Con carreira no canto, Andra é unha cantante solista, que toca música de ritmo e blues.</lex>
+      <lex lang="gl" lid="Id2">Andra naceu en Campia Turzii en 1986. Comezou a súa carreira como cantante en solitario e canta para vivir no xénero Rhythm and blues.</lex>
+      <lex lang="gl" lid="Id3">Andra é unha cantante solista de rhythm and blues que naceu en 1986 en Campia Turzii.</lex>
+      </entry>
+    <entry category="Artist" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
+        <otriple>Andrew_Rayel | associatedBand | Armin_van_Buuren</otriple>
+        <otriple>Andrew_Rayel | placeOfBirth | "Chișinău, Moldova"@en</otriple>
+        <otriple>Andrew_Rayel | activeYearsStartYear | "2009"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren</mtriple>
+        <mtriple>Andrew_Rayel | birthPlace | "Chișinău, Moldova"</mtriple>
+        <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Christian_Burns</striple>
+        <striple>Andrew_Rayel | Género | música_trance</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Armin_van_Buuren</striple>
+        <striple>Andrew_Rayel | LugarDeNacimiento | Chișinău,_Moldavia</striple>
+        <striple>Andrew_Rayel | AñosActivosAñoDeInicio | 2009</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Christian_Burns</ctriple>
+        <ctriple>Andrew_Rayel | Gènere | Música_trance</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Armin_van_Buuren</ctriple>
+        <ctriple>Andrew_Rayel | LlocDeNaixement | Chișinău,_Moldàvia</ctriple>
+        <ctriple>Andrew_Rayel | AnysActiusAnyD'inici | 2009</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Andrew_Rayel | BandaAsociada/ArtistaMusicalAsociado | Christian_Burns</gtriple>
+        <gtriple>Andrew_Rayel | Xénero | Música_de_trance</gtriple>
+        <gtriple>Andrew_Rayel | BandaAsociada/ArtistaMusicalAsociado | Armin_van_Buuren</gtriple>
+        <gtriple>Andrew_Rayel | LugarDeNacemento | Chișinău,_Moldavia</gtriple>
+        <gtriple>Andrew_Rayel | AnosActivosAnoDeInicio | 2009</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrew_Rayel | Talde-taldea/artistaMusikaria | Christian_Burns</btriple>
+        <btriple>Andrew_Rayel | Generoa | Trance_musika</btriple>
+        <btriple>Andrew_Rayel | Talde-taldea/artistaMusikaria | Armin_van_Buuren</btriple>
+        <btriple>Andrew_Rayel | JaiotzeLekua | Chișinău,_Moldavia</btriple>
+        <btriple>Andrew_Rayel | UrteAktiboakHasieraUrtea | 2009</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel, who was born in Chisinau, Moldova, started his career in 2009 and his musical genre is trance music. He is associated with Christian Burns and Armin van Buuren.</lex>
+      <lex lang="en" lid="Id2">Andrew Rayel was born in Chisinau, Moldova. He's an associate of Armin van Buuren and Christian Burns. Mr Rayel's musical genre is Trance which he started in 2009.</lex>
+      <lex lang="en" lid="Id3">Andrew Rayel was born in Chisinau, Moldova. He began his musical career in 2009 and has performed the genre of Trance music. He is associated with the musical artist Armin van Buuren and with Christian Burns.</lex>
+      <lex lang="es" lid="Id1">Andrew Rayel, nacido en Chisinau (Moldavia), comenzó su carrera en 2009 y su género musical es la música trance. Está asociado con Christian Burns y Armin van Buuren.</lex>
+      <lex lang="es" lid="Id2">Andrew Rayel nació en Chisinau (Moldavia). Es colaborador de Armin van Buuren y Christian Burns. El género musical del Sr. Rayel es el Trance, en el que se inició en 2009.</lex>
+      <lex lang="es" lid="Id3">Andrew Rayel nació en Chisinau (Moldavia). Comenzó su carrera musical en 2009 y ha interpretado el género de la música trance. Está asociado con el artista musical Armin van Buuren y con Christian Burns.</lex>
+      <lex lang="ca" lid="Id1">Andrew Rayel, nascut a Chisinau, Moldàvia, va començar la seva carrera l'any 2009 i el seu gènere musical és la música trance. Se l'associa amb Christian Burns i Armin van Buuren.</lex>
+      <lex lang="ca" lid="Id2">Andrew Rayel va néixer a Chisinau, Moldavia. És associat d'Armin van Buuren i Christian Burns. El gènere musical del Sr. Rayel és el Trance que va començar el 2009.</lex>
+      <lex lang="ca" lid="Id3">Andrew Rayel va néixer a Chisinau, Moldàvia. Va començar la seva carrera musical el 2009 i ha interpretat el gènere de música trance. Està associat amb l'artista musical Armin van Buuren i amb Christian Burns.</lex>
+      <lex lang="eu" lid="Id1">Moldova-ko Chisinau-n jaiotako Andrew Rayel-ek 2009an hasi zuen bere karrera eta bere musika-generoa trance-musika da. Christian Burns-ekin eta Armin van Buuren-ekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Andrew Rayel Moldovan jaio zen. Armin van Buuren eta Christian Burns-en kidea da. Rayel jaunaren musika generoa Trance da, 2009an hasi zuena.</lex>
+      <lex lang="eu" lid="Id3">Andrew Rayel Chisinaun (Moldavia) jaio zen. 2009an hasi zuen bere musika-karrera, eta trance musikaren generoa landu du. Armin van Buuren musikariarekin eta Christian Burns-ekin lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">Andrew Rayel, que naceu en Chisinau, Moldavia, comezou a súa carreira en 2009 e o seu xénero musical é a música trance. Está asociado con Christian Burns e Armin van Buuren.</lex>
+      <lex lang="gl" lid="Id2">Andrew Rayel naceu en Chisinau, Moldavia. É un asociado de Armin van Buuren e Christian Burns. O xénero musical do Sr. Rayel é o trance que comezou en 2009.</lex>
+      <lex lang="gl" lid="Id3">Andrew Rayel naceu en Chisinau, Moldavia. Comezou a súa carreira musical en 2009 e interpretou o xénero da música trance. Está asociado co artista musical Armin van Buuren e con Christian Burns.</lex>
+      </entry>
+    <entry category="Artist" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | associatedBand | Kaiser_Chiefs</otriple>
+        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Marry_Banilow</otriple>
+        <otriple>Andrew_White_(musician) | label | B-Unique_Records</otriple>
+        <otriple>Andrew_White_(musician) | recordLabel | Polydor_Records</otriple>
+        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs</mtriple>
+        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow</mtriple>
+        <mtriple>Andrew_White_(musician) | recordLabel | B-Unique_Records</mtriple>
+        <mtriple>Andrew_White_(musician) | recordLabel | Polydor_Records</mtriple>
+        <mtriple>Andrew_White_(musician) | activeYearsStartYear | 2003</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_'Whitey'_White_(músico) | BandaAsociada/artistaMusicalAsociado | Kaiser_Chiefs</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | BandaAsociada/artistaMusicalAsociado | Marry_Banilow</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | SelloDiscográfico | B-Unique_Records</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | SelloDiscográfico | Polydor_Records</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | AñosActivosAñoDeInicio | 2003</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Andrew_White_(músic) | BandaAssociada/artistaMusicalAssociat | Kaiser_Chiefs</ctriple>
+        <ctriple>Andrew_White_(músic) | BandaAssociada/artistaMusicalAssociat | Casar-se_amb_Banilow</ctriple>
+        <ctriple>Andrew_White_(músic) | EtiquetaDelRegistre | B-Unique_Records</ctriple>
+        <ctriple>Andrew_White_(músic) | EtiquetaDelRegistre | Polydor_Records</ctriple>
+        <ctriple>Andrew_White_(músic) | AnysActiusAnyD'inici | 2003</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Andrew_White_(músico) | BandaAsociada/ArtistaMusicalAsociado | Kaiser_Chiefs</gtriple>
+        <gtriple>Andrew_White_(músico) | BandaAsociada/ArtistaMusicalAsociado | Casou_con_Banilow.</gtriple>
+        <gtriple>Andrew_White_(músico) | EtiquetaDoDisco | B-Unique_Records</gtriple>
+        <gtriple>Andrew_White_(músico) | EtiquetaDoDisco | Polydor_Records</gtriple>
+        <gtriple>Andrew_White_(músico) | AnosActivosAnoDeInicio | 2003</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Andrew_White_(musikaria) | Talde-taldea/artistaMusikaria | Kaiser_Chiefs</btriple>
+        <btriple>Andrew_White_(musikaria) | Talde-taldea/artistaMusikaria | Banilowerekin_ezkondu.</btriple>
+        <btriple>Andrew_White_(musikaria) | EtiketaErregistroa | B-Unique_Records</btriple>
+        <btriple>Andrew_White_(musikaria) | EtiketaErregistroa | Polydor_Records</btriple>
+        <btriple>Andrew_White_(musikaria) | UrteAktiboakHasieraUrtea | 2003</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The musician Andrew White is part of the Kaiser Chiefs and is signed to the record label B-Unique Records and Polydor Records. He started his musical career in 2003 and was associated with Marry Banilow.</lex>
+      <lex lang="en" lid="Id2">B-Unique Records and Polydor Records artist Andrew White began in 2003 and is associated with the Kaiser Chiefs and artist Marry Banilow.</lex>
+      <lex lang="en" lid="Id3">B-Unique Records and Polydor Recording artist Andrew White began his career in 2003. He is associated with the Kaiser Chiefs and Marry Banilow.</lex>
+      <lex lang="es" lid="Id1">El músico Andrew White forma parte de los Kaiser Chiefs y ha firmado con el sello discográfico B-Unique Records y Polydor Records. Comenzó su carrera musical en 2003 y estuvo asociado con Marry Banilow.</lex>
+      <lex lang="es" lid="Id2">El artista Andrew White, de B-Unique Records y Polydor Records, empezó en 2003 y está asociado con los Kaiser Chiefs y la artista Marry Banilow.</lex>
+      <lex lang="es" lid="Id3">Andrew White, artista de B-Unique Records y Polydor Recording, comenzó su carrera en 2003. Está asociado con los Kaiser Chiefs y Marry Banilow.</lex>
+      <lex lang="ca" lid="Id1">El músic Andrew White és membre de Kaiser Chiefs i té contracte amb els segells discogràfics B-Unique Records i Polydor Records. Va començar la seva carrera musical l'any 2003 i va estar associat amb Marry Banilow.</lex>
+      <lex lang="ca" lid="Id2">L'artista de B-Unique Records i Polydor Records Andrew White va començar el 2003 i està associat amb els Kaiser Chiefs i l'artista Marry Banilow.</lex>
+      <lex lang="ca" lid="Id3">L'artista de B-Unique Records i Polydor Recording Andrew White va començar la seva carrera el 2003. Està associat amb els Kaiser Chiefs i Marry Banilow.</lex>
+      <lex lang="eu" lid="Id1">Andrew White musikaria Kaiser Chiefs taldeko kidea da eta B-Unique Records eta Polydor Records diskoetxeekin sinatu du. Bere karrera musikala 2003an hasi zuen eta Marry Banilow-rekin elkartu zen.</lex>
+      <lex lang="eu" lid="Id2">B-Unique Records eta Polydor Records-etako Andrew White artista 2003an hasi zen eta Kaiser Chiefs eta Marry Banilow artistekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id3">B-Unique Records-eko eta Polydor Recording-eko artista Andrew White-k 2003an hasi zuen bere karrera. Kaiser Chiefs-ekin eta Marry Banilow-ekin erlazionatuta dago.</lex>
+      <lex lang="gl" lid="Id1">O músico Andrew White forma parte dos Kaiser Chiefs e ten contrato co selo discográfico B-Unique Records e Polydor Records. Comezou a súa carreira musical en 2003 e estivo asociado con Marry Banilow.</lex>
+      <lex lang="gl" lid="Id2">O artista de B-Unique Records e Polydor Records Andrew White comezou en 2003 e está asociado cos Kaiser Chiefs e a artista Marry Banilow.</lex>
+      <lex lang="gl" lid="Id3">O artista de B-Unique Records e Polydor Recording Andrew White comezou a súa carreira en 2003. Está asociado cos Kaiser Chiefs e Marry Banilow.</lex>
+      </entry>
+    <entry category="Artist" eid="Id23" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Christian_Burns | genre | House_music</otriple>
+        <otriple>Andrew_Rayel | associatedBand | Bobina</otriple>
+        <otriple>Andrew_Rayel | instrument | String_instrument</otriple>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Burns | genre | House_music</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina</mtriple>
+        <mtriple>Andrew_Rayel | instrument | String_instrument</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Christian_Burns | Género | música_house</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Bobina</striple>
+        <striple>Andrew_Rayel | Instrumento | instrumento_de_cuerda</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Christian_Burns</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Christian_Burns | Gènere | house</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Bobina</ctriple>
+        <ctriple>Andrew_Rayel | Instrument | instrument_de_corda</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Christian_Burns</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Christian_Burns | Xénero | Música_house</gtriple>
+        <gtriple>Andrew_Rayel | BandaAsociada/ArtistaMusicalAsociado | Bobina</gtriple>
+        <gtriple>Andrew_Rayel | Instrumento | Instrumento_de_cordas</gtriple>
+        <gtriple>Andrew_Rayel | BandaAsociada/ArtistaMusicalAsociado | Christian_Burns</gtriple>
+        <gtriple>Andrew_Rayel | BandaAsociada/ArtistaMusicalAsociado | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Christian_Burns | Generoa | House_musika</btriple>
+        <btriple>Andrew_Rayel | Talde-taldea/artistaMusikaria | Bobina,_zer_gertatzen_da?</btriple>
+        <btriple>Andrew_Rayel | TresnaBat | Harizko_instrumentua</btriple>
+        <btriple>Andrew_Rayel | Talde-taldea/artistaMusikaria | Christian_Burns</btriple>
+        <btriple>Andrew_Rayel | Talde-taldea/artistaMusikaria | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel wad a string instrumentalist who is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="en" lid="Id2">String instrumentalist Andrew Rayel is associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
+      <lex lang="en" lid="Id3">String instrumentalist Andrew Rayel is associated with: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="es" lid="Id1">Andrew Rayel es un instrumentista de cuerda que ha colaborado con Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, el músico de la casa Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi.</lex>
+      <lex lang="es" lid="Id2">El instrumentista de cuerda Andrew Rayel está asociado con los artistas musicales Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (música house), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi.</lex>
+      <lex lang="es" lid="Id3">El instrumentista de cuerda Andrew Rayel está asociado con: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (música House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi.</lex>
+      <lex lang="ca" lid="Id1">Andrew Rayel és un instrumentista de corda associat amb Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, el músic de house Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi.</lex>
+      <lex lang="ca" lid="Id2">L'instrumentista de corda Andrew Rayel està associat amb els artistes musicals Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (música house), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi.</lex>
+      <lex lang="ca" lid="Id3">L'instrumentista de corda Andrew Rayel està associat amb: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (música House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi.</lex>
+      <lex lang="eu" lid="Id1">Andrew Rayel Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns house musikaria, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin eta Alexandra Badoiekin lotuta dagoen harizko instrumentista da.</lex>
+      <lex lang="eu" lid="Id2">Andrew Rayel harizko instrumentista Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin eta Alexandra Badoirekin erlazionatuta dago.</lex>
+      <lex lang="eu" lid="Id3">Andrew Rayel hari-instrumentista Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin eta Alexandra Badoirekin erlazionatuta dago.</lex>
+      <lex lang="gl" lid="Id1">Andrew Rayel é un instrumentista de cordas asociado con Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, o músico house Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin e Alexandra Badoi.</lex>
+      <lex lang="gl" lid="Id2">O instrumentista de cordas Andrew Rayel está asociado cos artistas musicais: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin e Alexandra Badoi.</lex>
+      <lex lang="gl" lid="Id3">O instrumentista de cordas Andrew Rayel está asociado con: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin e Alexandra Badoi.</lex>
+      </entry>
+    <entry category="Artist" eid="Id24" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Hip_hop_music | stylisticOrigins | Disco</otriple>
+        <otriple>Allen_Forrest | dateOfBirth | "1981-02-04"^^xsd:date</otriple>
+        <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
+        <otriple>Hip_hop_music | stylisticOrigin | Funk</otriple>
+        <otriple>Hip_hop_music | derivative | Drum_and_bass</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hip_hop_music | stylisticOrigin | Disco</mtriple>
+        <mtriple>Allen_Forrest | birthDate | 1981-02-04</mtriple>
+        <mtriple>Allen_Forrest | genre | Hip_hop_music</mtriple>
+        <mtriple>Hip_hop_music | stylisticOrigin | Funk</mtriple>
+        <mtriple>Hip_hop_music | derivative | Drum_and_bass</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>hip_hop | OrigenEstilístico | música_disco</striple>
+        <striple>Allen_Forrest | FechaDeNacimiento | 04-02-1981</striple>
+        <striple>Allen_Forrest | Género | hip_hop</striple>
+        <striple>hip_hop | OrigenEstilístico | funk</striple>
+        <striple>hip_hop | Derivado | drum_and_bass</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Música_hip_hop | OrigenEstilístic | música_disco</ctriple>
+        <ctriple>Allen_Forrest | DataDeNaixement | 1981-02-04</ctriple>
+        <ctriple>Allen_Forrest | Gènere | Música_hip_hop</ctriple>
+        <ctriple>Música_hip_hop | OrigenEstilístic | Funk</ctriple>
+        <ctriple>Música_hip_hop | Derivada | drum_and_bass</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Música_hip_hop | OrixeEstilística | Disco</gtriple>
+        <gtriple>Allen_Forrest | DataDeNacemento | 1981-02-04</gtriple>
+        <gtriple>Allen_Forrest | Xénero | Música_hip_hop</gtriple>
+        <gtriple>Música_hip_hop | OrixeEstilística | Funk</gtriple>
+        <gtriple>Música_hip_hop | Derivado | Batería_e_baixo</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hip_hop_musika | OrigenEstilistikoa | Diskoetxea.</btriple>
+        <btriple>Allen_Forrest | JaiotzeData | 1981-02-04</btriple>
+        <btriple>Allen_Forrest | Generoa | Hip_hop_musika</btriple>
+        <btriple>Hip_hop_musika | OrigenEstilistikoa | Funk</btriple>
+        <btriple>Hip_hop_musika | Deribatua | Danborra_eta_baxua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Allen Forrest is a hip hop artist who was born on February 4, 1981. Hip hop music originated from disco and funk music, and Drum and bass derives its sounds from hip hop music.</lex>
+      <lex lang="en" lid="Id2">Allen Forrest, whose musical genre is hip hop music, date of birth is 04th February 1981. Hip Hop music has its origins in Funk and Disco. Drum and bass derives its sounds from hip hop music.</lex>
+      <lex lang="en" lid="Id3">Allen Forrest was born on February 4, 1981 and plays Hip Hop music which has its origins in Disco music. Hip hop came from funk music and Drum and Bass music is derived from Hip Hop.</lex>
+      <lex lang="es" lid="Id1">Allen Forrest es un artista de hip hop nacido el 4 de febrero de 1981. La música hip hop se originó a partir de la música música disco y el funk, y el drum and bass deriva sus sonidos de la música hip hop.</lex>
+      <lex lang="es" lid="Id2">Allen Forrest, cuyo género musical es la música hip hop, nació el 04 de febrero de 1981. La música hip hop tiene sus orígenes en el funk y la música música disco. El drum and bass deriva sus sonidos de la música hip hop.</lex>
+      <lex lang="es" lid="Id3">Allen Forrest nació el 4 de febrero de 1981 e interpreta música Hip Hop, que tiene sus orígenes en la música Disco. El Hip Hop procede de la música funk y la música Drum and Bass deriva del Hip Hop.</lex>
+      <lex lang="ca" lid="Id1">Allen Forrest és un artista de hip hop que va néixer el 4 de febrer de 1981. La música hip hop es va originar a partir de la música disco i funk, i el drum and bass deriva els seus sons de la música hip hop.</lex>
+      <lex lang="ca" lid="Id2">Allen Forrest, el gènere musical del qual és la música hip hop, va néixer el 4 de febrer de 1981. La música hip hop té els seus orígens en el funk i el disco. El drum and bass deriva els seus sons de la música hip hop.</lex>
+      <lex lang="ca" lid="Id3">Allen Forrest va néixer el 4 de febrer de 1981 i toca música hip hop que té els seus orígens en la música disco. El hip hop prové de la música funk i la música drum and bass es deriva del hip hop.</lex>
+      <lex lang="eu" lid="Id1">Allen Forrest (1981eko otsailaren 4a, Los Angeles, Kalifornia) estatubatuar hip hop musikaria da. Hip hop musikaren jatorria disko eta funk musikan dago, eta drum and bass musikaren soinuak hip hop musikatik datoz.</lex>
+      <lex lang="eu" lid="Id2">Allen Forrest 1981eko otsailaren 4an jaio zen, eta bere musika-generoa hip hop musika da. Hip Hop musikaren jatorria funk eta diskoan dago. Drum and bass-ek hip hop musikatik hartzen ditu bere soinuak.</lex>
+      <lex lang="eu" lid="Id3">Allen Forrest 1981eko otsailaren 4an jaio zen eta hip-hop musika jotzen du, disko-musikan oinarrituta. Hip-hop-a funk-musikatik dator eta drum and bass-a, berriz, hip-hop-etik.</lex>
+      <lex lang="gl" lid="Id1">Allen Forrest é un artista de hip hop que naceu o 4 de febreiro de 1981. A música de hip hop ten a súa orixe na música disco e funk, e o drum and bass deriva os seus sons da música de hip hop.</lex>
+      <lex lang="gl" lid="Id2">Allen Forrest, cuxo xénero musical é a música hip hop, naceu o 4 de febreiro de 1981. A música hip hop ten as súas orixes no funk e no disco. O drum and bass deriva os seus sons da música hip hop.</lex>
+      <lex lang="gl" lid="Id3">Allen Forrest naceu o 4 de febreiro de 1981 e toca música hip hop que ten as súas orixes na música disco. O hip hop provén da música funk e a música drum and bass deriva do hip hop.</lex>
+      </entry>
+    <entry category="Artist" eid="Id25" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
+        <otriple>Paraguay | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paraguay | ethnicGroup | Mestizo</mtriple>
+        <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
+        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
+        <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
+        <mtriple>Paraguay | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paraguay | GrupoÉtnico | mestizo</striple>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Asunción</striple>
+        <striple>Paraguay | Líder | Juan_Afara</striple>
+        <striple>Agustín_Barboza | LugarDeLaMuerte | Paraguay</striple>
+        <striple>Paraguay | Idioma | español</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paraguai | GrupÈtnic | Mestís</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Asunción</ctriple>
+        <ctriple>Paraguai | Líder | Juan_Afara</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeLaMort | Paraguai</ctriple>
+        <ctriple>Paraguai | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paraguai | GrupoÉtnico | Mestizo</gtriple>
+        <gtriple>Agustín_Barboza | LugarDeNacemento | Asunción</gtriple>
+        <gtriple>Paraguai | Líder | Juan_Afara</gtriple>
+        <gtriple>Agustín_Barboza | LugarDaMorte | Paraguai</gtriple>
+        <gtriple>Paraguai | Lingua | Idioma_español</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paraguai | TaldeEtnikoa | Mestizoa</btriple>
+        <btriple>Agustín_Barboza | JaiotzeLekua | Asunción</btriple>
+        <btriple>Paraguai | Buruzagia. | Juan_Afara_izan_zen.</btriple>
+        <btriple>Agustín_Barboza | HeriotzarenLekua | Paraguai</btriple>
+        <btriple>Paraguai | Hizkuntza | Espainiera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Agustin Barboza was born in Asuncion, in Paraguay. The country which has an ethnic group called the Mestizo. it is also the country where Spanish is spoken and which is led by Juan Afara.</lex>
+      <lex lang="en" lid="Id2">Agustin Barboza was born in Asuncion, Paraguay where the people speak Spanish. Juan Afara leads the country and an ethnic group in Paraguay are the Mestizo people.</lex>
+      <lex lang="en" lid="Id3">Agustin Barboza was born in Spanish speaking Asuncion, Paraguay, home of the Mestizo. Paraguay is led by Juan Afara.</lex>
+      <lex lang="es" lid="Id1">Agustín Barboza nació en Asunción, en Paraguay. País que cuenta con una etnia llamada mestiza. También es el país donde se habla español y que está dirigido por Juan Afara.</lex>
+      <lex lang="es" lid="Id2">Agustín Barboza nació en Asunción, Paraguay, donde la gente habla español. Juan Afara dirige el país y un grupo étnico de Paraguay son los mestizos.</lex>
+      <lex lang="es" lid="Id3">Agustín Barboza nació en Asunción, Paraguay, cuna del mestizaje hispanohablante. Paraguay está dirigido por Juan Afara.</lex>
+      <lex lang="ca" lid="Id1">Agustín Barboza va néixer a Asunción, al Paraguai, el país que té un grup ètnic anomenat mestissos. També és el país on es parla l'espanyol i que està dirigit per Juan Afara.</lex>
+      <lex lang="ca" lid="Id2">Agustín Barboza va néixer a Asunción, al Paraguai, on la gent parla castellà. Juan Afara dirigeix el país i un grup ètnic del Paraguai són els mestissos.</lex>
+      <lex lang="ca" lid="Id3">Agustín Barboza va néixer a l'Asunción hispanoparlant del Paraguai, llar del mestissatge, dirigit per Juan Afara.</lex>
+      <lex lang="eu" lid="Id1">Agustin Barboza Asuncionen jaio zen, Paraguain, mestizoak izeneko talde etnikoa duen herrialdea. Espainiera hitz egiten den herrialdea ere bada, eta Juan Afara da haren buruzagia.</lex>
+      <lex lang="eu" lid="Id2">Agustin Barboza Asuncionen jaio zen, Paraguain, non biztanleek espainieraz hitz egiten duten. Juan Afara da herrialdearen buruzagia eta Paraguaiko talde etnikoa mestizoak dira.</lex>
+      <lex lang="eu" lid="Id3">Agustin Barboza gaztelaniaz mintzatzen den Asuncion-en jaio zen, Paraguain, mestizoen etxean. Juan Afara da Paraguaiko presidentea.</lex>
+      <lex lang="gl" lid="Id1">Agustín Barboza naceu en Asunción, no Paraguai. O país que ten un grupo étnico chamado Mestizo. tamén é o país onde se fala español e que está liderado por Juan Afara.</lex>
+      <lex lang="gl" lid="Id2">Agustín Barboza naceu en Asunción, Paraguai, onde a xente fala español. Juan Afara lidera o país e un grupo étnico en Paraguai son os mestizos.</lex>
+      <lex lang="gl" lid="Id3">Agustín Barboza naceu en Asunción, Paraguai, de fala española, fogar dos mestizos. Paraguai está liderado por Juan Afara.</lex>
+      </entry>
+    <entry category="Artist" eid="Id26" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
+        <otriple>Agustín_Barboza | deathPlace | Asunción</otriple>
+        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
+        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
+        <otriple>Agustín_Barboza | placeOfDeath | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paraguay | ethnicGroup | Mestizo</mtriple>
+        <mtriple>Agustín_Barboza | deathPlace | Asunción</mtriple>
+        <mtriple>Asunción | isPartOf | Gran_Asunción</mtriple>
+        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
+        <mtriple>Agustín_Barboza | birthPlace | Paraguay</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Paraguay | GrupoÉtnico | mestizo</striple>
+        <striple>Agustín_Barboza | LugarDeLaMuerte | Asunción</striple>
+        <striple>Asunción | FormaParteDe | Gran_Asunción</striple>
+        <striple>Paraguay | Líder | Juan_Afara</striple>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Paraguay</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Paraguai | GrupÈtnic | Mestís</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeLaMort | Asunción</ctriple>
+        <ctriple>Asunción | ÉsPartDe | Gran_Asunción</ctriple>
+        <ctriple>Paraguai | Líder | Juan_Afara</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Paraguai</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Paraguai | GrupoÉtnico | Mestizo</gtriple>
+        <gtriple>Agustín_Barboza | LugarDaMorte | Asunción</gtriple>
+        <gtriple>Asunción | ÉParteDe | Gran_Asunción</gtriple>
+        <gtriple>Paraguai | Líder | Juan_Afara</gtriple>
+        <gtriple>Agustín_Barboza | LugarDeNacemento | Paraguai</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Paraguai | TaldeEtnikoa | Mestizoa</btriple>
+        <btriple>Agustín_Barboza | HeriotzarenLekua | Asunción</btriple>
+        <btriple>Asunción | HonenZatiDa | Gran_Asunción</btriple>
+        <btriple>Paraguai | Buruzagia. | Juan_Afara_izan_zen.</btriple>
+        <btriple>Agustín_Barboza | JaiotzeLekua | Paraguai</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The leader of Paraguay is called Juan Afara, and one ethnic group is the Mestizo people. Agustin Barboza was born in Paraguay and died in Asunción, a part of Gran Asunción.</lex>
+      <lex lang="en" lid="Id2">Agustin Barboza was born in Paraguay and died in Asuncion which is part of Gran Asunción. Juan Afara is the country's leader and the Mestizo are among the ethnic groups in Paraguay.</lex>
+      <lex lang="en" lid="Id3">Agustin Barboza was born in Paraguay, led by Juan Afara. The Mestizo ethnic group is one of the ethnic groups in Paraguay. Agustin died in Asuncion, Gran Asunción.</lex>
+      <lex lang="es" lid="Id1">El líder de Paraguay se llama Juan Afara, y un grupo étnico es el pueblo mestizo. Agustin Barboza nacio en Paraguay y murio en Asuncion, parte del Gran Asuncion.</lex>
+      <lex lang="es" lid="Id2">Agustín Barboza nació en Paraguay y murió en Asunción, que forma parte del Gran Asunción. Juan Afara es el líder del país y los mestizos forman parte de los grupos étnicos de Paraguay.</lex>
+      <lex lang="es" lid="Id3">Agustín Barboza nació en Paraguay, dirigido por Juan Afara. La etnia mestiza es uno de los grupos étnicos de Paraguay. Agustin murio en Asuncion, Gran Asuncion.</lex>
+      <lex lang="ca" lid="Id1">El líder del Paraguai es diu Juan Afara, i un dels grups ètnics són els mestissos.Agustin Barboza va néixer al Paraguai i va morir a Asunción, una part de la Gran Asunción.</lex>
+      <lex lang="ca" lid="Id2">Agustín Barboza va néixer al Paraguai i va morir a Asunción, que forma part de la Gran Asunción. Juan Afara és el líder del país i els mestissos són un dels grups ètnics del Paraguai.</lex>
+      <lex lang="ca" lid="Id3">Agustín Barboza va néixer a Paraguai, dirigit per Juan Afara. El grup ètnic mestís és un dels grups ètnics de Paraguai. Agustín va morir a Asunción, Gran Asunción.</lex>
+      <lex lang="eu" lid="Id1">Agustin Barboza Paraguaian jaio zen eta Asunciónen hil zen, Gran Asunciónen.</lex>
+      <lex lang="eu" lid="Id2">Agustin Barboza Paraguain jaio zen eta Asuncion hirian hil zen. Juan Afara da herrialdeko buruzagia eta mestizoak dira Paraguaiko talde etnikoen artean.</lex>
+      <lex lang="eu" lid="Id3">Agustin Barboza Paraguain jaio zen, Juan Afararen agindupean. Agustin Asuncionen hil zen, Asuncion Handian, eta bertan lurperatu zuten.</lex>
+      <lex lang="gl" lid="Id1">O líder do Paraguai chámase Juan Afara, e un grupo étnico é o pobo mestizo. Agustin Barboza naceu no Paraguai e morreu en Asunción, unha parte da Gran Asunción.</lex>
+      <lex lang="gl" lid="Id2">Agustín Barboza naceu en Paraguai e morreu en Asunción, que forma parte de Gran Asunción. Juan Afara é o líder do país e os mestizos son un dos grupos étnicos de Paraguai.</lex>
+      <lex lang="gl" lid="Id3">Agustín Barboza naceu no Paraguai, liderado por Juan Afara. O grupo étnico mestizo é un dos grupos étnicos do Paraguai. Agustín morreu en Asunción, Gran Asunción.</lex>
+      </entry>
+    <entry category="Artist" eid="Id27" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        <otriple>Al_Anderson_(NRBQ) | instrument | Guitar</otriple>
+        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
+        <otriple>Country_music | stylisticOrigin | Blues</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
+        <mtriple>Al_Anderson_(NRBQ band) | instrument | Guitar</mtriple>
+        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
+        <mtriple>Country_music | stylisticOrigin | Blues</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>rock | GéneroMusicalFusión | Bhangra_(música)</striple>
+        <striple>Al_Anderson_(banda_NRBQ) | Instrumento | guitarra</striple>
+        <striple>Al_Anderson_(banda_NRBQ) | Género | rock</striple>
+        <striple>rock | OrigenEstilístico | música_country</striple>
+        <striple>música_country | OrigenEstilístico | Blues</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>rock | MúsicaGenreFusion | Bhangra_(música)</ctriple>
+        <ctriple>Al_Anderson_(banda_NRBQ) | Instrument | guitarra</ctriple>
+        <ctriple>Al_Anderson_(banda_NRBQ) | Gènere | rock</ctriple>
+        <ctriple>rock | OrigenEstilístic | country</ctriple>
+        <ctriple>country | OrigenEstilístic | blues</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Música_rock | XéneroDeFusiónMusical | Bhangra_(música)</gtriple>
+        <gtriple>Al_Anderson_(banda_NRBQ) | Instrumento | Guitarra</gtriple>
+        <gtriple>Al_Anderson_(banda_NRBQ) | Xénero | Música_rock</gtriple>
+        <gtriple>Música_rock | OrixeEstilística | Música_country</gtriple>
+        <gtriple>Música_country | OrixeEstilística | Blues</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Rock_musika | MusicFusionGeneroa | Bhangra_(musika)</btriple>
+        <btriple>Al_Anderson_(NRBQ_taldea) | TresnaBat | Gitarra</btriple>
+        <btriple>Al_Anderson_(NRBQ_taldea) | Generoa | Rock_musika</btriple>
+        <btriple>Rock_musika | OrigenEstilistikoa | Country_musika</btriple>
+        <btriple>Country_musika | OrigenEstilistikoa | Bluesa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Al Anderson plays the guitar in the rock music band NRBQ. Rock music originated from country music, which originated from blues music; The music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
+      <lex lang="en" lid="Id2">Al Anderson plays the guitar for rock band NRBQ. Rock comes from country music which originates from blues. Bhangra music is a musical fusion of rock music.</lex>
+      <lex lang="en" lid="Id3">Rock guitarist AI Anderson is a member of NRBQ. Rock originates from rock which has its origins in country which derives from the blues. Bhangra is a rock fusion.</lex>
+      <lex lang="es" lid="Id1">Al Anderson toca la guitarra en el grupo de música rock NRBQ. La música rock se originó a partir de la música country, que a su vez se originó a partir de la música Blues; la música Bhangra forma parte del género de fusión, en parte procedente de la música rock.</lex>
+      <lex lang="es" lid="Id2">Al Anderson toca la guitarra en el grupo de rock NRBQ. El rock procede de la música country, que tiene su origen en el Blues. La música bhangra es una fusión musical del rock.</lex>
+      <lex lang="es" lid="Id3">El guitarrista de rock AI Anderson es miembro de NRBQ. El rock tiene su origen en el country, que deriva del Blues. El bhangra es una fusión de rock.</lex>
+      <lex lang="ca" lid="Id1">Al Anderson toca la guitarra a la banda de música rock NRBQ. La música rock es va originar a partir de la música country, que es va originar a partir de la música blues; la música Bhangra és part del gènere de fusió, que prové en part de la música rock.</lex>
+      <lex lang="ca" lid="Id2">Al Anderson toca la guitarra per a la banda de rock NRBQ. El rock prové de la música country que s' origina del blues. La música Bhangra és una fusió musical de la música rock.</lex>
+      <lex lang="ca" lid="Id3">El guitarrista de rock AI Anderson és membre de NRBQ. El rock prové del rock que té els seus orígens en el country que deriva del blues. Bhangra és una fusió de rock.</lex>
+      <lex lang="eu" lid="Id1">Al Anderson-ek gitarra jotzen du NRBQ rock-musikako bandan. Rock-musika country-musikatik dator, eta country-musika blues-musikatik. Bhangra-musika fusio-musikako generoaren parte da, eta rock-musikatik dator hein batean.</lex>
+      <lex lang="eu" lid="Id2">Al Andersonek NRBQ rock taldean jotzen du gitarra. Rocka bluesetik eratorritako country musikatik dator. Bhangra musika rock musikaren fusio musikala da.</lex>
+      <lex lang="eu" lid="Id3">NRBQ-ko kide da AI Anderson gitarra-jotzailea. Rock-a country-tik dator, eta country-a blues-etik. Bhangra rock-fusio bat da.</lex>
+      <lex lang="gl" lid="Id1">Al Anderson toca a guitarra na banda de música rock NRBQ. A música rock orixinouse da música country, que á súa vez orixinouse da música blues; a música Bhangra é parte do xénero fusión, procedente en parte da música rock.</lex>
+      <lex lang="gl" lid="Id2">Al Anderson toca a guitarra na banda de rock NRBQ. O rock provén da música country, que ten a súa orixe no blues. A música Bhangra é unha fusión musical da música rock.</lex>
+      <lex lang="gl" lid="Id3">O guitarrista de rock AI Anderson é membro de NRBQ. O rock provén do rock que ten as súas orixes no country que deriva do blues. Bhangra é unha fusión de rock.</lex>
+      </entry>
+    <entry category="Artist" eid="Id28" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Twilight_(band) | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedBand | House_of_Low_Culture</otriple>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Twilight_(band) | genre | Black_metal</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | House_of_Low_Culture</mtriple>
+        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Twilight_(banda) | Género | black_metal</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | House_of_Low_Culture</striple>
+        <striple>Aaron_Turner | Instrumento | guitarra_eléctrica</striple>
+        <striple>black_metal | GéneroMusicalFusión | death_metal</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Twilight_(grup) | Gènere | black_metal</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Casa_de_la_Cultura_Baixa</ctriple>
+        <ctriple>Aaron_Turner | Instrument | guitarra_elèctrica</ctriple>
+        <ctriple>black_metal | MúsicaGenreFusion | death_metal</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Crepúsculo_(banda) | Xénero | Black_metal</gtriple>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Crepúsculo_(banda)</gtriple>
+        <gtriple>Aaron_Turner | BandaAsociada/ArtistaMusicalAsociado | Casa_da_Baixa_Cultura</gtriple>
+        <gtriple>Aaron_Turner | Instrumento | Guitarra_eléctrica</gtriple>
+        <gtriple>Black_metal | XéneroDeFusiónMusical | Death_metal</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Twilight_(musika_taldea) | Generoa | Black_metala</btriple>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Twilight_(musika_taldea)</btriple>
+        <btriple>Aaron_Turner | Talde-taldea/artistaMusikaria | Kultura_baxuaren_etxea</btriple>
+        <btriple>Aaron_Turner | TresnaBat | Gitarra_elektrikoa</btriple>
+        <btriple>Black_metala | MusicFusionGeneroa | Heriotza-metala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Aaron Turner plays the electric guitar and performed with Twilight, a black metal band, and House of Low Culture. Black metal is an element of the fusion genre death metal.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner is an electric guitarist who has performed with House of Low Culture and the black metal band Twilight. Black metal is an element of the fusion genre death metal.</lex>
+      <lex lang="en" lid="Id3">Electric guitarist Aaron Turner has played with black metal band Twilight and with House of Low Culture. Death metal is a fusion of black metal.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner toca la guitarra eléctrica y ha actuado con Twilight, una banda de black metal, y House of Low Culture. El black metal es un elemento del género de fusión death metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner es un guitarrista eléctrico que ha actuado con House of Low Culture y la banda de black metal Twilight. El black metal es un elemento del género de fusión death metal.</lex>
+      <lex lang="es" lid="Id3">El guitarrista eléctrico Aaron Turner ha tocado con la banda de black metal Twilight y con House of Low Culture. El death metal es una fusión del black metal.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner toca la guitarra elèctrica i ha tocat amb Twilight, una banda de black metal, i amb House of Low Culture. El black metal és un element del gènere de fusió death metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner és un guitarrista elèctric que ha tocat amb House of Low Culture i la banda de black metal Twilight. El black metal és un element del gènere de fusió death metal.</lex>
+      <lex lang="ca" lid="Id3">El guitarrista elèctric Aaron Turner ha tocat amb la banda de black metal Twilight i amb House of Low Culture. El death metal és una fusió de black metal.</lex>
+      <lex lang="eu" lid="Id1">Aaron Turner-ek gitarra elektrikoa jotzen du eta Twilight-ekin, black metal talde batekin, eta House of Low Culture-rekin jotzen du. Black metala death metalaren fusio generoaren elementua da.</lex>
+      <lex lang="eu" lid="Id2">Aaron Turner gitarra-jotzaile elektrikoa da, eta House of Low Culture eta Twilight black metal taldeetan jo du. Black metala death metalaren fusio-generoaren elementua da.</lex>
+      <lex lang="eu" lid="Id3">Aaron Turner gitarra elektrikoak Twilight eta House of Low Culture black metal taldeekin jo izan du. Death metala black metalaren fusioa da.</lex>
+      <lex lang="gl" lid="Id1">Aaron Turner toca a guitarra eléctrica e tocou con Twilight, unha banda de black metal, e House of Low Culture. O black metal é un elemento do xénero de fusión death metal.</lex>
+      <lex lang="gl" lid="Id2">Aaron Turner é un guitarrista eléctrico que tocou con House of Low Culture e coa banda de black metal Twilight. O black metal é un elemento do xénero de fusión death metal.</lex>
+      <lex lang="gl" lid="Id3">O guitarrista eléctrico Aaron Turner tocou coa banda de black metal Twilight e con House of Low Culture. O death metal é unha fusión de black metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id29" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</otriple>
+        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
+        <otriple>Montevideo | country | Uruguay</otriple>
+        <otriple>Montevideo | leaderName | Daniel_Martínez_(politician)</otriple>
+        <otriple>Uruguay | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</mtriple>
+        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
+        <mtriple>Montevideo | country | Uruguay</mtriple>
+        <mtriple>Montevideo | leader | Daniel_Martínez_(politician)</mtriple>
+        <mtriple>Uruguay | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Uruguay | Líder | Raúl_Sendic_Rodríguez</striple>
+        <striple>Alfredo_Zitarrosa | LugarDeLaMuerte | Montevideo</striple>
+        <striple>Montevideo | País | Uruguay</striple>
+        <striple>Montevideo | Líder | Daniel_Martínez_(político)</striple>
+        <striple>Uruguay | Idioma | español</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Uruguai | Líder | Raúl_Fernando_Sendic</ctriple>
+        <ctriple>Alfredo_Zitarrosa | LlocDeLaMort | Montevideo</ctriple>
+        <ctriple>Montevideo | País | Uruguai</ctriple>
+        <ctriple>Montevideo | Líder | Daniel_Martínez_(polític)</ctriple>
+        <ctriple>Uruguai | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Uruguai | Líder | Raúl_Fernando_Sendic_Rodríguez</gtriple>
+        <gtriple>Alfredo_Zitarrosa | LugarDaMorte | Montevideo</gtriple>
+        <gtriple>Montevideo | País | Uruguai</gtriple>
+        <gtriple>Montevideo | Líder | Daniel_Martínez_(político)</gtriple>
+        <gtriple>Uruguai | Lingua | Idioma_español</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Uruguai | Buruzagia. | Raúl_Fernando_Sendic_Rodríguez</btriple>
+        <btriple>Alfredo_Zitarrosa | HeriotzarenLekua | Montevideo</btriple>
+        <btriple>Montevideo | Herrialdea | Uruguai</btriple>
+        <btriple>Montevideo | Buruzagia. | Daniel_Martínez_(politikaria)</btriple>
+        <btriple>Uruguai | Hizkuntza | Espainiera</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfredo Zitarrosa died in Montevideo, Uruguay. Daniel Martinez is a political leader in Montevideo, and Raul Fernando Sendic Rodriguez is a leader in Uruguay, where Spanish is spoken.</lex>
+      <lex lang="en" lid="Id2">Alfredo Zitarrosa died in Montevideo, the leader of which, is Daniel Martinez. Montevideo is in Uruguay, where Spanish is the language and where Raúl Fernando Sendic Rodríguez is the leader.</lex>
+      <lex lang="en" lid="Id3">Raúl Fernando Sendic Rodríguez is the leader of Spanish speaking, Uruguay. Daniel Martinez is the leader of Montevideo, the final resting place of Alfredo Zitarrosa.</lex>
+      <lex lang="es" lid="Id1">Alfredo Zitarrosa falleció en Montevideo, Uruguay. Daniel Martínez es dirigente político en Montevideo, y Raúl Fernando Sendic Rodríguez es dirigente en Uruguay, donde se habla español.</lex>
+      <lex lang="es" lid="Id2">Alfredo Zitarrosa murió en Montevideo, cuyo líder, es Daniel Martínez. Montevideo está en Uruguay, donde el español es el idioma y donde Raúl Fernando Sendic Rodríguez es el líder.</lex>
+      <lex lang="es" lid="Id3">Raúl Fernando Sendic Rodríguez es el líder de Uruguay de habla hispana. Daniel Martínez es el líder de Montevideo, última morada de Alfredo Zitarrosa.</lex>
+      <lex lang="ca" lid="Id1">Alfredo Zitarrosa va morir a Montevideo, Uruguai. Daniel Martínez és un líder polític a Montevideo, i Raul Fernando Sendic Rodríguez és un líder a l'Uruguai, on es parla espanyol.</lex>
+      <lex lang="ca" lid="Id2">Alfredo Zitarrosa va morir a Montevideo, el líder del qual, és Daniel Martínez. Montevideo és a Uruguai, on l'espanyol és la llengua i on Raúl Fernando Sendic Rodríguez és el líder.</lex>
+      <lex lang="ca" lid="Id3">Raúl Fernando Sendic Rodríguez és el líder de l'Uruguay parlant castellà. Daniel Martínez és el líder de Montevideo, el lloc de descans final d'Alfredo Zitarrosa.</lex>
+      <lex lang="eu" lid="Id1">Alfredo Zitarrosa Montevideon hil zen. Daniel Martinez Montevideoko buruzagi politikoa da, eta Raul Fernando Sendic Rodriguez Uruguaiko buruzagia da, non gaztelania hitz egiten den.</lex>
+      <lex lang="eu" lid="Id2">Alfredo Zitarrosa Montevideon hil zen, eta haren liderra Daniel Martinez da. Montevideo Uruguain dago, non gaztelania den hizkuntza ofiziala eta Raúl Fernando Sendic Rodríguez da liderra.</lex>
+      <lex lang="eu" lid="Id3">Raúl Fernando Sendic Rodríguez da Uruguaiko espainiar hiztunen buruzagia, eta Daniel Martinez da Montevideoko buruzagia, Alfredo Zitarrosaren azken egoitza.</lex>
+      <lex lang="gl" lid="Id1">Alfredo Zitarrosa morreu en Montevideo, Uruguai. Daniel Martínez é un líder político en Montevideo, e Raúl Fernando Sendic Rodríguez é un líder en Uruguai, onde se fala español.</lex>
+      <lex lang="gl" lid="Id2">Alfredo Zitarrosa morreu en Montevideo, cuxo líder, é Daniel Martínez. Montevideo está en Uruguai, onde o español é a lingua e onde Raúl Fernando Sendic Rodríguez é o líder.</lex>
+      <lex lang="gl" lid="Id3">Raúl Fernando Sendic Rodríguez é o líder do Uruguai de fala hispana. Daniel Martinez é o líder de Montevideo, o lugar de descanso final de Alfredo Zitarrosa.</lex>
+      </entry>
+    <entry category="Artist" eid="Id30" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Uruguay | leader | Tabaré_Vázquez</otriple>
+        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
+        <otriple>Montevideo | country | Uruguay</otriple>
+        <otriple>Uruguay | demonym | Uruguayans</otriple>
+        <otriple>Montevideo | leaderName | Daniel_Martínez_(politician)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uruguay | leader | Tabaré_Vázquez</mtriple>
+        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
+        <mtriple>Montevideo | country | Uruguay</mtriple>
+        <mtriple>Uruguay | demonym | Uruguayans</mtriple>
+        <mtriple>Montevideo | leader | Daniel_Martínez_(politician)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Uruguay | Líder | Tabaré_Vázquez</striple>
+        <striple>Alfredo_Zitarrosa | LugarDeLaMuerte | Montevideo</striple>
+        <striple>Montevideo | País | Uruguay</striple>
+        <striple>Uruguay | Gentilicio | uruguayos</striple>
+        <striple>Montevideo | Líder | Daniel_Martínez_(político)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Uruguai | Líder | Tabaré_Ramón_Vázquez_Rosas</ctriple>
+        <ctriple>Alfredo_Zitarrosa | LlocDeLaMort | Montevideo</ctriple>
+        <ctriple>Montevideo | País | Uruguai</ctriple>
+        <ctriple>Uruguai | Demònim | uruguaians</ctriple>
+        <ctriple>Montevideo | Líder | Daniel_Martínez_(polític)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Uruguai | Líder | Tabaré_Vázquez</gtriple>
+        <gtriple>Alfredo_Zitarrosa | LugarDaMorte | Montevideo</gtriple>
+        <gtriple>Montevideo | País | Uruguai</gtriple>
+        <gtriple>Uruguai | Demónimo | Uruguaios</gtriple>
+        <gtriple>Montevideo | Líder | Daniel_Martínez_(político)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Uruguai | Buruzagia. | Tabaré_Vázquez</btriple>
+        <btriple>Alfredo_Zitarrosa | HeriotzarenLekua | Montevideo</btriple>
+        <btriple>Montevideo | Herrialdea | Uruguai</btriple>
+        <btriple>Uruguai | DeabruarenIzena. | Uruguaitarrak</btriple>
+        <btriple>Montevideo | Buruzagia. | Daniel_Martínez_(politikaria)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Alfredo Zitarrosa died in Montevideo in Uruguay whose leader is Tabare Vazquez. Another politician in Montevideo is Daniel Martinez. Uruguayans live in Uruguay.</lex>
+      <lex lang="en" lid="Id2">Montevideo, Uruguay is the final resting place of Alfredo Zitarrosa. Montevideo is led by Daniel Martínez and Tabaré Vázquez. It is home to the Uruguayans.</lex>
+      <lex lang="en" lid="Id3">Montevideo, Uruguay is led by Daniel Martinez and Tabaré Vázquez. It is the home to Uruguayans and the place of death for Alfredo Zitarrosa.</lex>
+      <lex lang="es" lid="Id1">Alfredo Zitarrosa murio en Montevideo en Uruguay cuyo lider es Tabare Vazquez. Otro político en Montevideo es Daniel Martínez. Los Uruguayos viven en Uruguay.</lex>
+      <lex lang="es" lid="Id2">Montevideo, Uruguay, es el lugar de descanso final de Alfredo Zitarrosa. Montevideo está dirigida por Daniel Martínez y Tabaré Vázquez. Es el hogar de los Uruguayos.</lex>
+      <lex lang="es" lid="Id3">Montevideo, Uruguay, está dirigida por Daniel Martínez y Tabaré Vázquez. Es el hogar de los Uruguayos y el lugar de la muerte de Alfredo Zitarrosa.</lex>
+      <lex lang="ca" lid="Id1">Alfredo Zitarrosa va morir a Montevideo, a l'Uruguai, el líder del qual és Tabare Vazquez. Un altre polític de Montevideo és Daniel Martínez.</lex>
+      <lex lang="ca" lid="Id2">Montevideo, Uruguai és el lloc de descans final d'Alfredo Zitarrosa. Montevideo està dirigit per Daniel Martínez i Tabaré Vázquez. És la llar dels uruguaians.</lex>
+      <lex lang="ca" lid="Id3">Montevideo, a l'Uruguai, és dirigida per Daniel Martinez i Tabaré Vázquez, és la llar dels uruguaians i el lloc de mort d'Alfredo Zitarrosa.</lex>
+      <lex lang="eu" lid="Id1">Alfredo Zitarrosa Montevideon hil zen, Uruguain, Tabare Vazquezen lidergopean. Montevideoko beste politikari bat Daniel Martinez da. Uruguaiarrak Uruguain bizi dira.</lex>
+      <lex lang="eu" lid="Id2">Montevideo, Uruguai, Alfredo Zitarrosaren azken egoitza da. Montevideo Daniel Martínez eta Tabaré Vázquezek zuzentzen dute. Uruguaiarren etxea da.</lex>
+      <lex lang="eu" lid="Id3">Montevideo, Uruguai, Daniel Martinezek eta Tabaré Vázquezek gobernatzen dute. Uruguaiarren etxea da eta Alfredo Zitarrosa hil zen tokia.</lex>
+      <lex lang="gl" lid="Id1">Alfredo Zitarrosa morreu en Montevideo en Uruguai cuxo líder é Tabare Vázquez. Outro político en Montevideo é Daniel Martínez. Os uruguayos viven en Uruguai.</lex>
+      <lex lang="gl" lid="Id2">Montevideo, Uruguai, é o lugar de descanso final de Alfredo Zitarrosa. Montevideo está gobernada por Daniel Martínez e Tabaré Vázquez. É o fogar dos uruguaios.</lex>
+      <lex lang="gl" lid="Id3">Montevideo, Uruguai, dirixida por Daniel Martínez e Tabaré Vázquez, é o fogar dos uruguaios e o lugar da morte de Alfredo Zitarrosa.</lex>
+      </entry>
+    </entries>
+  </benchmark>

@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple>
+        <striple>Bananaman | Creador | Steve_Bright</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        <striple>Bananaman | EmitidoPor | STV</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Tim_Brooke-Taylor</ctriple>
+        <ctriple>Bananamà | Creador | Steve_Bright</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        <ctriple>Bananamà | TransmèsPer | STV</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Tim_Brooke-Taylor</gtriple>
+        <gtriple>Bananas | Creador | Steve_Bright</gtriple>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        <gtriple>Bananas | EmitidoPor | STV</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Tim_Brooke-Taylor</btriple>
+        <btriple>Bananaman | Sortzailea | Steve_Bright</btriple>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | Eusko_Jaurlaritzaren_laguntzarekin_egindako_azpitituluak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor was the star of Bananaman, an STV series first aired on 10/03/1983 and created by Steve Bright.</lex>
+      <lex lang="en" lid="Id2">Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. The show was first aired on 3rd October 1983 by STV.</lex>
+      <lex lang="en" lid="Id3">Tim Brooke-Taylor starred in Bananaman that was created by Steve Bright. It was broadcast by STV and first aired on 3 October 1983.</lex>
+      <lex lang="es" lid="Id1">Tim Brooke-Taylor fue la estrella de Bananaman, una serie de la STV emitida por primera vez el 10/03/1983 y creada por Steve Bright.</lex>
+      <lex lang="es" lid="Id2">Bananaman fue creado por Steve Bright y protagonizado por Tim Brooke-Taylor. Se emitió por primera vez el 3 de octubre de 1983 en STV.</lex>
+      <lex lang="es" lid="Id3">Tim Brooke-Taylor protagonizó Bananaman, creada por Steve Bright. Fue emitido por STV y se emitió por primera vez el 3 de octubre de 1983.</lex>
+      <lex lang="ca" lid="Id1">Tim Brooke-Taylor va ser l'estrella de Bananaman, una sèrie de STV emesa per primera vegada el 10/03/1983 i creada per Steve Bright.</lex>
+      <lex lang="ca" lid="Id2">Bananaman va ser creat per Steve Bright i protagonitzat per Tim Brooke-Taylor. El programa es va emetre per primera vegada el 3 d'octubre de 1983 per STV.</lex>
+      <lex lang="ca" lid="Id3">Tim Brooke-Taylor va protagonitzar Bananaman que va ser creat per Steve Bright. Va ser emès per STV i es va emetre per primera vegada el 3 d'octubre de 1983.</lex>
+      <lex lang="eu" lid="Id1">Tim Brooke-Taylor Bananaman-en izarra izan zen, Steve Bright-ek sortutako STV telesail bat, 1983/10/03an aireratu zena.</lex>
+      <lex lang="eu" lid="Id2">Bananaman Steve Brightek sortu zuen eta Tim Brooke-Taylor aktoreak antzeztu zuen. 1983ko urriaren 3an estreinatu zen STV katean.</lex>
+      <lex lang="eu" lid="Id3">Tim Brooke-Taylor, Steve Brightek sortutako Bananaman telesailean antzeztu zuen. STV katean emititu zen eta 1983ko urriaren 3an estreinatu zen.</lex>
+      <lex lang="gl" lid="Id1">Tim Brooke-Taylor foi a estrela de Bananaman, unha serie de STV emitida por primeira vez o 10/03/1983 e creada por Steve Bright.</lex>
+      <lex lang="gl" lid="Id2">Bananaman foi creado por Steve Bright e protagonizado por Tim Brooke-Taylor. O espectáculo emitiuse por primeira vez o 3 de outubro de 1983 por STV.</lex>
+      <lex lang="gl" lid="Id3">Tim Brooke- Taylor protagonizou Bananaman que foi creado por Steve Bright. Foi emitido por STV e emitido por primeira vez o 3 de outubro de 1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple>
+        <striple>Ernie_Colón | Nacionalidad | puertorriqueños</striple>
+        <striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Dan_Mishkin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Ernie_Colón</ctriple>
+        <ctriple>Ernie_Colón | Nacionalitat | porto-riquenys</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | NomAlternatiu | Larry_Bolatinsky</ctriple>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Dan_Mishkin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Ernie_Colón</gtriple>
+        <gtriple>Ernie_Colón | Nacionalidade | Puertorriqueños</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | NomeAlternativo | Larry_Bolatinsky</gtriple>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Dan_Mishkin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Ernie_Colón</btriple>
+        <btriple>Ernie_Colón | Nazionalitatea | Puerto_Ricarrak</btriple>
+        <btriple>Bolt_(comicsCharacter) | AlternatiboaIzena | Larry_Bolatinsky_naiz</btriple>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Dan_Mishkin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
+      <lex lang="en" lid="Id2">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
+      <lex lang="en" lid="Id3">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
+      <lex lang="es" lid="Id1">Dan Mishkin y el puertorriqueño Ernie Colon crearon el personaje cómico de Bolt, cuyo nombre alternativo es Larry Bolatinsky.</lex>
+      <lex lang="es" lid="Id2">Dan Mishkin y Ernie Colón (puertorriqueño) crearon el personaje de cómic Bolt, cuyo nombre alternativo es Larry Bolatinsky.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic de Bolt tiene el nombre alternativo de Larry Bolatinsky. Fue creado por Dan Mishkin y el puertorriqueño Ernie Colon.</lex>
+      <lex lang="ca" lid="Id1">Dan Mishkin i el nacional puertorriqueí, Ernie Colon van crear el personatge còmic de Bolt que té el nom alternatiu de Larry Bolatinsky.</lex>
+      <lex lang="ca" lid="Id2">Dan Mishkin i Ernie Colón (portoriqueny) van crear el personatge còmic Bolt, el nom alternatiu del qual és Larry Bolatinsky.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic de Bolt té el nom alternatiu de Larry Bolatinsky. Va ser creat per Dan Mishkin i el nacional puertorriqueí, Ernie Colon.</lex>
+      <lex lang="eu" lid="Id1">Dan Mishkin eta Ernie Colon puertorricarrek Bolt komiki pertsonaia sortu zuten, Larry Bolatinsky izen alternatiboa duena.</lex>
+      <lex lang="eu" lid="Id2">Dan Mishkin eta Ernie Colón (Puerto Ricokoak) Bolt komiki-pertsonaia sortu zuten, Larry Bolatinsky izen alternatiboa duena.</lex>
+      <lex lang="eu" lid="Id3">Bolt komiki pertsonaiak Larry Bolatinsky izena du. Dan Mishkinek eta Ernie Colon puertorricarrak sortu zuten.</lex>
+      <lex lang="gl" lid="Id1">Dan Mishkin e o nacional portorriqueño, Ernie Colon crearon o personaxe cómico de Bolt que ten o nome alternativo de Larry Bolatinsky.</lex>
+      <lex lang="gl" lid="Id2">Dan Mishkin e Ernie Colón (portorriqueño) crearon o personaxe cómico Bolt, cuxo nome alternativo é Larry Bolatinsky.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada de Bolt ten o nome alternativo de Larry Bolatinsky. Foi creado por Dan Mishkin e o nacional de Porto Rico, Ernie Colon.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Damon_Wayans,_Jr.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Damon_Wayans,_Jr.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Big_Hero_6_(filme) | Estrelado | Damon_Wayans,_Jr.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Big_Hero_6_(filma) | Antzezpena: | Damon_Wayans,_Jr.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax is a character in Big Hero 6 that stars Damon Wayans Jr. The character was created by the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id2">Damon Wayans Jr starred in the film Big Hero 6 which also included the character of Baymax who was created by the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Baymax is a character in the film Big Hero 6 which starred Damon Wayans, Jr. The character was created by the American national Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje de Big Hero 6 protagonizado por Damon Wayans Jr. El personaje fue creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">Damon Wayans Jr protagonizó la película Big Hero 6, en la que también aparecía el personaje de Baymax, creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Baymax es un personaje de la película Big Hero 6, protagonizada por Damon Wayans, Jr. El personaje fue creado por el ciudadano Estadounidense Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge de Big Hero 6 protagonitzat per Damon Wayans Jr. El personatge va ser creat pel nord-americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id2">Damon Wayans Jr va protagonitzar la pel·lícula Big Hero 6 que també incloïa el personatge de Baymax que va ser creat per l'americà, Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Baymax és un personatge de la pel·lícula Big Hero 6 protagonitzada per Damon Wayans, Jr. El personatge va ser creat pel nacional americà Duncan Rouleau.</lex>
+      <lex lang="eu" lid="Id1">Baymax Big Hero 6-ko pertsonaia bat da, Damon Wayans Jr.en protagonista. Duncan Rouleau estatubatuarrak sortu zuen pertsonaia.</lex>
+      <lex lang="eu" lid="Id2">Damon Wayans Jr-k Big Hero 6 filmean antzeztu zuen, Duncan Rouleau estatubatuarrak sortutako Baymax pertsonaia barne.</lex>
+      <lex lang="eu" lid="Id3">Baymax Big Hero 6 filmean agertzen den pertsonaia bat da, Damon Wayans Jr.ek antzeztutakoa.</lex>
+      <lex lang="gl" lid="Id1">Baymax é un personaxe de Big Hero 6 protagonizado por Damon Wayans Jr. O personaxe foi creado polo estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id2">Damon Wayans Jr protagonizou a película Big Hero 6 que tamén incluía o personaxe de Baymax que foi creado polo estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Baymax é un personaxe da película Big Hero 6 protagonizada por Damon Wayans, Jr. O personaxe foi creado polo estadounidense Duncan Rouleau.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Jamie_Chung</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Jamie_Chung</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Big_Hero_6_(filme) | Estrelado | Jamie_Chung</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Big_Hero_6_(filma) | Antzezpena: | Jamie_Chung</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax, a character in Big Hero 6, starring Jamie Chung, was created by Duncan Rouleau, an American.</lex>
+      <lex lang="en" lid="Id2">Jamie Chung starred in the film Big Hero 6 in which the character of Baymax appeared. Baymax was created by the American national, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Duncan Rouleau, who is American, created the character Baymax, which appeared in the movie Big Hero 6 starring Jamie Chung.</lex>
+      <lex lang="es" lid="Id1">Baymax, personaje de Big Hero 6, protagonizada por Jamie Chung, fue creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">Jamie Chung protagonizó la película Big Hero 6 en la que aparecía el personaje de Baymax. Baymax fue creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">El Estadounidense Duncan Rouleau creó el personaje Baymax, que apareció en la película Big Hero 6 protagonizada por Jamie Chung.</lex>
+      <lex lang="ca" lid="Id1">Baymax, un personatge de Big Hero 6, protagonitzat per Jamie Chung, va ser creat per Duncan Rouleau, un americà.</lex>
+      <lex lang="ca" lid="Id2">Jamie Chung va protagonitzar la pel·lícula Big Hero 6, en la qual va aparèixer el personatge de Baymax. Baymax va ser creat per l'americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Duncan Rouleau, que és americà, va crear el personatge Baymax, que va aparèixer a la pel·lícula Big Hero 6 protagonitzada per Jamie Chung.</lex>
+      <lex lang="eu" lid="Id1">Baymax, Big Hero 6-ko pertsonaia bat, Jamie Chung protagonista, Duncan Rouleau estatubatuarrak sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Jamie Chung-ek Big Hero 6 filmean parte hartu zuen, eta bertan Baymax pertsonaia agertu zen. Baymax Duncan Rouleau nazional amerikarrak sortu zuen.</lex>
+      <lex lang="eu" lid="Id3">Duncan Rouleau, estatubatuarra, Baymax pertsonaia sortu zuen, Jamie Chungek antzeztutako Big Hero 6 filmean agertu zena.</lex>
+      <lex lang="gl" lid="Id1">Baymax, un personaxe de Big Hero 6, protagonizado por Jamie Chung, foi creado por Duncan Rouleau, un estadounidense.</lex>
+      <lex lang="gl" lid="Id2">Jamie Chung protagonizou a película Big Hero 6, na que apareceu o personaxe de Baymax. Baymax foi creado polo estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Duncan Rouleau, que é estadounidense, creou o personaxe Baymax, que apareceu na película Big Hero 6 protagonizada por Jamie Chung.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Maya_Rudolph</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Maya_Rudolph</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Duncan_Rouleau | Nacionalidade | Americanos</gtriple>
+        <gtriple>Baymax | Creador | Duncan_Rouleau</gtriple>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        <gtriple>Big_Hero_6_(filme) | Estrelado | Maya_Rudolph</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Duncan_Rouleau-k_egin_zuen. | Nazionalitatea | Ameriketako_Estatu_Batuak</btriple>
+        <btriple>Baymax | Sortzailea | Duncan_Rouleau-k_egin_zuen.</btriple>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        <btriple>Big_Hero_6_(filma) | Antzezpena: | Maya_Rudolph</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Big Hero 6 starred Maya Rudolph and the character of Baymax who was created by the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id2">Baymax is a character in the film Big Hero 6 which starred Maya Rudolph. The creator of this character was American born Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id3">Maya Rudolph stars in Big Hero 6 in which the character Baymax also appears. Baymax was created by the American, Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id1">Big Hero 6 está protagonizada por Maya Rudolph y el personaje de Baymax, creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">Baymax es un personaje de la película Big Hero 6 protagonizada por Maya Rudolph. El creador de este personaje fue el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id3">Maya Rudolph protagoniza Big Hero 6, en la que también aparece el personaje Baymax. Baymax fue creado por el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id1">Big Hero 6 va protagonitzar Maya Rudolph i el personatge de Baymax que va ser creat per l'americà, Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id2">Baymax és un personatge de la pel·lícula Big Hero 6, protagonitzada per Maya Rudolph. El creador d'aquest personatge va ser el nord-americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id3">Maya Rudolph protagonitza Big Hero 6, on també hi apareix el personatge Baymax. Baymax va ser creat per l'americà Duncan Rouleau.</lex>
+      <lex lang="eu" lid="Id1">Maya Rudolph eta Duncan Rouleau estatubatuarrak sortutako Baymax pertsonaia antzeztu zuen.</lex>
+      <lex lang="eu" lid="Id2">Baymax Maya Rudolph aktoreak antzeztutako Big Hero 6 filmaren pertsonaia bat da. Pertsonaia honen sortzailea Duncan Rouleau estatubatuarra izan zen.</lex>
+      <lex lang="eu" lid="Id3">Maya Rudolph Big Hero 6 telesailean agertzen da, non Baymax pertsonaia ere agertzen den. Baymax Duncan Rouleau estatubatuarrak sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">Big Hero 6 estaba protagonizado por Maya Rudolph e o personaxe de Baymax que foi creado polo estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id2">Baymax é un personaxe da película Big Hero 6, protagonizada por Maya Rudolph. O creador deste personaxe foi o estadounidense Duncan Rouleau.</lex>
+      <lex lang="gl" lid="Id3">Maya Rudolph protagoniza Big Hero 6, na que tamén aparece o personaxe Baymax. Baymax foi creado polo estadounidense Duncan Rouleau.</lex>
+      </entry>
+    </entries>
+  </benchmark>

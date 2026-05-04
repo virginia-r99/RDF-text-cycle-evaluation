@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Dissenyador | Pietro_Canonica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Deseñador | Pietro_Canonica</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atatürk_Monumentua_(Izmir) | Diseinatzailea | Pietro_Canonica</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument in Izmir was designed by Pietro Canonica.</lex>
+      <lex lang="en" lid="Id2">Pietro Canonica designed the Atatürk Monument in Izmir.</lex>
+      <lex lang="en" lid="Id3">Pietro Canonica is the designer of the Ataturk Monument (Izmir).</lex>
+      <lex lang="en" lid="Id4">The Ataturk Monument was designed by Pietro Canonica.</lex>
+      <lex lang="en" lid="Id5">Ataturk Monument was designed by Pietro Canonica.</lex>
+      <lex lang="en" lid="Id6">The Atatürk Monument (Esmirna) was designed by Pietro Canonica.</lex>
+      <lex lang="en" lid="Id7">The designer of the Atatürk Monument (Esmirna) is Pietro Canonica.</lex>
+      <lex lang="en" lid="Id8">Pietro Canonica is the designer of the Ataturk Monument in Izmir.</lex>
+      <lex lang="es" lid="Id1">El monumento de Atatürk en Esmirna fue diseñado por Pietro Canonica.</lex>
+      <lex lang="es" lid="Id2">Pietro Canonica diseñó el monumento de Atatürk en Esmirna.</lex>
+      <lex lang="es" lid="Id3">Pietro Canonica es el diseñador del monumento de Ataturk (Esmirna).</lex>
+      <lex lang="es" lid="Id4">El monumento de Ataturk fue diseñado por Pietro Canonica.</lex>
+      <lex lang="es" lid="Id5">El monumento de Ataturk fue diseñado por Pietro Canonica.</lex>
+      <lex lang="es" lid="Id6">El monumento de Atatürk (Esmirna) fue diseñado por Pietro Canonica.</lex>
+      <lex lang="es" lid="Id7">El diseñador del monumento de Atatürk (Esmirna) es Pietro Canonica.</lex>
+      <lex lang="es" lid="Id8">Pietro Canonica es el diseñador del monumento de Ataturk en Esmirna.</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk a Izmir va ser dissenyat per Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id2">Pietro Canonica va dissenyar el monument d'Atatürk a Izmir.</lex>
+      <lex lang="ca" lid="Id3">Pietro Canonica és el dissenyador del Monument d'Atatürk (Izmir).</lex>
+      <lex lang="ca" lid="Id4">El monument a Atatürk va ser dissenyat per Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id5">El monument d'Atatürk va ser dissenyat per Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id6">El Monument a Atatürk (Esmirna) va ser dissenyat per Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id7">El dissenyador del Monument a Atatürk (Esmirna) és Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id8">Pietro Canonica és el dissenyador del monument d'Atatürk a Izmir.</lex>
+      <lex lang="eu" lid="Id1">Izmirren dagoen Atatürk monumentua Pietro Canonicak diseinatu zuen.</lex>
+      <lex lang="eu" lid="Id2">Pietro Canonicak diseinatu zuen Atatürk monumentua Izmirren.</lex>
+      <lex lang="eu" lid="Id3">Pietro Canonica da Ataturk monumentuaren (Izmir) diseinatzailea.</lex>
+      <lex lang="eu" lid="Id4">Ataturken monumentua Pietro Canonicak diseinatu zuen.</lex>
+      <lex lang="eu" lid="Id5">Ataturken monumentua Pietro Canonicak diseinatu zuen.</lex>
+      <lex lang="eu" lid="Id6">Atatürk monumentua (Esmirna) Pietro Canonicak diseinatu zuen.</lex>
+      <lex lang="eu" lid="Id7">Atatürk monumentuaren (Esmirna) diseinatzailea Pietro Canonica da.</lex>
+      <lex lang="eu" lid="Id8">Pietro Canonica da Izmir-eko Ataturk monumentuaren diseinatzailea.</lex>
+      <lex lang="gl" lid="Id1">O Monumento a Atatürk en Izmir foi deseñado por Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id2">Pietro Canonica deseñou o Monumento a Atatürk en Izmir.</lex>
+      <lex lang="gl" lid="Id3">Pietro Canonica é o deseñador do Monumento a Ataturk (Izmir).</lex>
+      <lex lang="gl" lid="Id4">O monumento a Atatürk foi deseñado por Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id5">O monumento a Ataturk foi deseñado por Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id6">O Monumento a Atatürk (Esmirna) foi deseñado por Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id7">O deseñador do Monumento a Atatürk (Esmirna) é Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id8">Pietro Canonica é o deseñador do Monumento a Ataturk en Izmir.</lex>
+      </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Material | bronze</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Material | Bronce</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atatürk_Monumentua_(Izmir) | Materiala | Brontzea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument in Izmir is made of bronze.</lex>
+      <lex lang="en" lid="Id2">The material of the Ataturk Monument (Izmir) is bronze.</lex>
+      <lex lang="en" lid="Id3">The Ataturk Monument is made from Bronze.</lex>
+      <lex lang="en" lid="Id4">The Atatürk Monument (İzmir) is made of Bronze.</lex>
+      <lex lang="en" lid="Id5">Ataturk Monument is made of Bronze.</lex>
+      <lex lang="es" lid="Id1">El monumento de Atatürk en Esmirna es de bronce.</lex>
+      <lex lang="es" lid="Id2">El material del monumento de Ataturk (Esmirna) es el bronce.</lex>
+      <lex lang="es" lid="Id3">El monumento de Ataturk es de bronce.</lex>
+      <lex lang="es" lid="Id4">El monumento de Atatürk (Esmirna) es de bronce.</lex>
+      <lex lang="es" lid="Id5">El monumento de Ataturk está hecho de bronce.</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk a Izmir està fet de bronze.</lex>
+      <lex lang="ca" lid="Id2">El material del Monument d'Atatürk (Izmir) és bronze.</lex>
+      <lex lang="ca" lid="Id3">El monument d'Atatürk està fet de bronze.</lex>
+      <lex lang="ca" lid="Id4">El monument d'Atatürk (İzmir) està fet de bronze.</lex>
+      <lex lang="ca" lid="Id5">El monument d'Atatürk està fet de bronze.</lex>
+      <lex lang="eu" lid="Id1">Izmir-eko Atatürk monumentua brontzezkoa da.</lex>
+      <lex lang="eu" lid="Id2">Atatürk monumentuaren materiala (Izmir) brontzea da.</lex>
+      <lex lang="eu" lid="Id3">Atatürken monumentua brontzezkoa da.</lex>
+      <lex lang="eu" lid="Id4">Atatürk monumentua (Izmir) brontzezkoa da.</lex>
+      <lex lang="eu" lid="Id5">Ataturk monumentua brontzezkoa da.</lex>
+      <lex lang="gl" lid="Id1">O monumento a Atatürk en Izmir está feito de bronce.</lex>
+      <lex lang="gl" lid="Id2">O material do Monumento a Ataturk (Izmir) é bronce.</lex>
+      <lex lang="gl" lid="Id3">O monumento a Ataturk está feito de bronce.</lex>
+      <lex lang="gl" lid="Id4">O Monumento a Atatürk (İzmir) está feito de bronce.</lex>
+      <lex lang="gl" lid="Id5">O monumento a Atatürk está feito de bronce.</lex>
+      </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | Líder | Artur_Rasizade</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | Líder | Artur_Rasizade</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Azerbaián | Líder | Artur_Rasizade</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Azerbaijan | Buruzagia. | Artur_Rasizade</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Azerbaijan leader's name is Artur Rasizade.</lex>
+      <lex lang="en" lid="Id2">The name of the leader of Azerbaijan is Artur Rasizade.</lex>
+      <lex lang="es" lid="Id1">El líder de Azerbaiyán se llama Artur Rasizade.</lex>
+      <lex lang="es" lid="Id2">El nombre del líder de Azerbaiyán es Artur Rasizade.</lex>
+      <lex lang="ca" lid="Id1">El nom del líder de l'Azerbaidjan és Artur Rasizade.</lex>
+      <lex lang="ca" lid="Id2">El nom del líder de l'Azerbaidjan és Artur Rasizade.</lex>
+      <lex lang="eu" lid="Id1">Bere izena Artur Rasizade azerbaijandar politikariagatik jasotzen du.</lex>
+      <lex lang="eu" lid="Id2">Azerbaijango presidentea Artur Rasizade da.</lex>
+      <lex lang="gl" lid="Id1">O nome do líder de Acerbaixán é Artur Rasizade.</lex>
+      <lex lang="gl" lid="Id2">O nome do líder de Acerbaixán é Artur Rasizade.</lex>
+      </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex lang="en" lid="Id3">The Turkish Martyrs' memorial is located in Baku, Azerbaijan.</lex>
+      <lex lang="en" lid="Id4">Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
+      <lex lang="en" lid="Id5">The Baku Turkish Martyrs' Memorial can be found in Azerbaijan.</lex>
+      <lex lang="en" lid="Id6">The Baku Turkish Martyrs' Memorial is situated in Azerbaijan.</lex>
+      <lex lang="en" lid="Id7">The Baku Turkish Martyrs' Memorial is found in Azerbaijan.</lex>
+      <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú se localiza en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú está en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id3">El monumento a los mártires turcos se encuentra en Bakú (Azerbaiyán).</lex>
+      <lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú se localiza en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id5">El monumento a los mártires turcos de Bakú puede ser encontrado en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id6">El Monumento a los Mártires Turcos de Bakú está situado en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id7">El monumento a los mártires turcos de Bakú se encuentra en Azerbaiyán.</lex>
+      <lex lang="ca" lid="Id1">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id3">El memorial dels màrtirs turcs es troba a Bakú, Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id4">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id5">El Memorial dels Màrtirs Turcs de Bakú es pot trobar a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id6">El Memorial dels Màrtirs Turcs de Bakú està situat a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id7">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan.</lex>
+      <lex lang="eu" lid="Id1">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id2">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id3">Turkiako Martirien Memoriala Bakun dago, Azerbaidjan.</lex>
+      <lex lang="eu" lid="Id4">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id5">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id6">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id7">Baku Turkiako Martirien Memoriala Azerbaidjan dago.</lex>
+      <lex lang="gl" lid="Id1">O Memorial dos Mártires Turcos de Bakú está situado en Azerbaixán.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú está en Azerbaixán.</lex>
+      <lex lang="gl" lid="Id3">O memorial dos mártires turcos está situado en Bakú, Azerbaixán.</lex>
+      <lex lang="gl" lid="Id4">O Memorial dos Mártires Turcos de Bakú está situado en Azerbaixán.</lex>
+      <lex lang="gl" lid="Id5">O Memorial dos Mártires Turcos de Bakú pódese atopar en Azerbaiyán.</lex>
+      <lex lang="gl" lid="Id6">O Memorial dos Mártires Turcos de Bakú está situado en Azerbaixán.</lex>
+      <lex lang="gl" lid="Id7">O Memorial dos Mártires Turcos de Bakú atópase en Azerbaixán.</lex>
+      </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Material | Granit_vermell_i_marbre_blanc</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Material | Granito_vermello_e_mármore_branco</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Materiala | Granito_gorria_eta_marmol_zuria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The materials used for the Baku Turkish Martyrs' Memorial is red granite and white marble.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is created in red granite and white marble.</lex>
+      <lex lang="en" lid="Id3">The material of the Baku Turkish Martyrs' Memorial is Red granite and white marble.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs' Memorial is made from red granite and white marble.</lex>
+      <lex lang="en" lid="Id5">Baku Turkish Martyrs' Memorial is made of red granite and white marble.</lex>
+      <lex lang="en" lid="Id6">Baku Turkish Martyrs' Memorial is made from red granite and white marble.</lex>
+      <lex lang="en" lid="Id7">The Baku Turkish Martyrs' Memorial is made with red granite and white marble.</lex>
+      <lex lang="es" lid="Id1">Los materiales utilizados para el Monumento a los Mártires Turcos de Bakú son granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú está realizado en granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id3">El material del Monumento a los Mártires Turcos de Bakú es granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú está hecho de granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id5">El Monumento a los Mártires Turcos de Bakú está hecho de granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id6">El Monumento a los Mártires Turcos de Bakú está hecho con granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id7">El Monumento a los Mártires Turcos de Bakú está construido con granito rojo y mármol blanco.</lex>
+      <lex lang="ca" lid="Id1">Els materials utilitzats per al Memorial dels Màrtirs Turcs de Bakú són granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú està creat en granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id3">El material del Memorial dels Màrtirs Turcs de Bakú és granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id4">El Memorial dels Màrtirs Turcs de Bakú està fet de granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id5">El Memorial dels Màrtirs Turcs de Bakú està fet de granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id6">El Memorial dels Màrtirs Turcs de Bakú està fet de granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id7">El Memorial dels Màrtirs Turcs de Bakú està fet amb granit vermell i marbre blanc.</lex>
+      <lex lang="eu" lid="Id1">Bakuko Martiri Turkoen Memorialean erabiltzen diren materialak granito gorria eta marmol zuria dira.</lex>
+      <lex lang="eu" lid="Id2">Bakuko martiri turkoen memoriala granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="eu" lid="Id3">Bakuko martiri turkoen memoriaren materiala granito gorria eta marmol zuria dira.</lex>
+      <lex lang="eu" lid="Id4">Baku-ko Martiri Turkoen Memoriala granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="eu" lid="Id5">Baku Turkiako Martirien Memoriala granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="eu" lid="Id6">Baku Turkiako Martirien Memoriala granito gorri eta marmol zuriz egina dago.</lex>
+      <lex lang="eu" lid="Id7">Bakuko martiri turkoen memoriala granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="gl" lid="Id1">Os materiais utilizados para o Memorial dos Mártires Turcos de Bakú son granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú está creado en granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id3">O material do Memorial dos Mártires Turcos de Bakú é granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id4">O Monumento aos Mártires Turcos de Bakú está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id5">O Memorial dos Mártires Turcos de Bakú está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id6">O Memorial dos Mártires Turcos de Bakú está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id7">O Monumento aos Mártires Turcos de Bakú está feito de granito vermello e mármore branco.</lex>
+      </entry>
+    </entries>
+  </benchmark>

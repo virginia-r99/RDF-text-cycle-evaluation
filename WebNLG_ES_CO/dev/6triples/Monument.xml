@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple>
+        <striple>Turquía | Líder | Ahmet_Davutoğlu</striple>
+        <striple>Turquía | Capital | Ankara</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Dissenyador | Pietro_Canonica</ctriple>
+        <ctriple>Turquia | Líder | Ahmet_Davutoğlu</ctriple>
+        <ctriple>Turquia | Capital | Ankara</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Material | bronze</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | DataD'Inauguració | 1932-07-27</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Ubicació | Turquia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Deseñador | Pietro_Canonica</gtriple>
+        <gtriple>Turquía | Líder | Ahmet_Davutoğlu</gtriple>
+        <gtriple>Turquía | Capital | Ankara</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Material | Bronce</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | DataDeInauguración | 1932-07-27</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Localización | Turquía</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atatürk_Monumentua_(Izmir) | Diseinatzailea | Pietro_Canonica</btriple>
+        <btriple>Turkia | Buruzagia. | Ahmet_Davutoğlu</btriple>
+        <btriple>Turkia | Kapitala | Ankaraworld._kgm</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Materiala | Brontzea</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | InaugurazioarenData | 1932-07-27</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Lokalizazioa | Turkia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Ankara is the Turkish capital and the country's leader's name is Ahmet Davutoglu. The Atatürk Monument (İzmir) can be found in Turkey. Pietro Canonica designed the Monument and it is made of bronze. The Ataturk Monument was inaugurated on 27th July, 1932.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument in Izmir was inaugurated on the 27th July, 1932. It is made of bronze and it was designed by Pietro Canonica. Turkey's leader is called Ahmet Davutoglu and its capital is Ankara.</lex>
+      <lex lang="en" lid="Id3">The capital city of Turkey is Ankara and the country's leader is Ahmet Davutoglu. The country is the location of Izmir where the bronze Ataturk Monument designed by Pietro Canonica was inaugurated on 27 July 1932.</lex>
+      <lex lang="es" lid="Id1">Ankara es la capital turca y el líder del país se llama Ahmet Davutoglu. En Turquía se encuentra el Monumento a Atatürk (İzmir). Pietro Canonica diseñó el monumento, que es de bronce. Fue inaugurado el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id2">El monumento a Ataturk en Izmir se inauguró el 27 de julio de 1932. Es de bronce y fue diseñado por Pietro Canonica. El líder de Turquía se llama Ahmet Davutoglu y su capital es Ankara.</lex>
+      <lex lang="es" lid="Id3">La capital de Turquía es Ankara y el líder del país es Ahmet Davutoglu. En el país se encuentra Izmir, donde el 27 de julio de 1932 se inauguró el monumento de bronce a Ataturk diseñado por Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id1">Ankara és la capital de Turquia i el nom del líder del país és Ahmet Davutoglu. El monument a Atatürk (İzmir) es troba a Turquia. Pietro Canonica va dissenyar el monument i està fet de bronze. El monument a Atatürk va ser inaugurat el 27 de juliol de 1932.</lex>
+      <lex lang="ca" lid="Id2">El monument d'Atatürk a Izmir va ser inaugurat el 27 de juliol de 1932. Està fet de bronze i va ser dissenyat per Pietro Canonica. El líder de Turquia es diu Ahmet Davutoglu i la seva capital és Ankara.</lex>
+      <lex lang="ca" lid="Id3">La capital de Turquia és Ankara i el líder del país és Ahmet Davutoglu. El país és la seu d'Izmir, on es va inaugurar el 27 de juliol de 1932 el Monument d'Atatürk de bronze, dissenyat per Pietro Canonica.</lex>
+      <lex lang="eu" lid="Id1">Ankara da Turkiako hiriburua eta herrialdeko liderra Ahmet Davutoglu da. Atatürk monumentua (İzmir) Turkian dago. Pietro Canonicak diseinatu zuen monumentua eta brontzezkoa da. Atatürk monumentua 1932ko uztailaren 27an inauguratu zen.</lex>
+      <lex lang="eu" lid="Id2">Atatürk monumentua 1932ko uztailaren 27an inauguratu zen Izmirren. Brontzezkoa da eta Pietro Canonicak diseinatu zuen. Turkiako liderra Ahmet Davutoglu da eta hiriburua Ankara.</lex>
+      <lex lang="eu" lid="Id3">Turkiako hiriburua Ankara da eta herrialdeko liderra Ahmet Davutoglu da. Herrialdean dago Izmir, non Pietro Canonicak diseinatutako Ataturk brontzezko monumentua inauguratu zen 1932ko uztailaren 27an.</lex>
+      <lex lang="gl" lid="Id1">Ankara é a capital de Turquía e o nome do líder do país é Ahmet Davutoglu. O Monumento a Atatürk (İzmir) atópase en Turquía. Pietro Canonica deseñou o Monumento e está feito de bronce. O Monumento a Atatürk inaugurouse o 27 de xullo de 1932. Name</lex>
+      <lex lang="gl" lid="Id2">O Monumento a Ataturk en Izmir foi inaugurado o 27 de xullo de 1932. Está feito de bronce e foi deseñado por Pietro Canonica. O líder de Turquía chámase Ahmet Davutoglu e a súa capital é Ankara.</lex>
+      <lex lang="gl" lid="Id3">A capital de Turquía é Ankara e o líder do país é Ahmet Davutoglu. O país é a localización de Izmir onde o monumento de bronce de Ataturk deseñado por Pietro Canonica foi inaugurado o 27 de xullo de 1932.</lex>
+      </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | TítuloDeLíder | primer_ministro_de_Azerbaiyán</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | NombreNativo | Türk_Şehitleri_Anıtı</striple>
+        <striple>Azerbaiyán | Líder | Artur_Rasizade</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | LíderTítol | primer_ministre_de_l'Azerbaidjan</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | DedicatA | Soldats_de_l'exèrcit_otomà_morts_a_la_batalla_de_Bakú</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | NomD'origen | Türk_Şehitleri_Anıtı</ctriple>
+        <ctriple>Azerbaidjan | Líder | Artur_Rasizade</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Dissenyador | Hüseyin_Bütüner_i_Hilmi_Güner</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Azerbaián | LíderTítulo | Primeiro_ministro_de_Azerbaixán</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | DedicadoA | Soldados_do_exército_otomán_mortos_na_batalla_de_Bakú</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | NomeNativo | Türk_Şehitleri_Anıtı</gtriple>
+        <gtriple>Azerbaián | Líder | Artur_Rasizade</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Deseñador | Hüseyin_Bütüner_e_Hilmi_Güner</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Azerbaijan | LiderraIzenburua | Azerbaijango_lehen_ministroa</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Eskainitako | Otomandar_armadako_soldaduak_Bakuko_guduan_hil_ziren.</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | JatorrizkoIzena | Türk_Şehitleri_Anitı</btriple>
+        <btriple>Azerbaijan | Buruzagia. | Artur_Rasizade</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Diseinatzailea | Hüseyin_Bütüner_eta_Hilmi_Güner</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial (original name: Türk Şehitleri Anıtı) was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan. It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. The leader, the Prime Minister of Azerbaijan is Artur Rasizade.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is located in Azerbaijan and the country's leader is Prime Minister Artur Rasizade. The Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and its designers are Huseyin Butuner and Hilmi Guner. The native name for the Baku Turkish Martyrs' Memorial is Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id3">Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs memorial, also known as Turk Sehitleri Aniti. The memorial is located in Azerbaijan and dedicated to the Ottoman army soldiers who died in the battle of Baku. Prime Minister Artur Rasizade is the leader of the country.</lex>
+      <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú (nombre original: Türk Şehitleri Anıtı) fue diseñado por Huseyin Butuner e Hilmi Guner y se encuentra en Azerbaiyán. Está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. El líder, el Primer Ministro de Azerbaiyán es Artur Rasizade.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú se encuentra en Azerbaiyán y su responsable es el Primer Ministro Artur Rasizade. El monumento está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú y sus diseñadores son Huseyin Butuner e Hilmi Guner. El nombre nativo del Monumento a los Mártires Turcos de Bakú es Türk Şehitleri Anıtı.</lex>
+      <lex lang="es" lid="Id3">Huseyin Butuner y Hilmi Guner son los diseñadores del monumento a los mártires turcos de Bakú, también conocido como Turk Sehitleri Aniti. El monumento se encuentra en Azerbaiyán y está dedicado a los soldados del ejército otomano que murieron en la batalla de Bakú. Está presidido por el Primer Ministro Artur Rasizade.</lex>
+      <lex lang="ca" lid="Id1">El Memorial dels Màrtirs Turcs de Bakú (nom original: Türk Şehitleri Anıtı) va ser dissenyat per Huseyin Butuner i Hilmi Guner i es troba a l'Azerbaidjan. Es dedica als soldats de l'exèrcit otomà morts a la batalla de Bakú. El líder, el primer ministre de l'Azerbaidjan és Artur Rasizade.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan i el líder del país és el primer ministre Artur Rasizade. El Memorial està dedicat als soldats de l'exèrcit otomà morts a la Batalla de Bakú i els seus dissenyadors són Huseyin Butuner i Hilmi Guner. El nom natiu del Memorial dels Màrtirs Turcs de Bakú és Türk Şehitleri Anıtı.</lex>
+      <lex lang="ca" lid="Id3">Huseyin Butuner i Hilmi Guner són els dissenyadors del Memorial dels Màrtirs Turcs de Bakú, també conegut com a Turk Sehitleri Aniti. El memorial es troba a l'Azerbaidjan i està dedicat als soldats de l'exèrcit otomà que van morir a la batalla de Bakú. El primer ministre Artur Rasizade és el líder del país.</lex>
+      <lex lang="eu" lid="Id1">Baku-ko Martiri Turkoen Memoriala (jatorrizko izena: Türk Şehitleri Anıtı) Huseyin Butuner-ek eta Hilmi Guner-ek diseinatu zuten eta Azerbaijanen dago. Baku-ko guduan hildako Otomandar Armadako soldaduei eskainita dago. Artur Rasizade da Azerbaijango lehen ministroa.</lex>
+      <lex lang="eu" lid="Id2">Baku Turkiako Martirien Memoriala Azerbaijanen dago eta herrialdeko liderra Artur Rasizade lehen ministroa da. Memoriala Bakuko guduan hildako armadako soldadu otomanduei eskainia dago eta bere diseinatzaileak Huseyin Butuner eta Hilmi Guner dira.</lex>
+      <lex lang="eu" lid="Id3">Huseyin Butuner eta Hilmi Guner Bakuko Turkiar Martirien monumentuaren diseinatzaileak dira, Turk Sehitleri Aniti bezala ere ezaguna. Monumentua Azerbaijanen dago eta Bakuko guduan hil ziren Otomandar armadako soldaduei eskainia dago. Artur Rasizade lehen ministroa da herrialdeko buruzagia.</lex>
+      <lex lang="gl" lid="Id1">O Monumento aos Mártires Turcos de Bakú (nome orixinal: Türk Şehitleri Anıtı) foi deseñado por Huseyin Butuner e Hilmi Guner e atópase en Azerbaixán. Está dedicado aos soldados do exército otomán que morreron na batalla de Bakú. O líder, o primeiro ministro de Azerbaixán é Artur Rasizade.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú está situado en Acerbaixán e o líder do país é o primeiro ministro Artur Rasizade. O Memorial está dedicado aos soldados do exército otomán mortos na batalla de Bakú e os seus deseñadores son Huseyin Butuner e Hilmi Guner. O nome nativo do Memorial dos Mártires Turcos de Bakú é Türk Şehitleri Anıtı. Name</lex>
+      <lex lang="gl" lid="Id3">Huseyin Butuner e Hilmi Guner son os deseñadores do memorial dos Mártires Turcos de Bakú, tamén coñecido como Turk Sehitleri Aniti. O memorial atópase en Azerbaián e está dedicado aos soldados do exército otomán que morreron na batalla de Bakú. O primeiro ministro Artur Rasizade é o líder do país.</lex>
+      </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        <striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monocacy_National_Battlefield | Ubicació | Comtat_de_Frederick,_Maryland</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        <ctriple>Monocacy_National_Battlefield | CiutatMésPropera | Frederick,_Maryland</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | OrganitzacióPropietària | Servei_de_Parcs_Nacionals</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Campo_de_batalla_nacional_de_Monocacy | Localización | Condado_de_Frederick,_Maryland</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establecido | 1907-07-11</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Categoría | Distritos_históricos_nos_Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        <gtriple>Campo_de_batalla_nacional_de_Monocacy | CidadeMáisPróxima | Frederick,_Maryland</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | OrganizaciónPropietaria | Servizo_de_Parques_Nacionais</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Monocacyko_bataila-eremu_nazionala | Lokalizazioa | Frederick_konderrian_kokatua_dago.</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Ezarritako | 1907-07-11</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Kategoria | Estatu_Batuetako_barruti_historikoak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        <btriple>Monocacyko_bataila-eremu_nazionala | HurbilenDagoenHiria | Frederick</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | JabetzaDuenErakundea | Parke_Nazionalak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield near Frederick, Frederick County, Maryland. The monument was established 1907-07-11 and belongs to the category of Historic districts in the United States. The monument has been provided by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on July 11, 1907, in the Monocacy National Battlefield, in Frederick County, Maryland. The monument is categorized as a United States historic district and is under the responsibility of the National Park Service. The closest city to the battlefield is Frederick, Maryland.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) belongs to the category of Historic districts in the United States and is located on Monocacy National Battlefield. The nearest city is Frederick, Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, cerca de Frederick, en el condado de Frederick, Maryland. El monumento se creó el 1907-07-11 y pertenece a la categoría de Distritos históricos de Estados Unidos. El monumento ha sido proporcionado por el Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907 en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland. El monumento está clasificado como distrito histórico de los Estados Unidos y se encuentra bajo la responsabilidad del Servicio de Parques Nacionales. La ciudad más cercana al campo de batalla es Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey (creado el 11 de julio de 1907) pertenece a la categoría de Distritos históricos de Estados Unidos y se encuentra en el Campo de Batalla Nacional de Monocacy. La ciudad más cercana es Frederick, en el condado de Frederick, Maryland. El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="ca" lid="Id1">El 14th New Jersey Volunteer Infantry Monument està situat al Monocacy National Battlefield prop de Frederick, Frederick County, Maryland. El monument va ser establert 1907- 07- 11 i pertany a la categoria de districtes històrics dels Estats Units. El monument ha estat proporcionat pel National Park Service.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert l'11 de juliol de 1907, al Camp de Batalla Nacional de Monocacy, al comtat de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument a la Infanteria Voluntària de Nova Jersey (establert l'11 de juliol de 1907) pertany a la categoria de districtes històrics dels Estats Units i es troba al Camp de Batalla Nacional de Monocacy. La ciutat més propera és Frederick, al comtat de Frederick, Maryland. El 14è Monument a la Infanteria Voluntària de Nova Jersey és propietat del Servei de Parcs Nacionals.</lex>
+      <lex lang="eu" lid="Id1">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko gudu-zelai nazionalean dago, Frederick-etik gertu, Maryland-eko Frederick konderrian. Monumentua 1907-07-11n ezarri zen eta Ameriketako Estatu Batuetako barruti historikoen kategorian dago. Monumentua Parke Nazionaleko Zerbitzuak eman du.</lex>
+      <lex lang="eu" lid="Id2">New Jerseyko 14. boluntario infanteriako monumentua (ingelesez: 14th New Jersey Volunteer Infantry Monument) 1907ko uztailaren 11n eraikitako monumentua da, Estatu Batuetako Maryland estatuko Frederick konderrian dagoen Monocacy gudu zelai nazionalean. Monumentua Ameriketako Estatu Batuetako Parke Nazionalen Zerbitzuaren ardurapean dago. Gudu zelaitik hurbilen dagoen hiria Frederick da, Maryland estatuan.</lex>
+      <lex lang="eu" lid="Id3">New Jersey-ko 14. Infanteria Boluntarioen Monumentua (1907ko uztailaren 11n sortua) Ameriketako Estatu Batuetako barruti historikoen kategorian dago, eta Monocacy-ko Gudu Nazionalaren Eremuan dago. Gertuen dagoen hiria Frederick da, Maryland-eko Frederick konderrian. New Jersey-ko 14. Infanteria Boluntarioen Monumentua Parke Nazionaleko Zerbitzuaren jabetzakoa da.</lex>
+      <lex lang="gl" lid="Id1">O 14th New Jersey Volunteer Infantry Monument atópase no Monocacy National Battlefield preto de Frederick, no condado de Frederick, Maryland. O monumento foi establecido o 11/07/1907 e pertence á categoría de distritos históricos dos Estados Unidos. O monumento foi proporcionado polo Servizo de Parques Nacionais.</lex>
+      <lex lang="gl" lid="Id2">O monumento da 14.ª Infantería Voluntaria de Nova Jersey estableceuse o 11 de xullo de 1907 no campo de batalla nacional de Monocacy, no condado de Frederick, Maryland. O monumento clasifícase como distrito histórico dos Estados Unidos e está baixo a responsabilidade do Servizo de Parques Nacionais. A cidade máis próxima ao campo de batalla é Frederick, Maryland.</lex>
+      <lex lang="gl" lid="Id3">O 14th New Jersey Volunteer Infantry Monument (establecido o 11 de xullo de 1907) pertence á categoría de distritos históricos dos Estados Unidos e atópase no Monocacy National Battlefield. A cidade máis próxima é Frederick, no condado de Frederick, Maryland. O 14th New Jersey Volunteer Infantry Monument é propiedade do Servizo de Parques Nacionais.</lex>
+      </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monocacy_National_Battlefield | Ubicació | Comtat_de_Frederick,_Maryland</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | OrganitzacióPropietària | Servei_de_Parcs_Nacionals</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Campo_de_batalla_nacional_de_Monocacy | Localización | Condado_de_Frederick,_Maryland</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establecido | 1907-07-11</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Categoría | Distritos_históricos_nos_Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | OrganizaciónPropietaria | Servizo_de_Parques_Nacionais</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Monocacyko_bataila-eremu_nazionala | Lokalizazioa | Frederick_konderrian_kokatua_dago.</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Ezarritako | 1907-07-11</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Kategoria | Estatu_Batuetako_barruti_historikoak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | JabetzaDuenErakundea | Parke_Nazionalak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, in Frederick County, Maryland, United States. The monument was established on July 11th, 1907. It is now categorized as a United States historic district and is owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 in the district of the Monocacy National Battlefield, Frederick County, Maryland, United States. It belongs to the category of historic US districts and is owned by the National Park service.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, in Frederick County, Maryland, USA. Established on July 11, 1907, the monument is categorized as a historic district and is owned by the National Park Service.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland, Estados Unidos. El monumento se erigió el 11 de julio de 1907. Actualmente está clasificado como distrito histórico de Estados Unidos y es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se estableció el 11 de julio de 1907 en el distrito del Campo de Batalla Nacional de Monocacy, condado de Frederick, Maryland, Estados Unidos. Pertenece a la categoría de distritos históricos estadounidenses y es propiedad del servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland, Estados Unidos. Establecido el 11 de julio de 1907, el monumento está clasificado como distrito histórico y es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba al Camp de Batalla Nacional de Monocacy, al Comtat de Frederick, Maryland, Estats Units. El monument es va establir l'11 de juliol de 1907. Ara està categoritzat com a districte històric dels Estats Units i és propietat del Servei de Parcs Nacionals.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert l'11 de juliol de 1907 al districte del Monocacy National Battlefield, comtat de Frederick, Maryland, Estats Units. Pertany a la categoria de districtes històrics dels EUA i és propietat del servei de parcs nacionals.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba al Camp de Batalla Nacional de Monocacy, al Comtat de Frederick, Maryland, EUA. Establert l'11 de juliol de 1907, el monument està categoritzat com a districte històric i és propietat del Servei de Parcs Nacionals.</lex>
+      <lex lang="eu" lid="Id1">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko gudu-zelai nazionalean dago, Maryland-eko Frederick konderrian, Estatu Batuetan. Monumentua 1907ko uztailaren 11n ezarri zen. Orain, Estatu Batuetako barruti historiko gisa sailkatuta dago eta Parke Nazionaleko Zerbitzuaren jabetzakoa da.</lex>
+      <lex lang="eu" lid="Id2">14. New Jersey Boluntarioen Infanteriaren Monumentua 1907ko uztailaren 11n ezarri zen, Monocacy National Battlefield-eko (Frederick konderria, Maryland, Estatu Batuak) barrutian. AEBetako barruti historikoen kategorian dago eta Parke Nazionaleko Zerbitzuaren jabetzakoa da.</lex>
+      <lex lang="eu" lid="Id3">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko gudu-zelai nazionalean dago, Maryland-eko (AEB) Frederick konderrian. 1907ko uztailaren 11n ezarri zen monumentua, eta barruti historiko gisa sailkatuta dago, eta Parke Nazionalen Zerbitzuaren jabetzakoa da.</lex>
+      <lex lang="gl" lid="Id1">O 14th New Jersey Volunteer Infantry Monument está situado no Campo de Batalla Nacional de Monocacy, no Condado de Frederick, Maryland, Estados Unidos. O monumento foi establecido o 11 de xullo de 1907. Agora está categorizado como un distrito histórico dos Estados Unidos e é propiedade do Servizo de Parques Nacionais.</lex>
+      <lex lang="gl" lid="Id2">O 14th New Jersey Volunteer Infantry Monument foi establecido o 11 de xullo de 1907 no distrito do Monocacy National Battlefield, Frederick County, Maryland, Estados Unidos. Pertence á categoría de distritos históricos dos EUA e é propiedade do servizo de Parques Nacionais. Name</lex>
+      <lex lang="gl" lid="Id3">O Monumento da 14.ª Infantería Voluntaria de Nova Jersey atópase no Campo de Batalla Nacional de Monocacy, no condado de Frederick, Maryland, EE. UU. Establecido o 11 de xullo de 1907, o monumento clasifícase como distrito histórico e é propiedade do Servizo de Parques Nacionais.</lex>
+      </entry>
+    </entries>
+  </benchmark>

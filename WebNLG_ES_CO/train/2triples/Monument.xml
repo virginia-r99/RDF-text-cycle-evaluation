@@ -1,0 +1,1342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | PàginaD'IniciDeL'Usuari | propietat_contribuïdora</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Municipi | Gettysburgusa._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Categoría | Propiedades_contributivas</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Municipio | Gettysburg,_Pensilvania</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Kategoria | Propietatearen_ekarpena</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Udalerria | Gettysburg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania and is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is categorised as a contributing property and can be found in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is placed in the municipality of Gettysburg in Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi se encuentra en el municipio de Gettysburg, Pensilvania, y está clasificado como Bien de Interés Cultural.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi está clasificado como bien de interés cultural y se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi pertenece a la categoría de propiedad contribuyente y se encuentra en el municipio de Gettysburg, en Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument de la Infanteria del Mississipí es troba al municipi de Gettysburg, Pensilvània i es classifica com una propietat contribuent.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí està categoritzat com una propietat contribuent i es pot trobar a Gettysburg, Pennsylvania.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí pertany a la categoria de propietat contribuïdora i es troba al municipi de Gettysburg a Pennsilvània.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. Monumentua Gettysburg-eko (Pennsylvania) udalerrian dago eta ondasun lagungarritzat sailkatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Mississippi Infanteriaren 11. Monumentua jabetza laguntzaile gisa sailkatuta dago eta Gettysburg-en (Pennsylvania) aurki daiteke.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua Ondare Laguntzailearen kategorian sartzen da eta Pennsylvaniako Gettysburg udalerrian dago.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento de Infantería de Mississippi está no municipio de Gettysburg, Pensilvania e está clasificado como unha propiedade contribuínte.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento de Infantería de Mississippi está clasificado como unha propiedade contribuínte e pódese atopar en Gettysburg, Pensilvania.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento de Infantería de Mississippi cae baixo a categoría de propiedade contribuínte e está situado no municipio de Gettysburg en Pensilvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | PàginaD'IniciDeL'Usuari | propietat_contribuïdora</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | País | Estados_Unidos</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Categoría | Propiedades_contributivas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Kategoria | Propietatearen_ekarpena</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the United States and falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is in the United States.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument, located in the United States, falls under the category of Contributing property.</lex>
+      <lex lang="es" lid="Id1">El 11th Mississippi Infantry Monument se encuentra en Estados Unidos y pertenece a la categoría de Contributing property.</lex>
+      <lex lang="es" lid="Id2">El 11th Mississippi Infantry Monument pertenece a la categoría de Contributing property y se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi, situado en Estados Unidos, pertenece a la categoría de Bien contribuyente.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument d'Infanteria del Mississipí està als Estats Units i pertany a la categoria de propietat contribuent.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument d'Infanteria de Mississipí entra dins la categoria de Propietat Contribuent i es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">El 11è Monument d'Infanteria del Mississipí, situat als Estats Units, cau en la categoria de propietat contribuent.</lex>
+      <lex lang="eu" lid="Id1">Mississippiko 11. infanteriaren monumentua Estatu Batuetan dago eta ondasun laguntzaileen kategorian sartzen da.</lex>
+      <lex lang="eu" lid="Id2">Mississippiko 11. infanteriaren monumentua ondasun laguntzaileen kategorian sartzen da eta Estatu Batuetan dago.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua, Estatu Batuetan dagoena, Ondasun Laguntzaileen kategorian sartzen da.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento de Infantería de Mississippi está nos Estados Unidos e cae baixo a categoría de propiedade contribuínte.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento de Infantería de Mississippi cae baixo a categoría de propiedade contribuínte e está nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento de Infantería de Mississippi, situado nos Estados Unidos, cae baixo a categoría de propiedade contribuínte.</lex>
+      </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Establert | 2000</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Municipi | Gettysburgusa._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Establecido | 2000</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Municipio | Gettysburg,_Pensilvania</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Ezarritako | 2000</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Udalerria | Gettysburg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument, established in 2000, is in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg in Pennsylvania and erected in 2000.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg Pennsylvania and was erected in 2000.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería de Mississippi, creado en 2000, se encuentra en el municipio de Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi está situado en el municipio de Gettysburg, en Pensilvania, y fue erigido en 2000.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi se encuentra en el municipio de Gettysburg, Pensilvania, y fue erigido en 2000.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument d'Infanteria de Mississipí, establert el 2000, es troba al municipi de Gettysburg, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí es troba al municipi de Gettysburg a Pensilvània i es va erigir el 2000.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí es troba al municipi de Gettysburg, Pennsilvània i va ser erigit el 2000.</lex>
+      <lex lang="eu" lid="Id1">Mississippiko 11. infanteriaren monumentua, 2000. urtean sortu zena, Gettysburg udalerrian dago, Pensilvanian.</lex>
+      <lex lang="eu" lid="Id2">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Gettysburg udalerrian dago eta 2000. urtean eraiki zen.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Gettysburg udalerrian dago eta 2000. urtean eraiki zen.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería de Mississippi, establecido en 2000, está no municipio de Gettysburg, Pensilvania.</lex>
+      <lex lang="gl" lid="Id2">O Monumento da 11.ª Infantería de Mississippi está situado no municipio de Gettysburg, en Pensilvania, e foi erixido no ano 2000.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento da Infantería de Mississippi está no municipio de Gettysburg, Pensilvania e foi erguido en 2000.</lex>
+      </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Comtat_d'Adams,_Pennsylvania</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | PàginaD'IniciDeL'Usuari | propietat_contribuïdora</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Localización | Condado_de_Adams,_Pensilvania</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Categoría | Propiedades_contributivas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Lokalizazioa | Adams_konderrian_kokatuta_dago,_Pennsylvania_estatuan.</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Kategoria | Propietatearen_ekarpena</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument, situated in Adams County, Pennsylvania, is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania and is categorised as a contributing property.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi, situado en el condado de Adams, Pennsylvania, está clasificado como Bien de Interés Cultural.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y pertenece a la categoría de propiedad contribuyente.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y está clasificado como Bien de Interés Cultural.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument d'Infanteria de Mississipí, ubicat al comtat d'Adams, Pennsilvània, està classificat com a propietat contribuent.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, Pensilvània, pertany a la categoria de propietat contribuent.</lex>
+      <lex lang="ca" lid="Id3">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, Pennsilvània i es classifica com una propietat contribuent.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. Monumentua, Pennsylvaniako Adams konderrian dagoena, ondasun lagungarritzat sailkatuta dago.</lex>
+      <lex lang="eu" lid="Id2">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Adams konderrian dago, eta ekarpen-jabetzaren kategorian sartzen da.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Adams konderrian dago eta ondasun lagungarritzat sailkatuta dago.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería de Mississippi, situado no condado de Adams, Pensilvania, está clasificado como unha propiedade contribuínte.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento de Infantería de Mississippi está situado no condado de Adams, Pensilvania cae baixo a categoría de propiedade contribuínte.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento de Infantería de Mississippi está situado no condado de Adams, Pensilvania e está clasificado como unha propiedade contribuínte.</lex>
+      </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Comtat_d'Adams,_Pennsylvania</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Establert | 2000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Localización | Condado_de_Adams,_Pensilvania</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Establecido | 2000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Lokalizazioa | Adams_konderrian_kokatuta_dago,_Pennsylvania_estatuan.</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Ezarritako | 2000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">11th Mississippi Infantry Monument's location is Adams County, Pennsylvania and was established in 2000.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in Adams County, PA and was founded in 2000.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument in Adams County, Pennsylvania was established in 2000.</lex>
+      <lex lang="en" lid="Id6">The 11th Mississippi Infantry Monument established in 2000 is found in Adams County, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se erigió en 2000 y se encuentra en el condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11.ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y se erigió en 2000.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y fue fundado en 2000.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería del Mississippi se erigió en 2000 en el condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería del Mississippi, en el condado de Adams (Pensilvania), se erigió en 2000.</lex>
+      <lex lang="es" lid="Id6">El monumento a la 11ª Infantería del Mississippi, erigido en 2000, se encuentra en el condado de Adams, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument d'Infanteria de Mississipí va ser establert el 2000 i es troba al Comtat d'Adams, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument d'Infanteria del Mississipí es troba al comtat d'Adams, Pennsilvània i va ser establert el 2000.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí es troba al Comtat d'Adams, Pennsilvània i va ser fundat el 2000.</lex>
+      <lex lang="ca" lid="Id4">El 11è Monument de la Infanteria del Mississipí va ser establert el 2000 al comtat d'Adams, Pensilvània.</lex>
+      <lex lang="ca" lid="Id5">L'11è Monument de la Infanteria del Mississipí al comtat d'Adams, Pennsilvània, va ser establert el 2000.</lex>
+      <lex lang="ca" lid="Id6">L'11è Monument de la Infanteria del Mississipí establert el 2000 es troba al comtat d'Adams, Pensilvània.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. monumentua 2000. urtean eraiki zen eta Pennsylvaniako Adams konderrian dago.</lex>
+      <lex lang="eu" lid="Id2">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Adams konderrian dago eta 2000. urtean eraiki zen.</lex>
+      <lex lang="eu" lid="Id3">Mississippiko 11. infanteriaren monumentua Adams konderrian dago, PAn, eta 2000. urtean sortu zen.</lex>
+      <lex lang="eu" lid="Id4">Mississippiko 11. infanteriako monumentua 2000an sortu zen Adams konderrian, Pensilvanian.</lex>
+      <lex lang="eu" lid="Id5">Pensilvaniako Adams konderrian dagoen Mississippiko 11. infanteriaren monumentua 2000. urtean sortu zen.</lex>
+      <lex lang="eu" lid="Id6">Mississippi Infanteriaren 11. Monumentua 2000. urtean ezarri zen Pennsylvaniako Adams konderrian.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería de Mississippi foi establecido en 2000 e está situado no condado de Adams, Pensilvania.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento da Infantería do Mississippi está situado no condado de Adams, Pensilvania e foi establecido en 2000.</lex>
+      <lex lang="gl" lid="Id3">O Monumento da 11.ª Infantería de Mississippi atópase no condado de Adams, Pensilvania, e foi fundado no ano 2000.</lex>
+      <lex lang="gl" lid="Id4">O 11o Monumento da Infantería de Mississippi foi establecido en 2000 no condado de Adams, Pensilvania.</lex>
+      <lex lang="gl" lid="Id5">O 11o Monumento da Infantería de Mississippi no condado de Adams, Pensilvania foi establecido en 2000.</lex>
+      <lex lang="gl" lid="Id6">O 11o Monumento de Infantería de Mississippi establecido en 2000 atópase no condado de Adams, Pensilvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Comtat_d'Adams,_Pennsylvania</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Municipi | Gettysburgusa._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Localización | Condado_de_Adams,_Pensilvania</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Municipio | Gettysburg,_Pensilvania</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Lokalizazioa | Adams_konderrian_kokatuta_dago,_Pennsylvania_estatuan.</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Udalerria | Gettysburg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, PA in Adams County.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Adams County, in Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is found in Adams County, Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument is located in Adams County, in Gettysburg, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en el municipio de Gettysburg, Pensilvania, en el condado de Adams.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería de Mississippi se encuentra en el municipio de Gettysburg, condado de Adams, en Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El municipio del Monumento a la 11.ª Infantería del Mississippi es Gettysburg, condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería de Mississippi se encuentra en el condado de Adams, Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, en Gettysburg, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument d'Infanteria de Mississipí es troba al municipi de Gettysburg, Pennsilvània, al comtat d'Adams.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí es troba al municipi de Gettysburg, comtat d'Adams, a Pensilvània.</lex>
+      <lex lang="ca" lid="Id3">El municipi de l'11è Monument d'Infanteria de Mississipí és Gettysburg, al comtat d'Adams, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id4">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, Gettysburg, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id5">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, a Gettysburg, Pennsilvània.</lex>
+      <lex lang="eu" lid="Id1">Mississippiko 11. infanteriaren monumentua Gettysburg udalerrian dago, Adams konderrian.</lex>
+      <lex lang="eu" lid="Id2">Mississippiko 11. infanteriaren monumentua Gettysburg udalerrian dago, Adams konderrian, Pensilvanian.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. monumentuaren udalerria Gettysburg da, Pennsylvaniako Adams konderrian.</lex>
+      <lex lang="eu" lid="Id4">Mississippi Infanteriaren 11. Monumentua Adams konderrian dago, Gettysburg-en (Pennsylvania).</lex>
+      <lex lang="eu" lid="Id5">Mississippi Infanteriaren 11. Monumentua Adams konderrian dago, Gettysburg-en (Pennsylvania).</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería de Mississippi está no municipio de Gettysburg, PA no condado de Adams.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento da Infantería de Mississippi está no municipio de Gettysburg, Condado de Adams, en Pensilvania.</lex>
+      <lex lang="gl" lid="Id3">O municipio do 11o Monumento de Infantería do Mississippi é Gettysburg, Condado de Adams, Pensilvania.</lex>
+      <lex lang="gl" lid="Id4">O 11o Monumento da Infantería do Mississippi atópase no condado de Adams, Gettysburg, Pensilvania.</lex>
+      <lex lang="gl" lid="Id5">O 11o Monumento da Infantería de Mississippi está situado no condado de Adams, en Gettysburg, Pensilvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Estat | Pennsilvània</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | PàginaD'IniciDeL'Usuari | propietat_contribuïdora</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Estado | PennsylvaniaRegion/_state_in_USA</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Categoría | Propiedades_contributivas</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Egoera | Pennsylvania</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Kategoria | Propietatearen_ekarpena</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is in Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument, which falls under the category of Contributing property, is in Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument, in Pennsylvania, falls under the category of Contributing property.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi pertenece a la categoría de Propiedad contribuyente y se encuentra en Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi, que pertenece a la categoría de Bien contribuyente, se encuentra en Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi, en Pensilvania, pertenece a la categoría de Bien contribuyente.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument d'Infanteria de Mississipí entra dins la categoria de Propietat Contribuent i es troba a Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument d'Infanteria de Mississipí, que s'engloba en la categoria de Propietat Contribuent, es troba a Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">El 11è Monument d'Infanteria de Mississipí, a Pennsilvània, entra dins la categoria de Propietat Contribuent.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. Monumentua Ondare Laguntzailearen kategorian dago eta Pennsylvanian dago.</lex>
+      <lex lang="eu" lid="Id2">Mississippi-ko 11. Infanteriaren Monumentua Pennsylvanian dago, eta Ondare Laguntzailearen kategorian sartzen da.</lex>
+      <lex lang="eu" lid="Id3">Pensilvaniako Mississippiko Infanteriaren Monumentuak ondasun laguntzaileen kategorian sartzen da.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento de Infantería de Mississippi cae baixo a categoría de propiedade contribuínte e está en Pensilvania.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento de Infantería de Mississippi, que cae baixo a categoría de propiedade contribuínte, está en Pensilvania.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento da Infantería de Mississippi, en Pensilvania, cae baixo a categoría de propiedade contribuínte.</lex>
+      </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Estat | Pennsilvània</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Establert | 2000</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Estado | PennsylvaniaRegion/_state_in_USA</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Establecido | 2000</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Egoera | Pennsylvania</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Ezarritako | 2000</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is found in Pennsylvania and was established in 2000.</lex>
+      <lex lang="en" lid="Id2">11th Mississippi Infantry Monument, established in 2000 is in Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument stands in the state of Pennsylvania and was established in 2000.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument was established in 2000 in Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument was established in Pennsylvania in the year 2000.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en Pensilvania y fue erigido en 2000.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi, creado en 2000, se encuentra en Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el estado de Pensilvania y se erigió en el año 2000.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería del Mississippi se erigió en 2000 en Pensilvania.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería del Mississippi se erigió en Pensilvania en el año 2000.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument de la Infanteria del Mississipí es troba a Pensilvània i va ser establert el 2000.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria de Mississipí, establert el 2000 està a Pensilvània.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument de la Infanteria del Mississipí es troba a l'estat de Pennsilvània i va ser establert el 2000.</lex>
+      <lex lang="ca" lid="Id4">El 11è Monument de la Infanteria del Mississipí va ser establert el 2000 a Pensilvània.</lex>
+      <lex lang="ca" lid="Id5">L'11è Monument de la Infanteria del Mississipí va ser establert a Pensilvània l'any 2000.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. Monumentua Pennsylvanian dago eta 2000. urtean eraiki zen.</lex>
+      <lex lang="eu" lid="Id2">11. Mississippiko Infanteriaren Monumentua, 2000. urtean ezarria, Pennsylvanian dago.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako estatuan dago eta 2000. urtean eraiki zen.</lex>
+      <lex lang="eu" lid="Id4">Mississippi Infanteriaren 11. Monumentua 2000. urtean ezarri zen Pennsylvanian.</lex>
+      <lex lang="eu" lid="Id5">Mississippiko 11. infanteriako monumentua Pensilvanian sortu zen 2000. urtean.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería de Mississippi atópase en Pensilvania e foi establecido en 2000.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento da Infantería de Mississippi, establecido en 2000, está en Pensilvania.</lex>
+      <lex lang="gl" lid="Id3">O 11o Monumento da Infantería de Mississippi está no estado de Pensilvania e foi establecido en 2000.</lex>
+      <lex lang="gl" lid="Id4">O 11o Monumento da Infantería de Mississippi foi creado en 2000 en Pensilvania.</lex>
+      <lex lang="gl" lid="Id5">O 11o Monumento da Infantería de Mississippi foi establecido en Pensilvania no ano 2000.</lex>
+      </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Estat | Pennsilvània</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Municipi | Gettysburgusa._kgm</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Estado | PennsylvaniaRegion/_state_in_USA</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Municipio | Gettysburg,_Pensilvania</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Egoera | Pennsylvania</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Udalerria | Gettysburg</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is found in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is in Pennsylvania, in the municipality of Gettysburg.</lex>
+      <lex lang="en" lid="Id3">11th Mississippi Infantry Monument can be found in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería de Mississippi se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería de Mississippi se encuentra en Pensilvania, en el municipio de Gettysburg.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería de Mississippi se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El Monument a la 11a Infanteria de Mississipí es troba a Gettysburg, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí es troba a Pensilvània, al municipi de Gettysburg.</lex>
+      <lex lang="ca" lid="Id3">El 11è Monument de la Infanteria del Mississipí es pot trobar a Gettysburg, Pensilvània.</lex>
+      <lex lang="ca" lid="Id4">El Monument a la 11a Infanteria de Mississipí es troba a Gettysburg, Pennsilvània.</lex>
+      <lex lang="eu" lid="Id1">Mississippi Infanteriaren 11. monumentua Gettysburg-en (Pennsylvania) dago.</lex>
+      <lex lang="eu" lid="Id2">Mississippiko 11. infanteriaren monumentua Pennsylvanian dago, Gettysburg udalerrian.</lex>
+      <lex lang="eu" lid="Id3">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Gettysburgen dago.</lex>
+      <lex lang="eu" lid="Id4">Mississippi Infanteriaren 11. Monumentua Gettysburg-en (Pennsylvania) dago.</lex>
+      <lex lang="gl" lid="Id1">O 11o Monumento da Infantería do Mississippi atópase en Gettysburg, Pensilvania.</lex>
+      <lex lang="gl" lid="Id2">O 11o Monumento da Infantería de Mississippi está en Pensilvania, no municipio de Gettysburg.</lex>
+      <lex lang="gl" lid="Id3">O 11th Mississippi Infantry Monument atópase en Gettysburg, Pensilvania.</lex>
+      <lex lang="gl" lid="Id4">O 11o Monumento da Infantería de Mississippi está situado en Gettysburg, Pensilvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Categoría | Distritos_históricos_nos_Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Kategoria | Estatu_Batuetako_barruti_historikoak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, found in the Monocacy National Battlefield, is categorised as a historic district in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States and is found in the Monocacy National Battlefield.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States and is located in the Monocacy National Battlefield.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey, situado en el Campo de Batalla Nacional de Monocacy, está clasificado como distrito histórico en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey pertenece a la categoría de Distritos históricos de Estados Unidos y se encuentra en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey está clasificado como distrito histórico en Estados Unidos y se encuentra en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey, trobat al Monocacy National Battlefield, està categoritzat com un districte històric als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey pertany a la categoria de districtes històrics dels Estats Units i es troba al Monocacy National Battlefield.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey està categoritzat com un districte històric als Estats Units i es troba al Monocacy National Battlefield.</lex>
+      <lex lang="eu" lid="Id1">New Jerseyko Borondatezko Infanteriaren 14. monumentua, Monocacy Bataila-Esparru Nazionalean aurkitua, Estatu Batuetako barruti historiko gisa sailkatuta dago.</lex>
+      <lex lang="eu" lid="Id2">14. New Jerseyko Borondatezko Infanteriaren Monumentuak Estatu Batuetako barruti historikoen kategoriara dagokio eta Monocacy Bataila-Esparru Nazionalean dago.</lex>
+      <lex lang="eu" lid="Id3">14. New Jerseyko Borondatezko Infanteriaren Monumentua Estatu Batuetako barruti historiko gisa sailkatzen da eta Monocacy Bataila-Esparru Nazionalean dago.</lex>
+      <lex lang="gl" lid="Id1">O 14th New Jersey Volunteer Infantry Monument, atopado no Monocacy National Battlefield, está clasificado como distrito histórico nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O 14th New Jersey Volunteer Infantry Monument pertence á categoría de distritos históricos nos Estados Unidos e atópase no Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="gl" lid="Id3">O 14th New Jersey Volunteer Infantry Monument está clasificado como distrito histórico nos Estados Unidos e está situado no Monocacy National Battlefield.</lex>
+      </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Categoría | Distritos_históricos_nos_Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establecido | 1907-07-11</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Kategoria | Estatu_Batuetako_barruti_historikoak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Ezarritako | 1907-07-11</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, which was established on July 11th 1907, belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was founded on July 11, 1907 and belongs to the Historic districts of the U.S.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States and was established in 1907-07-11.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey, creado el 11 de julio de 1907, pertenece a la categoría de Distritos históricos de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey fue fundado el 11 de julio de 1907 y pertenece a los Distritos Históricos de EE.UU.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey está clasificado como distrito histórico en Estados Unidos y se creó en 11 de julio de 1907.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument a la Infanteria Voluntària de Nova Jersey, que es va establir l'11 de juliol de 1907, pertany a la categoria de districtes històrics dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser fundat l'11 de juliol de 1907 i pertany als districtes històrics dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">El 14th New Jersey Volunteer Infantry Monument està categoritzat com un districte històric als Estats Units i va ser establert el 1907-07-11.</lex>
+      <lex lang="eu" lid="Id1">1907ko uztailaren 11n eraiki zen New Jerseyko Borondatezko Infanteriaren 14. monumentuak Estatu Batuetako auzo historikoen kategorian sartzen da.</lex>
+      <lex lang="eu" lid="Id2">14. New Jersey Boluntarioen Infanteriaren Monumentua 1907ko uztailaren 11n sortu zen eta AEBetako barruti historikoetako bat da.</lex>
+      <lex lang="eu" lid="Id3">1907an New Jerseyko 14. boluntario infanteriako monumentua (ingelesez: 14th New Jersey Volunteer Infantry Monument) Ameriketako Estatu Batuetako New Jersey estatuan kokatuta dagoen monumentu historiko bat da.</lex>
+      <lex lang="gl" lid="Id1">O 14o Monumento da Infantería Voluntaria de Nova Jersey, que foi establecido o 11 de xullo de 1907, pertence á categoría de distritos históricos dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O 14o Monumento da Infantería Voluntaria de Nova Jersey foi fundado o 11 de xullo de 1907 e pertence aos distritos históricos dos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O 14o Monumento da Infantería Voluntaria de Nova Jersey está clasificado como un distrito histórico nos Estados Unidos e foi establecido en 1907-07-11.</lex>
+      </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Categoría | Distritos_históricos_nos_Estados_Unidos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Kategoria | Estatu_Batuetako_barruti_historikoak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts and is found in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the United States of America and is labelled as a historic district.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts and is located in United States.</lex>
+      <lex lang="es" lid="Id1">El monumento 14th New Jersey Volunteer Infantry pertenece a la categoría Distritos históricos y se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en Estados Unidos y está catalogado como distrito histórico.</lex>
+      <lex lang="es" lid="Id3">El monumento 14th New Jersey Volunteer Infantry pertenece a la categoría de Distritos históricos y se encuentra en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey pertany a la categoria de districtes històrics i es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba als Estats Units d'Amèrica i està etiquetat com a districte històric.</lex>
+      <lex lang="ca" lid="Id3">El 14th New Jersey Volunteer Infantry Monument pertany a la categoria de districtes històrics i es troba als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">14. New Jerseyko Borondatezko Infanteriaren Monumentuak barruti historikoen kategoriara dator eta Estatu Batuetan dago.</lex>
+      <lex lang="eu" lid="Id2">14. New Jerseyko Borondatezko Infanteriaren Monumentua Ameriketako Estatu Batuetan dago eta barruti historiko gisa markatzen da.</lex>
+      <lex lang="eu" lid="Id3">14. New Jerseyko Borondatezko Infanteriaren Monumentuak barruti historikoen kategoriara dator eta Estatu Batuetan dago.</lex>
+      <lex lang="gl" lid="Id1">O 14o Monumento da Infantería Voluntaria de Nova Jersey pertence á categoría de distritos históricos e atópase nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O 14o Monumento da Infantería Voluntaria de Nova Jersey está situado nos Estados Unidos de América e está etiquetado como un distrito histórico.</lex>
+      <lex lang="gl" lid="Id3">O 14o Monumento da Infantería Voluntaria de Nova Jersey pertence á categoría de distritos históricos e está situado nos Estados Unidos.</lex>
+      </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States at the Monocacy National Battlefield.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield in the United States.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield in the United States.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en Estados Unidos, en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el distrito del Campo de Batalla Nacional de Monocacy, en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy (Estados Unidos).</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba als Estats Units al Monocacy National Battlefield.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al districte del Monocacy National Battlefield als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">14. New Jerseyko Borondatezko Infanteriaren Monumentua Monocacy Bataila-Eremu Nazionalean dago Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id2">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko bataila nazionalaren barrutian dago, Estatu Batuetan.</lex>
+      <lex lang="eu" lid="Id3">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko gudu-zelai nazionalean dago, Estatu Batuetan.</lex>
+      <lex lang="gl" lid="Id1">O 14th New Jersey Volunteer Infantry Monument está situado nos Estados Unidos no Monocacy National Battlefield.</lex>
+      <lex lang="gl" lid="Id2">O 14th New Jersey Volunteer Infantry Monument está situado no distrito do Campo de Batalla Nacional de Monocacy nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id3">O 14th New Jersey Volunteer Infantry Monument está situado no Campo de Batalla Nacional de Monocacy nos Estados Unidos.</lex>
+      </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estados_Unidos</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establecido | 1907-07-11</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Herrialdea | Estatu_Batuak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Ezarritako | 1907-07-11</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was made on July 11, 1907 and is located in the U.S.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and is in the United States.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907 y se encuentra en el U.S.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se creó el 11 de julio de 1907 y se encuentra en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es va fer l'11 de juliol de 1907 i es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument a la Infanteria Voluntària de Nova Jersey es va establir l'11 de juliol de 1907 i es troba als Estats Units.</lex>
+      <lex lang="eu" lid="Id1">14. New Jersey Boluntarioen Infanteriaren Monumentua 1907ko uztailaren 11n egin zen eta Ameriketako Estatu Batuetan dago.</lex>
+      <lex lang="eu" lid="Id2">New Jersey-ko 14. Infanteria Boluntarioaren Monumentua 1907ko uztailaren 11n ezarri zen eta Estatu Batuetan dago.</lex>
+      <lex lang="gl" lid="Id1">O 14o Monumento da Infantería Voluntaria de Nova Jersey foi feito o 11 de xullo de 1907 e está situado nos Estados Unidos.</lex>
+      <lex lang="gl" lid="Id2">O 14o Monumento da Infantería Voluntaria de Nova Jersey foi establecido o 11 de xullo de 1907 e está nos Estados Unidos.</lex>
+      </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establecido | 1907-07-11</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Ezarritako | 1907-07-11</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was founded July 11, 1907.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield and was established on 11th July 1907.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was established July 11, 1907.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy y fue fundado el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy y se erigió el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy y fue erigido el 11 de julio de 1907.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield i va ser fundat l'11 de juliol de 1907.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield i va ser establert l'11 de juliol de 1907.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield i va ser establert l'11 de juliol de 1907.</lex>
+      <lex lang="eu" lid="Id1">New Jerseyko Borondatezko Infanteriaren 14. monumentua Monocacy Bataila-eremu Nazionalean dago eta 1907ko uztailaren 11n sortu zen.</lex>
+      <lex lang="eu" lid="Id2">New Jerseyko Borondatezko Infanteriaren 14. monumentua Monocacyko Bataila-Esparru Nazionalean dago eta 1907ko uztailaren 11n sortu zen.</lex>
+      <lex lang="eu" lid="Id3">New Jersey-ko 14. boluntarioen infanteriaren monumentua Monocacy-ko gudu-zelai nazionalean dago eta 1907ko uztailaren 11n ezarri zen.</lex>
+      <lex lang="gl" lid="Id1">O 14o Monumento da Infantería Voluntaria de Nova Jersey está no Campo de Batalla Nacional de Monocacy e foi fundado o 11 de xullo de 1907.</lex>
+      <lex lang="gl" lid="Id2">O 14th New Jersey Volunteer Infantry Monument está situado no Monocacy National Battlefield e foi establecido o 11 de xullo de 1907.</lex>
+      <lex lang="gl" lid="Id3">O 14o Monumento da Infantería Voluntaria de Nova Jersey está no Campo de Batalla Nacional de Monocacy e foi establecido o 11 de xullo de 1907.</lex>
+      </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Propietario | Servicio_de_Parques_Nacionales</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Estado | Maryland</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Propietari | Servei_de_Parcs_Nacionals</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Estat | Maryland</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Propietario | Servizo_de_Parques_Nacionais</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Estado | Maryland</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Jabea. | Parke_Nazionalak</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Egoera | Maryland</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monuments are in Maryland and are owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument and located in the state of Maryland.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service and is in the state of Maryland.</lex>
+      <lex lang="es" lid="Id1">Los monumentos de la 14ª Infantería Voluntaria de Nueva Jersey se encuentran en Maryland y son propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id2">El Servicio de Parques Nacionales es el propietario del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey, situado en el estado de Maryland.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales y se encuentra en el estado de Maryland.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba a Maryland i és propietat del Servei Nacional de Parcs.</lex>
+      <lex lang="ca" lid="Id2">El Servei de Parcs Nacionals és el propietari del 14è Monument de la Infanteria Voluntària de Nova Jersey i es troba a l'estat de Maryland.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument a la Infanteria Voluntària de Nova Jersey és propietat del Servei de Parcs Nacionals i es troba a l'estat de Maryland.</lex>
+      <lex lang="eu" lid="Id1">14. New Jersey Boluntarioen Infanteriaren Monumentuak Marylanden daude eta Parke Nazionalen Zerbitzuaren jabetzakoak dira.</lex>
+      <lex lang="eu" lid="Id2">Parke Nazionalaren Zerbitzua New Jerseyko Borondatezko Infanteriaren 14. monumentuaren jabea da eta Maryland estatuan dago.</lex>
+      <lex lang="eu" lid="Id3">New Jerseyko Borondatezko Infanteriaren 14. monumentua Parke Nazionalaren jabetza da eta Maryland estatuan dago.</lex>
+      <lex lang="gl" lid="Id1">Os 14th New Jersey Volunteer Infantry Monuments están en Maryland e son propiedade do Servizo de Parques Nacionais.</lex>
+      <lex lang="gl" lid="Id2">O Servizo de Parques Nacionais é o propietario do 14o Monumento da Infantería Voluntaria de Nova Jersey e está situado no estado de Maryland.</lex>
+      <lex lang="gl" lid="Id3">O 14o Monumento da Infantería Voluntaria de Nova Jersey é propiedade do Servizo de Parques Nacionais e está no estado de Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Comtat_d'Adams,_Pennsylvania | TéElSud-est | Comtat_de_Carroll,_Maryland</ctriple>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Comtat_d'Adams,_Pennsylvania</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Condado_de_Adams,_Pensilvania | TenAoSeuSueste | Condado_de_Carroll,_Maryland</gtriple>
+        <gtriple>Monumento_á_11.ª_Infantería_de_Mississippi | Localización | Condado_de_Adams,_Pensilvania</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Adams_konderrian_kokatuta_dago,_Pennsylvania_estatuan. | Hego-ekialdeanDago. | Carroll_konderria,_Maryland</btriple>
+        <btriple>11._Mississippiko_Infanteriaren_Monumentua | Lokalizazioa | Adams_konderrian_kokatuta_dago,_Pennsylvania_estatuan.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Carroll County Maryland is southeast of Adams County Pennsylvania, where the 11th Mississippi Infantry Monument is located.</lex>
+      <lex lang="en" lid="Id2">To the southeast of Adams County, Pennsylvania where 11th Mississippi Infantry Monument is found lies Carroll County, Maryland.</lex>
+      <lex lang="en" lid="Id3">To the southeast of Adams County, Pennsylvania, where 11th Mississippi Infantry Monument is located, lies Carroll County, Maryland.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument is located in Adams County, Pennsylvania which has Carroll County, Maryland to its southeast.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which is northwest of Carroll County, Maryland.</lex>
+      <lex lang="es" lid="Id1">El condado de Carroll, en Maryland, está al sureste del condado de Adams, en Pensilvania, donde se encuentra el Monumento al 11º Soldado de Infantería del Mississippi.</lex>
+      <lex lang="es" lid="Id2">Al sureste del condado de Adams, Pensilvania, donde se encuentra el monumento al 11º Soldado de Infantería del Mississippi, se encuentra el condado de Carroll, Maryland.</lex>
+      <lex lang="es" lid="Id3">Al sureste del condado de Adams, Pensilvania, donde se encuentra el Monumento al 11º Soldado de Infantería del Mississippi, se encuentra el condado de Carroll, Maryland.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, que tiene al sureste el condado de Carroll, Maryland.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, al noroeste del condado de Carroll, Maryland.</lex>
+      <lex lang="ca" lid="Id1">El comtat de Carroll Maryland es troba al sud-est del comtat d'Adams Pennsylvania, on es troba l'11è Monument d'Infanteria del Mississipí.</lex>
+      <lex lang="ca" lid="Id2">Al sud-est del comtat d'Adams, Pennsilvània, on es troba l'11è Monument d'Infanteria de Mississipí, es troba el comtat de Carroll, Maryland.</lex>
+      <lex lang="ca" lid="Id3">Al sud-est del Comtat d'Adams, Pennsilvània, on es troba l'11è Monument d'Infanteria de Mississipí, es troba el Comtat de Carroll, Maryland.</lex>
+      <lex lang="ca" lid="Id4">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, Pensilvània, que té el comtat de Carroll, Maryland al sud-est.</lex>
+      <lex lang="ca" lid="Id5">El Monument a la 11a Infanteria de Mississipí es troba al comtat d'Adams, Pennsilvània, al nord-oest del comtat de Carroll, Maryland.</lex>
+      <lex lang="eu" lid="Id1">Carroll konderria Pennsylvaniako Adams konderriaren hego-ekialdean dago, eta bertan dago 11. Mississippiko Infanteriaren monumentua.</lex>
+      <lex lang="eu" lid="Id2">Adams konderriaren hego-ekialdean, Pensilvanian, 11. Mississippiko infanteriaren monumentua dago Carroll konderrian, Marylanden.</lex>
+      <lex lang="eu" lid="Id3">Adams konderriaren hego-ekialdean, Pensilvania, 11. Mississippiko infanteriaren monumentua dagoen lekuan, Carroll konderria dago, Maryland.</lex>
+      <lex lang="eu" lid="Id4">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Adams konderrian dago, Marylandeko Carroll konderriaren hego-ekialdean.</lex>
+      <lex lang="eu" lid="Id5">Mississippi Infanteriaren 11. Monumentua Pennsylvaniako Adams konderrian dago, Marylandeko Carroll konderriaren ipar-mendebaldean.</lex>
+      <lex lang="gl" lid="Id1">O condado de Carroll, Maryland, está ao sueste do condado de Adams, Pensilvania, onde se atopa o 11o Monumento de Infantería de Mississippi.</lex>
+      <lex lang="gl" lid="Id2">Ao sueste do condado de Adams, Pensilvania, onde se atopa o 11o Monumento de Infantería de Mississippi, atópase o condado de Carroll, Maryland.</lex>
+      <lex lang="gl" lid="Id3">Ao sueste do condado de Adams, Pensilvania, onde se atopa o 11o Monumento de Infantería de Mississippi, atópase o condado de Carroll, Maryland.</lex>
+      <lex lang="gl" lid="Id4">O 11th Mississippi Infantry Monument está situado no condado de Adams, Pensilvania, que ten o condado de Carroll, Maryland ao sueste.</lex>
+      <lex lang="gl" lid="Id5">O 11o Monumento da Infantería de Mississippi está situado no condado de Adams, Pensilvania, ao noroeste do condado de Carroll, Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | DataD'Inauguració | 1932-07-27</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Material | bronze</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | DataDeInauguración | 1932-07-27</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Material | Bronce</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atatürk_Monumentua_(Izmir) | InaugurazioarenData | 1932-07-27</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Materiala | Brontzea</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The inauguration date for the Atatürk Monument (İzmir), made of bronze, is 1932-07-27.</lex>
+      <lex lang="en" lid="Id2">The inauguration date of the Atatürk Monument, made of bronze, in Izmir is the 27th of July, 1932.</lex>
+      <lex lang="en" lid="Id3">Ataturk Monument (Izmir) was bronze and was inaugurated on 1932-07-27.</lex>
+      <lex lang="en" lid="Id4">The Atatürk Monument (made of bronze) in Izmir was inaugurated on 1932-07-27.</lex>
+      <lex lang="en" lid="Id5">The inauguration date of the bronze Ataturk Monument was July 27th, 1932.</lex>
+      <lex lang="es" lid="Id1">La fecha de inauguración del Monumento a Atatürk (İzmir), de bronce, es 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id2">La fecha de inauguración del monumento a Atatürk, de bronce, en Izmir es el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id3">El Monumento a Ataturk (Esmirna) era de bronce y fue inaugurado el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id4">El monumento a Atatürk (de bronce) en Izmir se inauguró el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id5">La fecha de inauguración del monumento de bronce a Ataturk fue el 27 de julio de 1932.</lex>
+      <lex lang="ca" lid="Id1">La data d'inauguració del monument d'Atatürk (Izmir), fet de bronze, és el 1932-07-27.</lex>
+      <lex lang="ca" lid="Id2">La data d'inauguració del monument d'Atatürk, fet de bronze, a Izmir és el 27 de juliol de 1932.</lex>
+      <lex lang="ca" lid="Id3">El monument d'Atatürk (Izmir) era de bronze i va ser inaugurat el 1932-07-27.</lex>
+      <lex lang="ca" lid="Id4">El Monument d'Atatürk (fet de bronze) a Izmir va ser inaugurat el 1932-07-27.</lex>
+      <lex lang="ca" lid="Id5">La data d'inauguració del monument de bronze d'Atatürk va ser el 27 de juliol de 1932.</lex>
+      <lex lang="eu" lid="Id1">Atatürk monumentuaren (İzmir) inaugurazio-data 1932-07-27 da.</lex>
+      <lex lang="eu" lid="Id2">1932ko uztailaren 27an inauguratu zen Izmir-eko Atatürk monumentua, brontzezkoa.</lex>
+      <lex lang="eu" lid="Id3">Ataturk monumentua (Izmir) brontzezkoa da eta 1932-07-27an inauguratu zen.</lex>
+      <lex lang="eu" lid="Id4">Atatürk monumentua (brontzezkoa) 1932-07-27an inauguratu zen Izmirren.</lex>
+      <lex lang="eu" lid="Id5">Ataturk monumentuaren inaugurazio-data 1932ko uztailaren 27a izan zen.</lex>
+      <lex lang="gl" lid="Id1">A data de inauguración do Monumento a Atatürk (İzmir), feito de bronce, é 1932-07-27.</lex>
+      <lex lang="gl" lid="Id2">A data de inauguración do Monumento a Atatürk, feito de bronce, en Izmir é o 27 de xullo de 1932.</lex>
+      <lex lang="gl" lid="Id3">O Monumento a Atatürk (Izmir) era de bronce e foi inaugurado o 27 de setembro de 1932.</lex>
+      <lex lang="gl" lid="Id4">O Monumento a Atatürk (feito de bronce) en Izmir foi inaugurado o 27 de xullo de 1932.</lex>
+      <lex lang="gl" lid="Id5">A data de inauguración do monumento de bronce a Ataturk foi o 27 de xullo de 1932.</lex>
+      </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Material | bronze</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Dissenyador | Pietro_Canonica</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Material | Bronce</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Deseñador | Pietro_Canonica</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Atatürk_Monumentua_(Izmir) | Materiala | Brontzea</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Diseinatzailea | Pietro_Canonica</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Pietro Canonica is the designer of the Ataturk Monument in Izmir, which is made of bronze.</lex>
+      <lex lang="en" lid="Id2">The Atatürk Monument in Izmir, made of bronze, was designed by Pietro Canonica.</lex>
+      <lex lang="en" lid="Id3">The Ataturk Monument designed by Pietro Canonica is made of Bronze.</lex>
+      <lex lang="es" lid="Id1">Pietro Canonica es el diseñador del monumento a Ataturk en Izmir, realizado en bronce.</lex>
+      <lex lang="es" lid="Id2">El Monumento a Atatürk de Izmir, realizado en bronce, fue diseñado por Pietro Canonica.</lex>
+      <lex lang="es" lid="Id3">El monumento a Ataturk, diseñado por Pietro Canonica, es de bronce.</lex>
+      <lex lang="ca" lid="Id1">Pietro Canonica és el dissenyador del monument d'Atatürk a Izmir, que està fet de bronze.</lex>
+      <lex lang="ca" lid="Id2">El monument d'Atatürk a Izmir, fet de bronze, va ser dissenyat per Pietro Canonica.</lex>
+      <lex lang="ca" lid="Id3">El monument d'Atatürk dissenyat per Pietro Canonica està fet de bronze.</lex>
+      <lex lang="eu" lid="Id1">Pietro Canonica-k diseinatu zuen Izmir-eko Ataturk monumentua, brontzezkoa.</lex>
+      <lex lang="eu" lid="Id2">Izmirko Atatürk monumentua, brontzezkoa, Pietro Canonica arkitektoak diseinatu zuen.</lex>
+      <lex lang="eu" lid="Id3">Pietro Canonicak diseinatutako Ataturk monumentua brontzezkoa da.</lex>
+      <lex lang="gl" lid="Id1">Pietro Canonica é o deseñador do Monumento a Ataturk en Izmir, que está feito de bronce.</lex>
+      <lex lang="gl" lid="Id2">O Monumento a Atatürk en Izmir, feito de bronce, foi deseñado por Pietro Canonica.</lex>
+      <lex lang="gl" lid="Id3">O monumento a Atatürk deseñado por Pietro Canonica está feito de bronce.</lex>
+      </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | Capital | Bakú</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | Capital | Bakú</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Azerbaián | Capital | Bakú</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Azerbaijan | Kapitala | Bakuworld._kgm</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">Baku Turkish Martyrs' Memorial is in Azerbaijan. The capital is Baku.</lex>
+      <lex lang="en" lid="Id3">The Turkish martyrs memorial is located in Baku, the capital of Azerbaijan.</lex>
+      <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos se encuentra en Bakú, capital de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú se encuentra en Azerbaiyán. La capital es Bakú.</lex>
+      <lex lang="es" lid="Id3">El monumento a los mártires turcos se encuentra en Bakú, capital de Azerbaiyán.</lex>
+      <lex lang="ca" lid="Id1">El Memorial dels Màrtirs Turcs es troba a Bakú, la capital de l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú és a l'Azerbaidjan. La capital és Bakú.</lex>
+      <lex lang="ca" lid="Id3">El memorial dels màrtirs turcs es troba a Bakú, la capital de l'Azerbaidjan.</lex>
+      <lex lang="eu" lid="Id1">Turkish Martyrs' Memorial Azerbaijango hiriburuan dago, Bakun.</lex>
+      <lex lang="eu" lid="Id2">Baku Turkish Martyrs' Memorial Azerbaijanen dago. Hiriburua Baku da.</lex>
+      <lex lang="eu" lid="Id3">Turkiarren martirien oroitarria Azerbaijango hiriburuan dago, Bakun.</lex>
+      <lex lang="gl" lid="Id1">O Memorial dos Mártires Turcos está situado en Bakú, a capital de Azerbaiyán.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú atópase en Azerbaiyán. A capital é Bakú.</lex>
+      <lex lang="gl" lid="Id3">O memorial dos mártires turcos está situado en Bakú, a capital de Acerbaixán.</lex>
+      </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | TítuloDeLíder | primer_ministro_de_Azerbaiyán</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | LíderTítol | primer_ministre_de_l'Azerbaidjan</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Azerbaián | LíderTítulo | Primeiro_ministro_de_Azerbaixán</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Azerbaijan | LiderraIzenburua | Azerbaijango_lehen_ministroa</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and the leader is The Prime Minister of Azerbaijan.</lex>
+      <lex lang="en" lid="Id3">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex lang="es" lid="Id1">El líder de Azerbaiyán se llama Primer Ministro. El Monumento a los Mártires Turcos de Bakú está en Azerbaiyán.</lex>
+      <lex lang="es" lid="Id2">El Memorial de los Mártires Turcos de Bakú se encuentra en Azerbaiyán y su líder es el Primer Ministro de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id3">El líder de Azerbaiyán es el Primer Ministro. El Monumento a los Mártires Turcos de Bakú está en Azerbaiyán.</lex>
+      <lex lang="ca" lid="Id1">El líder de l'Azerbaidjan s'anomena primer ministre. El Memorial dels Màrtirs Turcs de Bakú és a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan i el seu líder és el Primer Ministre de l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id3">El líder de l'Azerbaidjan és el primer ministre. El Memorial dels Màrtirs Turcs de Bakú és a l'Azerbaidjan.</lex>
+      <lex lang="eu" lid="Id1">Azerbaidango liderrari lehen ministroa esaten zaio.</lex>
+      <lex lang="eu" lid="Id2">Bakuko martirien monumentua Azerbaijanen dago eta Azerbaijango lehen ministroa da arduraduna.</lex>
+      <lex lang="eu" lid="Id3">Lehen ministroa da Azerbaijango burua. Baku-ko Martiri Turkoen Memoriala Azerbaijanen dago.</lex>
+      <lex lang="gl" lid="Id1">O líder de Azerbaiyán chámase Primeiro Ministro. O Memorial dos Mártires Turcos de Bakú atópase en Azerbaiyán.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú está situado en Acerbaixán e o seu líder é o Primeiro Ministro de Acerbaixán.</lex>
+      <lex lang="gl" lid="Id3">O líder de Acerbaixán é o primeiro ministro. O Memorial dos Mártires Turcos de Bakú está en Acerbaixán.</lex>
+      </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Dissenyador | Hüseyin_Bütüner_i_Hilmi_Güner</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Material | Granit_vermell_i_marbre_blanc</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Deseñador | Hüseyin_Bütüner_e_Hilmi_Güner</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Material | Granito_vermello_e_mármore_branco</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Diseinatzailea | Hüseyin_Bütüner_eta_Hilmi_Güner</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Materiala | Granito_gorria_eta_marmol_zuria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner created the Baku Turkish Martyrs' Memorial. It is made of red granite and white marble.</lex>
+      <lex lang="en" lid="Id2">The designers of the Red granite and white marble Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial is designed by Huseyin Butuner and Hilmi Guner and is made with red granite and white marble.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is made out of red granite and white marble.</lex>
+      <lex lang="en" lid="Id5">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.</lex>
+      <lex lang="es" lid="Id1">Huseyin Butuner y Hilmi Guner crearon el Monumento a los Mártires Turcos de Bakú. Está hecho de granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id2">Los diseñadores del Monumento a los Mártires Turcos de Bakú, de granito rojo y mármol blanco, son Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex lang="es" lid="Id3">El Monumento a los Mártires Turcos de Bakú fue diseñado por Huseyin Butuner e Hilmi Guner y está hecho con granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú, diseñado por Hüseyin Bütüner e Hilmi Güner, está hecho de granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id5">Huseyin Butuner y Hilmi Guner diseñaron el Monumento a los Mártires Turcos de Bakú, de granito rojo y mármol blanco.</lex>
+      <lex lang="ca" lid="Id1">Huseyin Butuner i Hilmi Guner van crear el Memorial dels Màrtirs Turcs de Bakú, fet de granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id2">Els dissenyadors del Memorial dels Màrtirs Turcs de Bakú de granit vermell i marbre blanc són Hüseyin Bütüner i Hilmi Güner.</lex>
+      <lex lang="ca" lid="Id3">El Memorial dels Màrtirs Turcs de Bakú és dissenyat per Huseyin Butuner i Hilmi Guner i està fet amb granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id4">El Memorial dels Màrtirs Turcs de Bakú, dissenyat per Hüseyin Bütüner i Hilmi Güner, està fet de granit vermell i marbre blanc.</lex>
+      <lex lang="ca" lid="Id5">Huseyin Butuner i Hilmi Guner van dissenyar el Monument als Màrtirs Turcs de Bakú, fet de granit vermell i marbre blanc.</lex>
+      <lex lang="eu" lid="Id1">Huseyin Butuner-ek eta Hilmi Guner-ek egin zuten Baku-ko martiri turkiarren oroitarria. Granito gorria eta marmol zuria ditu.</lex>
+      <lex lang="eu" lid="Id2">Granito gorri eta marmol zuriko Baku Turkiako Martirien Memorialaren diseinatzaileak Hüseyin Bütüner eta Hilmi Güner dira.</lex>
+      <lex lang="eu" lid="Id3">Huseyin Butunerrek eta Hilmi Gunerrek diseinatu zuten Bakuko martiri turkoen memoriala, granito gorriz eta marmol zuriz egina.</lex>
+      <lex lang="eu" lid="Id4">Huseyin Bütünerrek eta Hilmi Günerrek diseinatutako Bakuko martiri turkoen memoriala granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="eu" lid="Id5">Huseyin Butuner eta Hilmi Gunerrek diseinatu zuten Bakuko Turkiar Martirien Monumentua, granito gorri eta marmol zuriz egina.</lex>
+      <lex lang="gl" lid="Id1">Huseyin Butuner e Hilmi Guner crearon o Memorial dos Mártires Turcos de Bakú. Está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id2">Os deseñadores do Memorial dos Mártires Turcos de Bakú de granito vermello e mármore branco son Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex lang="gl" lid="Id3">O Memorial dos Mártires Turcos de Bakú foi deseñado por Huseyin Butuner e Hilmi Guner e está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id4">O Memorial dos Mártires Turcos de Bakú, deseñado por Hüseyin Bütüner e Hilmi Güner, está feito de granito vermello e mármore branco.</lex>
+      <lex lang="gl" lid="Id5">Huseyin Butuner e Hilmi Guner deseñaron o Monumento aos Mártires Turcos de Bakú, que está feito de granito vermello e mármore branco.</lex>
+      </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        <striple>Azerbaiyán | Legislatura | Asamblea_Nacional_de_la_República_de_Azerbaiyán</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        <ctriple>Azerbaidjan | Legislatura | Assemblea_Nacional_(Azerbaidjan)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        <gtriple>Azerbaián | PoderLegislativo | Asemblea_Nacional_(Azerbaián)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        <btriple>Azerbaijan | Legebiltzarra | Assemblea_Nazionala_(Azerbaijan)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The National Assembly dictates the legislature of Azerbaijan, where the Baku Turkish Martyrs' Memorial is found.</lex>
+      <lex lang="en" lid="Id2">The National Assembly (Azerbaijan) is the source of legislature in Azerbaijan, where the Baku Turkish Martyrs' Memorial is located.</lex>
+      <lex lang="es" lid="Id1">La Asamblea Nacional dicta la legislatura de Azerbaiyán, donde se encuentra el Monumento a los Mártires Turcos de Bakú.</lex>
+      <lex lang="es" lid="Id2">La Asamblea Nacional (Azerbaiyán) es el órgano legislativo de Azerbaiyán, donde se encuentra el Monumento a los Mártires Turcos de Bakú.</lex>
+      <lex lang="ca" lid="Id1">L'Assemblea Nacional dicta la legislatura de l'Azerbaidjan, on es troba el Memorial dels Màrtirs Turcs de Bakú.</lex>
+      <lex lang="ca" lid="Id2">L'Assemblea Nacional (Azerbaidjan) és la font de la legislatura a l'Azerbaidjan, on es troba el Memorial dels Màrtirs Turcs de Bakú.</lex>
+      <lex lang="eu" lid="Id1">Asanblada Nazionalak diktatzen du Azerbaidango legegintza, non Baku Turkiako Martirien Memoriala dagoen.</lex>
+      <lex lang="eu" lid="Id2">Azerbaijango Biltzar Nazionala (azerbaijaneraz: Azərbaycan Milli Məclisi) Azerbaijango legebiltzarra da, eta bertan dago Bakuko Turkiar Martirien Memoriala.</lex>
+      <lex lang="gl" lid="Id1">A Asemblea Nacional dita a lexislatura de Acerbaixán, onde se atopa o Memorial dos Mártires Turcos de Bakú.</lex>
+      <lex lang="gl" lid="Id2">A Asemblea Nacional (Azerbaixán) é a fonte do poder lexislativo en Azerbaixán, onde se atopa o Memorial dos Mártires Turcos de Bakú.</lex>
+      </entry>
+    <entry category="Monument" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Ubicació | Azerbaidjan</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Material | Granit_vermell_i_marbre_blanc</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Localización | Azerbaián</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Material | Granito_vermello_e_mármore_branco</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Lokalizazioa | Azerbaijan</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Materiala | Granito_gorria_eta_marmol_zuria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial made of red granite and white marble can be found in Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and made of red granite and white marble.</lex>
+      <lex lang="es" lid="Id1">En Azerbaiyán se encuentra el Monumento a los Mártires Turcos de Bakú, de granito rojo y mármol blanco.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú se encuentra en Azerbaiyán y está hecho de granito rojo y mármol blanco.</lex>
+      <lex lang="ca" lid="Id1">El Memorial dels Màrtirs Turcs de Bakú, fet de granit vermell i marbre blanc, es pot trobar a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú es troba a l'Azerbaidjan i està fet de granit vermell i marbre blanc.</lex>
+      <lex lang="eu" lid="Id1">Baku Turkiako Martirien Memoriala, granito gorriz eta marmol zuriz egina, Azerbaidjan dago.</lex>
+      <lex lang="eu" lid="Id2">Baku Turkish Martyrs 'Memoriala Azerbaidjan dago eta granito gorriz eta marmol zuriz egina dago.</lex>
+      <lex lang="gl" lid="Id1">O Monumento aos Mártires Turcos de Bakú feito de granito vermello e mármore branco pódese atopar en Acerbaixán.</lex>
+      <lex lang="gl" lid="Id2">O Monumento aos Mártires Turcos de Bakú está situado en Acerbaixán e está feito de granito vermello e mármore branco.</lex>
+      </entry>
+    <entry category="Monument" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | NombreNativo | Türk_Şehitleri_Anıtı</striple>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | NomD'origen | Türk_Şehitleri_Anıtı</ctriple>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Dissenyador | Hüseyin_Bütüner_i_Hilmi_Güner</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | NomeNativo | Türk_Şehitleri_Anıtı</gtriple>
+        <gtriple>Monumento_aos_Mártires_Turcos_de_Bakú | Deseñador | Hüseyin_Bütüner_e_Hilmi_Güner</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bakuko_martiri_turkoen_memoriala | JatorrizkoIzena | Türk_Şehitleri_Anitı</btriple>
+        <btriple>Bakuko_martiri_turkoen_memoriala | Diseinatzailea | Hüseyin_Bütüner_eta_Hilmi_Güner</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The native name for the Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner is Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs'Memorial which is know locally as Turk Sehitleri Aniti was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial is known in Turkish as Turk Sehitleri Aniti and the designers are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="es" lid="Id1">El nombre nativo del Monumento a los Mártires Turcos de Bakú, diseñado por Hüseyin Bütüner y Hilmi Güner, es Türk Şehitleri Anıtı.</lex>
+      <lex lang="es" lid="Id2">El monumento a los mártires turcos de Bakú, conocido localmente como Turk Sehitleri Aniti, fue diseñado por Huseyin Butuner e Hilmi Guner.</lex>
+      <lex lang="es" lid="Id3">El Monumento a los Mártires Turcos de Bakú se conoce en turco como Turk Sehitleri Aniti y sus diseñadores son Hüseyin Bütüner y Hilmi Güner.</lex>
+      <lex lang="ca" lid="Id1">El nom original del Memorial dels Màrtirs Turcs de Bakú, dissenyat per Hüseyin Bütüner i Hilmi Güner és Türk Şehitleri Anıtı.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú, conegut localment com Turk Sehitleri Aniti, va ser dissenyat per Huseyin Butuner i Hilmi Guner.</lex>
+      <lex lang="ca" lid="Id3">El Memorial dels Màrtirs Turcs de Bakú és conegut en turc com Turk Sehitleri Aniti i els dissenyadors són Hüseyin Bütüner i Hilmi Güner.</lex>
+      <lex lang="eu" lid="Id1">Hüseyin Bütünerrek eta Hilmi Günerrek diseinatutako Baku Turkiako Martirien Memorialaren jatorrizko izena Türk Şehitleri Anıtı da.</lex>
+      <lex lang="eu" lid="Id2">Huseyin Butuner-ek eta Hilmi Guner-ek diseinatu zuten Baku-ko Martiri Turkoen Memoriala, bertakoek Turk Sehitleri Aniti deitzen dutena.</lex>
+      <lex lang="eu" lid="Id3">Bakuko Turkiar Martirien Monumentua Turkieraz Turk Sehitleri Aniti bezala ezagutzen da eta diseinatzaileak Hüseyin Bütüner eta Hilmi Güner dira.</lex>
+      <lex lang="gl" lid="Id1">O nome nativo para o Memorial dos Mártires Turcos de Bakú, deseñado por Hüseyin Bütüner e Hilmi Güner é Türk Şehitleri Anıtı.</lex>
+      <lex lang="gl" lid="Id2">O Memorial dos Mártires Turcos de Bakú, coñecido localmente como Turk Sehitleri Aniti, foi deseñado por Huseyin Butuner e Hilmi Guner.</lex>
+      <lex lang="gl" lid="Id3">O Memorial dos Mártires Turcos de Bakú é coñecido en turco como Turk Sehitleri Aniti e os deseñadores son Hüseyin Bütüner e Hilmi Güner.</lex>
+      </entry>
+    <entry category="Monument" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple>
+        <striple>Plack_del_Hombre_Muerto | Material | roca_(geología)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | Ubicació | Anglaterra</ctriple>
+        <ctriple>Placa_de_l'home_mort | Material | Roca_(geologia)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Placa_do_home_morto | Localización | Inglaterra</gtriple>
+        <gtriple>Placa_do_home_morto | Material | Rocha_(geoloxía)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hildako_gizonaren_plaka | Lokalizazioa | Ingalaterra</btriple>
+        <btriple>Hildako_gizonaren_plaka | Materiala | Arroka_(geologia)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is made from rock and is in ENgland.</lex>
+      <lex lang="es" lid="Id1">El Dead Man's Plack está hecho de roca y se encuentra en ENgland.</lex>
+      <lex lang="ca" lid="Id1">La Placa de l'Home Mort està feta de roca i es troba a Anglaterra.</lex>
+      <lex lang="eu" lid="Id1">Hildakoaren plaka arrokatik egina dago eta Ingalaterran dago.</lex>
+      <lex lang="gl" lid="Id1">A placa do Morto está feita de rocha e está en Inglaterra.</lex>
+      </entry>
+    <entry category="Monument" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple>
+        <striple>Inglaterra | Capital | Londres</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | Ubicació | Anglaterra</ctriple>
+        <ctriple>Anglaterra | Capital | Londres</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Placa_do_home_morto | Localización | Inglaterra</gtriple>
+        <gtriple>Inglaterra | Capital | Londres</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hildako_gizonaren_plaka | Lokalizazioa | Ingalaterra</btriple>
+        <btriple>Ingalaterra | Kapitala | Londres</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is located in England, the capital of which is London.</lex>
+      <lex lang="en" lid="Id2">The Dead Man's Plack is in London, England.</lex>
+      <lex lang="es" lid="Id1">El Dead Man's Plack se encuentra en Inglaterra, cuya capital es Londres.</lex>
+      <lex lang="es" lid="Id2">The Dead Man's Plack está en Londres, Inglaterra.</lex>
+      <lex lang="ca" lid="Id1">La Placa de l'Home Mort es troba a Anglaterra, la capital de la qual és Londres.</lex>
+      <lex lang="ca" lid="Id2">La placa del mort està a Londres, Anglaterra.</lex>
+      <lex lang="eu" lid="Id1">Hildakoaren Plaka Ingalaterran dago, Londres hiriburuan.</lex>
+      <lex lang="eu" lid="Id2">The Dead Man's Plack Londresen dago, Ingalaterran.</lex>
+      <lex lang="gl" lid="Id1">A placa do morto está situada en Inglaterra, cuxa capital é Londres.</lex>
+      <lex lang="gl" lid="Id2">A placa do morto está en Londres, Inglaterra.</lex>
+      </entry>
+    <entry category="Monument" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple>
+        <striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | Ubicació | Anglaterra</ctriple>
+        <ctriple>Anglaterra | GrupÈtnic | Àrabs_britànics</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Placa_do_home_morto | Localización | Inglaterra</gtriple>
+        <gtriple>Inglaterra | GrupoÉtnico | Árabes_británicos</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hildako_gizonaren_plaka | Lokalizazioa | Ingalaterra</btriple>
+        <btriple>Ingalaterra | TaldeEtnikoa | Arabiar_britainiarrak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Dead Man's Plack is in England and one of the ethnic groups found in England is the British Arabs.</lex>
+      <lex lang="en" lid="Id2">The Dead Man's Plack is in England honoring the British Arab ethnic group.</lex>
+      <lex lang="en" lid="Id3">The Dead Man's Plack is located in England, where one of the ethnic groups is the British Arabs.</lex>
+      <lex lang="es" lid="Id1">Dead Man's Plack está en Inglaterra y uno de los grupos étnicos que se encuentran en Inglaterra son los árabes británicos.</lex>
+      <lex lang="es" lid="Id2">El Dead Man's Plack se celebra en Inglaterra en honor de la etnia árabe británica.</lex>
+      <lex lang="es" lid="Id3">El Dead Man's Plack se encuentra en Inglaterra, donde uno de los grupos étnicos es el de los árabes británicos.</lex>
+      <lex lang="ca" lid="Id1">Dead Man's Plack és a Anglaterra i un dels grups ètnics que es troben a Anglaterra són els àrabs britànics.</lex>
+      <lex lang="ca" lid="Id2">La placa del mort està a Anglaterra en honor al grup ètnic àrab britànic.</lex>
+      <lex lang="ca" lid="Id3">The Dead Man's Plack es troba a Anglaterra, on un dels grups ètnics són els àrabs britànics.</lex>
+      <lex lang="eu" lid="Id1">Dead Man's Plack Ingalaterran dago eta bertako talde etnikoetako bat britainiar arabiarrak dira.</lex>
+      <lex lang="eu" lid="Id2">The Dead Man's Plack Ingalaterran dago, britainiar talde etniko arabiarra omentzeko.</lex>
+      <lex lang="eu" lid="Id3">The Dead Man's Plack Ingalaterran dago, eta bertako talde etnikoetako bat arabiar britainiarrak dira.</lex>
+      <lex lang="gl" lid="Id1">Dead Man's Plack está en Inglaterra e un dos grupos étnicos que se atopan en Inglaterra son os árabes británicos.</lex>
+      <lex lang="gl" lid="Id2">O Plack do Home Morto está en Inglaterra en honra ao grupo étnico árabe británico.</lex>
+      <lex lang="gl" lid="Id3">A placa do morto está situada en Inglaterra, onde un dos grupos étnicos son os árabes británicos.</lex>
+      </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Monocacy_National_Battlefield | Ubicació | Comtat_de_Frederick,_Maryland</ctriple>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Campo_de_batalla_nacional_de_Monocacy | Localización | Condado_de_Frederick,_Maryland</gtriple>
+        <gtriple>14th_New_Jersey_Volunteer_Infantry_Monument | Distrito | Campo_de_batalla_nacional_de_Monocacy</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Monocacyko_bataila-eremu_nazionala | Lokalizazioa | Frederick_konderrian_kokatua_dago.</btriple>
+        <btriple>14._New_Jerseyko_Borondatezko_Infanteriaren_Monumentua | Barrutia | Monocacyko_bataila-eremu_nazionala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield which is located in Frederick County, Maryland.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield which is located Frederick County, Maryland.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick County, Maryland.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el distrito del Campo de Batalla Nacional de Monocacy, situado en el condado de Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield, situat al comtat de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al districte del Monocacy National Battlefield, situat al comtat de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey està al Monocacy National Battlefield al comtat de Frederick, Maryland.</lex>
+      <lex lang="eu" lid="Id1">New Jerseyko Borondatezko Infanteriaren 14. monumentua Monocacy National Battlefield-en dago, Frederick konderrian, Marylanden.</lex>
+      <lex lang="eu" lid="Id2">New Jerseyko Borondatezko Infanteriaren 14. monumentua Monocacy National Battlefield auzoan dago, Frederick konderrian, Marylanden.</lex>
+      <lex lang="eu" lid="Id3">New Jerseyko Borondatezko Infanteriaren 14. monumentua Marylandeko Frederick konderriko Monocacy bataila-zelaian dago.</lex>
+      <lex lang="gl" lid="Id1">O 14th New Jersey Volunteer Infantry Monument atópase no Monocacy National Battlefield, situado no condado de Frederick, Maryland.</lex>
+      <lex lang="gl" lid="Id2">O 14th New Jersey Volunteer Infantry Monument está situado no distrito do Monocacy National Battlefield, que se atopa no condado de Frederick, Maryland.</lex>
+      <lex lang="gl" lid="Id3">O 14o Monumento da Infantería Voluntaria de Nova Jersey está no Campo de Batalla Nacional de Monocacy no condado de Frederick, Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | Capital | Ankara</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Turquia | Capital | Ankara</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Ubicació | Turquia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Turquía | Capital | Ankara</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Localización | Turquía</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Turkia | Kapitala | Ankaraworld._kgm</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Lokalizazioa | Turkia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument is located in Izmir, Turkey, where the capital is Ankara.</lex>
+      <lex lang="en" lid="Id2">The Atatürk Monument is located in İzmir, Turkey which capital is Ankara.</lex>
+      <lex lang="es" lid="Id1">El monumento a Atatürk se encuentra en Izmir (Turquía), cuya capital es Ankara.</lex>
+      <lex lang="es" lid="Id2">El Monumento a Atatürk se encuentra en Esmirna (Turquía), cuya capital es Ankara.</lex>
+      <lex lang="ca" lid="Id1">El Monument d'Atatürk es troba a Izmir, Turquia, on la capital és Ankara.</lex>
+      <lex lang="ca" lid="Id2">El Monument a Atatürk es troba a Izmir, Turquia, la capital de la qual és Ankara.</lex>
+      <lex lang="eu" lid="Id1">Atatürken monumentua Turkiako Izmirren dago, hiriburua Ankara baita.</lex>
+      <lex lang="eu" lid="Id2">Atatürk monumentua İzmirren dago, Turkiako hiriburu den Ankaran.</lex>
+      <lex lang="gl" lid="Id1">O Monumento a Atatürk está situado en Izmir, Turquía, onde a capital é Ankara.</lex>
+      <lex lang="gl" lid="Id2">O Monumento a Atatürk está situado en Izmir, Turquía, cuxa capital é Ankara.</lex>
+      </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | Divisa | lira_turca</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Turquia | Moneda | lira_turca</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Ubicació | Turquia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Turquía | Moeda | Lira_turca</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Localización | Turquía</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Turkia | Dibisa | Turkiar_lira</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Lokalizazioa | Turkia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument (İzmir) is found in Turkey where the currency is the Turkish Lira.</lex>
+      <lex lang="en" lid="Id2">The Atatürk Monument is in Turkey, where the currency is the lira.</lex>
+      <lex lang="es" lid="Id1">El monumento a Atatürk (İzmir) se encuentra en Turquía, donde la moneda es la lira turca.</lex>
+      <lex lang="es" lid="Id2">El monumento a Atatürk está en Turquía, donde la moneda es la lira.</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk (İzmir) es troba a Turquia on la moneda és la lira turca.</lex>
+      <lex lang="ca" lid="Id2">El monument d'Atatürk està a Turquia, on la moneda és la lira.</lex>
+      <lex lang="eu" lid="Id1">Atatürken monumentua (İzmir) Turkian dago, non dirua lira turkiarra den.</lex>
+      <lex lang="eu" lid="Id2">Atatürken monumentua Turkian dago, eta han lira erabiltzen da.</lex>
+      <lex lang="gl" lid="Id1">O Monumento a Atatürk (İzmir) atópase en Turquía, onde a moeda é a lira turca.</lex>
+      <lex lang="gl" lid="Id2">O Monumento a Atatürk está en Turquía, onde a moeda é a lira.</lex>
+      </entry>
+    <entry category="Monument" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | CiudadMásGrande | Estambul</striple>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Turquia | CiutatMésGran | Istanbul</ctriple>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Ubicació | Turquia</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Turquía | CidadeMáisGrande | Estambul</gtriple>
+        <gtriple>Monumento_a_Atatürk_(İzmir) | Localización | Turquía</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Turkia | HiririkHandiena | Istanbul</btriple>
+        <btriple>Atatürk_Monumentua_(Izmir) | Lokalizazioa | Turkia</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument is in Turkey which largest city is Istanbul.</lex>
+      <lex lang="en" lid="Id2">Istanbul is the largest city in Turkey, where the Atatürk Monument is located.</lex>
+      <lex lang="es" lid="Id1">El Monumento a Atatürk se encuentra en Turquía, cuya ciudad más grande es Estambul.</lex>
+      <lex lang="es" lid="Id2">Estambul es la ciudad más grande de Turquía, donde se encuentra el monumento a Atatürk.</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk es troba a Turquia, la ciutat més gran de la qual és Istanbul.</lex>
+      <lex lang="ca" lid="Id2">Istanbul és la ciutat més gran de Turquia, on es troba el monument d'Atatürk.</lex>
+      <lex lang="eu" lid="Id1">Atatürken monumentua Turkian dago, eta hiririk handiena Istanbul da.</lex>
+      <lex lang="eu" lid="Id2">Istanbul Turkiako hiririk handiena da, eta bertan dago Atatürken monumentua.</lex>
+      <lex lang="gl" lid="Id1">O Monumento a Atatürk está en Turquía, cuxa cidade máis grande é Istambul.</lex>
+      <lex lang="gl" lid="Id2">Estambul é a cidade máis grande de Turquía, onde se atopa o Monumento a Atatürk.</lex>
+      </entry>
+    </entries>
+  </benchmark>

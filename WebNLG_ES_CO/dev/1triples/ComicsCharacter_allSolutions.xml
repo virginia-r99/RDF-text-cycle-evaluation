@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Astérix_(personaje_de_cómic) | Creador | René_Goscinny</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Asterix_(personatge_de_còmics) | Creador | René_Goscinny</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Asterix_(personaxe_de_banda_deseñada) | Creador | René_Goscinny</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Asterix_(komiki_pertsonaia) | Sortzailea | René_Goscinny</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Asterix was created by Rene Goscinny.</lex>
+      <lex lang="en" lid="Id2">The creator of Asterix (comics character) is René Goscinny.</lex>
+      <lex lang="en" lid="Id3">The comic character Asterix, was created by René Goscinny.</lex>
+      <lex lang="es" lid="Id1">Astérix fue creado por René Goscinny.</lex>
+      <lex lang="es" lid="Id2">El creador de Astérix (personaje de cómic) es René Goscinny.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Astérix fue creado por René Goscinny.</lex>
+      <lex lang="ca" lid="Id1">Asterix va ser creat per René Goscinny.</lex>
+      <lex lang="ca" lid="Id2">El creador d'Astèrix (personatge de còmics) és René Goscinny.</lex>
+      <lex lang="ca" lid="Id3">El personatge còmic Asterix, va ser creat per René Goscinny.</lex>
+      <lex lang="eu" lid="Id1">Asterix René Goscinnyk sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Asterix-en sortzailea René Goscinny da.</lex>
+      <lex lang="eu" lid="Id3">Asterix pertsonaia komikoa René Goscinnyk sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">Asterix foi creado por René Goscinny.</lex>
+      <lex lang="gl" lid="Id2">O creador de Asterix (personaxe de banda deseñada) é René Goscinny.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Asterix foi creado por René Goscinny.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Auron_(personaje_de_cómic) | Creador | Marv_Wolfman</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Auron_(personatge_de_còmics) | Creador | Marv_Wolfman</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Auron_(comicsCharacter) | Creador | Marv_Wolfman</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Auron_(comicsCharacter) | Sortzailea | Marv_Wolfman</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character Auron was created by Marv Wolfman.</lex>
+      <lex lang="en" lid="Id2">Auron was created by Marv Wolfman.</lex>
+      <lex lang="en" lid="Id3">The comic book character Auron was created by Marv Wolfman.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic Auron fue creado por Marv Wolfman.</lex>
+      <lex lang="es" lid="Id2">Auron fue creado por Marv Wolfman.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Auron fue creado por Marv Wolfman.</lex>
+      <lex lang="ca" lid="Id1">El personatge de còmic Auron va ser creat per Marv Wolfman.</lex>
+      <lex lang="ca" lid="Id2">Auron va ser creat per Marv Wolfman.</lex>
+      <lex lang="ca" lid="Id3">El personatge del còmic Auron va ser creat per Marv Wolfman.</lex>
+      <lex lang="eu" lid="Id1">Auron komiki pertsonaia Marv Wolfman-ek sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Marv Wolfmanek sortu zuen.</lex>
+      <lex lang="eu" lid="Id3">Auron komiki pertsonaia Marv Wolfmanek sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de banda deseñada Auron foi creado por Marv Wolfman.</lex>
+      <lex lang="gl" lid="Id2">Auron foi creado por Marv Wolfman.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de banda deseñada Auron foi creado por Marv Wolfman.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Balder_(personaje_de_cómic) | Creador | Jack_Kirby</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Balder_(personatge_de_còmics) | Creador | Jack_Kirby</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Balder_(personaxe_de_banda_deseñada) | Creador | Jack_Kirby</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Balder_(komikietako_pertsonaia) | Sortzailea | Jack_Kirby</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The comic character, Balder, was created by Jack Kirby.</lex>
+      <lex lang="en" lid="Id2">The comic character Balder was created by Jack Kirby.</lex>
+      <lex lang="en" lid="Id3">Jack Kirby created the comic character Balder.</lex>
+      <lex lang="es" lid="Id1">El personaje de cómic, Balder, fue creado por Jack Kirby.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic Balder fue creado por Jack Kirby.</lex>
+      <lex lang="es" lid="Id3">Jack Kirby creó el personaje de cómic Balder.</lex>
+      <lex lang="ca" lid="Id1">El personatge de còmic, Balder, va ser creat per Jack Kirby.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic Balder va ser creat per Jack Kirby.</lex>
+      <lex lang="ca" lid="Id3">Jack Kirby va crear el personatge de còmic Balder.</lex>
+      <lex lang="eu" lid="Id1">Komikietako pertsonaia, Balder, Jack Kirbyk sortu zuen.</lex>
+      <lex lang="eu" lid="Id2">Balder komikiaren pertsonaia Jack Kirbyk sortu zuen.</lex>
+      <lex lang="eu" lid="Id3">Jack Kirbyk Balder komikiaren pertsonaia sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">O personaxe de banda deseñada, Balder, foi creado por Jack Kirby.</lex>
+      <lex lang="gl" lid="Id2">O personaxe de cómics Balder foi creado por Jack Kirby.</lex>
+      <lex lang="gl" lid="Id3">Jack Kirby creou o personaxe de banda deseñada Balder.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPor | STV</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | TransmèsPer | STV</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | EmitidoPor | STV</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | EuskoJaurlaritzarenLaguntzarekinEgindakoAzpitituluak | Eusko_Jaurlaritzaren_laguntzarekin_egindako_azpitituluak</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman is broadcast by STV.</lex>
+      <lex lang="en" lid="Id2">Bananaman is broadcasted by "STV".</lex>
+      <lex lang="en" lid="Id3">Bananaman was broadcasted by STV.</lex>
+      <lex lang="es" lid="Id1">Bananaman es emitido por STV.</lex>
+      <lex lang="es" lid="Id2">Bananaman es emitido por "STV".</lex>
+      <lex lang="es" lid="Id3">Bananaman fue emitido por STV.</lex>
+      <lex lang="ca" lid="Id1">Bananaman és emès per STV.</lex>
+      <lex lang="ca" lid="Id2">Bananaman és emès per "STV".</lex>
+      <lex lang="ca" lid="Id3">Bananaman va ser emès per STV.</lex>
+      <lex lang="eu" lid="Id1">Bananaman STVk emititzen du.</lex>
+      <lex lang="eu" lid="Id2">Bananaman "STV"k emititzen du.</lex>
+      <lex lang="eu" lid="Id3">Bananaman STVk emititu zuen.</lex>
+      <lex lang="gl" lid="Id1">Bananaman é emitido por STV.</lex>
+      <lex lang="gl" lid="Id2">Bananaman é emitido por "STV".</lex>
+      <lex lang="gl" lid="Id3">Bananaman foi emitido por STV.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | PrimeiraEmisión | 1983-10-03</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | LehenAldizAireratua | 1983-10-03</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bananaman first aired on 3rd October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman first aired on the 3rd of October, 1983.</lex>
+      <lex lang="en" lid="Id3">Bananaman was first aired on 10/03/1983.</lex>
+      <lex lang="es" lid="Id1">Bananaman se emitió por primera vez el 3 de octubre de 1983.</lex>
+      <lex lang="es" lid="Id2">Bananaman se emitió por primera vez el 3 de octubre de 1983.</lex>
+      <lex lang="es" lid="Id3">Bananaman se emitió por primera vez el 10/03/1983.</lex>
+      <lex lang="ca" lid="Id1">Bananaman es va emetre per primera vegada el 3 d'octubre de 1983.</lex>
+      <lex lang="ca" lid="Id2">Bananaman es va emetre per primera vegada el 3 d'octubre de 1983.</lex>
+      <lex lang="ca" lid="Id3">Bananaman es va emetre per primera vegada el 10/03/1983.</lex>
+      <lex lang="eu" lid="Id1">Bananaman 1983ko urriaren 3an aireratu zen lehen aldiz.</lex>
+      <lex lang="eu" lid="Id2">Bananaman 1983ko urriaren 3an estreinatu zen.</lex>
+      <lex lang="eu" lid="Id3">Bananaman 1983ko martxoaren 10ean eman zen lehen aldiz.</lex>
+      <lex lang="gl" lid="Id1">Bananaman foi emitido por primeira vez o 3 de outubro de 1983.</lex>
+      <lex lang="gl" lid="Id2">Bananaman emitiuse por primeira vez o 3 de outubro de 1983.</lex>
+      <lex lang="gl" lid="Id3">Bananaman foi emitido por primeira vez o 10/03/1983.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Bill_Oddie</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bananas | Estrelado | Bill_Oddie</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bananaman | Antzezpena: | Bill_Oddie_naiz.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bill Oddie stars in Bananaman.</lex>
+      <lex lang="en" lid="Id2">Bananaman starred Bill Oddie.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie starred in Bananaman.</lex>
+      <lex lang="es" lid="Id1">Bill Oddie protagoniza Bananaman.</lex>
+      <lex lang="es" lid="Id2">Bananaman fue protagonizada por Bill Oddie.</lex>
+      <lex lang="es" lid="Id3">Bill Oddie protagonizó Bananaman.</lex>
+      <lex lang="ca" lid="Id1">Bill Oddie protagonitza Bananaman.</lex>
+      <lex lang="ca" lid="Id2">Bananaman va protagonitzar Bill Oddie.</lex>
+      <lex lang="ca" lid="Id3">Bill Oddie va protagonitzar Bananaman.</lex>
+      <lex lang="eu" lid="Id1">Bill Oddie Bananaman telesaileko pertsonaia da.</lex>
+      <lex lang="eu" lid="Id2">Bananamanek Bill Oddie antzeztu zuen.</lex>
+      <lex lang="eu" lid="Id3">Bill Oddyk Bananamanen antzeztu zuen.</lex>
+      <lex lang="gl" lid="Id1">Bill Oddie protagoniza Bananaman.</lex>
+      <lex lang="gl" lid="Id2">Bananaman protagonizado por Bill Oddie.</lex>
+      <lex lang="gl" lid="Id3">Bill Oddie protagonizou Bananaman.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Baymax | Series | Big_Hero_6_(filme)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Baymax | Serieak | Big_Hero_6_(filma)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Baymax is a character in Big Hero 6.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje de Big Hero 6.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge de Big Hero 6.</lex>
+      <lex lang="eu" lid="Id1">Baymax Big Hero 6-ko pertsonaia bat da.</lex>
+      <lex lang="gl" lid="Id1">Baymax é un personaxe de Big Hero 6.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Everett | award | Eisner_Award</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Everett | award | Eisner_Award</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bill_Everett | Premio | Premio_Eisner</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bill_Everett | Premi | Premi_Eisner</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bill_Everett | Premio | Premio_Eisner</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bill_Everett | Saria | Eisner_saria</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bill Everett has won the Eisner Award.</lex>
+      <lex lang="en" lid="Id2">Bill Everett has been awarded the Eisner award.</lex>
+      <lex lang="es" lid="Id1">Bill Everett ha ganado el premio Eisner.</lex>
+      <lex lang="es" lid="Id2">Bill Everett ha sido galardonado con el premio Eisner.</lex>
+      <lex lang="ca" lid="Id1">Bill Everett ha guanyat el Premi Eisner.</lex>
+      <lex lang="ca" lid="Id2">Bill Everett ha rebut el premi Eisner.</lex>
+      <lex lang="eu" lid="Id1">Bill Everettek Eisner saria irabazi du.</lex>
+      <lex lang="eu" lid="Id2">Bill Everettek Eisner saria jaso du.</lex>
+      <lex lang="gl" lid="Id1">Bill Everett gañou o premio Eisner.</lex>
+      <lex lang="gl" lid="Id2">Bill Everett recibiu o premio Eisner.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bill_Oddie | Niño | Kate_Hardie</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bill_Oddie | Infant | Kate_Hardie</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bill_Oddie | Niño | Kate_Hardie</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bill_Oddie_naiz. | Haurra | Kate_Hardie</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bill Oddie's daughter is Kate Hardie.</lex>
+      <lex lang="en" lid="Id2">Kate Hardie is Bill Oddie's child.</lex>
+      <lex lang="es" lid="Id1">La hija de Bill Oddie es Kate Hardie.</lex>
+      <lex lang="es" lid="Id2">Kate Hardie es la hija de Bill Oddie.</lex>
+      <lex lang="ca" lid="Id1">La filla de Bill Oddie és Kate Hardie.</lex>
+      <lex lang="ca" lid="Id2">Kate Hardie és la filla de Bill Oddie.</lex>
+      <lex lang="eu" lid="Id1">Bill Oddieren alaba Kate Hardie da.</lex>
+      <lex lang="eu" lid="Id2">Kate Hardie Bill Oddieren alaba da.</lex>
+      <lex lang="gl" lid="Id1">A filla de Bill Oddie é Kate Hardie.</lex>
+      <lex lang="gl" lid="Id2">Kate Hardie é a filla de Bill Oddie.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bolt_(personaje_de_cómic) | Creador | Dan_Mishkin</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bolt_(personatge_de_còmics) | Creador | Dan_Mishkin</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bolt_(comicsCharacter) | Creador | Dan_Mishkin</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bolt_(comicsCharacter) | Sortzailea | Dan_Mishkin</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Dan Mishkin is one of the creators of the comic character, Bolt.</lex>
+      <lex lang="en" lid="Id2">The comic book character Bolt was created by Dan Mishkin.</lex>
+      <lex lang="en" lid="Id3">The comic character Bolt was created by Dan Mishkin.</lex>
+      <lex lang="es" lid="Id1">Dan Mishkin es uno de los creadores del personaje de cómic Bolt.</lex>
+      <lex lang="es" lid="Id2">El personaje de cómic Bolt fue creado por Dan Mishkin.</lex>
+      <lex lang="es" lid="Id3">El personaje de cómic Bolt fue creado por Dan Mishkin.</lex>
+      <lex lang="ca" lid="Id1">Dan Mishkin és un dels creadors del personatge còmic, Bolt.</lex>
+      <lex lang="ca" lid="Id2">El personatge de còmic Bolt va ser creat per Dan Mishkin.</lex>
+      <lex lang="ca" lid="Id3">El personatge de còmic Bolt va ser creat per Dan Mishkin.</lex>
+      <lex lang="eu" lid="Id1">Dan Mishkin da komikoko pertsonaiaren, Bolt-en, sortzaileetako bat.</lex>
+      <lex lang="eu" lid="Id2">Bolt komiki-pertsonaia Dan Mishkinek sortu zuen.</lex>
+      <lex lang="eu" lid="Id3">Bolt komiki pertsonaia Dan Mishkin-ek sortu zuen.</lex>
+      <lex lang="gl" lid="Id1">Dan Mishkin é un dos creadores do personaxe de banda deseñada, Bolt.</lex>
+      <lex lang="gl" lid="Id2">O personaxe de banda deseñada Bolt foi creado por Dan Mishkin.</lex>
+      <lex lang="gl" lid="Id3">O personaxe de cómics Bolt foi creado por Dan Mishkin.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bozo_el_Hombre_de_Hierro | NombreCompleto | Hugh_Hazzard</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Bozo_l'Home_de_Ferro | NomComplet | Hugh_Hazzard</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Bozo,_o_home_de_ferro. | NomeCompleto | Hugh_Hazzard</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Bozo_Burdinazko_gizona. | IzenOsoa | Hugh_Hazzard</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bozo the Iron Man’s full name is Hugh Hazzard.</lex>
+      <lex lang="en" lid="Id2">The full name of Bozo the Iron Man is "Hugh Hazzard".</lex>
+      <lex lang="en" lid="Id3">The comic book character Bozo the Iron Man's alter ego is Hugh Hazzard.</lex>
+      <lex lang="es" lid="Id1">El nombre completo de Bozo el Hombre de Hierro es Hugh Hazzard.</lex>
+      <lex lang="es" lid="Id2">El nombre completo de Bozo el Hombre de Hierro es "Hugh Hazzard".</lex>
+      <lex lang="es" lid="Id3">El alter ego del personaje de cómic Bozo el Hombre de Hierro es Hugh Hazzard.</lex>
+      <lex lang="ca" lid="Id1">El nom complet de Bozo l'Hom de Ferro és Hugh Hazzard.</lex>
+      <lex lang="ca" lid="Id2">El nom complet de Bozo l'Hom de Ferro és "Hugh Hazzard".</lex>
+      <lex lang="ca" lid="Id3">El personatge del còmic Bozo, l'alter ego de l'Hom de Ferro, és Hugh Hazzard.</lex>
+      <lex lang="eu" lid="Id1">Bozo Iron Manen izen osoa Hugh Hazzard da.</lex>
+      <lex lang="eu" lid="Id2">Bozo Burdin Gizonen izen osoa "Hugh Hazzard" da.</lex>
+      <lex lang="eu" lid="Id3">Bozo the Iron Man komikietako pertsonaiaren alter egoa Hugh Hazzard da.</lex>
+      <lex lang="gl" lid="Id1">O nome completo de Bozo o Home de Ferro é Hugh Hazzard.</lex>
+      <lex lang="gl" lid="Id2">O nome completo de Bozo o Home de Ferro é "Hugh Hazzard".</lex>
+      <lex lang="gl" lid="Id3">O alter ego do personaxe de banda deseñada Bozo the Iron Man é Hugh Hazzard.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_Buscema | award | Eagle_Award_(comics)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Buscema | award | Eagle_Award_(comics)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>John_Buscema | Premio | Premio_Eagle_(cómics)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>John_Buscema | Premi | Eagle_Award_(comics)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>John_Buscema | Premio | Eagle_Award_(comics)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>John_Buscema_izan_zen. | Saria | Eagle_Award_(komikiak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">John Buscema has won the comic book award, Eagle Award.</lex>
+      <lex lang="en" lid="Id2">John Buscema received the Eagle Award for his work in comics.</lex>
+      <lex lang="es" lid="Id1">John Buscema ha ganado el premio del cómic, Premio Eagle.</lex>
+      <lex lang="es" lid="Id2">John Buscema recibió el Premio Eagle por su labor en el mundo del cómic.</lex>
+      <lex lang="ca" lid="Id1">John Buscema ha guanyat el premi del còmic, Eagle Award.</lex>
+      <lex lang="ca" lid="Id2">John Buscema va rebre el premi Eagle pel seu treball en còmics.</lex>
+      <lex lang="eu" lid="Id1">John Buscema-k komikiaren saria irabazi du, Eagle Award.</lex>
+      <lex lang="eu" lid="Id2">John Buscemak Eagle saria jaso zuen komikietan egindako lanagatik.</lex>
+      <lex lang="gl" lid="Id1">John Buscema gañou o premio de banda deseñada Eagle Award.</lex>
+      <lex lang="gl" lid="Id2">John Buscema recibiu o Eagle Award polo seu traballo en cómics.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Marv_Wolfman | award | Eagle_Award_(comics)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marv_Wolfman | award | Eagle_Award_(comics)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Marv_Wolfman | Premio | Premio_Eagle_(cómics)</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Marv_Wolfman | Premi | Eagle_Award_(comics)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Marv_Wolfman | Premio | Eagle_Award_(comics)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Marv_Wolfman | Saria | Eagle_Award_(komikiak)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Marv Wolfman is a recipient of the Eagle Award.</lex>
+      <lex lang="en" lid="Id2">Marv Wolfman won the Eagle Award for comics.</lex>
+      <lex lang="en" lid="Id3">Marv Wolfman has received the Eagle Award for comics.</lex>
+      <lex lang="es" lid="Id1">Marv Wolfman ha recibido el Premio Eagle.</lex>
+      <lex lang="es" lid="Id2">Marv Wolfman ganó el Premio Eagle de cómic.</lex>
+      <lex lang="es" lid="Id3">Marv Wolfman ha recibido el Premio Eagle de cómic.</lex>
+      <lex lang="ca" lid="Id1">Marv Wolfman ha estat guardonat amb el premi Eagle.</lex>
+      <lex lang="ca" lid="Id2">Marv Wolfman va guanyar el premi Eagle pels còmics.</lex>
+      <lex lang="ca" lid="Id3">Marv Wolfman ha rebut el premi Eagle per a còmics.</lex>
+      <lex lang="eu" lid="Id1">Marv Wolfman aktoreak antzeztu zuen.</lex>
+      <lex lang="eu" lid="Id2">Marv Wolfman-ek Eagle saria irabazi zuen komikigintzan.</lex>
+      <lex lang="eu" lid="Id3">Marv Wolfmanek Komikiaren Arrano Saria jaso du.</lex>
+      <lex lang="gl" lid="Id1">Marv Wolfman é un gañador do Premio Águia.</lex>
+      <lex lang="gl" lid="Id2">Marv Wolfman gañou o Premio Águia por cómics.</lex>
+      <lex lang="gl" lid="Id3">Marv Wolfman recibiu o Premio Águia aos cómics.</lex>
+      </entry>
+    </entries>
+  </benchmark>

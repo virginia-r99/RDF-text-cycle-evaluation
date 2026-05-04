@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+        <otriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+        <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | País | Suiza</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | NúmeroDeEstudiantes | 600</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Establecido | 1996</striple>
+        <striple>Suiza | Líder | Johann_Schneider-Ammann</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Ubicación | Tesino</striple>
+        <striple>Suiza | TítuloDeLíder | Canciller_Federal_de_Suiza</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | País | Suïssa</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | NombreD'estudiants | 600</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Establert | 1996</ctriple>
+        <ctriple>Suïssa | Líder | Johann_Schneider-Ammann</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Ubicació | Ticino</ctriple>
+        <ctriple>Suïssa | LíderTítol | Canceller_federal_de_Suïssa</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | País | Suíza</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | NúmeroDeEstudantes | 600</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Establecido | 1996</gtriple>
+        <gtriple>Suíza | Líder | Johann_Schneider-Ammann</gtriple>
+        <gtriple>Accademia_di_Architettura_di_Mendrisio | Localización | Ticino</gtriple>
+        <gtriple>Suíza | LíderTítulo | Canciller_Federal_de_Suíza</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Herrialdea | Suitza</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | IkasleenKopurua | 600</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Ezarritako | 1996</btriple>
+        <btriple>Suitza | Buruzagia. | Johann_Schneider-Ammann</btriple>
+        <btriple>Accademia_di_Architettura_di_Mendrisio | Lokalizazioa | Ticino</btriple>
+        <btriple>Suitza | LiderraIzenburua | Suitzako_Kantziler_Federala</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio located in Ticino, Switzerland was established in 1996. It has 600 students. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.</lex>
+      <lex lang="en" lid="Id2">Federal Chancellor Johann Schneider-Ammann is the current leader of Switzerland where the Accademia di Architettura di Mendrisio is located in Ticino. It was established in 1996 and has 600 students.</lex>
+      <lex lang="en" lid="Id3">Accademia di Architettura di Mendrisio in Ticino, Switzerland was established in 1996 and currently has 600 students. The Federal Chancellor of Switzerland is named Johann Schneider-Ammann.</lex>
+      <lex lang="es" lid="Id1">La Accademia di Architettura di Mendrisio, situada en el Tesino (Suiza), se fundó en 1996. Cuenta con 600 estudiantes. Su director es el Canciller Federal Johann Schneider-Ammann.</lex>
+      <lex lang="es" lid="Id2">El Canciller Federal Johann Schneider-Ammann es el actual dirigente de Suiza, donde se encuentra la Accademia di Architettura di Mendrisio, en el Tesino. Se creó en 1996 y cuenta con 600 estudiantes.</lex>
+      <lex lang="es" lid="Id3">La Accademia di Architettura di Mendrisio, en el Tesino (Suiza), se fundó en 1996 y actualmente cuenta con 600 estudiantes. El Canciller Federal de Suiza se llama Johann Schneider-Ammann.</lex>
+      <lex lang="ca" lid="Id1">L' Accademia di Architettura di Mendrisio, situada a Ticino, Suïssa, es va establir el 1996. Té 600 estudiants. El líder de Suïssa és el canceller federal Johann Schneider- Ammann.</lex>
+      <lex lang="ca" lid="Id2">El canceller federal Johann Schneider-Ammann és l'actual líder de Suïssa, on l'Accademia di Architettura di Mendrisio es troba a Ticino. Va ser fundada el 1996 i té 600 estudiants.</lex>
+      <lex lang="ca" lid="Id3">L'Accademia di Architettura di Mendrisio a Ticino, Suïssa, es va fundar l'any 1996 i actualment té 600 estudiants. El Canceller Federal de Suïssa es diu Johann Schneider-Ammann.</lex>
+      <lex lang="eu" lid="Id1">Accademia di Architettura di Mendrisio, Suitzako Ticino kantonamenduan dagoena, 1996an sortu zen. 600 ikasle ditu. Suitzako buruzagia Johann Schneider-Ammann kantzilerra da.</lex>
+      <lex lang="eu" lid="Id2">Johann Schneider-Ammann kantziler federala da Mendrisio-ko Accademia di Architettura di Mendrisio-ko (Ticino) egungo liderra. 1996an sortu zen eta 600 ikasle ditu.</lex>
+      <lex lang="eu" lid="Id3">Accademia di Architettura di Mendrisio Suitzako Ticino kantonamenduan 1996an sortu zen eta gaur egun 600 ikasle ditu. Suitzako kantzilerra Johann Schneider-Ammann da.</lex>
+      <lex lang="gl" lid="Id1">A Accademia di Architettura di Mendrisio, situada en Ticino, Suíza, foi fundada en 1996. Ten 600 estudantes. O líder suízo é o chanceler federal Johann Schneider- Ammann.</lex>
+      <lex lang="gl" lid="Id2">O Chanceler Federal Johann Schneider- Ammann é o actual líder de Suíza onde a Accademia di Architettura di Mendrisio está situada en Ticino. Foi fundada en 1996 e ten 600 estudantes.</lex>
+      <lex lang="gl" lid="Id3">A Accademia di Architettura di Mendrisio en Ticino, Suíza, foi fundada en 1996 e actualmente ten 600 estudantes. O chanceler federal de Suíza chámase Johann Schneider- Ammann.</lex>
+      </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Instituto_Tecnológico_Acharya | Director | Dr._G._P._Prabhukumar</striple>
+        <striple>Instituto_Tecnológico_Acharya | Establecido | 2000</striple>
+        <striple>Instituto_Tecnológico_Acharya | País | India</striple>
+        <striple>Instituto_Tecnológico_Acharya | Estado | Karnataka</striple>
+        <striple>Instituto_Tecnológico_Acharya | Campus | En_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_-_560090.</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Director | Dr._G._P._Prabhukumar</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Establert | 2000</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | País | Índia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Estat | Karnataka</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Campus | Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_-_560090.</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Cidade | Bangalore</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Director | Dr._G._P._Prabhukumar</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Establecido | 2000</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | País | India</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Estado | Karnataka</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Campus | En_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_560090.</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | Hiria | Bangalore</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Zuzendaria | G.P._Prabhukumar_doktorea</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Ezarritako | 2000</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Herrialdea | India</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Egoera | Karnataka</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Unibertsitatean. | Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_–_560090.</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology is in Bangalore, India in the state of Karnataka. The school was established in 2000 and its director is Dr. G. P. Prabhukumar. The full address of the school is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="en" lid="Id2">Established in 2000, the Acharya Institute of Technology is in Bangalore, Karnataka India. The institute's director is Dr. G. P. Prabhukumar and the campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="en" lid="Id3">The Acharya Institute of Technology campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. The Institute was established in the year 2000 and the director there is Dr. G. P. Prabhukumar.</lex>
+      <lex lang="es" lid="Id1">Acharya Institute of Technology está en Bangalore, India, en el estado de Karnataka. La escuela se estableció en 2000 y su director es Dr. G. P. Prabhukumar. La dirección completa de la escuela es In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="es" lid="Id2">Fundado en 2000, el Acharya Institute of Technology se encuentra en Bangalore, Karnataka (India). El director del instituto es el Dr. G. P. Prabhukumar y el campus está situado en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="es" lid="Id3">El campus del Acharya Institute of Technology se encuentra en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Karnataka, India. El Instituto se fundó en el año 2000 y su director es el Dr. G. P. Prabhukumar.</lex>
+      <lex lang="ca" lid="Id1">L'Institut de Tecnologia Acharya es troba a Bangalore, Índia, a l'estat de Karnataka. L'escola va ser fundada l'any 2000 i el seu director és el Dr. G. P. Prabhukumar. L'adreça completa de l'escola és In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="ca" lid="Id2">Establert l'any 2000, l'Institut de Tecnologia Acharya es troba a Bangalore, Karnataka, Índia. El director de l'institut és el Dr. G. P. Prabhukumar i el campus està situat a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="ca" lid="Id3">El campus de l'Institut de Tecnologia Acharya es troba a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Karnataka, Índia. L'Institut va ser establert l'any 2000 i el director és el Dr. G. P. Prabhukumar.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua Indiako Karnataka estatuan dago, Bangaloren. Eskola 2000. urtean sortu zen eta bertako zuzendaria G. P. Prabhukumar doktorea da. Eskolaren helbide osoa honako hau da: In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="eu" lid="Id2">2000. urtean sortua, Acharya Teknologia Institutua Bangaloren dago, Karnataka India. Institutuko zuzendaria Dr. G. P. Prabhukumar da eta campusa Soldevanahallin dago, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lang="eu" lid="Id3">Acharya Institute of Technology campusa Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Karnataka, India. Institutua 2000. urtean sortu zen eta zuzendaria G. P. Prabhukumar doktorea da.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya está en Bangalore, India, no estado de Karnataka. A escola fundouse no ano 2000 e o seu director é o Dr. G. P. Prabhukumar. O enderezo completo da escola é In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="gl" lid="Id2">Establecido no 2000, o Instituto de Tecnoloxía Acharya está en Bangalore, Karnataka, India. O director do instituto é o Dr. G. P. Prabhukumar e o campus está situado en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="gl" lid="Id3">O campus do Instituto de Tecnoloxía Acharya está situado en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. O Instituto fundouse no ano 2000 e o seu director é o Dr. G. P. Prabhukumar.</lex>
+      </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Presidente | B.M._Reddy</striple>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Instituto_Tecnológico_Acharya | Director | Dr._G._P._Prabhukumar</striple>
+        <striple>Instituto_Tecnológico_Acharya | Establecido | 2000</striple>
+        <striple>Instituto_Tecnológico_Acharya | País | India</striple>
+        <striple>Instituto_Tecnológico_Acharya | Afiliación | Universidad_Tecnológica_Visvesvaraya</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | President | B.M._Reddy</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Director | Dr._G._P._Prabhukumar</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Establert | 2000</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | País | Índia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Afiliació | Universitat_Tecnològica_Visvesvaraya</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Presidente | B.M._Reddy</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Cidade | Bangalore</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Director | Dr._G._P._Prabhukumar</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Establecido | 2000</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | País | India</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Afiliación | Universidade_Tecnolóxica_Visvesvaraya</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | Lehendakaria. | B.M._Reddy</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Hiria | Bangalore</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Zuzendaria | G.P._Prabhukumar_doktorea</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Ezarritako | 2000</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Herrialdea | India</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Afiliazioa | Visvesvaraya_Unibertsitate_Teknologikoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology in Bangalore, India was established in 2000. It is affiliated with the Visvesvaraya Technological University. Its president is B.M. Reddy and its directore is Dr. G.P. Prabhukumar.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology in Bangalore, India was established in 2000 and is affiliated to the Visvesvaraya Technological University. It was established in 2000 and has B M Reddy as President and Dr G P Prabhukumar as Director.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is located in Bangalore, India. Its president is B.M. Reddy and the director is Dr. G. P. Prabhukumar. It was established in 2000 and its affiliation is Visvesvaraya Technological University.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya de Bangalore (India) se fundó en el año 2000. Está afiliado a la Universidad Tecnológica Visvesvaraya. Su presidente es B.M. Reddy y su director, el Dr. G.P. Prabhukumar.</lex>
+      <lex lang="es" lid="Id2">El Acharya Institute of Technology de Bangalore, India, se creó en 2000 y está afiliado a la Visvesvaraya Technological University. Se creó en 2000 y tiene a B M Reddy como presidente y al Dr. G P Prabhukumar como director.</lex>
+      <lex lang="es" lid="Id3">El Instituto Tecnológico Acharya está situado en Bangalore, India. Su presidente es B. M. Reddy y el director es el Dr. G. P. Prabhukumar. Se fundó en 2000 y está afiliado a la Universidad Tecnológica Visvesvaraya.</lex>
+      <lex lang="ca" lid="Id1">L' Institut de Tecnologia Acharya a Bangalore, Índia, es va establir el 2000. Està afiliat a la Universitat Tecnològica Visvesvaraya. El seu president és B. M. Reddy i el seu director és el Dr. G. P. Prabhukumar.</lex>
+      <lex lang="ca" lid="Id2">L'Institut de Tecnologia Acharya a Bangalore, Índia, es va establir l'any 2000 i està afiliat a la Universitat Tecnològica Visvesvaraya. Es va establir l'any 2000 i té B M Reddy com a president i el Dr. G P Prabhukumar com a director.</lex>
+      <lex lang="ca" lid="Id3">L' Institut de Tecnologia Acharya està situat a Bangalore, Índia. El seu president és B. M. Reddy i el director és el Dr. G. P. Prabhukumar. Va ser fundat l' any 2000 i està afiliat a la Universitat Tecnològica Visvesvaraya.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua 2000. urtean sortu zen Bangaloren (India), eta Visvesvaraya Teknologia Unibertsitateari lotuta dago. B. M. Reddy da bertako presidentea, eta G. P. Prabhukumar da zuzendaria.</lex>
+      <lex lang="eu" lid="Id2">Acharya Teknologia Institutua, Bangaloren, Indian, 2000. urtean sortu zen eta Visvesvaraya Unibertsitate Teknologikoarekin lotuta dago. 2000. urtean sortu zen eta B M Reddy presidentea da eta Dr G P Prabhukumar zuzendaria.</lex>
+      <lex lang="eu" lid="Id3">Acharya Institutua Bangalore-n dago, Indian. Bere presidentea B.M. Reddy da eta zuzendaria Dr. G.P. Prabhukumar da. 2000. urtean sortu zen eta bere afiliatua Visvesvaraya Teknologia Unibertsitatea da.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya en Bangalore, India, foi fundado no ano 2000. Está afiliado á Universidade Tecnolóxica Visvesvaraya. O seu presidente é B. M. Reddy e o seu director é o Dr. G. P. Prabhukumar.</lex>
+      <lex lang="gl" lid="Id2">O Instituto de Tecnoloxía Acharya en Bangalore, India, foi fundado no ano 2000 e está afiliado á Universidade Tecnolóxica Visvesvaraya. Foi fundado no ano 2000 e ten a B M Reddy como presidente e o Dr. G P Prabhukumar como director.</lex>
+      <lex lang="gl" lid="Id3">O Instituto de Tecnoloxía Acharya está situado en Bangalore, India. O seu presidente é B. M. Reddy e o director é o Dr. G. P. Prabhukumar. Foi fundado no 2000 e está afiliado á Universidade Tecnolóxica Visvesvaraya. Name</lex>
+      </entry>
+    <entry category="University" eid="Id4" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Tennis | union | International_Tennis_Federation</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | RecibióElEstatusDeCampusTécnicoPor | Consejo_de_Enseñanza_Técnica_de_la_India</striple>
+        <striple>Consejo_de_Enseñanza_Técnica_de_la_India | Ubicación | Bombay</striple>
+        <striple>Instituto_Tecnológico_Acharya | DeportesOfertados | tenis</striple>
+        <striple>Karnataka | TieneASuOeste | mar_Arábigo</striple>
+        <striple>Instituto_Tecnológico_Acharya | Estado | Karnataka</striple>
+        <striple>tenis | OrganismoRectorDelDeporte | Federación_Internacional_de_Tenis</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | VaRebreL'estatutDeCampusTècnicPer | All_India_Council_for_Technical_Education_(Consell_de_l'Índia_per_a_l'Educació_Tècnica)</ctriple>
+        <ctriple>All_India_Council_for_Technical_Education_(Consell_de_l'Índia_per_a_l'Educació_Tècnica) | Ubicació | Bombai</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | EsportsOferts | tennis</ctriple>
+        <ctriple>Karnataka | TéCapAL'Oest | mar_d'Aràbia</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Estat | Karnataka</ctriple>
+        <ctriple>tennis | OrganismeDeGovernDeL'Esport | Federació_Internacional_de_Tennis</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | RecibiuOStatusDeCampusTécnicoPor | Consello_de_Educación_Técnica_de_toda_India</gtriple>
+        <gtriple>Consello_de_Educación_Técnica_de_toda_India | Localización | Mumbai</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | DeportesOfrecidos | Tenis</gtriple>
+        <gtriple>Karnataka | TenAoSeuOeste | Mar_Arábico</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Estado | Karnataka</gtriple>
+        <gtriple>Tenis | OrganismoReitorDoDeporte | Federación_Internacional_de_Tenis</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | CampusTeknikoarenEstatusaEmanZion | Hezkuntza_Teknikoaren_Indiako_Kontseilua</btriple>
+        <btriple>Hezkuntza_Teknikoaren_Indiako_Kontseilua | Lokalizazioa | Mumbai</btriple>
+        <btriple>Acharya_Teknologia_Institutua | KirolaEskaintzenDa. | Tenisa</btriple>
+        <btriple>Karnataka | HarenMendebaldean | Arabiako_itsasoa</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Egoera | Karnataka</btriple>
+        <btriple>Tenisa | SportGobernuBatzordea | Nazioarteko_Tenis_Federazioa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology in Mumbai, Karnataka was given the "Technological Campus" status by the All India Council for Technical Education (located in Mumbai). The Acharya Institute offers tennis and the sports governing body is the International Tennis Federation. Karnataka has the Arabian Sea to its west.</lex>
+      <lex lang="en" lid="Id2">Tennis, which has the International Tennis Federation as its governing body, is offered as a sport at the Acharya Institute of Technology. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai and is situated in the state of Karnataka which has the Arabian Sea to the west.</lex>
+      <lex lang="en" lid="Id3">Governed by the International Tennis Federation, the Acharya Institute of Technology in Karnataka offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. Karnataka is east of the Arabian Sea.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya de Bombay (Karnataka) recibió el estatus de "Campus Tecnológico" del Consejo de Educación Técnica de toda la India (situado en Bombay). El Instituto Acharya imparte clases de tenis y el organismo rector del deporte es la Federación Internacional de Tenis. Karnataka tiene el Mar Arábigo al oeste.</lex>
+      <lex lang="es" lid="Id2">El tenis, cuyo órgano rector es la Federación Internacional de Tenis, se ofrece como deporte en el Instituto Tecnológico Acharya. El Consejo Indio de Educación Técnica, con sede en Mumbai, concedió al Instituto el estatus de Campus Técnico y está situado en el estado de Karnataka, que tiene el Mar Arábigo al oeste.</lex>
+      <lex lang="es" lid="Id3">El Acharya Institute of Technology de Karnataka, regido por la Federación Internacional de Tenis, ofrece cursos de tenis y el All India Council for Technical Education de Bombay le concedió la categoría de "Campus Técnico". Karnataka está al este del Mar Arábigo.</lex>
+      <lex lang="ca" lid="Id1">L'Institut Acharya de Tecnologia a Mumbai, Karnataka, va rebre l'estatus de "Campus Tecnològic" pel Consell de tota l'Índia per a l'Educació Tècnica (situat a Mumbai). L'Institut Acharya ofereix tennis i l'òrgan de govern esportiu és la Federació Internacional de Tennis. Karnataka té el Mar Àrab a l'oest.</lex>
+      <lex lang="ca" lid="Id2">El tennis, que té la Federació Internacional de Tennis com a òrgan de govern, s'ofereix com a esport a l'Institut Tecnològic d'Acharya. L'Institut va rebre l'estatus de Campus Tecnològic per part del Consell Indi per a l'Educació Tecnològica, amb seu a Bombai, i es troba a l'estat de Karnataka, que té el Mar Aràbic a l'oest.</lex>
+      <lex lang="ca" lid="Id3">Governat per la Federació Internacional de Tennis, l'Institut de Tecnologia Acharya de Karnataka ofereix cursos de tennis i va rebre l'estatus de "Campus Tècnic" pel Consell de tota l'Índia per a l'Educació Tècnica a Mumbai. Karnataka es troba a l'est del mar d'Aràbia.</lex>
+      <lex lang="eu" lid="Id1">Mumbai-ko (Karnataka) Acharya Teknologia Institutuak "Campus Teknologiko" estatusa jaso zuen Indiako Hezkuntza Teknikoaren Kontseiluaren eskutik (Mumbai-n dago). Acharya Institutuak tenisa eskaintzen du eta kirol-gobernu-erakundea Nazioarteko Tenis Federazioa da. Karnataka-k Arabiako itsasoa du mendebaldean.</lex>
+      <lex lang="eu" lid="Id2">Tenisa, Nazioarteko Tenis Federazioa duena gobernu-erakunde gisa, kirol gisa eskaintzen da Acharya Teknologia Institutuan. Institutuari Campus Teknikoko estatusa eman zion Mumbai-n egoitza duen Indiako Kontseilu Tekniko-Hezitzaileak, eta Karnataka estatuan dago, Arabiako itsasoa mendebaldean duela.</lex>
+      <lex lang="eu" lid="Id3">Nazioarteko Tenis Federazioak gobernatua, Karnatakako Acharya Teknologia Institutuak tenisa ikastaroak eskaintzen ditu eta Mumbai-ko Hezkuntza Teknikoaren Indiako Kontseiluak 'Kampus Teknikoa' estatusa eman zion.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya en Mumbai, Karnataka, recibiu o status de "Campus Tecnolóxico" do Consello de toda a India para a Educación Técnica (situado en Mumbai). O Instituto Acharya ofrece tenis e o corpo gobernante do deporte é a Federación Internacional de Tenis. Karnataka ten o Mar Arábigo ao oeste.</lex>
+      <lex lang="gl" lid="Id2">O tenis, que ten a Federación Internacional de Tenis como órgano reitor, ofrécese como deporte no Instituto de Tecnoloxía Acharya. O Instituto recibiu o status de Campus Técnico polo Consello de toda a India para a Educación Técnica con sede en Mumbai e está situado no estado de Karnataka que ten o Mar Arábigo ao oeste.</lex>
+      <lex lang="gl" lid="Id3">Governado pola Federación Internacional de Tenis, o Instituto de Tecnoloxía Acharya en Karnataka ofrece cursos de tenis e recibiu o estatus de 'Campus Técnico' polo Consello de Educación Técnica de toda India en Mumbai.</lex>
+      </entry>
+    <entry category="University" eid="Id5" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Tennis | sportGoverningBody | International_Tennis_Federation</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Tennis | union | International_Tennis_Federation</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | RecibióElEstatusDeCampusTécnicoPor | Consejo_de_Enseñanza_Técnica_de_la_India</striple>
+        <striple>Consejo_de_Enseñanza_Técnica_de_la_India | Ubicación | Bombay</striple>
+        <striple>Universidad_Tecnológica_Visvesvaraya | Ciudad | Belgaum</striple>
+        <striple>Instituto_Tecnológico_Acharya | DeportesOfertados | tenis</striple>
+        <striple>tenis | OrganismoRectorDelDeporte | Federación_Internacional_de_Tenis</striple>
+        <striple>Instituto_Tecnológico_Acharya | Afiliación | Universidad_Tecnológica_Visvesvaraya</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | VaRebreL'estatutDeCampusTècnicPer | All_India_Council_for_Technical_Education_(Consell_de_l'Índia_per_a_l'Educació_Tècnica)</ctriple>
+        <ctriple>All_India_Council_for_Technical_Education_(Consell_de_l'Índia_per_a_l'Educació_Tècnica) | Ubicació | Bombai</ctriple>
+        <ctriple>Universitat_Tecnològica_Visvesvaraya | Ciutat | Belgaum</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | EsportsOferts | tennis</ctriple>
+        <ctriple>tennis | OrganismeDeGovernDeL'Esport | Federació_Internacional_de_Tennis</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Afiliació | Universitat_Tecnològica_Visvesvaraya</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | RecibiuOStatusDeCampusTécnicoPor | Consello_de_Educación_Técnica_de_toda_India</gtriple>
+        <gtriple>Consello_de_Educación_Técnica_de_toda_India | Localización | Mumbai</gtriple>
+        <gtriple>Universidade_Tecnolóxica_Visvesvaraya | Cidade | Belgaum</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | DeportesOfrecidos | Tenis</gtriple>
+        <gtriple>Tenis | OrganismoReitorDoDeporte | Federación_Internacional_de_Tenis</gtriple>
+        <gtriple>Instituto_de_Tecnoloxía_Acharya | Afiliación | Universidade_Tecnolóxica_Visvesvaraya</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Acharya_Teknologia_Institutua | CampusTeknikoarenEstatusaEmanZion | Hezkuntza_Teknikoaren_Indiako_Kontseilua</btriple>
+        <btriple>Hezkuntza_Teknikoaren_Indiako_Kontseilua | Lokalizazioa | Mumbai</btriple>
+        <btriple>Visvesvaraya_Unibertsitate_Teknologikoa | Hiria | Belgaum</btriple>
+        <btriple>Acharya_Teknologia_Institutua | KirolaEskaintzenDa. | Tenisa</btriple>
+        <btriple>Tenisa | SportGobernuBatzordea | Nazioarteko_Tenis_Federazioa</btriple>
+        <btriple>Acharya_Teknologia_Institutua | Afiliazioa | Visvesvaraya_Unibertsitate_Teknologikoa</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgaum. The institute was given Technical Campus' status by the All India Council for Technical Education in Mumbai. The institute offers tennis which is governed by the International Tennis Federation.</lex>
+      <lex lang="en" lid="Id2">Governed by the International Tennis Federation, the Acharya Institute of Technology offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. It is also affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya está afiliado a la Universidad Tecnológica Visvesvaraya de Belgaum. El Consejo Indio de Educación Técnica de Bombay concedió al instituto el estatus de Campus Técnico. El instituto ofrece cursos de tenis regidos por la Federación Internacional de Tenis.</lex>
+      <lex lang="es" lid="Id2">Gobernado por la Federación Internacional de Tenis, el Instituto Tecnológico Acharya ofrece cursos de tenis y recibió el estatus de "Campus Técnico" del Consejo Panindio de Educación Técnica de Bombay. También está afiliado a la Universidad Tecnológica Visvesvaraya de Belgaum.</lex>
+      <lex lang="ca" lid="Id1">L' Institut de Tecnologia Acharya està afiliat a la Universitat Tecnològica Visvesvaraya a Belgaum. L' institut va rebre l' estatus de Campus Tècnic pel Consell de tota l' Índia per a l' Educació Tècnica a Mumbai. L' institut ofereix tennis que és governat per la Federació Internacional de Tennis.</lex>
+      <lex lang="ca" lid="Id2">Governat per la Federació Internacional de Tennis, l'Institut de Tecnologia Acharya ofereix cursos de tennis i va rebre l'estatus de "Campus Tècnic" per part del Consell de l'Índia per a l'Educació Tècnica a Mumbai. També està afiliat a la Universitat Tecnològica Visvesvaraya a Belgaum.</lex>
+      <lex lang="eu" lid="Id1">Acharya Teknologia Institutua Belgaumen dagoen Visvesvaraya Teknologia Unibertsitatearekin lotuta dago. Institutuari Campus Teknikoaren estatusa eman zion Hezkuntza Teknikoaren Indiako Kontseiluak Mumbain.</lex>
+      <lex lang="eu" lid="Id2">Nazioarteko Tenis Federazioak gobernatua, Acharya Teknologia Institutuak tenis ikastaroak eskaintzen ditu eta Mumbaiko Hezkuntza Teknikorako India osoko Kontseiluak "Campus Teknikoa" estatusa eman zion.Visvesvaraya Unibertsitate Teknologikoarekin ere lotuta dago, Belgaumen.</lex>
+      <lex lang="gl" lid="Id1">O Instituto de Tecnoloxía Acharya está afiliado á Universidade Tecnolóxica Visvesvaraya en Belgaum.</lex>
+      <lex lang="gl" lid="Id2">Gobernado pola Federación Internacional de Tenis, o Instituto de Tecnoloxía Acharya ofrece cursos de tenis e recibiu o título de "Campus Técnico" do Consello de Educación Técnica de toda a India en Bombai. Tamén está afiliado á Universidade Tecnolóxica Visvesvaraya en Belgaum.</lex>
+      </entry>
+    <entry category="University" eid="Id6" shape="(X (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Rumania | GrupoÉtnico | Alemanes_de_Rumanía</striple>
+        <striple>Rumania | Líder | Klaus_Iohannis</striple>
+        <striple>Rumania | TítuloDeLíder | Primer_ministro_de_Rumania</striple>
+        <striple>Rumania | Patrón | Andrés_el_Apóstol</striple>
+        <striple>Rumania | Capital | Bucarest</striple>
+        <striple>1_de_diciembre_de_1918_Universidad | País | Rumania</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Romania | GrupÈtnic | alemanys_de_Romania</ctriple>
+        <ctriple>Romania | Líder | Klaus_Iohannis</ctriple>
+        <ctriple>Romania | LíderTítol | primer_ministre_de_Romania</ctriple>
+        <ctriple>Romania | SantPatró | Andreu_apòstol</ctriple>
+        <ctriple>Romania | Capital | Bucarest</ctriple>
+        <ctriple>1_de_desembre_de_1918_Universitat | País | Romania</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Roménia | GrupoÉtnico | Alemáns_de_Romanía</gtriple>
+        <gtriple>Roménia | Líder | Klaus_Iohannis</gtriple>
+        <gtriple>Roménia | LíderTítulo | Primeiro_ministro_de_Rumanía</gtriple>
+        <gtriple>Roménia | SantoPatrón | Andrés_o_Apóstolo</gtriple>
+        <gtriple>Roménia | Capital | Bucarest</gtriple>
+        <gtriple>1_de_decembro_de_1918_Universidade | País | Roménia</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Errumania | TaldeEtnikoa | Errumaniako_alemanak</btriple>
+        <btriple>Errumania | Buruzagia. | Klaus_Iohannis</btriple>
+        <btriple>Errumania | LiderraIzenburua | Errumaniako_lehen_ministroa</btriple>
+        <btriple>Errumania | PatroiSantua | Andres_Apostolua</btriple>
+        <btriple>Errumania | Kapitala | Bucarest</btriple>
+        <btriple>1918ko_abenduaren_1a_Unibertsitatea | Herrialdea | Errumania</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Bucharest is the capital of Romania where one of the country's ethnic groups are the Germans of Romania. The country's leader is Prime Minister Klaus Iohannis. The patron saint of the country is Andrew the Apostle and the country is the location of the 1 Decembrie 1918 University.</lex>
+      <lex lang="en" lid="Id2">Romania is governed by a Prime Minister who is Klaus Iohannis. The country is also known for its patron saint Andrew the Apostle, the ethnic group the Germans of Romania and the capital Bucharest. Romania is also home to the 1 Decembrie 1918 University.</lex>
+      <lex lang="en" lid="Id3">The leader of Romania, the Prime Minister, is Klaus Iohannis. The capital is Bucharest, their ethnic group is Germans of Romania and its patron Saint is Andrew the Apostle. In Romania we can find 1 Decembrie 1918 University.</lex>
+      <lex lang="es" lid="Id1">Bucarest es la capital de Rumanía, donde uno de los grupos étnicos del país son los alemanes de Rumanía. El líder del país es el Primer Ministro Klaus Iohannis. El santo patrón del país es Andrés Apóstol y el país es la sede de la Universidad 1 de diciembre de 1918.</lex>
+      <lex lang="es" lid="Id2">Rumanía está gobernada por un Primer Ministro, Klaus Iohannis. El país también es conocido por su patrón, el Apóstol Andrés, la etnia de los alemanes de Rumanía y la capital, Bucarest. Rumanía es también la sede de la Universidad 1 de diciembre de 1918.</lex>
+      <lex lang="es" lid="Id3">El líder de Rumanía, el Primer Ministro, es Klaus Iohannis. La capital es Bucarest, su etnia son los alemanes de Rumanía y su patrón es Andrés Apóstol. En Rumanía podemos encontrar la Universidad 1 de Diciembre de 1918.</lex>
+      <lex lang="ca" lid="Id1">Bucarest és la capital de Romania, on un dels grups ètnics del país són els alemanys de Romania. El líder del país és el primer ministre Klaus Iohannis. El patró del país és l'apòstol Andreu i el país és la seu de la Universitat 1 Decembrie 1918.</lex>
+      <lex lang="ca" lid="Id2">Romania és governada per un primer ministre que és Klaus Iohannis. El país també és conegut pel seu sant patró Andreu l'Apòstol, el grup ètnic dels alemanys de Romania i la capital Bucarest.</lex>
+      <lex lang="ca" lid="Id3">El líder de Romania, el primer ministre, és Klaus Iohannis. La capital és Bucarest, el seu grup ètnic són els alemanys de Romania i el seu sant patró és l'apòstol Andreu. A Romania podem trobar la Universitat 1 Decembrie 1918.</lex>
+      <lex lang="eu" lid="Id1">Bukarest Errumaniako hiriburua da, eta herrialdeko talde etnikoetako bat Errumaniako alemanak dira.</lex>
+      <lex lang="eu" lid="Id2">Errumania Klaus Iohannis lehen ministroak gobernatzen du. Herrialdea ezaguna da baita ere bere patroi santuarengatik, Apostolu Andresengatik, Errumaniako alemaniarren talde etnikoagatik eta Bukaresteko hiriburuagatik. Errumania 1918ko abenduaren 1eko Unibertsitatearen egoitza ere bada.</lex>
+      <lex lang="eu" lid="Id3">Errumaniako buruzagia, lehen ministroa, Klaus Iohannis da. Hiriburua Bukarest da, bere talde etnikoa Errumaniako alemanak dira eta bere santu zaindaria Andre Apostolua da. Errumanian 1 Decembrie 1918 Unibertsitatea aurkitu dezakegu.</lex>
+      <lex lang="gl" lid="Id1">Bucarest é a capital de Romanía onde un dos grupos étnicos do país son os alemáns de Romanía. O líder do país é o primeiro ministro Klaus Iohannis. O santo patrón do país é Andrés o Apóstolo e o país é o lugar da Universidade 1 Decembrie 1918.</lex>
+      <lex lang="gl" lid="Id2">Romanía está gobernada por un primeiro ministro que é Klaus Iohannis. O país tamén é coñecido polo seu patrón Santo André o Apóstolo, o grupo étnico dos alemáns de Romanía e a capital Bucarest. Romanía tamén é o fogar da Universidade 1 Decembrie 1918.</lex>
+      <lex lang="gl" lid="Id3">O líder de Romanía, o primeiro ministro, é Klaus Iohannis. A capital é Bucarest, o seu grupo étnico son os alemáns de Romanía e o seu santo patrón é o apóstolo Andrés. En Romanía podemos atopar a Universidade 1 Decembrie 1918.</lex>
+      </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeProfesores | 737</striple>
+        <striple>Dinamarca | Líder | Lars_Løkke_Rasmussen</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Ciudad | Aarhus</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | País | Dinamarca</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Afiliación | Asociación_de_Universidades_Europeas</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Establecido | 1928</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | MidaDelPersonalAcadèmic | 737</ctriple>
+        <ctriple>Dinamarca | Líder | Lars_Løkke_Rasmussen</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Ciutat | Aarhus</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | País | Dinamarca</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Afiliació | Associació_d'Universitats_Europees</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Establert | 1928</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | TamañoDoPersoalAcadémico | 737</gtriple>
+        <gtriple>Dinamarca | Líder | Lars_Løkke_Rasmussen</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Cidade | Aarhus</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | País | Dinamarca</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Afiliación | Asociación_Europea_de_Universidades</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Establecido | 1928</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | AkademikoaLangileKopurua | 737</btriple>
+        <btriple>Danimarka | Buruzagia. | Lars_Løkke_Rasmussen</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Hiria | Aarhus</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Herrialdea | Danimarka</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Afiliazioa | Europako_Unibertsitate_Elkartea</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Ezarritako | 1928</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark was established in 1928. Its academic staff numbers 737 and it is affiliated to the European University Association. Denmark's leader is Lars Lokke Rasmussen.</lex>
+      <lex lang="en" lid="Id2">The city of Aarhus is the location of the School of Business and Social Sciences at the Aarhus University which is affiliated with the European University Association. The School, which has 737 academic staff, was established in 1928 in Denmark where the leader is Lars Lokke Rasmussen.</lex>
+      <lex lang="en" lid="Id3">Established in 1928 and with a current staff of 737, the School of Business and Social Sciences at the Aarhus University in Aarus, Denmark is affiliated with the European University Association. The country's leader is named Lars Løkke Rasmussen.</lex>
+      <lex lang="es" lid="Id1">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus, situada en Aarhus (Dinamarca), se fundó en 1928. Su personal académico asciende a 737 personas y está afiliada a la Asociación Europea de Universidades. Su máximo dirigente es el danés Lars Lokke Rasmussen.</lex>
+      <lex lang="es" lid="Id2">La ciudad de Aarhus es la sede de la Escuela de Ciencias Empresariales y Sociales de la Universidad de Aarhus, afiliada a la Asociación Europea de Universidades. La Escuela, que cuenta con 737 profesores, se fundó en 1928 en Dinamarca, bajo la dirección de Lars Lokke Rasmussen.</lex>
+      <lex lang="es" lid="Id3">Fundada en 1928 y con una plantilla actual de 737 personas, la Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus (Dinamarca) está afiliada a la Asociación Europea de Universidades. El dirigente del país se llama Lars Løkke Rasmussen.</lex>
+      <lex lang="ca" lid="Id1">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus es va fundar l'any 1928 a Aarhus, Dinamarca. Té 737 membres del personal acadèmic i està afiliada a l'Associació Universitària Europea. El líder de Dinamarca és Lars Lokke Rasmussen.</lex>
+      <lex lang="ca" lid="Id2">La ciutat d'Aarhus és la seu de l'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus, que està afiliada a l'Associació Europea d'Universitats. L'escola, que té 737 membres del personal acadèmic, es va establir l'any 1928 a Dinamarca, on el seu líder és Lars Lokke Rasmussen.</lex>
+      <lex lang="ca" lid="Id3">Fundada el 1928 i amb un personal actual de 737 persones, l'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus a Aarhus, Dinamarca, està afiliada a l'Associació Universitària Europea. El líder del país es diu Lars Løkke Rasmussen.</lex>
+      <lex lang="eu" lid="Id1">Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola 1928an sortu zen Aarhus-en (Danimarka). 737 langile ditu eta Europako Unibertsitate Elkarteko kide da. Danimarkako liderra Lars Lokke Rasmussen da.</lex>
+      <lex lang="eu" lid="Id2">Aarhus hiria Aarhus Unibertsitateko Negozio eta Gizarte Zientzien Eskolaren egoitza da, Europako Unibertsitate Elkartearekin lotuta dagoena. Eskola, 737 langile akademiko dituena, 1928an sortu zen Danimarkan eta Lars Lokke Rasmussen da bere burua.</lex>
+      <lex lang="eu" lid="Id3">1928an sortua eta gaur egun 737 langile dituena, Aarhuseko Unibertsitateko Negozio eta Gizarte Zientzien Eskola (Aarhus Universitets Skole for Virksomhedsvidenskab og Samfundsvidenskab) Europako Unibertsitate Elkartearekin lotuta dago.</lex>
+      <lex lang="gl" lid="Id1">A Escola de Ciencias Empresariais e Sociais da Universidade de Aarhus está situada en Aarhus, Dinamarca. Foi fundada en 1928. O seu persoal académico conta con 737 membros e está afiliada á Asociación Europea de Universidades. O líder dinamarqués é Lars Lokke Rasmussen.</lex>
+      <lex lang="gl" lid="Id2">A cidade de Aarhus é a sede da Escola de Negocios e Ciencias Sociais da Universidade de Aarhus, que está afiliada á Asociación Europea de Universidades. A Escola, que ten 737 membros do persoal académico, fundouse en 1928 en Dinamarca, onde o seu líder é Lars Lokke Rasmussen.</lex>
+      <lex lang="gl" lid="Id3">Establecida en 1928 e cun persoal actual de 737 persoas, a Escola de Negocios e Ciencias Sociais da Universidade de Aarhus en Aarhus, Dinamarca, está afiliada á Asociación Europea de Universidades. O líder do país chámase Lars Løkke Rasmussen.</lex>
+      </entry>
+    <entry category="University" eid="Id8" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Ciudad | Aarhus</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeEstudiantes | 16000</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeProfesores | 737</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | País | Dinamarca</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Afiliación | Asociación_de_Universidades_Europeas</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Establecido | 1928</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Ciutat | Aarhus</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | NombreD'estudiants | 16000</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | MidaDelPersonalAcadèmic | 737</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | País | Dinamarca</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Afiliació | Associació_d'Universitats_Europees</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Establert | 1928</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Cidade | Aarhus</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | NúmeroDeEstudantes | 16000</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | TamañoDoPersoalAcadémico | 737</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | País | Dinamarca</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Afiliación | Asociación_Europea_de_Universidades</gtriple>
+        <gtriple>Escola_de_Empresas_e_Ciencias_Sociais_da_Universidade_de_Aarhus | Establecido | 1928</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Hiria | Aarhus</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | IkasleenKopurua | 16000</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | AkademikoaLangileKopurua | 737</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Herrialdea | Danimarka</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Afiliazioa | Europako_Unibertsitate_Elkartea</btriple>
+        <btriple>Aarhuseko_Unibertsitateko_Enpresa_eta_Gizarte_Zientzien_Eskola | Ezarritako | 1928</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University at Aarhus, Denmark was established in 1928. It has 737 academic staff and 16,000 students. It is affiliated to the European University Association.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is based in the city of Aarhus, Denmark. It was established in 1928 and is affiliated to the European University Association. There are 16000 students and an academic staff of 727.</lex>
+      <lex lang="en" lid="Id3">School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928 and its affiliation is European University Association. The number of students is 16000 and academic staff is 737.</lex>
+      <lex lang="es" lid="Id1">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus (Dinamarca) se fundó en 1928. Cuenta con 737 profesores y 16.000 estudiantes. Está afiliada a la Asociación Europea de Universidades.</lex>
+      <lex lang="es" lid="Id2">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus tiene su sede en la ciudad de Aarhus, Dinamarca. Se fundó en 1928 y está afiliada a la Asociación Europea de Universidades. Cuenta con 16.000 estudiantes y una plantilla académica de 727 personas.</lex>
+      <lex lang="es" lid="Id3">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus está situada en Aarhus, Dinamarca. Se fundó en 1928 y está afiliada a la Asociación Europea de Universidades. Cuenta con 16.000 estudiantes y 737 profesores.</lex>
+      <lex lang="ca" lid="Id1">L' Escola de Negocis i Ciències Socials de la Universitat d' Aarhus a Aarhus, Dinamarca es va establir el 1928. Té 737 membres del personal acadèmic i 16. 000 estudiants. Està afiliada a l' Associació Universitària Europea.</lex>
+      <lex lang="ca" lid="Id2">L' Escola de Negocis i Ciències Socials de la Universitat d' Aarhus es troba a la ciutat d' Aarhus, Dinamarca. Va ser fundada el 1928 i està afiliada a l' Associació Universitària Europea. Hi ha 16. 000 estudiants i un personal acadèmic de 727.</lex>
+      <lex lang="ca" lid="Id3">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus es troba a Aarhus, Dinamarca. Es va establir l'any 1928 i està afiliada a l'Associació Universitària Europea. El nombre d'estudiants és de 16.000 i el personal acadèmic és de 737.</lex>
+      <lex lang="eu" lid="Id1">Aarhus-eko (Danimarka) Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola 1928an sortu zen. 737 langile akademiko eta 16.000 ikasle ditu. Europako Unibertsitate Elkarteko kidea da.</lex>
+      <lex lang="eu" lid="Id2">Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola Aarhus-en dago, Danimarkan. 1928an sortu zen eta Europako Unibertsitate Elkarteko kidea da. 16.000 ikasle eta 727 irakasle ditu.</lex>
+      <lex lang="eu" lid="Id3">Aarhus Unibertsitateko Enpresa eta Gizarte Zientzien Eskola Aarhus-en dago, Danimarkan. 1928an sortu zen eta Europako Unibertsitate Elkarteko kidea da. 16.000 ikasle ditu eta 737 langile akademiko.</lex>
+      <lex lang="gl" lid="Id1">A Escola de Ciencias Empresariais e Sociais da Universidade de Aarhus en Aarhus, Dinamarca, foi fundada en 1928. Ten 737 membros do persoal académico e 16. 000 estudantes. Está afiliada á Asociación Europea de Universidades.</lex>
+      <lex lang="gl" lid="Id2">A Escola de Negocios e Ciencias Sociais da Universidade de Aarhus ten a súa sede na cidade de Aarhus, Dinamarca. Foi establecida en 1928 e está afiliada á Asociación Europea de Universidades. Conta con 16000 estudantes e un persoal académico de 727 persoas.</lex>
+      <lex lang="gl" lid="Id3">A Escola de Negocios e Ciencias Sociais da Universidade de Aarhus está situada en Aarhus, Dinamarca. Foi fundada en 1928 e está afiliada á Asociación Europea de Universidades. O número de estudantes é de 16000 e o persoal académico é de 737.</lex>
+      </entry>
+    </entries>
+  </benchmark>

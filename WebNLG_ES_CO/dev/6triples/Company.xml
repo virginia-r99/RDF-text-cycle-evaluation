@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Hypermarcas | Localización | Brasil</gtriple>
+        <gtriple>Hypermarcas | Produto | Drogas</gtriple>
+        <gtriple>Hypermarcas | Industria | Produtos_farmacéuticos</gtriple>
+        <gtriple>Hypermarcas | PersoaClave | CEOConstellation_name_(optional)</gtriple>
+        <gtriple>Hypermarcas | DataDeFundación | 2001-01-01</gtriple>
+        <gtriple>Hypermarcas | Tipo | S.A._(corporación)</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Hipermarkak | Lokalizazioa | Brasil</btriple>
+        <btriple>Hipermarkak | Produktua | Drogak</btriple>
+        <btriple>Hipermarkak | Industria | Farmazia</btriple>
+        <btriple>Hipermarkak | PertsonaGakoa | Zuzendari_exekutiboa.</btriple>
+        <btriple>Hipermarkak | Fundazio-data | 2001-01-01</btriple>
+        <btriple>Hipermarkak | MotarenArabera | S.A._(korporazioa)</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">Hypermarcas (whose main product is drugs), an S.A pharmaceutical corporation managed by their CEO and located in Brazil, was founded on January 1, 2001.</lex>
+      <lex lang="en" lid="Id2">Founded on January 1, 2001, Hypermarcas is a pharmaceutical company located in Brazil. Headed by the CEO, Hypermarcas is an S.A. corporation producing pharmaceutical drugs.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, founded on 2001-01-01, is a pharmaceutical company in Brazil that manufactures drugs. It is an S.A. corporation, and the key person in the company is the CEO.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas (cuyo principal producto son los medicamentos), una empresa farmacéutica S.A. dirigida por su director general y ubicada en Brasil, se fundó el 1 de enero de 2001.</lex>
+      <lex lang="es" lid="Id2">Fundada el 1 de enero de 2001, Hypermarcas es una empresa farmacéutica ubicada en Brasil. Dirigida por el CEO, Hypermarcas es una sociedad anónima que produce medicamentos farmacéuticos.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas, fundada el 01-01-2001, es una empresa farmacéutica de Brasil que fabrica medicamentos. Es una sociedad anónima y la persona clave de la empresa es el director general.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas (el principal producte de la qual són els medicaments), una corporació farmacèutica S.A gestionada pel seu CEO i situada al Brasil, es va fundar l'1 de gener de 2001.</lex>
+      <lex lang="ca" lid="Id2">Fundada l'1 de gener de 2001, Hypermarcas és una empresa farmacèutica ubicada al Brasil. Dirigida pel director executiu, Hypermarcas és una corporació S.A. que produeix fàrmacs.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas, fundada l'1 de gener de 2001, és una companyia farmacèutica brasilera que fabrica medicaments. És una corporació S.A., i la persona clau de l'empresa és el CEO.</lex>
+      <lex lang="eu" lid="Id1">Hypermarcas (produktu nagusia drogak dira), S.A. korporazio farmazeutikoa, bere zuzendari nagusiak kudeatua eta Brasilen kokatua, 2001eko urtarrilaren 1ean sortu zen.</lex>
+      <lex lang="eu" lid="Id2">2001eko urtarrilaren 1ean sortua, Hypermarcas Brasilen kokatutako farmazia-konpainia bat da. Zuzendari exekutiboaren gidaritzapean, Hypermarcas S.A. korporazio bat da eta farmazia-produktuak ekoizten ditu.</lex>
+      <lex lang="eu" lid="Id3">Hypermarcas, 2001-01-01ean sortua, Brasilgo farmazia-enpresa bat da, eta botikak fabrikatzen ditu. S.A. korporazio bat da, eta enpresako pertsona nagusia zuzendari nagusia da.</lex>
+      <lex lang="gl" lid="Id1">Hypermarcas (cuxo principal produto son os medicamentos), unha corporación farmacéutica S.A. xestionada polo seu CEO e situada no Brasil, foi fundada o 1 de xaneiro de 2001.</lex>
+      <lex lang="gl" lid="Id2">Fundada o 1 de xaneiro de 2001, Hypermarcas é unha empresa farmacéutica con sede en Brasil. Encabezada polo director executivo, Hypermarcas é unha sociedade anónima que produce medicamentos.</lex>
+      <lex lang="gl" lid="Id3">Hypermarcas, fundada o 01- 01- 2001, é unha empresa farmacéutica do Brasil que fabrica medicamentos. É unha corporación S.A., e a persoa clave na empresa é o CEO.</lex>
+      </entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | IngresosDeExplotación | 875400000</striple>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        <striple>Trane | NúmeroDeEmpleados | 29000</striple>
+        <striple>Trane | Producto | HVAC</striple>
+        </spanishtripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | IngressosOperatius | 875400000</ctriple>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        <ctriple>Trane | NombreD'Empleats | 29000</ctriple>
+        <ctriple>Trane | Producte | HVAC</ctriple>
+        </catalantripleset>
+      <galiciantripleset>
+        <gtriple>Trane | Receitas | 10264000000</gtriple>
+        <gtriple>Trane | IngresosDeFuncionamento | 875400000</gtriple>
+        <gtriple>Trane | DataDeFundación | 1913-01-01</gtriple>
+        <gtriple>Trane | LugarDeFundación | La_Crosse,_Wisconsin</gtriple>
+        <gtriple>Trane | NúmeroDeEmpregados | 29000</gtriple>
+        <gtriple>Trane | Produto | Climatización_e_aire_acondicionado</gtriple>
+        </galiciantripleset>
+      <basquetripleset>
+        <btriple>Trane | Diru-sarrerak | 10264000000</btriple>
+        <btriple>Trane | FuntzionamenduarenIrabaziak | 875400000</btriple>
+        <btriple>Trane | Fundazio-data | 1913-01-01</btriple>
+        <btriple>Trane | FundazioarenLekua. | La_Crosse,_Wisconsin</btriple>
+        <btriple>Trane | LangileKopurua | 29000</btriple>
+        <btriple>Trane | Produktua | Aire_girotua</btriple>
+        </basquetripleset>
+      <lex lang="en" lid="Id1">HVAC producer Trane, was founded in La Crosse, Wisconsin, on 1913-01-01. Trane employes 29000 people, and has a revenue of $10,264,000,000, and an operating income of 875.4 million USD.</lex>
+      <lex lang="en" lid="Id2">The Trane company (Founded on January 01, 1913 in Lacrosse, Wisconsin) has 29,000 employees and produces HVAC. It has an operating income of $875,400,000 with revenue of $10,264,000,000.</lex>
+      <lex lang="en" lid="Id3">Founded on 01-01-1913 in LaCrosse, Wisconsin, Trane employs 29,000 people manufacturing HVAC. With an operating income of $875,400,000, Trane has a revenue of $10,264,000,000.</lex>
+      <lex lang="es" lid="Id1">El fabricante de HVAC Trane, fue fundado en La Crosse, Wisconsin, el 01-01-1913. Trane emplea a 29.000 personas y tiene unos ingresos de 10.264.000.000 USD y unos ingresos de explotación de 875,4 millones USD.</lex>
+      <lex lang="es" lid="Id2">La empresa Trane (fundada el 001-01-1913 en Lacrosse, Wisconsin) cuenta con 29.000 empleados y produce HVAC. Tiene unos ingresos de explotación de 875.400.000 dólares con unos ingresos de 10.264.000.000 dólares.</lex>
+      <lex lang="es" lid="Id3">Fundada el 01-01-1913 en LaCrosse, Wisconsin, Trane emplea a 29.000 personas en la fabricación de HVAC. Con unos ingresos de explotación de 875.400.000 dólares, Trane tiene unos ingresos de 10.264.000.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">El productor de HVAC Trane, va ser fundat a La Crosse, Wisconsin, l'1 de gener de 1913. Trane dóna feina a 29.000 persones, i té uns ingressos de 10.264 milions de dòlars, i uns ingressos operatius de 875,4 milions de dòlars.</lex>
+      <lex lang="ca" lid="Id2">La companyia Trane (fundada l'1 de gener de 1913 a Lacrosse, Wisconsin) té 29.000 empleats i produeix HVAC. Té uns ingressos operatius de 875.400.000 dòlars amb uns ingressos de 10.264.000.000 dòlars.</lex>
+      <lex lang="ca" lid="Id3">Fundada el 01-01-1913 a LaCrosse, Wisconsin, Trane dóna feina a 29.000 persones fabricant HVAC. Amb uns ingressos operatius de 875.400.000 $, Trane té uns ingressos de 10.264.000.000 $.</lex>
+      <lex lang="eu" lid="Id1">Trane 1913ko urtarrilaren 1ean sortu zen La Crosse-n, Wisconsin-en. Tranek 29.000 langile ditu, eta 10.264.000.000 dolarreko diru-sarrerak ditu, eta 875,4 milioi dolarreko diru-sarrera operatiboak.</lex>
+      <lex lang="eu" lid="Id2">Trane enpresak (1913ko urtarrilaren 1ean sortua, Lacrosse, Wisconsin) 29.000 langile ditu eta HVAC ekoizten du. 875.400.000 dolarreko diru-sarrerak ditu eta 10.264.000.000 dolarreko diru-sarrerak.</lex>
+      <lex lang="eu" lid="Id3">1913ko urtarrilaren 1ean sortu zen LaCrosse-n (Wisconsin), eta Trane-k 29.000 langile ditu HVAC fabrikatzen. 875.400.000 dolarreko diru-sarrera operatiboekin, Trane-k 10.264.000.000 dolarreko diru-sarrerak ditu.</lex>
+      <lex lang="gl" lid="Id1">O fabricante de HVAC Trane fundouse en La Crosse, Wisconsin, o 1 de xaneiro de 1913. Trane emprega a 29000 persoas e ten uns ingresos de 10264 millóns de dólares e uns ingresos operativos de 875,4 millóns de dólares.</lex>
+      <lex lang="gl" lid="Id2">A compañía Trane (fundada o 1 de xaneiro de 1913 en Lacrosse, Wisconsin) ten 29. 000 empregados e produce HVAC. Ten un ingreso operativo de 875. 400. 000 dólares con ingresos de 10. 264. 000. 000 dólares.</lex>
+      <lex lang="gl" lid="Id3">Fundada o 01-01-1913 en LaCrosse, Wisconsin, Trane emprega 29.000 persoas na fabricación de HVAC. Cuns ingresos operativos de 875.400.000 dólares, Trane ten uns ingresos de 10.264.000.000 dólares.</lex>
+      </entry>
+    </entries>
+  </benchmark>
