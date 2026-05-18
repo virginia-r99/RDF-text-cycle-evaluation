@@ -15,12 +15,12 @@ We provide:
 
 ```text
 .
-│   README.md
-│   requirements.txt
 │   .gitattributes
 │   LICENSE
+│   README.md
+│   requirements.txt
 │
-├── dataset_adaptation/
+├───dataset_adaptation
 │   │   rebuild_triples_xml.ipynb
 │   │   rebuild_verbalisations_xml.ipynb
 │   │   revoting_triples.ipynb
@@ -28,77 +28,82 @@ We provide:
 │   │   translate_WebNLG_triples.py
 │   │   translate_WebNLG_verbalisations.py
 │   │
-│   └── results/
-│       ├── triples/
-│       │   entity_translations_ca_revoted_with_output_token.csv
-│       │   entity_translations_eu_revoted_with_output_token.csv
-│       │   entity_translations_gl_revoted_with_output_token.csv
-│       │   relation_translations_ca_revoted_with_output_token.csv
-│       │   relation_translations_eu_revoted_with_output_token.csv
-│       │   relation_translations_gl_revoted_with_output_token.csv
+│   └───results
+│       ├───triples
+│       │       entity_translations_ca_revoted_with_output_token.csv
+│       │       entity_translations_eu_revoted_with_output_token.csv
+│       │       entity_translations_gl_revoted_with_output_token.csv
+│       │       relation_translations_ca_revoted_with_output_token.csv
+│       │       relation_translations_eu_revoted_with_output_token.csv
+│       │       relation_translations_gl_revoted_with_output_token.csv
 │       │
-│       └── verbalisations/
-│           registry_webnlg_en_ca.revoted.csv
-│           registry_webnlg_en_eu.revoted.csv
-│           registry_webnlg_en_gl.revoted.csv
+│       └───verbalisations
+│               registry_webnlg_en_ca.revoted.csv
+│               registry_webnlg_en_eu.revoted.csv
+│               registry_webnlg_en_gl.revoted.csv
 │
-├── IE/
-│   ├── Few-shot/
-│   │   │   webnlg_fewshot_ie_benchmark.py
-│   │   │
-│   │   ├── evaluation/
-│   │   │   instance_level_ie_metrics.xlsx
-│   │   │   summary_ie_by_model_lang.csv
-│   │   │   summary_ie_by_model_lang.xlsx
-│   │   │   summary_ie_by_model_lang_category.csv
-│   │   │   summary_ie_by_model_lang_category.xlsx
-│   │   │   summary_ie_by_model_lang_split.csv
-│   │   │   summary_ie_by_model_lang_split.xlsx
-│   │   │   summary_ie_micro_by_model_lang.csv
-│   │   │   summary_ie_micro_by_model_lang.xlsx
-│   │   │   webnlg_ie_evaluation_metrics.ipynb
-│   │   │
-│   │   └── outputs/
-│   │       fewshot_examples.csv
-│   │       fewshot_manifest.csv
-│   │       generations__BSC-LT__salamandra-2b-instruct.csv
-│   │       generations__CohereLabs__tiny-aya-global.csv
-│   │       generations__HuggingFaceTB__SmolLM3-3B.csv
-│   │       generations__Qwen__Qwen3-4B-Instruct-2507.csv
-│   │       run_config.json
+├───IE
+│   │   .gitattributes
 │   │
-│   └── LoRA/
+│   ├───Few-shot
+│   │   │   webnlg_fewshot_ie_benchmark.py
+│   │   │   webnlg_fewshot_ie_benchmark_cycle.py
+│   │   │
+│   │   ├───evaluation
+│   │   │       instance_level_ie_metrics.csv
+│   │   │       paper_1col_summary.csv
+│   │   │       summary_ie_by_model_lang_category.csv
+│   │   │       summary_ie_by_model_lang_split.csv
+│   │   │       summary_ie_micro_by_model_lang.csv
+│   │   │       webnlg_ie_evaluation_metrics.ipynb
+│   │   │
+│   │   └───outputs
+│   │           cycle_generations__CohereLabs__tiny-aya-global.csv
+│   │           cycle_generations__Qwen__Qwen3-4B-Instruct-2507.csv
+│   │           fewshot_examples.csv
+│   │           fewshot_manifest.csv
+│   │           generations__BSC-LT__salamandra-2b-instruct.csv
+│   │           generations__CohereLabs__tiny-aya-global.csv
+│   │           generations__HuggingFaceTB__SmolLM3-3B.csv
+│   │           generations__Qwen__Qwen3-4B-Instruct-2507.csv
+│   │           run_config.json
+│   │
+│   └───LoRA
 │       │   eval_zero_shot_ie_trained.py
 │       │   train_lora_webnlg_co_ie_multilingual.py
 │       │
-│       └── runs_ie_qwen/
+│       └───runs_ie_qwen
 │           │   summary__Qwen__Qwen3-4B-Instruct-2507__ie_multilingual.json
 │           │
-│           └── zero_shot_eval/
-│               generations_zero_shot_trained_model.csv
-│               generations__final_adapter.csv
-│               summary_by_lang.csv
-│               summary_overall.json
-│               zero_shot_eval_summary.xlsx
+│           └───zero_shot_eval
+│                   generations_zero_shot_trained_model.csv
+│                   generations__final_adapter.csv
+│                   summary_by_lang.csv
+│                   summary_overall.json
+│                   zero_shot_eval_summary.xlsx
 │
-├── verbalisation/
+├───verbalisation
 │   │   webnlg_fewshot_verbalisation_benchmark.py
+│   │   webnlg_fewshot_verbalisation_benchmark_cycle.py
 │   │
-│   ├── evaluation/
-│   │   summary_by_model_lang.csv
-│   │   summary_by_model_lang_category.csv
-│   │   summary_by_model_lang_EKAW_verb.xlsx
-│   │   summary_by_model_lang_split.csv
-│   │   webnlg_generation_evaluation_bertscore_prf_bleu.ipynb
+│   ├───evaluation
+│   │       .gitattributes
+│   │       instance_level_metrics.csv
+│   │       summary_by_model_lang.csv
+│   │       summary_by_model_lang_category.csv
+│   │       summary_by_model_lang_split.csv
+│   │       webnlg_generation_evaluation_bertscore_prf_bleu.ipynb
 │   │
-│   └── outputs/
-│       fewshot_examples.csv
-│       fewshot_manifest.csv
-│       generations__BSC-LT__salamandra-2b-instruct.csv
-│       generations__CohereLabs__tiny-aya-global.csv
-│       generations__HuggingFaceTB__SmolLM3-3B.csv
-│       generations__Qwen__Qwen3-4B-Instruct-2507.csv
-│       run_config.json
+│   └───outputs
+│           cycle_generations__CohereLabs__tiny-aya-global.csv
+│           cycle_generations__Qwen__Qwen3-4B-Instruct-2507.csv
+│           fewshot_examples.csv
+│           fewshot_manifest.csv
+│           generations__BSC-LT__salamandra-2b-instruct.csv
+│           generations__CohereLabs__tiny-aya-global.csv
+│           generations__HuggingFaceTB__SmolLM3-3B.csv
+│           generations__Qwen__Qwen3-4B-Instruct-2507.csv
+│           run_config.json
 │
 └── WebNLG_ES_CO/
     ├── dev/
