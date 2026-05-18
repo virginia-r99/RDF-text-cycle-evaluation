@@ -1,6 +1,6 @@
 # Generating vs Reconstructing Knowledge: Code and Data for WebNLG ES‑CO
 
-This repository contains the code, datasets, and experiment scripts accompanying the paper *“Generating vs Reconstructing Knowledge: A Multilingual Evaluation of RDF–Text Asymmetry in Low-Resource Languages”*. It implements the full RDF → text → RDF evaluation pipeline over English, Spanish, and Spain’s co‑official languages (Catalan, Galician, Basque) using the new WebNLG ES‑CO corpus and a graph‑centric cycle consistency framework. 
+This repository contains the code, datasets, and experiment scripts accompanying the paper *“Easy to Say, Hard to Recover: Evaluating Structured Knowledge Preservation in Lightweight Language Models for Multilingual RDF–Text Cycles”*. It implements the full RDF → text → RDF evaluation pipeline over English, Spanish, and Spain’s co‑official languages (Catalan, Galician, Basque) using the new WebNLG ES‑CO corpus and a graph‑centric cycle consistency framework. 
 
 We provide:
 
